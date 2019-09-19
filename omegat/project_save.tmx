@@ -297,8 +297,8 @@
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T071729Z" creationid="Merdan NURYÝEW " creationdate="20190919T071729Z">
-        <seg>Gger git-iş-agajyndan ýada svn-barlag-ýerinden çagrylan bolsa, netijeler If invoked in a git working tree or svn checkout, the results
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081318Z" creationid="Merdan NURYÝEW " creationdate="20190919T071729Z">
+        <seg>Gger git-iş-agajyndan ýada svn-barlag-ýerinden çagrylan bolsa, netijeler
 		tapgyrlanjakdyr/goşuljakdyr.</seg>
       </tuv>
     </tu>
