@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081951Z" creationid="Merdan NURYÝEW " creationdate="20190919T081951Z">
+        <seg>&amp;Hemmesini Düzelt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081841Z" creationid="Merdan NURYÝEW " creationdate="20190919T081841Z">
+        <seg>G&amp;iriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073425Z" creationid="Merdan NURYÝEW " creationdate="20190919T073425Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073859Z" creationid="Merdan NURYÝEW " creationdate="20190919T073859Z">
         <seg>&amp;Gözleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082021Z" creationid="Merdan NURYÝEW " creationdate="20190919T082021Z">
+        <seg>&amp;Degmän geç</seg>
       </tuv>
     </tu>
     <tu>
