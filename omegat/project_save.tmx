@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082238Z" creationid="Merdan NURYÝEW " creationdate="20190919T082238Z">
-        <seg>Başkaça ýatda &amp;sakla...</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082409Z" creationid="Merdan NURYÝEW " creationdate="20190919T082238Z">
+        <seg>Başgaça ýatda &amp;sakla...</seg>
       </tuv>
     </tu>
     <tu>
@@ -404,6 +404,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082549Z" creationid="Merdan NURYÝEW " creationdate="20190919T082549Z">
+        <seg>OmegaT ýady dolup barýar we HOWWA bassaňyz program soňlanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -515,6 +523,14 @@ everything.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051854Z" creationid="Merdan NURYÝEW " creationdate="20190919T051854Z">
         <seg>Warn: Nädogry taglary kommanda setrinde(stdout) hasabat edip ýaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082637Z" creationid="Merdan NURYÝEW " creationdate="20190919T082637Z">
+        <seg>Bu meseläni şu aşakdaky ýollar bilen çözüp bilersiňiz:</seg>
       </tuv>
     </tu>
     <tu>
