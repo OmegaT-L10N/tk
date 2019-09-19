@@ -291,11 +291,11 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T083245Z" creationid="Merdan NURYÝEW " creationdate="20190919T083245Z">
-        <seg>2) komanda setirinde "java -Xmx&lt;MB-görnüşinde-göwrüm&gt;M -jar OmegaT.jar" Increase the amount of memory available to OmegaT, by
-specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
-command line or in the OmegaT start script;
-The current setting is {0}MB;</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T083614Z" creationid="Merdan NURYÝEW " creationdate="20190919T083245Z">
+        <seg>2) OmegaT üçin aýrylan hakydany komanda setirinde 
+"java -Xmx&lt;MB-görnüşinde-göwrüm&gt;M -jar OmegaT.jar" 
+ýada OmegaT başlangyç skriptinde artdyryň
+Häzirki sazlama {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
