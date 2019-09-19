@@ -1,9 +1,412 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_83494fd07" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073831Z" creationid="Merdan NURYÝEW " creationdate="20190919T073831Z">
+        <seg>&amp;Yza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073440Z" creationid="Merdan NURYÝEW " creationdate="20190919T073440Z">
+        <seg>&amp;Bes et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073448Z" creationid="Merdan NURYÝEW " creationdate="20190919T073448Z">
+        <seg>&amp;Ýap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073602Z" creationid="Merdan NURYÝEW " creationdate="20190919T073522Z">
+        <seg>&amp;Süzgüç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073425Z" creationid="Merdan NURYÝEW " creationdate="20190919T073425Z">
+        <seg>H&amp;owwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073920Z" creationid="Merdan NURYÝEW " creationdate="20190919T073920Z">
+        <seg>Aýy&amp;r&amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073704Z" creationid="Merdan NURYÝEW " creationdate="20190919T073704Z">
+        <seg>Çalşy&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073859Z" creationid="Merdan NURYÝEW " creationdate="20190919T073859Z">
+        <seg>&amp;Gözleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051036Z" creationid="Merdan NURYÝEW " creationdate="20190919T051036Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Gözbaş dilde ýada terjime ediljek dilde ulanyljak token (proýekt sazlamalarynyň üstüne ýazar) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190919T043337Z" creationid="user" creationdate="20190919T043337Z">
+        <seg>--config-file=&lt;path&gt;
+		Öňünden kabul edilen sazlamalaryň saklanýan Java .properties faýlydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190919T044456Z" creationid="user" creationdate="20190919T044456Z">
+        <seg>--disable-location-save
+		Soňky açylan bukjalary ýatta saklama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190919T044341Z" creationid="user" creationdate="20190919T044341Z">
+        <seg>--disable-project-locking
+		Taslama faýlyny (ýagny omegat.project) gulplama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T103709Z" creationid="user" creationdate="20190916T103709Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Adady moddan(GUI) başka bir reje saýlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T072058Z" creationid="user" creationdate="20190919T044544Z">
+        <seg>--no-team
+		Topar taslamasy funksiýasy bolmasyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T054753Z" creationid="Merdan NURYÝEW " creationdate="20190919T054753Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Psewdoterjimeedilen TMX faýlyny näme bilen doldurmaly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T103526Z" creationid="user" creationdate="20190916T103526Z">
+        <seg>--remote-project
+		omegat.project faýlyny URL den şu ýere &lt;project path&gt; göçürip al we proýekti ýükle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190919T043917Z" creationid="user" creationdate="20190919T043917Z">
+        <seg>--resource-bundle=&lt;faýl ýoly&gt;
+		Interfeýs tekstini saklamak üçin ulanylýan Jawa .properties faýly
+	--config-dir=&lt;bukja ýoly&gt;
+		OmegaT konfigurasýa faýllaryny ýazmak/okamak  üçin ulanylýan bukja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051519Z" creationid="Merdan NURYÝEW " creationdate="20190919T051519Z">
+        <seg>--script=&lt;path&gt;
+		Taslama hadysalary ýüze çykanda işlediljek skript faýly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051652Z" creationid="Merdan NURYÝEW " creationdate="20190919T051615Z">
+        <seg>--tag-validation=[abort|warn]
+		Barlagda ulanyljak taglar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T102351Z" creationid="user" creationdate="20190916T102351Z">
+        <seg>-h, --help
+		Ulanylyş maglumatyny görkez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051735Z" creationid="Merdan NURYÝEW " creationdate="20190919T051735Z">
+        <seg>Abort: Eger taglar nädogry bolsa çyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070610Z" creationid="Merdan NURYÝEW " creationdate="20190919T070610Z">
+        <seg>Komandalar:
+	-h, --help
+		Ulanylyş maglumatyny görkez..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073811Z" creationid="Merdan NURYÝEW " creationdate="20190919T073750Z">
+        <seg>Mazm&amp;unlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070156Z" creationid="Merdan NURYÝEW " creationdate="20190919T070156Z">
+        <seg>Konsol-deňleme rejesi:
+	--alignDir=&lt;path&gt;
+		Terjime edilen faýllaryň saklanýan bukjasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T054705Z" creationid="Merdan NURYÝEW " creationdate="20190919T054705Z">
+        <seg>Konsol-pseudotranslatetmx rejesi:
+	--pseudotranslatetmx=&lt;path&gt;
+		Psewdoterjimeedilen TMX faýly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T054356Z" creationid="Merdan NURYÝEW " creationdate="20190919T054356Z">
+        <seg>Konsol-terjime rejesi:
+	--source-pattern=&lt;pattern&gt;
+		Üstünde işlenjek faýllar üçin regex şablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T071729Z" creationid="Merdan NURYÝEW " creationdate="20190919T071729Z">
+        <seg>Gger git-iş-agajyndan ýada svn-barlag-ýerinden çagrylan bolsa, netijeler If invoked in a git working tree or svn checkout, the results
+		tapgyrlanjakdyr/goşuljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T072201Z" creationid="Merdan NURYÝEW " creationdate="20190919T072201Z">
+        <seg>Taýarlandy {0}-{1} topar taslamasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T102315Z" creationid="user" creationdate="20190916T102315Z">
+        <seg>Jikme-jik maglumat üçin  `team -h` ýazyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051401Z" creationid="Merdan NURYÝEW " creationdate="20190919T051401Z">
+        <seg>GUI-syz reje opsiýalary :
+	--quiet
+		maglumatlar kommada setirine (stdout) beriler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T102205Z" creationid="user" creationdate="20190916T102205Z">
+        <seg>Opsiýalar:
+	Ýok: Ulanyjy ekranyny başlat
+	Diňe proýektiň ýoly: Ulanyjy ekranyny başlat we görkezilen proýekti ýükle
+	topar
+		Topar proýekt guraly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073136Z" creationid="Merdan NURYÝEW " creationdate="20190919T073136Z">
+        <seg>Gözbaş faýllary ./source  bukjasyna ýerleşdiriň we goşmaça materiallary bolsa
+ ./tm, ./glossary, we ./dictionary bukjalaryna gerekli boluşy ýaly ýerleşdiriň, soňra hemmesini tabşyryk [commit] ediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073931Z" creationid="Merdan NURYÝEW " creationdate="20190919T073558Z">
+        <seg>Sü&amp;zgüçi Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073726Z" creationid="Merdan NURYÝEW " creationdate="20190919T073726Z">
+        <seg>Hem&amp;mesini Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070440Z" creationid="Merdan NURYÝEW " creationdate="20190919T070440Z">
+        <seg>Ýardama serediň&gt; Goşmaça maglumat üçin Ulanyjylaryň Goldanmasyna serediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051147Z" creationid="Merdan NURYÝEW " creationdate="20190919T051147Z">
+        <seg>Dogry maglumatlar üçin şu ýere serediň OmegaT.jar/META-INF/MANIFEST.MF </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T103906Z" creationid="user" creationdate="20190916T103906Z">
+        <seg>Jikme-jik maglumatlary aşakda tapyp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073840Z" creationid="Merdan NURYÝEW " creationdate="20190919T073840Z">
+        <seg>Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="user" changedate="20190916T101406Z" creationid="user" creationdate="20190916T101406Z">
+        <seg>Ulanylyşy: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070536Z" creationid="Merdan NURYÝEW " creationdate="20190919T070536Z">
+        <seg>Ulanylşy: java -jar OmegaT.jar team &lt;komandalar&gt; [&lt;opsiýalar&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051854Z" creationid="Merdan NURYÝEW " creationdate="20190919T051854Z">
+        <seg>Warn: Nädogry taglary kommanda setrinde(stdout) hasabat edip ýaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T071107Z" creationid="Merdan NURYÝEW " creationdate="20190919T070747Z">
+        <seg>init &lt;gözbaş dil&gt; &lt;terjime ediljek dil&gt;
+		Topar proýektinde dilleri bildiriň.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
