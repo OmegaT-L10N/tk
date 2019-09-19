@@ -408,8 +408,8 @@ Häzirki sazlama {0}MB;</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T083901Z" creationid="Merdan NURYÝEW " creationdate="20190919T083812Z">
-        <seg>Ulanyjy Goldanmasynda OmegaT'ni gurnama we işe goýbermek" .</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084057Z" creationid="Merdan NURYÝEW " creationdate="20190919T083812Z">
+        <seg>OmegaT'ni gurnama we işe goýbermek" Ulanyjy Gollanmasy içinde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +438,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082549Z" creationid="Merdan NURYÝEW " creationdate="20190919T082549Z">
         <seg>OmegaT ýady dolup barýar we HOWWA bassaňyz program soňlanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084138Z" creationid="Merdan NURYÝEW " creationdate="20190919T084138Z">
+        <seg>Häzir OmegaT soňlandyrylýar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -503,8 +511,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T083819Z" creationid="Merdan NURYÝEW " creationdate="20190919T083642Z">
-        <seg>"Bap 3. serediň.</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084018Z" creationid="Merdan NURYÝEW " creationdate="20190919T083642Z">
+        <seg>Serediň "Bap 3.</seg>
       </tuv>
     </tu>
     <tu>
