@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080719Z" creationid="Merdan NURYÝEW " creationdate="20190919T080719Z">
+        <seg>&amp;Goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080648Z" creationid="Merdan NURYÝEW " creationdate="20190919T080648Z">
+        <seg>&amp;Goş...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073831Z" creationid="Merdan NURYÝEW " creationdate="20190919T073831Z">
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073448Z" creationid="Merdan NURYÝEW " creationdate="20190919T073448Z">
         <seg>&amp;Ýap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080704Z" creationid="Merdan NURYÝEW " creationdate="20190919T080704Z">
+        <seg>R&amp;edaktirle...</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080736Z" creationid="Merdan NURYÝEW " creationdate="20190919T080736Z">
+        <seg>G&amp;oş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051735Z" creationid="Merdan NURYÝEW " creationdate="20190919T051735Z">
@@ -327,6 +359,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080631Z" creationid="Merdan NURYÝEW " creationdate="20190919T080631Z">
+        <seg>Aý&amp;yr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073931Z" creationid="Merdan NURYÝEW " creationdate="20190919T073558Z">
@@ -339,6 +379,14 @@ everything.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073726Z" creationid="Merdan NURYÝEW " creationdate="20190919T073726Z">
         <seg>Hem&amp;mesini Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081206Z" creationid="Merdan NURYÝEW " creationdate="20190919T081206Z">
+        <seg>Restore Defaults</seg>
       </tuv>
     </tu>
     <tu>
