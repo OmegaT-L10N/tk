@@ -52,6 +52,10 @@
             <repository type="http" url="https://github.com/omegat-org/omegat-website/">
                 <mapping local="source/website/yml/tk.yml" repository="raw/master/_i18n/en.yml"/>
             </repository>
+            <repository type="http" url="https://github.com/OmegaT-L10N/tr/raw/master/">
+                <mapping local="tm/penalty-20/TR.tmx" repository="omegat/project_save.tmx"/>
+                <mapping local="tm/tmx2source/TR.tmx" repository="omegat/project_save.tmx"/>
+            </repository>
         </repositories>
     </project>
 </omegat>
