@@ -976,6 +976,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T102944Z" creationid="Merdan NURYÝEW " creationdate="20190923T102944Z">
+        <seg>Sagdan çepe Gömülýär (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T081649Z" creationid="Merdan NURYÝEW " creationdate="20190923T081626Z">
