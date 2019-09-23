@@ -127,6 +127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T103000Z" creationid="Merdan NURYÝEW " creationdate="20190923T103000Z">
+        <seg>&amp;Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081841Z" creationid="Merdan NURYÝEW " creationdate="20190919T081841Z">
@@ -147,6 +155,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061257Z" creationid="Merdan NURYÝEW " creationdate="20190921T061257Z">
         <seg>&amp;Täze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T103037Z" creationid="Merdan NURYÝEW " creationdate="20190923T103037Z">
+        <seg>I&amp;ndiki Dilim</seg>
       </tuv>
     </tu>
     <tu>
