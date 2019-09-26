@@ -225,8 +225,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T070118Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
-        <seg>Örän aýry ýagdaýlarda(meselm FOO bln. foo) gabat gelmelere &amp;ähmiýet berme(e.g. FOO vs foo)</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082455Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
+        <seg>Örän aýry uly/kiçi harp tapawudy (meselm FOO bln. foo) bolan gabat gelmelere &amp;ähmiýet berme</seg>
       </tuv>
     </tu>
     <tu>
@@ -1364,6 +1364,14 @@ everything.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073740Z" creationid="Merdan NURYÝEW " creationdate="20190923T073740Z">
         <seg>Terjimäni Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082306Z" creationid="Merdan NURYÝEW " creationdate="20190926T082306Z">
+        <seg>Gözbaş tekstini goşan wagtyň &amp;Tehniki Sözlük girişleri bilen gabat geleni bilen çalşyr</seg>
       </tuv>
     </tu>
     <tu>
