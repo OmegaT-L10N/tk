@@ -561,9 +561,9 @@ Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gö
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="TK" changeid="user" changedate="20190919T043337Z" creationid="user" creationdate="20190919T043337Z">
-        <seg>--config-file=&lt;path&gt;
-		Öňünden kabul edilen sazlamalaryň saklanýan Java .properties faýlydyr.</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082852Z" creationid="user" creationdate="20190919T043337Z">
+        <seg>--config-file=&lt;ýol&gt;
+		Öňünden kabul edilen sazlamalaryň saklanýan Java.properties faýlydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,8 +634,8 @@ Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gö
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="TK" changeid="user" changedate="20190919T043917Z" creationid="user" creationdate="20190919T043917Z">
-        <seg>--resource-bundle=&lt;faýl ýoly&gt;
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082915Z" creationid="user" creationdate="20190919T043917Z">
+        <seg>--resource-bundle=&lt;ýol&gt;
 		Interfeýs tekstini saklamak üçin ulanylýan Jawa .properties faýly
 	--config-dir=&lt;bukja ýoly&gt;
 		OmegaT konfigurasýa faýllaryny ýazmak/okamak  üçin ulanylýan bukja.</seg>
