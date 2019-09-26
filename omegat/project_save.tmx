@@ -1049,6 +1049,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084445Z" creationid="Merdan NURYÝEW " creationdate="20190926T084445Z">
+        <seg>Özgertmeleriň netije bermesi üçin OmegT'niň proýektiňizi ýapyp gaýtadan açmasy gerek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T072201Z" creationid="Merdan NURYÝEW " creationdate="20190919T072201Z">
@@ -1292,6 +1300,14 @@ everything.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062720Z" creationid="Merdan NURYÝEW " creationdate="20190921T062720Z">
         <seg>Mediawiki sahypasynyň adresini (URL) ýazyň ýada kopýalap ýapşyryň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084226Z" creationid="Merdan NURYÝEW " creationdate="20190926T084226Z">
+        <seg>Açylýan Ugurly Formatlaşdyr (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
