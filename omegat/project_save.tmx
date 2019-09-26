@@ -97,8 +97,8 @@
       <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062327Z" creationid="Merdan NURYÝEW " creationdate="20190921T062327Z">
-        <seg>&amp;Menýu Arassala</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083818Z" creationid="Merdan NURYÝEW " creationdate="20190921T062327Z">
+        <seg>&amp;Menýuny Arassala</seg>
       </tuv>
     </tu>
     <tu>
@@ -1247,8 +1247,8 @@ Häzirki sazlama {0}MB;</seg>
       <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061608Z" creationid="Merdan NURYÝEW " creationdate="20190921T061608Z">
-        <seg>Ýakynda Açylan Proýe&amp;kti Aç</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083808Z" creationid="Merdan NURYÝEW " creationdate="20190921T061608Z">
+        <seg>Soňky Açylan Proýe&amp;kti Aç</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,8 +1658,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T060659Z" creationid="Merdan NURYÝEW " creationdate="20190921T060659Z">
-        <seg>Faýllary proýektiňiziň 'source' bukjasyna öwrenşen faýl dolandyryjyňyz bilen kopýalandan soňra Proýekt menýusinden Gaýtadan Ýükle komandasy bilen proýekti gaýtadan ýüklemek ýoly bilen hem ýerine ýetirip bilersiňiz.</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083741Z" creationid="Merdan NURYÝEW " creationdate="20190921T060659Z">
+        <seg>Faýllary proýektiňiziň 'gözbaş' (/source/) bukjasyna öwrenşen faýl dolandyryjyňyz bilen kopýalandan soňra "Proýekt" menýusinden "Gaýtadan Ýükle" komandasy bilen proýekti gaýtadan ýüklemek ýoly bilen hem ýerine ýetirip bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
