@@ -975,6 +975,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084927Z" creationid="Merdan NURYÝEW " creationdate="20190926T084927Z">
+        <seg>Bellenen proýekti ýükläp bolmady!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084654Z" creationid="Merdan NURYÝEW " creationdate="20190926T084654Z">
