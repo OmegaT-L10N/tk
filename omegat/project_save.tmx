@@ -538,9 +538,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T055953Z" creationid="Merdan NURYÝEW " creationdate="20190921T055953Z">
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083630Z" creationid="Merdan NURYÝEW " creationdate="20190921T055953Z">
         <seg>(Goldaw berilýän faýl formatlary üçin Ulanyjynyň goldanmasynda şu ýere serediň 'Terjime ediljek faýllar'&gt;'Faýlyň formatlary' .)
-Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gözbaş Bukjasyna Kopýala... knopkasyna basyň ýada bu amaly Proýekt menýusu açyp gerekli gözbaş faýllary seçmek bilen ýerine ýetiriň.</seg>
+Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary Gözbaş Bukjasyna Kopýala..." knopkasyna basyň ýada bu amaly "Proýekt" menýusu açyp gerekli gözbaş faýllary seçmek bilen ýerine ýetiriň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,6 +695,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083448Z" creationid="Merdan NURYÝEW " creationdate="20190926T083448Z">
+        <seg>&lt;awtomatiki&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080736Z" creationid="Merdan NURYÝEW " creationdate="20190919T080736Z">
@@ -807,9 +815,9 @@ Häzirki sazlama {0}MB;</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070156Z" creationid="Merdan NURYÝEW " creationdate="20190919T070156Z">
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083353Z" creationid="Merdan NURYÝEW " creationdate="20190919T070156Z">
         <seg>Konsol-deňleme rejesi:
-	--alignDir=&lt;path&gt;
+	--alignDir=&lt;ýol&gt;
 		Terjime edilen faýllaryň saklanýan bukjasy.</seg>
       </tuv>
     </tu>
@@ -819,9 +827,9 @@ Häzirki sazlama {0}MB;</seg>
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T054705Z" creationid="Merdan NURYÝEW " creationdate="20190919T054705Z">
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083340Z" creationid="Merdan NURYÝEW " creationdate="20190919T054705Z">
         <seg>Konsol-pseudotranslatetmx rejesi:
-	--pseudotranslatetmx=&lt;path&gt;
+	--pseudotranslatetmx=&lt;ýol&gt;
 		Psewdoterjimeedilen TMX faýly.</seg>
       </tuv>
     </tu>
