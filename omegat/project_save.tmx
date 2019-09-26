@@ -975,6 +975,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084654Z" creationid="Merdan NURYÝEW " creationdate="20190926T084654Z">
+        <seg>Proýekt üçin terjime hakydasyny {0} ýükläp bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063521Z" creationid="Merdan NURYÝEW " creationdate="20190921T063521Z">
@@ -1388,6 +1396,14 @@ everything.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073740Z" creationid="Merdan NURYÝEW " creationdate="20190923T073740Z">
         <seg>Terjimäni Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084542Z" creationid="Merdan NURYÝEW " creationdate="20190926T084542Z">
+        <seg>Proýekt gaýtadan açylsynmy?</seg>
       </tuv>
     </tu>
     <tu>
