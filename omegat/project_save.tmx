@@ -622,9 +622,9 @@ Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gö
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="TK" changeid="user" changedate="20190916T103526Z" creationid="user" creationdate="20190916T103526Z">
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082747Z" creationid="user" creationdate="20190916T103526Z">
         <seg>--remote-project
-		omegat.project faýlyny URL den şu ýere &lt;project path&gt; göçürip al we proýekti ýükle.</seg>
+		omegat.project faýlyny &lt;proýekt ýoly&gt; hökminde berilen URL den göçürip al we proýekti ýükle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,8 +1578,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="TK" changeid="user" changedate="20190916T101406Z" creationid="user" creationdate="20190916T101406Z">
-        <seg>Ulanylyşy: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082555Z" creationid="user" creationdate="20190916T101406Z">
+        <seg>Ulanylyşy: java -jar OmegaT.jar [&lt;opsiýalar&gt;] [&lt;proýekt ýoly&gt;]</seg>
       </tuv>
     </tu>
     <tu>
