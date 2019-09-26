@@ -550,9 +550,9 @@ Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gö
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051036Z" creationid="Merdan NURYÝEW " creationdate="20190919T051036Z">
-        <seg>--ITokenizer=&lt;classname&gt;
-	--ITokenizerTarget=&lt;classname&gt;
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083057Z" creationid="Merdan NURYÝEW " creationdate="20190919T051036Z">
+        <seg>--ITokenizer=&lt;synyp ady&gt;
+	--ITokenizerTarget=&lt;synyp ady&gt;
 		Gözbaş dilde ýada terjime ediljek dilde ulanyljak token (proýekt sazlamalarynyň üstüne ýazar) .</seg>
       </tuv>
     </tu>
@@ -634,10 +634,10 @@ Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gö
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082915Z" creationid="user" creationdate="20190919T043917Z">
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082944Z" creationid="user" creationdate="20190919T043917Z">
         <seg>--resource-bundle=&lt;ýol&gt;
 		Interfeýs tekstini saklamak üçin ulanylýan Jawa .properties faýly
-	--config-dir=&lt;bukja ýoly&gt;
+	--config-dir=&lt;ýol&gt;
 		OmegaT konfigurasýa faýllaryny ýazmak/okamak  üçin ulanylýan bukja.</seg>
       </tuv>
     </tu>
@@ -646,8 +646,8 @@ Proýekte faýllary goşmak üçin Proýekt Faýllary penjeresinde Faýllary Gö
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051519Z" creationid="Merdan NURYÝEW " creationdate="20190919T051519Z">
-        <seg>--script=&lt;path&gt;
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083147Z" creationid="Merdan NURYÝEW " creationdate="20190919T051519Z">
+        <seg>--script=&lt;ýol&gt;
 		Taslama hadysalary ýüze çykanda işlediljek skript faýly.</seg>
       </tuv>
     </tu>
