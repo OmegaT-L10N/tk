@@ -85,6 +85,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081907Z" creationid="Merdan NURYÝEW " creationdate="20190926T081907Z">
+        <seg>Täzelemeleri &amp;Barla...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>GUI içinde tapmaly gaýtadan seretmeli</note>
       <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
@@ -1089,6 +1097,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081804Z" creationid="Merdan NURYÝEW " creationdate="20190926T081744Z">
+        <seg>&amp;Günlük...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T081911Z" creationid="Merdan NURYÝEW " creationdate="20190923T081911Z">
@@ -1594,8 +1610,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T065331Z" creationid="Merdan NURYÝEW " creationdate="20190926T064906Z">
-        <seg>Tehniki sözlük girişleri üçin dyky ulan</seg>
+      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082013Z" creationid="Merdan NURYÝEW " creationdate="20190926T064906Z">
+        <seg>Tehniki sözlük girişleri üçin köklerine aýyrmany ulan</seg>
       </tuv>
     </tu>
     <tu>
