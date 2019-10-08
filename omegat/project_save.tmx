@@ -2272,6 +2272,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T083142Z" creationid="Merdan NURIYEV" creationdate="20191008T083142Z">
+        <seg>Gözbaş faýllaryňyzyň dilini we terjime etmek üçin niýet edilen dili seçiň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062720Z" creationid="Merdan NURYÝEW " creationdate="20190921T062720Z">
