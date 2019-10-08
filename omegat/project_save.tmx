@@ -2992,6 +2992,22 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T171725Z" creationid="Merdan NURIYEV" creationdate="20191008T171725Z">
+        <seg>Proýekt özgerdilip bolmaýar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170531Z" creationid="Merdan NURIYEV" creationdate="20191008T170531Z">
+        <seg>Proýekt faýlyny okap bolanok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090958Z" creationid="Merdan NURYÝEW " creationdate="20191005T090958Z">
