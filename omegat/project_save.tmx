@@ -855,6 +855,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T173345Z" creationid="Merdan NURIYEV" creationdate="20191008T173345Z">
+        <seg>Goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T084105Z" creationid="Merdan NURYÝEW " creationdate="20190930T084105Z">
@@ -2484,6 +2492,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090222Z" creationid="Merdan NURYÝEW " creationdate="20191005T090222Z">
         <seg>Galan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T173355Z" creationid="Merdan NURIYEV" creationdate="20191008T173355Z">
+        <seg>Aýyr</seg>
       </tuv>
     </tu>
     <tu>
