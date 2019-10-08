@@ -56,6 +56,10 @@
                 <mapping local="tm/penalty-20/TR.tmx" repository="omegat/project_save.tmx"/>
                 <mapping local="tm/tmx2source/TR.tmx" repository="omegat/project_save.tmx"/>
             </repository>
+            <repository type="http" url="https://github.com/OmegaT-L10N/ru/raw/master/">
+                <mapping local="tm/penalty-20/RU.tmx" repository="omegat/project_save.tmx"/>
+                <mapping local="tm/tmx2source/RU.tmx" repository="omegat/project_save.tmx"/>
+            </repository>
         </repositories>
     </project>
 </omegat>
