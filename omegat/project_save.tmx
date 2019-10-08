@@ -2113,6 +2113,14 @@ Kerep ýüpjagazy bilen yza
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170503Z" creationid="Merdan NURIYEV" creationdate="20191008T170503Z">
+        <seg>OmegaT Proýekt Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061236Z" creationid="Merdan NURYÝEW " creationdate="20190921T061236Z">
@@ -3214,6 +3222,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T054639Z" creationid="Merdan NURYÝEW " creationdate="20190921T054639Z">
         <seg>Taslmada goldaw berilýän faýllardan hiç biri ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170439Z" creationid="Merdan NURIYEV" creationdate="20191008T170439Z">
+        <seg>ZIP faýllary</seg>
       </tuv>
     </tu>
     <tu>
