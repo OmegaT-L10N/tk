@@ -975,6 +975,22 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T084316Z" creationid="Merdan NURIYEV" creationdate="20191009T084316Z">
+        <seg>Tarihine çenli üýtgedilen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T084207Z" creationid="Merdan NURIYEV" creationdate="20191009T084207Z">
+        <seg>Tarihinden soň üýtgedilen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090134Z" creationid="Merdan NURYÝEW " creationdate="20191005T090134Z">
