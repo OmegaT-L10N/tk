@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054433Z" creationid="Merdan NURIYEV" creationdate="20191009T054433Z">
+        <seg>Takyk gözl&amp;eg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073602Z" creationid="Merdan NURYÝEW " creationdate="20190919T073522Z">
@@ -275,6 +283,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073005Z" creationid="Merdan NURYÝEW " creationdate="20190923T073005Z">
         <seg>Seç&amp;ileni ýada Gabat Geleni Giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054522Z" creationid="Merdan NURIYEV" creationdate="20191009T054403Z">
+        <seg>&amp;Açar söz gözlegi </seg>
       </tuv>
     </tu>
     <tu>
@@ -875,6 +891,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091825Z" creationid="Merdan NURYÝEW " creationdate="20191005T091825Z">
         <seg>Massiwler nol bolmaly däl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055512Z" creationid="Merdan NURIYEV" creationdate="20191009T055512Z">
+        <seg>Aw&amp;tor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1715,6 +1739,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055409Z" creationid="Merdan NURIYEV" creationdate="20191009T055352Z">
+        <seg>Ýokary Dereje &amp;Opsiýalary Gizle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074200Z" creationid="Merdan NURYÝEW " creationdate="20190926T074200Z">
@@ -1769,6 +1801,22 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062838Z" creationid="Merdan NURYÝEW " creationdate="20190921T062838Z">
         <seg>Wiki Sahypasyny almak Şowsuz boldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054629Z" creationid="Merdan NURIYEV" creationdate="20191009T054629Z">
+        <seg>Teswirlerde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054608Z" creationid="Merdan NURIYEV" creationdate="20191009T054608Z">
+        <seg>Belliklerde</seg>
       </tuv>
     </tu>
     <tu>
@@ -2101,6 +2149,14 @@ Kerep ýüpjagazy bilen balandyňyz
         <seg>GUI-syz reje opsiýalary :
 	--quiet
 		maglumatlar kommada setirine (stdout) beriler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055518Z" creationid="Merdan NURIYEV" creationdate="20191009T055518Z">
+        <seg>Häzir</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,6 +2632,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054245Z" creationid="Merdan NURIYEV" creationdate="20191009T054245Z">
+        <seg>Şunuň bilen çalşyr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081810Z" creationid="Merdan NURYÝEW " creationdate="20190919T081206Z">
@@ -2644,6 +2708,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072914Z" creationid="Merdan NURYÝEW " creationdate="20190923T072914Z">
         <seg>Gözle we Çalşyr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054231Z" creationid="Merdan NURIYEV" creationdate="20191009T054231Z">
+        <seg>Şuny gözle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2772,6 +2844,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073805Z" creationid="Merdan NURYÝEW " creationdate="20190923T073805Z">
         <seg>Boş Terjime Belle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055007Z" creationid="Merdan NURIYEV" creationdate="20191009T055007Z">
+        <seg>Ýokary Dereje &amp;Opsiýalary Görkez</seg>
       </tuv>
     </tu>
     <tu>
