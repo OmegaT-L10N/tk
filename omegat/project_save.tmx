@@ -1779,6 +1779,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T083957Z" creationid="Merdan NURIYEV" creationdate="20191011T083957Z">
+        <seg>Harplaryň Doly/Ýarym giňişlikd&amp;e boluşyny duýma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T070129Z" creationid="Merdan NURYÝEW " creationdate="20190926T070129Z">
@@ -2892,6 +2900,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054231Z" creationid="Merdan NURIYEV" creationdate="20191009T054231Z">
         <seg>Şuny gözle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084054Z" creationid="Merdan NURIYEV" creationdate="20191011T084054Z">
+        <seg>Gözleg ýeri</seg>
       </tuv>
     </tu>
     <tu>
