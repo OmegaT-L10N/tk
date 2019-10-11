@@ -407,6 +407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T083026Z" creationid="Merdan NURIYEV" creationdate="20191011T083026Z">
+        <seg>&amp;Regulýar aňlatmalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reload</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063006Z" creationid="Merdan NURYÝEW " creationdate="20190921T062959Z">
@@ -879,6 +887,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082942Z" creationid="Merdan NURIYEV" creationdate="20191011T082942Z">
+        <seg>Täze bukja döredilen wagty bir ýalňyşlyk boldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T084105Z" creationid="Merdan NURYÝEW " creationdate="20190930T084105Z">
@@ -939,6 +955,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105423Z" creationid="Merdan NURYÝEW " creationdate="20191005T105423Z">
         <seg>Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T083701Z" creationid="Merdan NURIYEV" creationdate="20191011T083701Z">
+        <seg>Uly/Kiçi h&amp;arpa duýgurlyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -1271,6 +1295,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082456Z" creationid="Merdan NURIYEV" creationdate="20191011T082456Z">
+        <seg>Girizilen sözlük faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075131Z" creationid="Merdan NURYÝEW " creationdate="20190930T075131Z">
@@ -1359,6 +1391,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082510Z" creationid="Merdan NURIYEV" creationdate="20191011T082510Z">
+        <seg>Ýalňyşlyk: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092043Z" creationid="Merdan NURYÝEW " creationdate="20191005T092043Z">
@@ -1371,6 +1411,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092130Z" creationid="Merdan NURYÝEW " creationdate="20191005T092130Z">
         <seg>Proýekt Häsiýetlerlerini şu ýerden redaktirle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080707Z" creationid="Merdan NURIYEV" creationdate="20191011T080707Z">
+        <seg>Baglanan boş repositoriý URL'sy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,6 +1519,14 @@ Gossamer threads hold you back
         <seg>Tolgundyryjy kömek sahypasy
 Kerep ýüpjagazy bilen balandyňyz
 404 tapylmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T055047Z" creationid="Merdan NURIYEV" creationdate="20191011T054833Z">
+        <seg>Çykarma Şablony</seg>
       </tuv>
     </tu>
     <tu>
@@ -1691,6 +1747,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082608Z" creationid="Merdan NURIYEV" creationdate="20191011T082608Z">
+        <seg>Bukja öňden hem bar we boş däl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T083827Z" creationid="Merdan NURYÝEW " creationdate="20191005T083827Z">
@@ -1735,6 +1799,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092617Z" creationid="Merdan NURYÝEW " creationdate="20191005T092617Z">
         <seg>Tehniki Sözlük Bukjasy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081732Z" creationid="Merdan NURIYEV" creationdate="20191011T081732Z">
+        <seg>Girizilen tehniki sözlük faýllarynyň bukjasy ýok!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1845,6 +1917,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T055039Z" creationid="Merdan NURIYEV" creationdate="20191011T055039Z">
+        <seg>Girizme Şablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090408Z" creationid="Merdan NURYÝEW " creationdate="20191005T090408Z">
@@ -1913,6 +1993,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T084626Z" creationid="Merdan NURYÝEW " creationdate="20191005T084626Z">
         <seg>{0} proýekt bukjasy üçin rugsat ýok/ýeterlikli däl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080423Z" creationid="Merdan NURIYEV" creationdate="20191011T080423Z">
+        <seg>Nädogry repositoriý tipi: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,10 +2109,26 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054514Z" creationid="Merdan NURIYEV" creationdate="20191011T054514Z">
+        <seg>Lokal Faýl/Bukja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T070012Z" creationid="Merdan NURYÝEW " creationdate="20190924T070012Z">
         <seg>Ko&amp;mpýuter Terjime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054407Z" creationid="Merdan NURIYEV" creationdate="20191011T054407Z">
+        <seg>Lokal bukjalaryň Reposotorydaky Uzakdaky Bukjalara baglanmasy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2197,6 +2301,22 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170503Z" creationid="Merdan NURIYEV" creationdate="20191008T170503Z">
         <seg>OmegaT Proýekt Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082538Z" creationid="Merdan NURIYEV" creationdate="20191011T082538Z">
+        <seg>OmegaT Proýek Bukjasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082835Z" creationid="Merdan NURIYEV" creationdate="20191011T082826Z">
+        <seg>Bu bukjada OmegaT'niň okama ýazma rugsaty ýok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2380,6 +2500,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051217Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
         <seg>"Terjime Dokumentlerini Döret" funksiýasyny ulanmadan öň tag/bellik problemalaryny düzelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082853Z" creationid="Merdan NURIYEV" creationdate="20191011T082646Z">
+        <seg>Haýyşt! Başka bir bukja seçiň</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,6 +2696,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054529Z" creationid="Merdan NURIYEV" creationdate="20191011T054529Z">
+        <seg>Uzakdaky Faýl/Bukja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T173355Z" creationid="Merdan NURIYEV" creationdate="20191008T173355Z">
@@ -2652,6 +2788,30 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054245Z" creationid="Merdan NURIYEV" creationdate="20191009T054245Z">
         <seg>Şunuň bilen çalşyr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054446Z" creationid="Merdan NURIYEV" creationdate="20191011T054446Z">
+        <seg>Repositori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080512Z" creationid="Merdan NURIYEV" creationdate="20191011T080512Z">
+        <seg>Bu {0} repositoriý öňem bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080540Z" creationid="Merdan NURIYEV" creationdate="20191011T080540Z">
+        <seg> {0} näbelli repositoriý</seg>
       </tuv>
     </tu>
     <tu>
@@ -2920,6 +3080,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081627Z" creationid="Merdan NURIYEV" creationdate="20191011T081627Z">
+        <seg>Girizilen gözbaş faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T061917Z" creationid="Merdan NURYÝEW " creationdate="20190924T061917Z">
@@ -2944,6 +3112,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080808Z" creationid="Merdan NURIYEV" creationdate="20191011T080808Z">
+        <seg>Alt wersiýa/Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T073457Z" creationid="Merdan NURYÝEW " creationdate="20190926T073457Z">
@@ -2964,6 +3140,40 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051631Z" creationid="Merdan NURYÝEW " creationdate="20190930T051631Z">
         <seg>Niýet edilen faýllar tabşyryldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081348Z" creationid="Merdan NURIYEV" creationdate="20191011T081348Z">
+        <seg>Dil kody xx-YY, xxx-YY, xx_YY or xxx_YY formadynda bolmalydyr,
+bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär (opsiýa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080952Z" creationid="Merdan NURIYEV" creationdate="20191011T080952Z">
+        <seg>Gözbaş faýlynyň dili ýalňyş girizilen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081444Z" creationid="Merdan NURIYEV" creationdate="20191011T081444Z">
+        <seg>Terjime edilen faýlyň dili ýalňyş girizilen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082358Z" creationid="Merdan NURIYEV" creationdate="20191011T082358Z">
+        <seg>Üýtgedilip bolýan tehniki sözlük faýllary tehniki sözlük bukjasynyň içinde bolmalydyr</seg>
       </tuv>
     </tu>
     <tu>
@@ -3056,6 +3266,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081654Z" creationid="Merdan NURIYEV" creationdate="20191011T081654Z">
+        <seg>Girizilen terjime edilen faýllaryň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T082204Z" creationid="Merdan NURYÝEW " creationdate="20190930T082204Z">
@@ -3084,6 +3302,22 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075021Z" creationid="Merdan NURYÝEW " creationdate="20190930T075021Z">
         <seg>Terjime iň soň {0} tarapyndan {1} üstünde  {2}'da üýtgedildi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082435Z" creationid="Merdan NURIYEV" creationdate="20191011T082435Z">
+        <seg>Girizilen terjime hakydasy faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054116Z" creationid="Merdan NURIYEV" creationdate="20191011T054116Z">
+        <seg>Tip</seg>
       </tuv>
     </tu>
     <tu>
@@ -3308,6 +3542,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092736Z" creationid="Merdan NURYÝEW " creationdate="20191005T092645Z">
         <seg>Üýtgetme Girizilip Bolýan Tehniki Sözlük Faýly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082251Z" creationid="Merdan NURIYEV" creationdate="20191011T082251Z">
+        <seg>Girizilen üýtgedilip bolýan tehniki sözlük faýllarynyň bukjasy ýok!</seg>
       </tuv>
     </tu>
     <tu>
