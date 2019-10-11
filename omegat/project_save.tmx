@@ -271,6 +271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084319Z" creationid="Merdan NURIYEV" creationdate="20191011T084319Z">
+        <seg>Terj&amp;imede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081841Z" creationid="Merdan NURYÝEW " creationdate="20190919T081841Z">
@@ -595,6 +603,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T062313Z" creationid="Merdan NURYÝEW " creationdate="20190924T062313Z">
         <seg>G&amp;urallar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084127Z" creationid="Merdan NURIYEV" creationdate="20191011T084127Z">
+        <seg>&amp;Terjime edilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1319,6 +1335,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084404Z" creationid="Merdan NURIYEV" creationdate="20191011T084404Z">
+        <seg>Ekrana çykar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053259Z" creationid="Merdan NURYÝEW " creationdate="20190930T053259Z">
@@ -1925,6 +1949,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084302Z" creationid="Merdan NURIYEV" creationdate="20191011T084302Z">
+        <seg>&amp;Gözbaşda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T055039Z" creationid="Merdan NURIYEV" creationdate="20191011T055039Z">
@@ -2185,6 +2217,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091243Z" creationid="Merdan NURYÝEW " creationdate="20191005T091243Z">
         <seg>Faýl Başyna Gabat Geliş Statistikalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084107Z" creationid="Merdan NURIYEV" creationdate="20191011T084107Z">
+        <seg>Hak&amp;yda</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,6 +3290,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084348Z" creationid="Merdan NURIYEV" creationdate="20191011T084348Z">
+        <seg>Terjime edi&amp;len ýada edilmedik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105544Z" creationid="Merdan NURYÝEW " creationdate="20191005T105544Z">
@@ -3334,6 +3382,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054116Z" creationid="Merdan NURIYEV" creationdate="20191011T054116Z">
         <seg>Tip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084226Z" creationid="Merdan NURIYEV" creationdate="20191011T084226Z">
+        <seg>Terj&amp;ime edilmedik</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,6 +3680,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170439Z" creationid="Merdan NURIYEV" creationdate="20191008T170439Z">
         <seg>ZIP faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084434Z" creationid="Merdan NURIYEV" creationdate="20191011T084434Z">
+        <seg>tün gabat gelen dilimler</seg>
       </tuv>
     </tu>
     <tu>
