@@ -2085,6 +2085,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T170826Z" creationid="Merdan NURIYEV" creationdate="20191012T170826Z">
+        <seg>Açar söz gözlegi boşlyk-bilen aýrylan açar sözleriň hemmesini ýerleşim orunlaryna garamazdan hemme tekstiň içinde gözlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081804Z" creationid="Merdan NURYÝEW " creationdate="20190926T081744Z">
