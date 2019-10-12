@@ -655,6 +655,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T180134Z" creationid="Merdan NURIYEV" creationdate="20191012T180134Z">
+        <seg>'*' hiç tapmaz ýada has köp harply tapar ('run*' şulara gabat geler 'run', 'runs', we 'running', we.ş.m.)
+'?' diňe bir harp tapar ('run?' şulara gabat geler 'runs' we 'rung', ýöne şuňa gabat gelmez 'run' ýada 'running').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -2768,6 +2778,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T174826Z" creationid="Merdan NURIYEV" creationdate="20191012T174826Z">
+        <seg>Kadaly Jümle gözlegi Jawa kadaly jümlelerini ulanýar. Bularyň işleýişi ulanyjy gollanmasyna beýan edilendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090944Z" creationid="Merdan NURYÝEW " creationdate="20191005T090944Z">
@@ -3706,6 +3724,16 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T060727Z" creationid="Merdan NURYÝEW " creationdate="20190921T060727Z">
         <seg>Duýduryş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T175145Z" creationid="Merdan NURIYEV" creationdate="20191012T175145Z">
+        <seg>Uniwersal nyşanlar:
+Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? goldaw berýär.</seg>
       </tuv>
     </tu>
     <tu>
