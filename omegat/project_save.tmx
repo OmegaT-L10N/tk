@@ -2696,6 +2696,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T164412Z" creationid="Merdan NURIYEV" creationdate="20191012T164412Z">
+        <seg>Proýekt gözlegi öňünden kabul edilen görnüşde gözbaProject searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080631Z" creationid="Merdan NURYÝEW " creationdate="20190919T080631Z">
