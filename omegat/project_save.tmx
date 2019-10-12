@@ -2698,8 +2698,8 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T164412Z" creationid="Merdan NURIYEV" creationdate="20191012T164412Z">
-        <seg>Proýekt gözlegi öňünden kabul edilen görnüşde gözbaProject searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T165246Z" creationid="Merdan NURIYEV" creationdate="20191012T164412Z">
+        <seg>Proýekt gözlegi öňünden kabul edilen görnüşde proýektiň gözbaş we terjimä niýetlenen faýllarynda, Terjime Hakydalarynda/TM'lerde, belliklerde, we teswirlerde ýerine ýetirilýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,6 +3480,16 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054116Z" creationid="Merdan NURIYEV" creationdate="20191011T054116Z">
         <seg>Tip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T164421Z" creationid="Merdan NURIYEV" creationdate="20191012T164421Z">
+        <seg>'Types:
+Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
