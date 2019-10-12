@@ -2971,9 +2971,9 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163726Z" creationid="Merdan NURIYEV" creationdate="20191012T163726Z">
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T164149Z" creationid="Merdan NURIYEV" creationdate="20191012T163726Z">
         <seg>Çäk:
-The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi görkezilen bir bukjanyň içindäki islendik faýllar üçin üýtgedip bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
