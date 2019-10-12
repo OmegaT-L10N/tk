@@ -2784,6 +2784,14 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163147Z" creationid="Merdan NURIYEV" creationdate="20191012T163147Z">
+        <seg>Uzakdaky Repositoriý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T173355Z" creationid="Merdan NURIYEV" creationdate="20191008T173355Z">
@@ -3678,6 +3686,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082251Z" creationid="Merdan NURIYEV" creationdate="20191011T082251Z">
         <seg>Girizilen üýtgedilip bolýan tehniki sözlük faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163420Z" creationid="Merdan NURIYEV" creationdate="20191012T163420Z">
+        <seg>Bu herektden soňra üýtgejek dilim sany {0}.</seg>
       </tuv>
     </tu>
     <tu>
