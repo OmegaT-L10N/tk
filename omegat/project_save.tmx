@@ -1359,6 +1359,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163445Z" creationid="Merdan NURIYEV" creationdate="20191012T163445Z">
+        <seg>Dowam edýäňizmi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061456Z" creationid="Merdan NURYÝEW " creationdate="20190921T061456Z">
@@ -2345,6 +2353,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163504Z" creationid="Merdan NURIYEV" creationdate="20191012T163504Z">
+        <seg>Gabat gelen dilim sany:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T082125Z" creationid="Merdan NURYÝEW " creationdate="20190930T082125Z">
@@ -2948,6 +2964,16 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T052541Z" creationid="Merdan NURYÝEW " creationdate="20190930T052541Z">
         <seg>Proýekt ýatda saklanýar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163726Z" creationid="Merdan NURIYEV" creationdate="20191012T163726Z">
+        <seg>Çäk:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
     </tu>
     <tu>
