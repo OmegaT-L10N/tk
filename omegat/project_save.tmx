@@ -2095,6 +2095,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T110013Z" creationid="Merdan NURIYEV" creationdate="20191013T110013Z">
+        <seg>Açar söz gözlegi gözleg tekstinde elýeterli däl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T170826Z" creationid="Merdan NURIYEV" creationdate="20191012T170826Z">
@@ -3678,6 +3686,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070536Z" creationid="Merdan NURYÝEW " creationdate="20190919T070536Z">
         <seg>Ulanylşy: java -jar OmegaT.jar team &lt;komandalar&gt; [&lt;opsiýalar&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T110505Z" creationid="Merdan NURIYEV" creationdate="20191013T110505Z">
+        <seg>N'ji topara ibermek üçin $n ulanyň.</seg>
       </tuv>
     </tu>
     <tu>
