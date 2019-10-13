@@ -1597,6 +1597,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T110933Z" creationid="Merdan NURIYEV" creationdate="20191013T110933Z">
+        <seg>Eýesiz dilimleri daşynda tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085350Z" creationid="Merdan NURYÝEW " creationdate="20191005T085350Z">
@@ -2283,6 +2291,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091243Z" creationid="Merdan NURYÝEW " creationdate="20191005T091243Z">
         <seg>Faýl Başyna Gabat Geliş Statistikalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111258Z" creationid="Merdan NURIYEV" creationdate="20191013T111258Z">
+        <seg>Gözläp tapylanlaryň sany maksimuma bary({0})</seg>
       </tuv>
     </tu>
     <tu>
