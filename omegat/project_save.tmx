@@ -961,10 +961,26 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T110609Z" creationid="Merdan NURIYEV" creationdate="20191013T110609Z">
+        <seg>Redaktor bilen awto-sinhronla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105402Z" creationid="Merdan NURYÝEW " creationdate="20191005T105402Z">
         <seg>Gö&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T110751Z" creationid="Merdan NURIYEV" creationdate="20191013T110751Z">
+        <seg>Ýapylyşda başlangyç dilime dön</seg>
       </tuv>
     </tu>
     <tu>
