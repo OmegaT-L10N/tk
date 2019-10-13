@@ -985,6 +985,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111824Z" creationid="Merdan NURIYEV" creationdate="20191013T111824Z">
+        <seg>Ýalňyş bukja ady: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111434Z" creationid="Merdan NURIYEV" creationdate="20191013T111434Z">
@@ -1921,6 +1929,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051830Z" creationid="Merdan NURYÝEW " creationdate="20190930T051830Z">
         <seg>Dilime Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111748Z" creationid="Merdan NURIYEV" creationdate="20191013T111748Z">
+        <seg>{0} topary gözleg jümlesinde ýok</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,6 +3128,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084054Z" creationid="Merdan NURIYEV" creationdate="20191011T084054Z">
         <seg>Gözleg ýeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111951Z" creationid="Merdan NURIYEV" creationdate="20191013T111951Z">
+        <seg>Gözleg protsesi garaşylmadyk bir şekilde ýatdy!</seg>
       </tuv>
     </tu>
     <tu>
