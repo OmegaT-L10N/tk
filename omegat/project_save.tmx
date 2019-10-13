@@ -3316,6 +3316,16 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T105824Z" creationid="Merdan NURIYEV" creationdate="20191013T105824Z">
+        <seg>Tekst Çalşyr:
+Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o dilimlerde mazmun bolsyn ýada bolmasyn tapawudy yok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084707Z" creationid="Merdan NURIYEV" creationdate="20191011T084707Z">
