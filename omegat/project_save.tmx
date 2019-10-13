@@ -985,6 +985,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111434Z" creationid="Merdan NURIYEV" creationdate="20191013T111434Z">
+        <seg>Ýaramaz kadaly jümle!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105416Z" creationid="Merdan NURYÝEW " creationdate="20191005T105416Z">
@@ -1537,6 +1545,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111641Z" creationid="Merdan NURIYEV" creationdate="20191013T111641Z">
+        <seg>Kadaly jümle arkaly çalşyrylmada ýalňyşlyk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085916Z" creationid="Merdan NURYÝEW " creationdate="20191005T085916Z">
@@ -1549,6 +1565,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T085642Z" creationid="Merdan NURYÝEW " creationdate="20190930T085642Z">
         <seg>Proýekt faýlynyň ýatda saklanmasynda ýalňyşlyk!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111403Z" creationid="Merdan NURIYEV" creationdate="20191013T111403Z">
+        <seg>Bukja agajynda gözleg edilende ýalňyşlyk!</seg>
       </tuv>
     </tu>
     <tu>
