@@ -977,6 +977,18 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164804Z" creationid="Merdan NURIYEV" creationdate="20191014T164804Z">
+        <seg>TMX faýly seljerilen wagty kada daşyndaky ýagdaý ýüze çykdy
+{0}
+TMX faýly ýüklenmez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T084105Z" creationid="Merdan NURYÝEW " creationdate="20190930T084105Z">
@@ -1725,6 +1737,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091500Z" creationid="Merdan NURYÝEW " creationdate="20191005T091500Z">
         <seg>Takyk gabat gelme::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164542Z" creationid="Merdan NURIYEV" creationdate="20191014T164542Z">
+        <seg>Seljerme wagtynda kadasyzlyk:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +2894,18 @@ hakynda düşündüriş taýarlap programma üpjünçiligi öndürijisine goýbe
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T165140Z" creationid="Merdan NURIYEV" creationdate="20191014T165140Z">
+        <seg>Ýalňyşlygyň sebäbini tapmak üçin
+({1})
+günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051217Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
@@ -3404,6 +3436,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164248Z" creationid="Merdan NURIYEV" creationdate="20191014T164248Z">
+        <seg>Dilimleme metody: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090013Z" creationid="Merdan NURYÝEW " creationdate="20190930T080458Z">
@@ -3560,6 +3600,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081627Z" creationid="Merdan NURIYEV" creationdate="20191011T081627Z">
         <seg>Girizilen gözbaş faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164301Z" creationid="Merdan NURIYEV" creationdate="20191014T164301Z">
+        <seg>Gözbaş dil: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,6 +4142,22 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081534Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
         <seg>Gözbaş tekstde aýry görünen terminleri ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164414Z" creationid="Merdan NURIYEV" creationdate="20191014T164414Z">
+        <seg>Şu dillerdäki wariantlar görkeziler: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164233Z" creationid="Merdan NURIYEV" creationdate="20191014T164233Z">
+        <seg>Wersiýa: {0}</seg>
       </tuv>
     </tu>
     <tu>
