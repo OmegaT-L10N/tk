@@ -691,6 +691,14 @@ Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T144544Z" creationid="Merdan NURIYEV" creationdate="20191014T144544Z">
+        <seg>(teswir belligi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092619Z" creationid="Merdan NURIYEV" creationdate="20191014T092619Z">
@@ -1905,6 +1913,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081058Z" creationid="Merdan NURYÝEW " creationdate="20190930T081058Z">
         <seg>Süzgüç:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T145516Z" creationid="Merdan NURIYEV" creationdate="20191014T145516Z">
+        <seg>Gaýan '?' harp  '&gt;' harpiyna baglanmadyk!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,6 +3496,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083953Z" creationid="Merdan NURYÝEW " creationdate="20190923T072034Z">
         <seg>Terjime &amp;Hakydalary (/T&amp;M'ler/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T144509Z" creationid="Merdan NURIYEV" creationdate="20191014T144509Z">
+        <seg>Bellik/Tag ady:</seg>
       </tuv>
     </tu>
     <tu>
