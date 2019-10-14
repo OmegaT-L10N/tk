@@ -471,6 +471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092812Z" creationid="Merdan NURIYEV" creationdate="20191014T092812Z">
+        <seg>Opsiýala&amp;ry Başlangyç ýagdaýa getir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074300Z" creationid="Merdan NURYÝEW " creationdate="20190926T074300Z">
@@ -515,6 +523,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072845Z" creationid="Merdan NURYÝEW " creationdate="20190923T072845Z">
         <seg>Proýekt &amp;Gözleg...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092704Z" creationid="Merdan NURIYEV" creationdate="20191014T092704Z">
+        <seg>&amp;Saýlanany Gözle</seg>
       </tuv>
     </tu>
     <tu>
@@ -671,6 +687,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083630Z" creationid="Merdan NURYÝEW " creationdate="20190921T055953Z">
         <seg>(Goldaw berilýän faýl formatlary üçin Ulanyjynyň goldanmasynda şu ýere serediň 'Terjime ediljek faýllar'&gt;'Faýlyň formatlary' .)
 Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary Gözbaş Bukjasyna Kopýala..." knopkasyna basyň ýada bu amaly "Proýekt" menýusu açyp gerekli gözbaş faýllary seçmek bilen ýerine ýetiriň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092619Z" creationid="Merdan NURIYEV" creationdate="20191014T092619Z">
+        <seg>+{0} ýene </seg>
       </tuv>
     </tu>
     <tu>
@@ -1477,6 +1501,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082510Z" creationid="Merdan NURIYEV" creationdate="20191011T082510Z">
         <seg>Ýalňyşlyk: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092718Z" creationid="Merdan NURIYEV" creationdate="20191014T092718Z">
+        <seg>Redaktirle</seg>
       </tuv>
     </tu>
     <tu>
@@ -3690,6 +3722,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092911Z" creationid="Merdan NURIYEV" creationdate="20191014T092911Z">
+        <seg>XML faýlyny okamaga taýarlap bolmady!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170531Z" creationid="Merdan NURIYEV" creationdate="20191008T170531Z">
@@ -4020,6 +4060,14 @@ Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? gold
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053439Z" creationid="Merdan NURYÝEW " creationdate="20190930T053439Z">
         <seg>{0} ({1} galdy) / {2} ({3} galdy), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092626Z" creationid="Merdan NURIYEV" creationdate="20191014T092626Z">
+        <seg>{0} +{1} ýene</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
