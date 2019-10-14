@@ -1089,6 +1089,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T140212Z" creationid="Merdan NURIYEV" creationdate="20191014T140212Z">
+        <seg>Görkezilen XML faýlyny ýükläp bolmady!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T084316Z" creationid="Merdan NURIYEV" creationdate="20191009T084316Z">
@@ -2033,6 +2041,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053204Z" creationid="Merdan NURYÝEW " creationdate="20190930T053204Z">
         <seg>AGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T140441Z" creationid="Merdan NURIYEV" creationdate="20191014T140441Z">
+        <seg>Kadadan daşary Giriş/Çykyş ýalňyşlygyna duşuldy:</seg>
       </tuv>
     </tu>
     <tu>
