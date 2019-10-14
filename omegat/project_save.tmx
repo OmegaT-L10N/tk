@@ -1773,6 +1773,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092515Z" creationid="Merdan NURIYEV" creationdate="20191014T092515Z">
+        <seg>Faýl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063521Z" creationid="Merdan NURYÝEW " creationdate="20190921T063521Z">
@@ -2455,6 +2463,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055518Z" creationid="Merdan NURIYEV" creationdate="20191009T055518Z">
         <seg>Häzir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092542Z" creationid="Merdan NURIYEV" creationdate="20191014T092542Z">
+        <seg>Gabat gelen dilim sany : {0}</seg>
       </tuv>
     </tu>
     <tu>
