@@ -2491,6 +2491,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T140134Z" creationid="Merdan NURIYEV" creationdate="20191014T140134Z">
+        <seg>Dogry bolmadyk XML faýly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055518Z" creationid="Merdan NURIYEV" creationdate="20191009T055518Z">
