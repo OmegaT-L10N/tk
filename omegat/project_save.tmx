@@ -1341,6 +1341,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T090519Z" creationid="Merdan NURIYEV" creationdate="20191015T090519Z">
+        <seg>Operasiýa Ulgamynyzyň görnüş stili ulanylyp bolanok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T074035Z" creationid="Merdan NURYÝEW " creationdate="20190923T074035Z">
