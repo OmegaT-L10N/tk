@@ -2743,6 +2743,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T084535Z" creationid="Merdan NURIYEV" creationdate="20191015T084535Z">
+        <seg>OmegaT bu TMX faýlyny gaýtadan dilimlemäge synanşjakdyr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063400Z" creationid="Merdan NURYÝEW " creationdate="20190921T063400Z">
