@@ -4199,6 +4199,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083316Z" creationid="Merdan NURIYEV" creationdate="20191015T083316Z">
+        <seg>Täzelenýär...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082555Z" creationid="user" creationdate="20190916T101406Z">
@@ -4407,6 +4415,14 @@ Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? gold
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191008T074435Z" creationid="Merdan NURYÝEW " creationdate="20191008T074435Z">
         <seg>Olaryň täze ýerini görkeziň ýada olary gaýtadan dörediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083550Z" creationid="Merdan NURIYEV" creationdate="20191015T083550Z">
+        <seg>Häzirki proýektiňiz sözlem dilimlemesini ulanýar, ýöne TMX faýly abzas dilimlemesi bilen döredilen.</seg>
       </tuv>
     </tu>
     <tu>
