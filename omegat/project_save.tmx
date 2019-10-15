@@ -2379,6 +2379,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082325Z" creationid="Merdan NURIYEV" creationdate="20191015T082325Z">
+        <seg>Terjime birligi warianty üçin dil bildirilmedik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092134Z" creationid="Merdan NURYÝEW " creationdate="20191005T092134Z">
@@ -4195,6 +4203,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081534Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
         <seg>Gözbaş tekstde aýry görünen terminleri ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082220Z" creationid="Merdan NURIYEV" creationdate="20191015T082220Z">
+        <seg>Wariant dykkata alynmady.</seg>
       </tuv>
     </tu>
     <tu>
