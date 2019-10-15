@@ -1921,6 +1921,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T080831Z" creationid="Merdan NURIYEV" creationdate="20191015T080723Z">
+        <seg>Seljerme wagtynda setir {0}, sütün {1}'da örän wajyp ýalňyşlyk boldy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092515Z" creationid="Merdan NURIYEV" creationdate="20191014T092515Z">
@@ -3094,6 +3102,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164150Z" creationid="Merdan NURIYEV" creationdate="20191014T164150Z">
         <seg>TMX  faýlynyň okalmasy tamamlandy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T080639Z" creationid="Merdan NURIYEV" creationdate="20191015T080639Z">
+        <seg>Seljerme wagtynda setir {0}, sütün {1} 'da düzeldilip bolýan yalňyşlyk:</seg>
       </tuv>
     </tu>
     <tu>
