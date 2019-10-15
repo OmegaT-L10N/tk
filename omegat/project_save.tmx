@@ -3708,6 +3708,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083257Z" creationid="Merdan NURIYEV" creationdate="20191015T083257Z">
+        <seg>TMX faýly OmegaT 1.4.x ýada öňki bir wersiýasynda döredilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T144509Z" creationid="Merdan NURIYEV" creationdate="20191014T144509Z">
@@ -3750,12 +3758,28 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083050Z" creationid="Merdan NURIYEV" creationdate="20191015T083050Z">
+        <seg>TMX  faýlyň ýüklenmesi dowam etjekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T081445Z" creationid="Merdan NURIYEV" creationdate="20191015T081445Z">
         <seg>TMX faýly ýüklenmez
 Ýalňyşlygy giderip proýekti gaýtadan ýüläň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083002Z" creationid="Merdan NURIYEV" creationdate="20191015T083002Z">
+        <seg>TMX gözbaş dili ({0}) proýekt gözbaş dilinden ({1}) başga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3814,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082358Z" creationid="Merdan NURIYEV" creationdate="20191011T082358Z">
         <seg>Üýtgedilip bolýan tehniki sözlük faýllary tehniki sözlük bukjasynyň içinde bolmalydyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082821Z" creationid="Merdan NURIYEV" creationdate="20191015T082821Z">
+        <seg>Bu birlikler dykkata alynmadyk.</seg>
       </tuv>
     </tu>
     <tu>
