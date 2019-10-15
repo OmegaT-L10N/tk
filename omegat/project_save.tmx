@@ -3452,6 +3452,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082420Z" creationid="Merdan NURIYEV" creationdate="20191015T082420Z">
+        <seg>Terjime birligi warianty daşynda dilim ýüze çykdy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082443Z" creationid="Merdan NURIYEV" creationdate="20191015T082443Z">
+        <seg>Dilim dykkata alynmady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T052103Z" creationid="Merdan NURYÝEW " creationdate="20190930T052103Z">
@@ -3640,6 +3656,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T061917Z" creationid="Merdan NURYÝEW " creationdate="20190924T061917Z">
         <seg>Seçilene Gabat Gelen Dili&amp;miň Gözbaşy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082753Z" creationid="Merdan NURIYEV" creationdate="20191015T082753Z">
+        <seg>Käbir terjime birligi üçin gözbaş dilim anyklanmady.</seg>
       </tuv>
     </tu>
     <tu>
