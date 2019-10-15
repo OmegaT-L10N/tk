@@ -3906,6 +3906,22 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T081855Z" creationid="Merdan NURIYEV" creationdate="20191015T081855Z">
+        <seg>TMX sözbaşyndan öň terjime birligi ýüze çykdy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082110Z" creationid="Merdan NURIYEV" creationdate="20191015T082110Z">
+        <seg>Terjime birliginiň daşynda terjime birligi warianty ýüze çykdy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054116Z" creationid="Merdan NURIYEV" creationdate="20191011T054116Z">
