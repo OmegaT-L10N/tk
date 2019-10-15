@@ -1923,8 +1923,8 @@ Kerep ýüpjagazy bilen balandyňyz
       <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T080831Z" creationid="Merdan NURIYEV" creationdate="20191015T080723Z">
-        <seg>Seljerme wagtynda setir {0}, sütün {1}'da örän wajyp ýalňyşlyk boldy:</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T080856Z" creationid="Merdan NURIYEV" creationdate="20191015T080723Z">
+        <seg>Seljerme wagtynda setir {0}, sütün {1}'da örän wajyp ýalňyşlyk:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3718,16 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T081445Z" creationid="Merdan NURIYEV" creationdate="20191015T081445Z">
+        <seg>TMX faýly ýüklenmez
+Ýalňyşlygy giderip proýekti gaýtadan ýüläň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -4070,6 +4080,17 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090246Z" creationid="Merdan NURYÝEW " creationdate="20191005T090246Z">
         <seg>Unikal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T081317Z" creationid="Merdan NURIYEV" creationdate="20191015T081317Z">
+        <seg>TMX faýly {0} seljerilen wagty
+setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
     </tu>
     <tu>
