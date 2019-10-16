@@ -3015,6 +3015,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082050Z" creationid="Merdan NURIYEV" creationdate="20191016T082050Z">
+        <seg>PDF Girişi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080235Z" creationid="Merdan NURIYEV" creationdate="20191016T080235Z">
@@ -3027,6 +3035,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163510Z" creationid="Merdan NURIYEV" creationdate="20191014T163510Z">
         <seg>Häsiýetler faýly okalanda seljerme ýalňyşlygy ýüze çykdy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082250Z" creationid="Merdan NURIYEV" creationdate="20191016T082250Z">
+        <seg>Parol-goragly PDF faýllar goldanmaýar: {0}</seg>
       </tuv>
     </tu>
     <tu>
