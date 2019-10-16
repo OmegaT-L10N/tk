@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080356Z" creationid="Merdan NURIYEV" creationdate="20191016T080356Z">
+        <seg>Niýet edilen f&amp;aýllarda boş terjimelere rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074223Z" creationid="Merdan NURYÝEW " creationdate="20190926T074223Z">
@@ -977,6 +985,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080439Z" creationid="Merdan NURIYEV" creationdate="20191016T080439Z">
+        <seg>&amp;Boş gözbaş dilimleriniň terjime edilmesine rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082942Z" creationid="Merdan NURIYEV" creationdate="20191011T082942Z">
@@ -1209,6 +1225,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081200Z" creationid="Merdan NURYÝEW " creationdate="20190930T081200Z">
         <seg>Ýa&amp;p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075900Z" creationid="Merdan NURIYEV" creationdate="20191016T075900Z">
+        <seg>Sütün indeksi 1'e deň bolmalydyr</seg>
       </tuv>
     </tu>
     <tu>
@@ -1637,6 +1661,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075821Z" creationid="Merdan NURIYEV" creationdate="20191016T075821Z">
+        <seg>Mümkinçilik berilen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080447Z" creationid="Merdan NURYÝEW " creationdate="20190930T080447Z">
@@ -1989,6 +2021,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062924Z" creationid="Merdan NURYÝEW " creationdate="20190921T062924Z">
         <seg>Faýl Kopýalama Şowsuz boldy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075652Z" creationid="Merdan NURIYEV" creationdate="20191016T075652Z">
+        <seg>Faýlyň Formaty</seg>
       </tuv>
     </tu>
     <tu>
@@ -2943,6 +2983,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080235Z" creationid="Merdan NURIYEV" creationdate="20191016T080235Z">
+        <seg>PO Süzgüç Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163510Z" creationid="Merdan NURIYEV" creationdate="20191014T163510Z">
@@ -3692,6 +3740,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080107Z" creationid="Merdan NURIYEV" creationdate="20191016T080107Z">
+        <seg>Gözbaş Faýl Kodlaşdyrmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080019Z" creationid="Merdan NURIYEV" creationdate="20191016T080019Z">
+        <seg>Gözbaş Faýl Ady Şablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105503Z" creationid="Merdan NURYÝEW " creationdate="20191005T105503Z">
@@ -3978,6 +4042,22 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080132Z" creationid="Merdan NURIYEV" creationdate="20191016T080132Z">
+        <seg>Terjime Edilen Faýl Kodlaşdyrmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080157Z" creationid="Merdan NURIYEV" creationdate="20191016T080157Z">
+        <seg>Terjime Edilen Faýl Ady Şablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105544Z" creationid="Merdan NURYÝEW " creationdate="20191005T105544Z">
@@ -4006,6 +4086,16 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T084127Z" creationid="Merdan NURYÝEW " creationdate="20191005T084127Z">
         <seg>Terjime edilen dokumentler döredildi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075628Z" creationid="Merdan NURIYEV" creationdate="20191016T075628Z">
+        <seg>Terjime edilen faýlyň ýoly gözbaş faýlyň ýoly bilen birmeňzeş bolmaly däldir:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
