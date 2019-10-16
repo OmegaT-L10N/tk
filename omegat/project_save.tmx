@@ -4204,6 +4204,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T073337Z" creationid="Merdan NURIYEV" creationdate="20191016T073337Z">
+        <seg>'{1}''de bilinmeýän goşundy(plugin) tipi '{0}' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
