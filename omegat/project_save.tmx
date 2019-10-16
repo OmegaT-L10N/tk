@@ -2419,6 +2419,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081935Z" creationid="Merdan NURIYEV" creationdate="20191016T081935Z">
+        <seg>Ýalňyş faýlyň formaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080423Z" creationid="Merdan NURIYEV" creationdate="20191011T080423Z">
@@ -2663,6 +2671,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084107Z" creationid="Merdan NURIYEV" creationdate="20191011T084107Z">
         <seg>Hak&amp;yda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081805Z" creationid="Merdan NURIYEV" creationdate="20191016T081805Z">
+        <seg>Bir Dilli</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,6 +3860,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081708Z" creationid="Merdan NURIYEV" creationdate="20191016T081708Z">
+        <seg>Standart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091149Z" creationid="Merdan NURYÝEW " creationdate="20191005T091149Z">
@@ -3922,6 +3946,14 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084707Z" creationid="Merdan NURIYEV" creationdate="20191011T084707Z">
         <seg>Tekst Gözleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081904Z" creationid="Merdan NURIYEV" creationdate="20191016T081904Z">
+        <seg>PO süzgüji ulanylanda ýalňyşlyk boldy:</seg>
       </tuv>
     </tu>
     <tu>
