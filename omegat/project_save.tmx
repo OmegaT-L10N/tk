@@ -2747,6 +2747,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084831Z" creationid="Merdan NURIYEV" creationdate="20191016T084831Z">
+        <seg>Mozilla DTD Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082651Z" creationid="Merdan NURIYEV" creationdate="20191016T082651Z">
@@ -3688,6 +3696,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082443Z" creationid="Merdan NURIYEV" creationdate="20191015T082443Z">
         <seg>Dilim dykkata alynmady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085057Z" creationid="Merdan NURIYEV" creationdate="20191016T085057Z">
+        <seg>Aşakdaky ýagdaýda gözbaş tekstini abzaslara görä dilimle:</seg>
       </tuv>
     </tu>
     <tu>
