@@ -1685,6 +1685,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074517Z" creationid="Merdan NURIYEV" creationdate="20191016T074517Z">
+        <seg>'{0}' synpyndan seplenýän-modul ýüklenmesinde ýalňyşlyk: {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085916Z" creationid="Merdan NURYÝEW " creationdate="20191005T085916Z">
@@ -1721,6 +1729,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085444Z" creationid="Merdan NURYÝEW " creationdate="20191005T085444Z">
         <seg>Ekstern komanda başlatmasynda ýalňyşlyk: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074612Z" creationid="Merdan NURIYEV" creationdate="20191016T074612Z">
+        <seg>'{0}' synpyndan seplenýän-modul boşadylmasynda yalňyşlyk: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,8 +4222,8 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       <tuv lang="EN">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T073337Z" creationid="Merdan NURIYEV" creationdate="20191016T073337Z">
-        <seg>'{1}''de bilinmeýän goşundy(plugin) tipi '{0}' </seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074216Z" creationid="Merdan NURIYEV" creationdate="20191016T073337Z">
+        <seg>'{1}''de bilinmeýän seplenýän-modul tipi '{0}' </seg>
       </tuv>
     </tu>
     <tu>
