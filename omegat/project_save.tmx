@@ -2057,6 +2057,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075454Z" creationid="Merdan NURIYEV" creationdate="20191016T075454Z">
+        <seg>'{0}' süzgüjini, '{1}'den ýükläp bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081058Z" creationid="Merdan NURYÝEW " creationdate="20190930T081058Z">
@@ -4134,8 +4142,8 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075240Z" creationid="Merdan NURIYEV" creationdate="20191016T075240Z">
-        <seg>Süzgüçleriň konfigurasýa  faýlyny seljerip bolanak</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075329Z" creationid="Merdan NURIYEV" creationdate="20191016T075240Z">
+        <seg>Süzgüçleriň konfigurasýa  faýlyny seljerip bolanok</seg>
       </tuv>
     </tu>
     <tu>
@@ -4152,6 +4160,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170531Z" creationid="Merdan NURIYEV" creationdate="20191008T170531Z">
         <seg>Proýekt faýlyny okap bolanok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075325Z" creationid="Merdan NURIYEV" creationdate="20191016T075325Z">
+        <seg>Süzgüçleriň konfigurasýa  faýlyny ýatda saklap bolanok</seg>
       </tuv>
     </tu>
     <tu>
