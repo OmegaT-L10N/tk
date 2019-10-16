@@ -463,6 +463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082516Z" creationid="Merdan NURIYEV" creationdate="20191016T082516Z">
+        <seg>Niýet edilen faýlla&amp;rdan terjime edilmedik setirleri çykar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073704Z" creationid="Merdan NURYÝEW " creationdate="20190919T073704Z">
@@ -2683,6 +2691,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082412Z" creationid="Merdan NURIYEV" creationdate="20191016T082412Z">
+        <seg>Moodle PHP Süzgüç Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T052115Z" creationid="Merdan NURYÝEW " creationdate="20190930T052115Z">
@@ -4599,6 +4615,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T175145Z" creationid="Merdan NURIYEV" creationdate="20191012T175145Z">
         <seg>Uniwersal nyşanlar:
 Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? goldaw berýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082348Z" creationid="Merdan NURIYEV" creationdate="20191016T082348Z">
+        <seg>Windows Resurs Faýllary</seg>
       </tuv>
     </tu>
     <tu>
