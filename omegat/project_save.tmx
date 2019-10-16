@@ -2499,6 +2499,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085726Z" creationid="Merdan NURIYEV" creationdate="20191016T085726Z">
+        <seg>Java(TM) Resurs Desseleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T054723Z" creationid="Merdan NURYÝEW " creationdate="20190930T054723Z">
@@ -2575,6 +2583,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T081655Z" creationid="Merdan NURYÝEW " creationdate="20190923T080021Z">
         <seg>Çepden saga Belligi (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085451Z" creationid="Merdan NURIYEV" creationdate="20191016T085451Z">
+        <seg>Setir uzynlygy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2695,6 +2711,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091243Z" creationid="Merdan NURYÝEW " creationdate="20191005T091243Z">
         <seg>Faýl Başyna Gabat Geliş Statistikalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085511Z" creationid="Merdan NURIYEV" creationdate="20191016T085511Z">
+        <seg>Maksimum setir uzynlygy:</seg>
       </tuv>
     </tu>
     <tu>
