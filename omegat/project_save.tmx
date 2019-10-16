@@ -2739,6 +2739,22 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082651Z" creationid="Merdan NURIYEV" creationdate="20191016T082651Z">
+        <seg>Mozilla DTD Süzgüç Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T083859Z" creationid="Merdan NURIYEV" creationdate="20191016T083859Z">
+        <seg>Mozilla Dil Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T060623Z" creationid="Merdan NURYÝEW " creationdate="20190924T060623Z">
@@ -3978,6 +3994,22 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084707Z" creationid="Merdan NURIYEV" creationdate="20191011T084707Z">
         <seg>Tekst Gözleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082638Z" creationid="Merdan NURIYEV" creationdate="20191016T082638Z">
+        <seg>Moodle PHP  süzgüji bir ýalňyşlyk döretdi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082739Z" creationid="Merdan NURIYEV" creationdate="20191016T082739Z">
+        <seg>Mozilla DTD süzgüji bir ýalňyşlyk döretdi:</seg>
       </tuv>
     </tu>
     <tu>
