@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080549Z" creationid="Merdan NURIYEV" creationdate="20191016T080549Z">
+        <seg>PO sözbaşyna degmän geç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072053Z" creationid="Merdan NURYÝEW " creationdate="20190923T072053Z">
@@ -1033,6 +1041,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055512Z" creationid="Merdan NURIYEV" creationdate="20191009T055512Z">
         <seg>Aw&amp;tor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081540Z" creationid="Merdan NURIYEV" creationdate="20191016T081540Z">
+        <seg>Sözbaşyndaky 'nplurals=INTEGER; &amp;plural=EXPRESSION;' y awtomatiki çalşyr</seg>
       </tuv>
     </tu>
     <tu>
