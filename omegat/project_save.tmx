@@ -747,6 +747,14 @@ Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T083949Z" creationid="Merdan NURIYEV" creationdate="20191016T083949Z">
+        <seg>---- Ýerlileşdirme Bellikleri ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -3266,6 +3274,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084010Z" creationid="Merdan NURIYEV" creationdate="20191016T084010Z">
+        <seg>QuarkXPress CopyFlow Gold Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080631Z" creationid="Merdan NURYÝEW " creationdate="20190919T080631Z">
@@ -3968,6 +3984,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051631Z" creationid="Merdan NURYÝEW " creationdate="20190930T051631Z">
         <seg>Niýet edilen faýllar tabşyryldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084021Z" creationid="Merdan NURIYEV" creationdate="20191016T084021Z">
+        <seg>Tekst Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084045Z" creationid="Merdan NURIYEV" creationdate="20191016T084045Z">
+        <seg>Tekst Süzgüç Opsiýalary</seg>
       </tuv>
     </tu>
     <tu>
