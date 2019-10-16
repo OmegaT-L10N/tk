@@ -1687,8 +1687,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074517Z" creationid="Merdan NURIYEV" creationdate="20191016T074517Z">
-        <seg>'{0}' synpyndan seplenýän-modul ýüklenmesinde ýalňyşlyk: {1}: {2}</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074933Z" creationid="Merdan NURIYEV" creationdate="20191016T074517Z">
+        <seg>'{0}' klasyndan seplenýän-modul ýüklenmesinde ýalňyşlyk: {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1735,8 +1735,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074612Z" creationid="Merdan NURIYEV" creationdate="20191016T074612Z">
-        <seg>'{0}' synpyndan seplenýän-modul boşadylmasynda yalňyşlyk: {1}</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074944Z" creationid="Merdan NURIYEV" creationdate="20191016T074612Z">
+        <seg>'{0}' klasyndan seplenýän-modul boşadylmasynda yalňyşlyk: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3020,8 +3020,8 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074925Z" creationid="Merdan NURIYEV" creationdate="20191016T074925Z">
-        <seg>'{0}' klas seplenýän-modul şowly bir şekildi ýüklendi</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T074955Z" creationid="Merdan NURIYEV" creationdate="20191016T074925Z">
+        <seg>'{0}' klasyndan seplenýän-modul şowly bir şekildi ýüklendi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3668,6 +3668,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075129Z" creationid="Merdan NURIYEV" creationdate="20191016T075129Z">
+        <seg>'{0}' klasyndan öň ýüklenen seplenýän-modula degilmän geçilýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T111005Z" creationid="Merdan NURYÝEW " creationdate="20191005T111005Z">
@@ -4120,6 +4128,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092911Z" creationid="Merdan NURIYEV" creationdate="20191014T092911Z">
         <seg>XML faýlyny okamaga taýarlap bolmady!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075240Z" creationid="Merdan NURIYEV" creationdate="20191016T075240Z">
+        <seg>Süzgüçleriň konfigurasýa  faýlyny seljerip bolanak</seg>
       </tuv>
     </tu>
     <tu>
