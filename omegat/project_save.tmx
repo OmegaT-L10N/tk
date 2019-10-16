@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085202Z" creationid="Merdan NURIYEV" creationdate="20191016T085202Z">
+        <seg>Boş S&amp;etirlerde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074118Z" creationid="Merdan NURYÝEW " creationdate="20190926T074118Z">
@@ -327,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085119Z" creationid="Merdan NURIYEV" creationdate="20191016T085119Z">
+        <seg>Setirden setire geçiş&amp;ler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092403Z" creationid="Merdan NURYÝEW " creationdate="20191005T092403Z">
@@ -339,6 +355,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T063643Z" creationid="Merdan NURYÝEW " creationdate="20190924T063643Z">
         <seg>Ga&amp;bat Geliş Statistikalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085237Z" creationid="Merdan NURIYEV" creationdate="20191016T085237Z">
+        <seg>&amp;Asla</seg>
       </tuv>
     </tu>
     <tu>
@@ -3027,6 +3051,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063449Z" creationid="Merdan NURYÝEW " creationdate="20190921T063449Z">
         <seg>Opsiýalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085439Z" creationid="Merdan NURIYEV" creationdate="20191016T085439Z">
+        <seg>Niýet edilen dokumentlerde setir uzunlygy opsiýalary (0 = çäksiz)</seg>
       </tuv>
     </tu>
     <tu>
