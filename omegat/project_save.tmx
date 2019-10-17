@@ -335,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173648Z" creationid="Merdan NURIYEV" creationdate="20191017T173648Z">
+        <seg>&lt;ph&gt; taglarynyň ýarlyklary döredilende type we ctype alamatlaryna ähmiýet berme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084319Z" creationid="Merdan NURIYEV" creationdate="20191011T084319Z">
