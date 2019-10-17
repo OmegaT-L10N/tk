@@ -681,8 +681,8 @@
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T052427Z" creationid="Merdan NURIYEV" creationdate="20191017T052427Z">
-        <seg>Sahypa Adlary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175530Z" creationid="Merdan NURIYEV" creationdate="20191017T052427Z">
+        <seg>Sahypa Atlary</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4022,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084238Z" creationid="Merdan NURYÝEW " creationdate="20190919T084238Z">
         <seg>Jawa {0} ({1}-bit) üsübde işledilýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175758Z" creationid="Merdan NURIYEV" creationdate="20191017T175758Z">
+        <seg>S&amp;laýd Düşündirişleri</seg>
       </tuv>
     </tu>
     <tu>
