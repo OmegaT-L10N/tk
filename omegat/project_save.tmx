@@ -3135,6 +3135,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174211Z" creationid="Merdan NURIYEV" creationdate="20191017T174211Z">
+        <seg>&amp;Görünmeýän Instruksiýa Teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T140134Z" creationid="Merdan NURIYEV" creationdate="20191014T140134Z">
@@ -3299,6 +3307,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081805Z" creationid="Merdan NURYÝEW " creationdate="20190930T081805Z">
         <seg>Niýet Edilen Faýlyň Ýerleşýän Ýerini Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173952Z" creationid="Merdan NURIYEV" creationdate="20191017T173952Z">
+        <seg>Open XML Süzgüç Opsiýalary</seg>
       </tuv>
     </tu>
     <tu>
