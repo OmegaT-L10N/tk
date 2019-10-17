@@ -279,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174511Z" creationid="Merdan NURIYEV" creationdate="20191017T174511Z">
+        <seg>&amp;Aşaky Çykgytlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173133Z" creationid="Merdan NURIYEV" creationdate="20191017T173133Z">
@@ -1401,6 +1409,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081200Z" creationid="Merdan NURYÝEW " creationdate="20190930T081200Z">
         <seg>Ýa&amp;p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174248Z" creationid="Merdan NURIYEV" creationdate="20191017T174248Z">
+        <seg>&amp;Teswirler</seg>
       </tuv>
     </tu>
     <tu>
