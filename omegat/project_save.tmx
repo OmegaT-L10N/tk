@@ -1449,6 +1449,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175516Z" creationid="Merdan NURIYEV" creationdate="20191017T175516Z">
+        <seg>Teswi&amp;rler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063135Z" creationid="Merdan NURYÝEW " creationdate="20190921T063135Z">
@@ -1737,6 +1745,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163445Z" creationid="Merdan NURIYEV" creationdate="20191012T163445Z">
         <seg>Dowam edýäňizmi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175309Z" creationid="Merdan NURIYEV" creationdate="20191017T175309Z">
+        <seg>Dok&amp;ument häsiýetleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -2057,6 +2073,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091500Z" creationid="Merdan NURYÝEW " creationdate="20191005T091500Z">
         <seg>Takyk gabat gelme::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175317Z" creationid="Merdan NURIYEV" creationdate="20191017T175317Z">
+        <seg>Excel faýllary</seg>
       </tuv>
     </tu>
     <tu>
