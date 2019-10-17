@@ -2531,6 +2531,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173851Z" creationid="Merdan NURIYEV" creationdate="20191017T173851Z">
+        <seg>&lt;&amp;bpt&gt; we &lt;ept&gt;  taglarynyň ýarlyklary döredilende type we ctype alamatlaryna ähmiýet berme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062838Z" creationid="Merdan NURYÝEW " creationdate="20190921T062838Z">
@@ -2975,6 +2983,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084107Z" creationid="Merdan NURIYEV" creationdate="20191011T084107Z">
         <seg>Hak&amp;yda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173924Z" creationid="Merdan NURIYEV" creationdate="20191017T173924Z">
+        <seg>Microsoft Open XML faýllary</seg>
       </tuv>
     </tu>
     <tu>
