@@ -1049,10 +1049,18 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T171223Z" creationid="Merdan NURIYEV" creationdate="20191017T171223Z">
+        <seg>bar bolsa &lt;trans-unit&gt; &amp;resname alamaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T080901Z" creationid="Merdan NURIYEV" creationdate="20191017T080901Z">
-        <seg>&lt;trans-unit&gt; Tanaýdy</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T171035Z" creationid="Merdan NURIYEV" creationdate="20191017T080901Z">
+        <seg>&lt;trans-unit&gt;Pasporty</seg>
       </tuv>
     </tu>
     <tu>
@@ -5085,6 +5093,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051628Z" creationid="Merdan NURIYEV" creationdate="20191017T051628Z">
         <seg>WebVTT Alt-Ýazuw faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T171801Z" creationid="Merdan NURIYEV" creationdate="20191017T171801Z">
+        <seg>Elýeterli däl bolsa ätiýaç wariýant höküminde ID ulanyljakdyr</seg>
       </tuv>
     </tu>
     <tu>
