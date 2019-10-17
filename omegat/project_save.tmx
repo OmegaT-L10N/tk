@@ -279,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173133Z" creationid="Merdan NURIYEV" creationdate="20191017T173133Z">
+        <seg> &lt;it pos="end"&gt; taglary üçin ýarlyklary "f"e &amp;zorla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T061641Z" creationid="Merdan NURYÝEW " creationdate="20190924T061641Z">
