@@ -1773,6 +1773,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103654Z" creationid="Merdan NURIYEV" creationdate="20191018T103654Z">
+        <seg>Seple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051751Z" creationid="Merdan NURIYEV" creationdate="20191017T051751Z">
@@ -1881,6 +1889,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092130Z" creationid="Merdan NURYÝEW " creationdate="20191005T092130Z">
         <seg>Proýekt Häsiýetlerlerini şu ýerden redaktirle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103630Z" creationid="Merdan NURIYEV" creationdate="20191018T103630Z">
+        <seg>Redaktor - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3051,6 +3067,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103704Z" creationid="Merdan NURIYEV" creationdate="20191018T103704Z">
+        <seg>Ulalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085511Z" creationid="Merdan NURIYEV" creationdate="20191016T085511Z">
@@ -3079,6 +3103,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173924Z" creationid="Merdan NURIYEV" creationdate="20191017T173924Z">
         <seg>Microsoft Open XML faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103700Z" creationid="Merdan NURIYEV" creationdate="20191018T103700Z">
+        <seg>Kiçelt</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4054,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T045841Z" creationid="Merdan NURIYEV" creationdate="20191017T045841Z">
         <seg>ResX Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103710Z" creationid="Merdan NURIYEV" creationdate="20191018T103710Z">
+        <seg>Dikelt</seg>
       </tuv>
     </tu>
     <tu>
