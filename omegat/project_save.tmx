@@ -1457,6 +1457,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103503Z" creationid="Merdan NURIYEV" creationdate="20191018T103503Z">
+        <seg>Teswir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063135Z" creationid="Merdan NURYÝEW " creationdate="20190921T063135Z">
@@ -2811,6 +2819,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103443Z" creationid="Merdan NURIYEV" creationdate="20191018T103443Z">
+        <seg>Açar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key=Value Text</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051744Z" creationid="Merdan NURIYEV" creationdate="20191017T051744Z">
@@ -3231,6 +3247,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103621Z" creationid="Merdan NURIYEV" creationdate="20191018T103621Z">
+        <seg>Dilim teswirlenende meni habardar et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055518Z" creationid="Merdan NURIYEV" creationdate="20191009T055518Z">
@@ -3515,6 +3539,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082250Z" creationid="Merdan NURIYEV" creationdate="20191016T082250Z">
         <seg>Parol-goragly PDF faýllar goldanmaýar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103453Z" creationid="Merdan NURIYEV" creationdate="20191018T103453Z">
+        <seg>Ýol:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4840,6 +4872,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082110Z" creationid="Merdan NURIYEV" creationdate="20191015T082110Z">
         <seg>Terjime birliginiň daşynda terjime birligi warianty ýüze çykdy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103515Z" creationid="Merdan NURIYEV" creationdate="20191018T103515Z">
+        <seg>Terjime:</seg>
       </tuv>
     </tu>
     <tu>
