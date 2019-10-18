@@ -1137,6 +1137,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T204321Z" creationid="Merdan NURIYEV" creationdate="20191018T204321Z">
+        <seg>OmegaT Hakynda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074536Z" creationid="Merdan NURYÝEW " creationdate="20190926T074536Z">
@@ -3411,6 +3419,22 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082549Z" creationid="Merdan NURYÝEW " creationdate="20190919T082549Z">
         <seg>OmegaT ýady dolup barýar we HOWWA bassaňyz program soňlanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T204231Z" creationid="Merdan NURIYEV" creationdate="20191018T204231Z">
+        <seg>OmegaT wersiýa {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T204254Z" creationid="Merdan NURIYEV" creationdate="20191018T204254Z">
+        <seg>OmegaT wersiýa {0}, täzelenme {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
