@@ -503,6 +503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203713Z" creationid="Merdan NURIYEV" creationdate="20191018T203713Z">
+        <seg>Hemme taglar üçin boşlyklary g&amp;ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T060652Z" creationid="Merdan NURYÝEW " creationdate="20190924T060652Z">
@@ -1101,6 +1109,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080736Z" creationid="Merdan NURYÝEW " creationdate="20190919T080736Z">
         <seg>G&amp;oş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203532Z" creationid="Merdan NURIYEV" creationdate="20191018T203532Z">
+        <seg>Ta&amp;glary Birleşdirmek</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4584,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081708Z" creationid="Merdan NURIYEV" creationdate="20191016T081708Z">
         <seg>Standart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T204217Z" creationid="Merdan NURIYEV" creationdate="20191018T204217Z">
+        <seg>W&amp;ord ýumşak dönüş harpynda täze abza başlat</seg>
       </tuv>
     </tu>
     <tu>
