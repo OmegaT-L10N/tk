@@ -3674,6 +3674,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T202539Z" creationid="Merdan NURIYEV" creationdate="20191018T202539Z">
+        <seg>Power Point Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163325Z" creationid="Merdan NURIYEV" creationdate="20191014T163325Z">
@@ -4392,6 +4400,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075129Z" creationid="Merdan NURIYEV" creationdate="20191016T075129Z">
         <seg>'{0}' klasyndan öň ýüklenen seplenýän-modula degilmän geçilýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T202637Z" creationid="Merdan NURIYEV" creationdate="20191018T202637Z">
+        <seg>Slaý&amp;d Nusgalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T202934Z" creationid="Merdan NURIYEV" creationdate="20191018T202934Z">
+        <seg>Sla&amp;ýd Ýerleşişi</seg>
       </tuv>
     </tu>
     <tu>
