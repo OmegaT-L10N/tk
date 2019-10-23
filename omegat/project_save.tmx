@@ -2611,6 +2611,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074221Z" creationid="Merdan NURIYEV" creationdate="20191023T074221Z">
+        <seg>Somik Raha, Derrick Oswald we beýlekiler tarapyndan döredilen HTMLParser 1.6 (LGPL Ygtyýarnamasy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174725Z" creationid="Merdan NURIYEV" creationdate="20191017T174725Z">
@@ -3469,6 +3477,16 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082549Z" creationid="Merdan NURYÝEW " creationdate="20190919T082549Z">
         <seg>OmegaT ýady dolup barýar we HOWWA bassaňyz program soňlanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074048Z" creationid="Merdan NURIYEV" creationdate="20191023T074048Z">
+        <seg>OmegaT aşakdaky kitaplyklary ulanýar:
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,6 +4372,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084018Z" creationid="Merdan NURYÝEW " creationdate="20190919T083642Z">
         <seg>Serediň "Bap 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074113Z" creationid="Merdan NURIYEV" creationdate="20191023T074113Z">
+        <seg>Görüň /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5415,6 +5441,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081534Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
         <seg>Gözbaş tekstde aýry görünen terminleri ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074436Z" creationid="Merdan NURIYEV" creationdate="20191023T074436Z">
+        <seg>VLDocking Düzümi(Framework) (LGPL Ygtyýarnamasy)</seg>
       </tuv>
     </tu>
     <tu>
