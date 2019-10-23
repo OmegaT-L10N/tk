@@ -4318,6 +4318,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T075601Z" creationid="Merdan NURIYEV" creationdate="20191023T075601Z">
+        <seg>Repositori Baglanmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository {0} is already present</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080512Z" creationid="Merdan NURIYEV" creationdate="20191011T080512Z">
@@ -4386,6 +4394,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175758Z" creationid="Merdan NURIYEV" creationdate="20191017T175758Z">
         <seg>S&amp;laýd Düşündirişleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T075959Z" creationid="Merdan NURIYEV" creationdate="20191023T075959Z">
+        <seg>Boşluk bölünmeýän boşluk harpy (nbsp) bilen gabat geler</seg>
       </tuv>
     </tu>
     <tu>
