@@ -407,6 +407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T072725Z" creationid="Merdan NURIYEV" creationdate="20191023T072725Z">
+        <seg>&amp;Ygtyýarnama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085119Z" creationid="Merdan NURIYEV" creationdate="20191016T085119Z">
@@ -1115,8 +1123,8 @@ Häzirki sazlama {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203532Z" creationid="Merdan NURIYEV" creationdate="20191018T203532Z">
-        <seg>Ta&amp;glary Birleşdirmek</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T072606Z" creationid="Merdan NURIYEV" creationdate="20191018T203532Z">
+        <seg>Ta&amp;glary Birleşdir</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,6 +1609,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062450Z" creationid="Merdan NURYÝEW " creationdate="20190921T062450Z">
         <seg>Faýllary Gözbaş Bukjasyna Kopýala...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T072709Z" creationid="Merdan NURIYEV" creationdate="20191023T072709Z">
+        <seg>Awtorlyk hukugy © 2000-2019 Keith Godfrey, Maxym Mykhalchuk we beýlekiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,6 +3427,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061236Z" creationid="Merdan NURYÝEW " creationdate="20190921T061236Z">
         <seg>OmegaT awtomatiki 'Howwa' opsiýa seçilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073632Z" creationid="Merdan NURIYEV" creationdate="20191023T073632Z">
+        <seg>OmegaT erkin we açyk kodly köp platforma goldawly Kompýuter Arkaly Terjime esbabydyr we kesgitli bolmaýan gabat getirme, terjime hakydasy, açar söz gözlegi, tehniki sözlük we edilen terjimeleri täzeleme ýaly funksiýalary bardyr.</seg>
       </tuv>
     </tu>
     <tu>
