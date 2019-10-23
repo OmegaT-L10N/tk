@@ -1137,6 +1137,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073809Z" creationid="Merdan NURIYEV" creationdate="20191023T073809Z">
+        <seg>OmegaT'niň proýejt dolandyryryjysy Aaron Madlon-Kay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T051735Z" creationid="Merdan NURYÝEW " creationdate="20190919T051735Z">
@@ -1465,6 +1473,16 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174248Z" creationid="Merdan NURIYEV" creationdate="20191017T174248Z">
         <seg>&amp;Teswirler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073841Z" creationid="Merdan NURIYEV" creationdate="20191023T073841Z">
+        <seg>Kod ýazywuna gatnaşanlar:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3643,6 +3661,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203422Z" creationid="Merdan NURIYEV" creationdate="20191018T203422Z">
         <seg>Beýleki Opsiýalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074013Z" creationid="Merdan NURIYEV" creationdate="20191023T074013Z">
+        <seg>Beýleki goşant berenler readme.txt  faýlynda jikme-jik agzalmakdadyr</seg>
       </tuv>
     </tu>
     <tu>
