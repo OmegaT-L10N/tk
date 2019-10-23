@@ -3077,6 +3077,14 @@ Kerep ýüpjagazy bilen balandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T075026Z" creationid="Merdan NURIYEV" creationdate="20191023T075026Z">
+        <seg>Soňky üýtgeşiklikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075102Z" creationid="Merdan NURYÝEW " creationdate="20190930T075102Z">
@@ -3169,6 +3177,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084453Z" creationid="Merdan NURIYEV" creationdate="20191011T084453Z">
         <seg>Ýer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T075058Z" creationid="Merdan NURIYEV" creationdate="20191023T075058Z">
+        <seg>Žurnal ýazgylary:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,6 +3573,14 @@ Kerep ýüpjagazy bilen balandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073719Z" creationid="Merdan NURIYEV" creationdate="20191023T073719Z">
         <seg>OmegaT Keith Godfrey tarapyndan döredilendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T075001Z" creationid="Merdan NURIYEV" creationdate="20191023T075001Z">
+        <seg>OmegaT ygtyýarnamasy</seg>
       </tuv>
     </tu>
     <tu>
