@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T200217Z" creationid="Merdan NURIYEV" creationdate="20191025T200217Z">
+        <seg>Öňün&amp;den kabul edilenler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T065458Z" creationid="Merdan NURYÝEW " creationdate="20190921T065458Z">
@@ -2251,6 +2259,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175317Z" creationid="Merdan NURIYEV" creationdate="20191017T175317Z">
         <seg>Excel faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T200053Z" creationid="Merdan NURIYEV" creationdate="20191025T200053Z">
+        <seg>Näsazlyk boldy:</seg>
       </tuv>
     </tu>
     <tu>
