@@ -5765,6 +5765,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201947Z" creationid="Merdan NURIYEV" creationdate="20191025T201947Z">
+        <seg>Faýl süzgüçlerini görkeziň ýada redaktirläň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050554Z" creationid="Merdan NURIYEV" creationdate="20191017T050554Z">
