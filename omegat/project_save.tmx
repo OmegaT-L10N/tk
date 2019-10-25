@@ -2499,6 +2499,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201353Z" creationid="Merdan NURIYEV" creationdate="20191025T201353Z">
+        <seg>Faýl Süzgüçleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Format</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075652Z" creationid="Merdan NURIYEV" creationdate="20191016T075652Z">
@@ -3533,6 +3541,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051401Z" creationid="Merdan NURIYEV" creationdate="20191017T051401Z">
         <seg>Bellik: DocBook faýllarynyň tananmasy üçin diňe bir faýlyň giňelmesi däl eýsem DOCTYPE beýany hem mazmunda bolmalydyr : DocBook 4 üçin &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... , we DocBook 5 üçin Namespace: xmlns="http://docbook.org/ns/docbook"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201329Z" creationid="Merdan NURIYEV" creationdate="20191025T201329Z">
+        <seg>Bellik: käbir süzgüçler kodlaşdyrma saýlama mümkinçiligini bermeýär.</seg>
       </tuv>
     </tu>
     <tu>
