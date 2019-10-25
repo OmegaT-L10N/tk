@@ -2039,6 +2039,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202726Z" creationid="Merdan NURIYEV" creationdate="20191025T202726Z">
+        <seg>Süzgüç Şablonlaryny Redaktirleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092043Z" creationid="Merdan NURYÝEW " creationdate="20191005T092043Z">
@@ -3609,6 +3617,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202745Z" creationid="Merdan NURIYEV" creationdate="20191025T202745Z">
+        <seg>O&amp;psiýalarş...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053148Z" creationid="Merdan NURYÝEW " creationdate="20190930T053148Z">
@@ -4322,6 +4338,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T173355Z" creationid="Merdan NURIYEV" creationdate="20191008T173355Z">
         <seg>Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202924Z" creationid="Merdan NURIYEV" creationdate="20191025T202924Z">
+        <seg>Öňünden ge&amp;len we yzyndan gelen taglarry aýyr</seg>
       </tuv>
     </tu>
     <tu>
