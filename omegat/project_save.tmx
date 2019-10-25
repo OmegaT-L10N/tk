@@ -2845,6 +2845,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202653Z" creationid="Merdan NURIYEV" creationdate="20191025T202653Z">
+        <seg>Eger süzgüjiň opsiýalary bar bolsa "Opsiýalar" düwmesine basyp olary üýtgedip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173851Z" creationid="Merdan NURIYEV" creationdate="20191017T173851Z">
