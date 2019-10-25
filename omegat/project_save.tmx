@@ -2483,6 +2483,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T200300Z" creationid="Merdan NURIYEV" creationdate="20191025T200300Z">
+        <seg>Falyň &amp;Formaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062924Z" creationid="Merdan NURYÝEW " creationdate="20190921T062924Z">
@@ -2727,6 +2735,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170106Z" creationid="Merdan NURIYEV" creationdate="20191008T170106Z">
         <seg>Bärde öz islän proýekt bukjaňyzy belläp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201121Z" creationid="Merdan NURIYEV" creationdate="20191025T201121Z">
+        <seg>Bu ýerde süzgüçden geçjek gözbaş faýllarynyň faýl adlary üçin şablon taýarlap bilersiňiz, terjime edilen faýllaryň faýl adlaryny özboluşly edip bilersiňiz we ýüklenýän gözbaş we terjime edilen faýllar üçin ulanyljak kodlaşdyrmany saýlap bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
