@@ -5094,6 +5094,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195034Z" creationid="Merdan NURIYEV" creationdate="20191025T195034Z">
+        <seg>Bu programma üňjünçiligi peýdaly bolar magsady bilen HIÇ HILI KEPILLIKSIZ, hatda SÖWDA we BELLI BIR MAGSADA ÝARAMA  kepilligi gümany hem bolmadan paýlanýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T194048Z" creationid="Merdan NURIYEV" creationdate="20191023T091541Z">
