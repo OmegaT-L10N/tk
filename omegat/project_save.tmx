@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201828Z" creationid="Merdan NURIYEV" creationdate="20191025T201828Z">
+        <seg>Faýl süzgüç sazla&amp;malaryny diňe bu proýekte degişli et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092403Z" creationid="Merdan NURYÝEW " creationdate="20191005T092403Z">
@@ -4090,6 +4098,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080326Z" creationid="Merdan NURYÝEW " creationdate="20190930T080326Z">
         <seg>Proýekt Faýllary ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201614Z" creationid="Merdan NURIYEV" creationdate="20191025T201614Z">
+        <seg>Proýekt Degişli Faýl Süzgüçleri</seg>
       </tuv>
     </tu>
     <tu>
