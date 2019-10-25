@@ -1429,6 +1429,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195927Z" creationid="Merdan NURIYEV" creationdate="20191025T195927Z">
+        <seg>Süzgüç öňünden kabul edilen ýagdaýyna getirilip bolmady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T084316Z" creationid="Merdan NURIYEV" creationdate="20191009T084316Z">
@@ -1591,6 +1599,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082308Z" creationid="Merdan NURYÝEW " creationdate="20190919T082308Z">
         <seg>Tassykla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195519Z" creationid="Merdan NURIYEV" creationdate="20191025T195511Z">
+        <seg> {0} şablonunyň aýyrylmasyny tassykla</seg>
       </tuv>
     </tu>
     <tu>
@@ -1995,6 +2011,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092718Z" creationid="Merdan NURIYEV" creationdate="20191014T092718Z">
         <seg>Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195258Z" creationid="Merdan NURIYEV" creationdate="20191025T195258Z">
+        <seg>Süzgüji Redaktirleme</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4258,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T104029Z" creationid="Merdan NURYÝEW " creationdate="20191005T104029Z">
         <seg>Ta&amp;gleri Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195820Z" creationid="Merdan NURIYEV" creationdate="20191025T195820Z">
+        <seg>Şablony Aýyrjakmy?</seg>
       </tuv>
     </tu>
     <tu>
