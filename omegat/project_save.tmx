@@ -5206,6 +5206,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202444Z" creationid="Merdan NURIYEV" creationdate="20191025T202444Z">
+        <seg>Süzgüjiň haýsy faýly haýsy kodlaşdyrmada prosese goýjagyny saýlamak üçin tablissadan süzgüji saýlaň we "Redaktirle" knopkasyna basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090920Z" creationid="Merdan NURYÝEW " creationdate="20191005T090920Z">
