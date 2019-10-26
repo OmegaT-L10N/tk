@@ -4358,6 +4358,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191026T154702Z" creationid="Merdan NURIYEV" creationdate="20191026T154702Z">
+        <seg>Dilimlenmedik proýektlerdäki setirara we do&amp;wam eden boşluk harplaryny aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195820Z" creationid="Merdan NURIYEV" creationdate="20191025T195820Z">
