@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T144214Z" creationid="Merdan NURIYEV" creationdate="20191027T144214Z">
+        <seg>Elmyd&amp;ama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074223Z" creationid="Merdan NURYÝEW " creationdate="20190926T074223Z">
@@ -883,6 +891,14 @@ Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T143857Z" creationid="Merdan NURIYEV" creationdate="20191027T143857Z">
+        <seg>(X)HTML Süzgüç Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T145646Z" creationid="Merdan NURIYEV" creationdate="20191014T145646Z">
@@ -1221,6 +1237,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090002Z" creationid="Merdan NURIYEV" creationdate="20191027T090002Z">
         <seg>Şablon Goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T144107Z" creationid="Merdan NURIYEV" creationdate="20191027T144107Z">
+        <seg>HTML we XHTML faýllaryna kodlaşdyrma beýanyny giriziň ýada gaýtadan redaktirlän:</seg>
       </tuv>
     </tu>
     <tu>
