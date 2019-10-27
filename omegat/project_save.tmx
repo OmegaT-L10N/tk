@@ -2763,6 +2763,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095406Z" creationid="Merdan NURIYEV" creationdate="20191027T095406Z">
+        <seg>HTML we XHTML faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074221Z" creationid="Merdan NURIYEV" creationdate="20191023T074221Z">
@@ -3605,6 +3613,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051401Z" creationid="Merdan NURIYEV" creationdate="20191017T051401Z">
         <seg>Bellik: DocBook faýllarynyň tananmasy üçin diňe bir faýlyň giňelmesi däl eýsem DOCTYPE beýany hem mazmunda bolmalydyr : DocBook 4 üçin &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... , we DocBook 5 üçin Namespace: xmlns="http://docbook.org/ns/docbook"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095727Z" creationid="Merdan NURIYEV" creationdate="20191027T095727Z">
+        <seg>Bellik: Gözbaş Faýly Kodlaşdyrma sazlamasy diňe içinde kodlaşdyrma beýany bolmaýan HTML faýllary üçin Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
     </tu>
     <tu>
