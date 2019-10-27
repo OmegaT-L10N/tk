@@ -4968,6 +4968,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T144713Z" creationid="Merdan NURIYEV" creationdate="20191027T144713Z">
+        <seg>Tekst gabat getirme Skip text matching regular expression:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075129Z" creationid="Merdan NURIYEV" creationdate="20191016T075129Z">
