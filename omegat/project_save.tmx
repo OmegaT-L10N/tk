@@ -359,6 +359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090648Z" creationid="Merdan NURIYEV" creationdate="20191027T090648Z">
+        <seg>Alternat&amp;iw terjimä eýe bolan dilimler kesgitlenen wagty faýl mazmunyna ähmiýet berme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082455Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
