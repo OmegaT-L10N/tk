@@ -4928,10 +4928,26 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090810Z" creationid="Merdan NURIYEV" creationdate="20191027T090810Z">
+        <seg>Gözbaş Faýl Kodlaşdyrmasy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080019Z" creationid="Merdan NURIYEV" creationdate="20191016T080019Z">
         <seg>Gözbaş Faýl Ady Şablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090748Z" creationid="Merdan NURIYEV" creationdate="20191027T090748Z">
+        <seg>Gözbaş Faýl Adlary Şablony:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5370,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080132Z" creationid="Merdan NURIYEV" creationdate="20191016T080132Z">
         <seg>Terjime Edilen Faýl Kodlaşdyrmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090828Z" creationid="Merdan NURIYEV" creationdate="20191027T090828Z">
+        <seg>Terjime Edilen Faýl Kodlaşdyrmasy:</seg>
       </tuv>
     </tu>
     <tu>
