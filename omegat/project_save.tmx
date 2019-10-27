@@ -2611,6 +2611,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095039Z" creationid="Merdan NURIYEV" creationdate="20191027T095039Z">
+        <seg>Faýl Ady Üýtgeýän Ululyklary:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080429Z" creationid="Merdan NURYÝEW " creationdate="20190930T080429Z">
@@ -3017,6 +3025,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T084626Z" creationid="Merdan NURYÝEW " creationdate="20191005T084626Z">
         <seg>{0} proýekt bukjasy üçin rugsat ýok/ýeterlikli däl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095351Z" creationid="Merdan NURIYEV" creationdate="20191027T095351Z">
+        <seg>Näsaz HTML faýly</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4190,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095154Z" creationid="Merdan NURIYEV" creationdate="20191027T095154Z">
+        <seg>Proýekt  {0}'da awtomatiki-ýatda saklandy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T060713Z" creationid="Merdan NURYÝEW " creationdate="20190921T060713Z">
@@ -5298,6 +5322,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202444Z" creationid="Merdan NURIYEV" creationdate="20191025T202444Z">
         <seg>Süzgüjiň haýsy faýly haýsy kodlaşdyrmada prosese goýjagyny saýlamak üçin tablissadan süzgüji saýlaň we "Redaktirle" knopkasyna basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095217Z" creationid="Merdan NURIYEV" creationdate="20191027T095217Z">
+        <seg>HTML faýly örän uly!</seg>
       </tuv>
     </tu>
     <tu>
