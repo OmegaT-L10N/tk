@@ -1209,6 +1209,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090002Z" creationid="Merdan NURIYEV" creationdate="20191027T090002Z">
+        <seg>Şablon Goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T085114Z" creationid="Merdan NURIYEV" creationdate="20191015T085114Z">
@@ -2043,6 +2051,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202726Z" creationid="Merdan NURIYEV" creationdate="20191025T202726Z">
         <seg>Süzgüç Şablonlaryny Redaktirleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090018Z" creationid="Merdan NURIYEV" creationdate="20191027T090018Z">
+        <seg>Şablony Redaktirleme</seg>
       </tuv>
     </tu>
     <tu>
