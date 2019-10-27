@@ -2885,8 +2885,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T121714Z" creationid="Merdan NURIYEV" creationdate="20191027T121714Z">
-        <seg>Eger HTML faýly kodlaşdyrma beýany If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T143837Z" creationid="Merdan NURIYEV" creationdate="20191027T121714Z">
+        <seg>Eger HTML faýlynyň kodlaşdyrma beýany bar bolsa bu ekranda bildirilen sazlamalara garamazdan beýanda bildirilen kodlaşdyrma ulanyljakdyr.</seg>
       </tuv>
     </tu>
     <tu>
