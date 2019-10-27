@@ -1935,14 +1935,6 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
-      </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T151858Z" creationid="Merdan NURIYEV" creationdate="20191027T151858Z">
-        <seg> Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053259Z" creationid="Merdan NURYÝEW " creationdate="20190930T053259Z">
@@ -3847,6 +3839,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T144530Z" creationid="Merdan NURIYEV" creationdate="20191027T144530Z">
         <seg>Diňe, eger (X)&amp;HTML faýlynyň bir sözbaşy maglumaty bar bolsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T152113Z" creationid="Merdan NURIYEV" creationdate="20191027T152113Z">
+        <seg>Diňe, &amp;Eger (X)HTML faýly bir kodlaşdyrma beýanyna eýe bolsa</seg>
       </tuv>
     </tu>
     <tu>
