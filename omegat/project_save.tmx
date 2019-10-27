@@ -3619,8 +3619,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095727Z" creationid="Merdan NURIYEV" creationdate="20191027T095727Z">
-        <seg>Bellik: Gözbaş Faýly Kodlaşdyrma sazlamasy diňe içinde kodlaşdyrma beýany bolmaýan HTML faýllary üçin Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T120354Z" creationid="Merdan NURIYEV" creationdate="20191027T095727Z">
+        <seg>Bellik: Gözbaş Faýlynyň Kodlaşdyrma sazlamasy diňe içinde kodlaşdyrma beýany bolmaýan HTML faýllaryna täsir eder.</seg>
       </tuv>
     </tu>
     <tu>
