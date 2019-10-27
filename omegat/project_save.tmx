@@ -1381,6 +1381,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T145840Z" creationid="Merdan NURIYEV" creationdate="20191027T145840Z">
+        <seg>Ýaramaz kadaly jümle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111434Z" creationid="Merdan NURIYEV" creationdate="20191013T111434Z">
@@ -1923,6 +1931,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084404Z" creationid="Merdan NURIYEV" creationdate="20191011T084404Z">
         <seg>Ekrana çykar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T151858Z" creationid="Merdan NURIYEV" creationdate="20191027T151858Z">
+        <seg> Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
     </tu>
     <tu>
