@@ -1583,8 +1583,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T072837Z" creationid="Merdan NURIYEV" creationdate="20191029T072837Z">
-        <seg>Hytaý dili</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155021Z" creationid="Merdan NURIYEV" creationdate="20191029T072837Z">
+        <seg>Hytaýça</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,6 +1907,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203300Z" creationid="Merdan NURIYEV" creationdate="20191018T203300Z">
         <seg>D&amp;iagrammalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155046Z" creationid="Merdan NURIYEV" creationdate="20191029T155046Z">
+        <seg>Öňünden kabul edilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2935,6 +2943,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095406Z" creationid="Merdan NURIYEV" creationdate="20191027T095406Z">
         <seg>HTML we XHTML faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155149Z" creationid="Merdan NURIYEV" creationdate="20191029T155149Z">
+        <seg>HTML, XHTML, ODF we Infix faýllarynyň dilimlenmesi</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4478,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T160059Z" creationid="Merdan NURIYEV" creationdate="20191029T160059Z">
+        <seg>Proýekte Has Dilimleme Sazlamalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085936Z" creationid="Merdan NURYÝEW " creationdate="20191005T085936Z">
@@ -5080,6 +5104,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155251Z" creationid="Merdan NURIYEV" creationdate="20191029T155251Z">
+        <seg>Dilimleme Sazlamalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation method: {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164248Z" creationid="Merdan NURIYEV" creationdate="20191014T164248Z">
@@ -5518,6 +5550,14 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084707Z" creationid="Merdan NURIYEV" creationdate="20191011T084707Z">
         <seg>Tekst Gözleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155113Z" creationid="Merdan NURIYEV" creationdate="20191029T155113Z">
+        <seg>Teks faýllarynyň dilimlenmesi</seg>
       </tuv>
     </tu>
     <tu>
