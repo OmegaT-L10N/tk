@@ -2295,6 +2295,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153815Z" creationid="Merdan NURIYEV" creationdate="20191029T153815Z">
+        <seg>Dilimleme kadalary konfigurasýasynyň ýatda saklanmasynda ýalňyşlyk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111403Z" creationid="Merdan NURIYEV" creationdate="20191013T111403Z">
