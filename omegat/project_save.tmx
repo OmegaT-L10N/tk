@@ -2095,6 +2095,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154857Z" creationid="Merdan NURIYEV" creationdate="20191029T154857Z">
+        <seg>Gollandça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092028Z" creationid="Merdan NURYÝEW " creationdate="20191005T092028Z">
@@ -2763,6 +2771,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154719Z" creationid="Merdan NURIYEV" creationdate="20191029T154719Z">
+        <seg>Finçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050536Z" creationid="Merdan NURIYEV" creationdate="20191017T050536Z">
@@ -2815,6 +2831,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091749Z" creationid="Merdan NURYÝEW " creationdate="20191005T091749Z">
         <seg>Hemme faýllar üçin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154736Z" creationid="Merdan NURIYEV" creationdate="20191029T154736Z">
+        <seg>Fransuzça</seg>
       </tuv>
     </tu>
     <tu>
@@ -3237,6 +3261,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154743Z" creationid="Merdan NURIYEV" creationdate="20191029T154743Z">
+        <seg>Italýança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074635Z" creationid="Merdan NURIYEV" creationdate="20191023T074635Z">
@@ -3249,6 +3281,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074639Z" creationid="Merdan NURIYEV" creationdate="20191023T074639Z">
         <seg>JSch (JSch Ygtyýarnamasy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154805Z" creationid="Merdan NURIYEV" creationdate="20191029T154805Z">
+        <seg>Ýaponça</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,6 +4358,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154916Z" creationid="Merdan NURIYEV" creationdate="20191029T154916Z">
+        <seg>Polýakça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084226Z" creationid="Merdan NURYÝEW " creationdate="20190926T084226Z">
@@ -4822,6 +4870,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154923Z" creationid="Merdan NURIYEV" creationdate="20191029T154923Z">
+        <seg>Rusça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175758Z" creationid="Merdan NURIYEV" creationdate="20191017T175758Z">
@@ -5184,6 +5240,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155015Z" creationid="Merdan NURIYEV" creationdate="20191029T155015Z">
+        <seg>Slowakça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T111005Z" creationid="Merdan NURYÝEW " creationdate="20191005T111005Z">
@@ -5364,6 +5428,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074742Z" creationid="Merdan NURIYEV" creationdate="20191023T074742Z">
         <seg>SuperTMXMerge (Apache Ygtyýarnama 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154955Z" creationid="Merdan NURIYEV" creationdate="20191029T154955Z">
+        <seg>Şwesçe</seg>
       </tuv>
     </tu>
     <tu>
