@@ -1525,6 +1525,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154411Z" creationid="Merdan NURIYEV" creationdate="20191029T154411Z">
+        <seg>Katalança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T084316Z" creationid="Merdan NURIYEV" creationdate="20191009T084316Z">
@@ -4183,6 +4191,22 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103453Z" creationid="Merdan NURIYEV" creationdate="20191018T103453Z">
         <seg>Ýol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154225Z" creationid="Merdan NURIYEV" creationdate="20191029T154225Z">
+        <seg>Şablon Soňra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154234Z" creationid="Merdan NURIYEV" creationdate="20191029T154134Z">
+        <seg>Şablon Öň</seg>
       </tuv>
     </tu>
     <tu>
