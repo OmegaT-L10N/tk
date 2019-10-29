@@ -1421,6 +1421,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154114Z" creationid="Merdan NURIYEV" creationdate="20191029T154114Z">
+        <seg>Kesmel/Kadadan Çykma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105416Z" creationid="Merdan NURYÝEW " creationdate="20191005T105416Z">
@@ -3305,6 +3313,22 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053103Z" creationid="Merdan NURYÝEW " creationdate="20190930T053103Z">
         <seg>GLP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153826Z" creationid="Merdan NURIYEV" creationdate="20191029T153826Z">
+        <seg>Dil Ady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153855Z" creationid="Merdan NURIYEV" creationdate="20191029T153855Z">
+        <seg>Dil Şablony</seg>
       </tuv>
     </tu>
     <tu>
