@@ -1129,6 +1129,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152402Z" creationid="Merdan NURIYEV" creationdate="20191029T152402Z">
+        <seg>&lt;&amp;br&gt; (setir soňy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T060510Z" creationid="Merdan NURYÝEW " creationdate="20190930T060510Z">
@@ -2367,6 +2375,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152444Z" creationid="Merdan NURIYEV" creationdate="20191029T152444Z">
+        <seg>Opsiýalaryň redaktirlenmesinde ýalňyşlyk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164542Z" creationid="Merdan NURIYEV" creationdate="20191014T164542Z">
@@ -2815,6 +2831,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111748Z" creationid="Merdan NURIYEV" creationdate="20191013T111748Z">
         <seg>{0} topary gözleg jümlesinde ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152602Z" creationid="Merdan NURIYEV" creationdate="20191029T152602Z">
+        <seg>HTML Ýardym Düzüjisi/Translirleýjisi</seg>
       </tuv>
     </tu>
     <tu>
