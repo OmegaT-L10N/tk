@@ -1667,6 +1667,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T151155Z" creationid="Merdan NURIYEV" creationdate="20191029T151155Z">
+        <seg>Terjime edilen doumentlerde boşlyk harplaryny gys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073811Z" creationid="Merdan NURYÝEW " creationdate="20190919T073750Z">
@@ -4490,6 +4498,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202924Z" creationid="Merdan NURIYEV" creationdate="20191025T202924Z">
         <seg>Öňünden ge&amp;len we yzyndan gelen taglarry aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T151422Z" creationid="Merdan NURIYEV" creationdate="20191029T151422Z">
+        <seg>Terjime edilen dokumentlerden HTML teswirlerini aýyr</seg>
       </tuv>
     </tu>
     <tu>
