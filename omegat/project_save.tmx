@@ -2979,6 +2979,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153258Z" creationid="Merdan NURIYEV" creationdate="20191029T153258Z">
+        <seg>HHC ýada HHK faýllarynyň kodlaşdyrma beýany bar bolsa bu ekranda bildirilen sazlamalara garamazdan beýanda bildirilen kodlaşdyrma ulanyljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
