@@ -2391,6 +2391,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153546Z" creationid="Merdan NURIYEV" creationdate="20191029T153546Z">
+        <seg>Dilimleme kadalary ýüklenýän wagy ýalňyşlyklar ýüze çykdy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -6219,6 +6227,14 @@ Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? gold
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082251Z" creationid="Merdan NURIYEV" creationdate="20191011T082251Z">
         <seg>Girizilen üýtgedilip bolýan tehniki sözlük faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153317Z" creationid="Merdan NURIYEV" creationdate="20191029T153317Z">
+        <seg>XHTML faýly</seg>
       </tuv>
     </tu>
     <tu>
