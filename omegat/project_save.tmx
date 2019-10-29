@@ -2835,6 +2835,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152641Z" creationid="Merdan NURIYEV" creationdate="20191029T152641Z">
+        <seg>Örän uly HHC faýly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152602Z" creationid="Merdan NURIYEV" creationdate="20191029T152602Z">
@@ -3701,6 +3709,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051401Z" creationid="Merdan NURIYEV" creationdate="20191017T051401Z">
         <seg>Bellik: DocBook faýllarynyň tananmasy üçin diňe bir faýlyň giňelmesi däl eýsem DOCTYPE beýany hem mazmunda bolmalydyr : DocBook 4 üçin &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... , we DocBook 5 üçin Namespace: xmlns="http://docbook.org/ns/docbook"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152944Z" creationid="Merdan NURIYEV" creationdate="20191029T152944Z">
+        <seg>Bellik: Gözbaş Faýlynyň Kodlaşdyrma sazlamasy diňe bir kodlaşdyrma beýany bolmadyk HHC we HHK faýllaryna täsir eder.</seg>
       </tuv>
     </tu>
     <tu>
