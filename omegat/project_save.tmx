@@ -1333,6 +1333,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072115Z" creationid="Merdan NURIYEV" creationdate="20191030T072115Z">
+        <seg>{0} dilimleme kada toplumyny aýyrjakmy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091825Z" creationid="Merdan NURYÝEW " creationdate="20191005T091825Z">
