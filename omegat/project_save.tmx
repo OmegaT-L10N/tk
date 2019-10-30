@@ -4686,6 +4686,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T182025Z" creationid="Merdan NURIYEV" creationdate="20191030T182025Z">
+        <seg>Haýsy häsiýetiň laýykdygyny saýlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062720Z" creationid="Merdan NURYÝEW " creationdate="20190921T062720Z">
