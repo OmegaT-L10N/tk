@@ -2063,6 +2063,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170037Z" creationid="Merdan NURIYEV" creationdate="20191030T170037Z">
+        <seg>&amp;Taglary görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075131Z" creationid="Merdan NURYÝEW " creationdate="20190930T075131Z">
@@ -6473,6 +6481,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T065338Z" creationid="Merdan NURYÝEW " creationdate="20190924T065338Z">
         <seg>Ilerlemek üçin &amp;TAB Ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170235Z" creationid="Merdan NURIYEV" creationdate="20191030T170235Z">
+        <seg>Özbaşdak taglar &amp;üçin (meselem &lt;i/&gt;) &amp;XML ulan</seg>
       </tuv>
     </tu>
     <tu>
