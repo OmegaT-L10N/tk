@@ -2063,6 +2063,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171636Z" creationid="Merdan NURIYEV" creationdate="20191030T171628Z">
+        <seg>&amp;Aktiw gözbaş dilimi goýy görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170037Z" creationid="Merdan NURIYEV" creationdate="20191030T170037Z">
@@ -2075,6 +2083,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075131Z" creationid="Merdan NURYÝEW " creationdate="20190930T075131Z">
         <seg>Ekran Şrifti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171530Z" creationid="Merdan NURIYEV" creationdate="20191030T171530Z">
+        <seg>Hemme &amp;gözbaş dilimlerini goýy görkez</seg>
       </tuv>
     </tu>
     <tu>
@@ -6625,6 +6641,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103059Z" creationid="Merdan NURIYEV" creationdate="20191018T103059Z">
         <seg>Görnüş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171425Z" creationid="Merdan NURIYEV" creationdate="20191030T171425Z">
+        <seg>Görnüş Opsiýalary</seg>
       </tuv>
     </tu>
     <tu>
