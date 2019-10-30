@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072545Z" creationid="Merdan NURIYEV" creationdate="20191030T072545Z">
+        <seg>&amp;At/ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085237Z" creationid="Merdan NURIYEV" creationdate="20191016T085237Z">
@@ -2215,6 +2223,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T075247Z" creationid="Merdan NURIYEV" creationdate="20191030T075247Z">
+        <seg>Redaktor OpsiýalaryyEditor Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080707Z" creationid="Merdan NURIYEV" creationdate="20191011T080707Z">
@@ -3281,6 +3297,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="user" changedate="20190916T102315Z" creationid="user" creationdate="20190916T102315Z">
         <seg>Jikme-jik maglumat üçin  `team -h` ýazyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072515Z" creationid="Merdan NURIYEV" creationdate="20191030T072515Z">
+        <seg>Bular ýerine ýetiren terjimeleri bildirmek üçin ulanylar.</seg>
       </tuv>
     </tu>
     <tu>
