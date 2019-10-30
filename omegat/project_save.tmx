@@ -2651,6 +2651,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T165602Z" creationid="Merdan NURIYEV" creationdate="20191030T165602Z">
+        <seg>Ekstern TMX Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085601Z" creationid="Merdan NURYÝEW " creationdate="20191005T085601Z">
@@ -4530,6 +4538,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082853Z" creationid="Merdan NURIYEV" creationdate="20191011T082646Z">
         <seg>Haýyşt! Başka bir bukja seçiň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170015Z" creationid="Merdan NURIYEV" creationdate="20191030T170015Z">
+        <seg>OmegaT degişli bolmadyk TMX'leriň taglarynyň nähili görkeziljegini saýlaň.</seg>
       </tuv>
     </tu>
     <tu>
