@@ -2215,6 +2215,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T092750Z" creationid="Merdan NURIYEV" creationdate="20191030T092750Z">
+        <seg>Redaktor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103630Z" creationid="Merdan NURIYEV" creationdate="20191018T103630Z">
@@ -2225,8 +2233,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>Editor Options</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T075247Z" creationid="Merdan NURIYEV" creationdate="20191030T075247Z">
-        <seg>Redaktor OpsiýalaryyEditor Options</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T075304Z" creationid="Merdan NURIYEV" creationdate="20191030T075247Z">
+        <seg>Redaktor Opsiýalary</seg>
       </tuv>
     </tu>
     <tu>
