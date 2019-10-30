@@ -4419,6 +4419,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T165539Z" creationid="Merdan NURIYEV" creationdate="20191030T165539Z">
+        <seg>Abzas çäklendirme formady:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163510Z" creationid="Merdan NURIYEV" creationdate="20191014T163510Z">
