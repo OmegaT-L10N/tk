@@ -1353,6 +1353,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T183737Z" creationid="Merdan NURIYEV" creationdate="20191030T183737Z">
+        <seg>Terjime edilen taglaryň &amp;başga düzgünnyzamda bolmasyna rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080439Z" creationid="Merdan NURIYEV" creationdate="20191016T080439Z">
@@ -5026,6 +5034,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T183242Z" creationid="Merdan NURIYEV" creationdate="20191030T183242Z">
         <seg>Ulanyjy taglary üçin kadaly jümle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T183437Z" creationid="Merdan NURIYEV" creationdate="20191030T183437Z">
+        <seg>Terjimeden aýyrylmaly bölekler üçin ulanyljak kadaly jümle:</seg>
       </tuv>
     </tu>
     <tu>
