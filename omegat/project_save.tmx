@@ -479,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T055033Z" creationid="Merdan NURIYEV" creationdate="20191030T055033Z">
+        <seg>A&amp;şak Süýşir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085237Z" creationid="Merdan NURIYEV" creationdate="20191016T085237Z">
@@ -3741,6 +3749,22 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T054936Z" creationid="Merdan NURIYEV" creationdate="20191030T054936Z">
+        <seg>&amp;Aşak Süýşir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T054913Z" creationid="Merdan NURIYEV" creationdate="20191030T054913Z">
+        <seg>&amp;Ýokary Süýşir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084831Z" creationid="Merdan NURIYEV" creationdate="20191016T084831Z">
@@ -4045,8 +4069,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T152113Z" creationid="Merdan NURIYEV" creationdate="20191027T152113Z">
-        <seg>Diňe, &amp;Eger (X)HTML faýly bir kodlaşdyrma beýanyna eýe bolsa</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T054755Z" creationid="Merdan NURIYEV" creationdate="20191027T152113Z">
+        <seg>Diňe, &amp;Eger (X)HTML faýlynyň bir kodlaşdyrma beýany bar bolsa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5120,6 +5144,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T055656Z" creationid="Merdan NURIYEV" creationdate="20191030T055656Z">
+        <seg>Dilimleme kadalary aşakdaky tertipde Segmentation rules are applied in the following order:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090013Z" creationid="Merdan NURYÝEW " creationdate="20190930T080458Z">
@@ -5220,6 +5252,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073805Z" creationid="Merdan NURYÝEW " creationdate="20190923T073805Z">
         <seg>Boş Terjime Belle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T055113Z" creationid="Merdan NURIYEV" creationdate="20191030T055113Z">
+        <seg>Dilimleme kadalar toplumy:</seg>
       </tuv>
     </tu>
     <tu>
