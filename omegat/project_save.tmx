@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150418Z" creationid="Merdan NURIYEV" creationdate="20191030T150418Z">
+        <seg>Iň az &amp;meňzeşlik:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T055033Z" creationid="Merdan NURIYEV" creationdate="20191030T055033Z">
@@ -563,6 +571,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074648Z" creationid="Merdan NURYÝEW " creationdate="20190926T074648Z">
         <seg>&amp;Häsiýetler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150906Z" creationid="Merdan NURIYEV" creationdate="20191030T150906Z">
+        <seg>&amp;Pristafka:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3265,6 +3281,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T075347Z" creationid="Merdan NURYÝEW " creationdate="20190923T075347Z">
         <seg>Ýunikod Kontrol Harpyny Giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150344Z" creationid="Merdan NURIYEV" creationdate="20191030T150344Z">
+        <seg>Iň gowy kesgitli &amp;bolmaýan gabat geleni giriz</seg>
       </tuv>
     </tu>
     <tu>
