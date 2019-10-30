@@ -5552,6 +5552,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170836Z" creationid="Merdan NURIYEV" creationdate="20191030T170836Z">
+        <seg>Kesgitli bolmaýan gabat gelmeleri şuňa götä tertiple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080107Z" creationid="Merdan NURIYEV" creationdate="20191016T080107Z">
@@ -5700,6 +5708,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091149Z" creationid="Merdan NURYÝEW " creationdate="20191005T091149Z">
         <seg>Statistikalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171038Z" creationid="Merdan NURIYEV" creationdate="20191030T171038Z">
+        <seg>Söz kökleri, tagsiz we sansys</seg>
       </tuv>
     </tu>
     <tu>
