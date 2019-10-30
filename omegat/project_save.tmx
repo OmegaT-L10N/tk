@@ -3019,6 +3019,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T182431Z" creationid="Merdan NURIYEV" creationdate="20191030T182431Z">
+        <seg>Doly derňew, adaty tekstlerde ýalňyş netijeler berip biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171301Z" creationid="Merdan NURIYEV" creationdate="20191030T171301Z">
