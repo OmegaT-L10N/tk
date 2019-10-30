@@ -3805,6 +3805,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170738Z" creationid="Merdan NURIYEV" creationdate="20191030T170738Z">
+        <seg>Gabat gelenleriň görkeziliş galyby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximize</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103704Z" creationid="Merdan NURIYEV" creationdate="20191018T103704Z">
@@ -5780,6 +5788,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072314Z" creationid="Merdan NURIYEV" creationdate="20191030T072314Z">
         <seg>Terjimeçi Topar Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170619Z" creationid="Merdan NURIYEV" creationdate="20191030T170619Z">
+        <seg>Galyp üýtgeýän ululyklary:</seg>
       </tuv>
     </tu>
     <tu>
