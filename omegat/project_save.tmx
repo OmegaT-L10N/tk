@@ -6877,6 +6877,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning: Changing tag order may break the translated document!</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T183851Z" creationid="Merdan NURIYEV" creationdate="20191030T183851Z">
+        <seg>Duýduryş: Taglaryň düzgünnyzamyny üýtgetmek terjime edilen dokumenti bozup biler!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051628Z" creationid="Merdan NURIYEV" creationdate="20191017T051628Z">
