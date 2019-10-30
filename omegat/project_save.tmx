@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150231Z" creationid="Merdan NURIYEV" creationdate="20191030T150231Z">
+        <seg>Di&amp;limi boş goý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T072725Z" creationid="Merdan NURIYEV" creationdate="20191023T072725Z">
@@ -3261,6 +3269,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150153Z" creationid="Merdan NURIYEV" creationdate="20191030T150153Z">
+        <seg>Gözbaş tek&amp;st giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084057Z" creationid="Merdan NURYÝEW " creationdate="20190919T083812Z">
@@ -4434,6 +4450,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T083142Z" creationid="Merdan NURIYEV" creationdate="20191008T083142Z">
         <seg>Gözbaş faýllaryňyzyň dilini we terjime etmek üçin niýet edilen dili seçiň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150104Z" creationid="Merdan NURIYEV" creationdate="20191030T150104Z">
+        <seg>Heniz terjime edilmedik dilime geçilende dilime goşuljak teksti ýazyň.</seg>
       </tuv>
     </tu>
     <tu>
