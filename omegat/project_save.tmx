@@ -3797,6 +3797,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072226Z" creationid="Merdan NURIYEV" creationdate="20191030T072226Z">
+        <seg>Täze Dil we Ülke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T060623Z" creationid="Merdan NURYÝEW " creationdate="20190924T060623Z">
@@ -4370,6 +4378,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051217Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
         <seg>"Terjime Dokumentlerini Döret" funksiýasyny ulanmadan öň tag/bellik problemalaryny düzelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072409Z" creationid="Merdan NURIYEV" creationdate="20191030T072409Z">
+        <seg>Adyňyzy/ID giriziň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5556,6 +5572,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051631Z" creationid="Merdan NURYÝEW " creationdate="20190930T051631Z">
         <seg>Niýet edilen faýllar tabşyryldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072320Z" creationid="Merdan NURIYEV" creationdate="20191030T072320Z">
+        <seg>Topar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072314Z" creationid="Merdan NURIYEV" creationdate="20191030T072314Z">
+        <seg>Terjimeçi Topar Opsiýalary</seg>
       </tuv>
     </tu>
     <tu>
