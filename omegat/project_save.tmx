@@ -5694,6 +5694,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T022822Z" creationid="Merdan NURIYEV" creationdate="20191030T022822Z">
+        <seg>Şunlukda Kanada Faransuzçasy (FR-CA) üçin kada Fransiýa Fransuzçasy (FR.*) üçin kadadan we beýleki öňünden kabul edilen kadalardan (.*) has ýokarda bolmalydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202444Z" creationid="Merdan NURIYEV" creationdate="20191025T202444Z">
