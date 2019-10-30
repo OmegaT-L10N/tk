@@ -4217,6 +4217,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181857Z" creationid="Merdan NURIYEV" creationdate="20191030T181857Z">
+        <seg>OmegaT şol bir wagtyň özünde '%s'  ýaly programmirleme üýtegeýän ululyklaryny hem derňäp bilýär (printif funksiýasynyň üýtgeýän ululyklary).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082835Z" creationid="Merdan NURIYEV" creationdate="20191011T082826Z">
@@ -4543,6 +4551,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082250Z" creationid="Merdan NURIYEV" creationdate="20191016T082250Z">
         <seg>Parol-goragly PDF faýllar goldanmaýar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181429Z" creationid="Merdan NURIYEV" creationdate="20191030T181429Z">
+        <seg>Parol:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5880,6 +5896,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181555Z" creationid="Merdan NURIYEV" creationdate="20191030T181555Z">
+        <seg>Tag Işläp Bejermesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181514Z" creationid="Merdan NURIYEV" creationdate="20191030T181514Z">
+        <seg>Tag Derňew Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T144509Z" creationid="Merdan NURIYEV" creationdate="20191014T144509Z">
@@ -6673,6 +6705,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081534Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
         <seg>Gözbaş tekstde aýry görünen terminleri ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181423Z" creationid="Merdan NURIYEV" creationdate="20191030T181423Z">
+        <seg>Ulanyjy:</seg>
       </tuv>
     </tu>
     <tu>
