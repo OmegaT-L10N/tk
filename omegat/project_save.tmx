@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T182554Z" creationid="Merdan NURIYEV" creationdate="20191030T182554Z">
+        <seg>printf üýtgeýän ululyklaryny &amp;derňeme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T045629Z" creationid="Merdan NURIYEV" creationdate="20191017T045629Z">
@@ -1657,6 +1665,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T063200Z" creationid="Merdan NURYÝEW " creationdate="20190924T063200Z">
         <seg>&amp;Neşirlerde Barla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T182742Z" creationid="Merdan NURIYEV" creationdate="20191030T182742Z">
+        <seg>Ýeňil printf üýtgeýän ululyklaryny derňe (meselem %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
