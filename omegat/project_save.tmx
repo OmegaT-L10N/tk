@@ -4830,6 +4830,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181032Z" creationid="Merdan NURIYEV" creationdate="20191030T181032Z">
+        <seg>Wekil Serwer Hasaba Giriş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T180931Z" creationid="Merdan NURIYEV" creationdate="20191030T180931Z">
