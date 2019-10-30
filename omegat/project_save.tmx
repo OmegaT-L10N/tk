@@ -2439,6 +2439,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181418Z" creationid="Merdan NURIYEV" creationdate="20191030T181418Z">
+        <seg>Ulanyjy ady we parol kody açylanda ýalňyşlyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111641Z" creationid="Merdan NURIYEV" creationdate="20191013T111641Z">
@@ -3273,6 +3281,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202653Z" creationid="Merdan NURIYEV" creationdate="20191025T202653Z">
         <seg>Eger süzgüjiň opsiýalary bar bolsa "Opsiýalar" düwmesine basyp olary üýtgedip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181243Z" creationid="Merdan NURIYEV" creationdate="20191030T181243Z">
+        <seg>Eger ulanylýan wekil serwer barlag geçirýän bolsa bu ýere ulanyjy we parol maglumatlaryny giriziň.</seg>
       </tuv>
     </tu>
     <tu>
