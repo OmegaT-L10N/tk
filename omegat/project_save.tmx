@@ -6565,6 +6565,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T165359Z" creationid="Merdan NURIYEV" creationdate="20191030T165359Z">
+        <seg>Bir faýlyň mundan köp dilimi bar bolsa goşmaça dilimler siz ekrany aşak süýşürende ýüklenjekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T171801Z" creationid="Merdan NURIYEV" creationdate="20191017T171801Z">
