@@ -1,2 +1,3 @@
 license	ygtyýarnama
 variable	üýtgeýän ululyk
+Regular expression	Kadaly jümle
