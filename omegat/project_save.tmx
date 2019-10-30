@@ -3285,6 +3285,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170323Z" creationid="Merdan NURIYEV" creationdate="20191030T170323Z">
+        <seg>&amp;Başga dilden gabat gelenleri giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090408Z" creationid="Merdan NURYÝEW " creationdate="20191005T090408Z">
@@ -4479,6 +4487,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154234Z" creationid="Merdan NURIYEV" creationdate="20191029T154134Z">
         <seg>Şablon Öň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170506Z" creationid="Merdan NURIYEV" creationdate="20191030T170506Z">
+        <seg>Başga dillerden gabat gelmeleriň temmisi:</seg>
       </tuv>
     </tu>
     <tu>
