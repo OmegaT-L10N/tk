@@ -1116,11 +1116,11 @@ Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary 
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082944Z" creationid="user" creationdate="20190919T043917Z">
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165720Z" creationid="user" creationdate="20190919T043917Z">
         <seg>--resource-bundle=&lt;ýol&gt;
 		Interfeýs tekstini saklamak üçin ulanylýan Jawa .properties faýly
 	--config-dir=&lt;ýol&gt;
-		OmegaT konfigurasýa faýllaryny ýazmak/okamak  üçin ulanylýan bukja.</seg>
+		OmegaT konfigurasiýa faýllaryny ýazmak/okamak  üçin ulanylýan bukja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2719,8 +2719,8 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       <tuv lang="EN">
         <seg>Error saving segmentation rules configuration:</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153815Z" creationid="Merdan NURIYEV" creationdate="20191029T153815Z">
-        <seg>Dilimleme kadalary konfigurasýasynyň ýatda saklanmasynda ýalňyşlyk:</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165844Z" creationid="Merdan NURIYEV" creationdate="20191029T153815Z">
+        <seg>Dilimleme kadalary konfigurasiýasynyň ýatda saklanmasynda ýalňyşlyk:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,8 +6912,8 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075329Z" creationid="Merdan NURIYEV" creationdate="20191016T075240Z">
-        <seg>Süzgüçleriň konfigurasýa  faýlyny seljerip bolanok</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165744Z" creationid="Merdan NURIYEV" creationdate="20191016T075240Z">
+        <seg>Süzgüçleriň konfigurasiýa  faýlyny seljerip bolanok</seg>
       </tuv>
     </tu>
     <tu>
@@ -6936,8 +6936,8 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       <tuv lang="EN">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075325Z" creationid="Merdan NURIYEV" creationdate="20191016T075325Z">
-        <seg>Süzgüçleriň konfigurasýa  faýlyny ýatda saklap bolanok</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165812Z" creationid="Merdan NURIYEV" creationdate="20191016T075325Z">
+        <seg>Süzgüçleriň konfigurasiýa  faýlyny ýatda saklap bolanok</seg>
       </tuv>
     </tu>
     <tu>
