@@ -1419,6 +1419,16 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T170826Z" creationid="Merdan NURIYEV" creationdate="20191031T170826Z">
+        <seg>Programma ýapylma hadysasynda ýalňyşlyk ýüze çykdy:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
@@ -2787,6 +2797,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163040Z" creationid="Merdan NURIYEV" creationdate="20191014T163040Z">
         <seg>Sypalga edilen ikilik harpyň maglumaty bozuk ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T170755Z" creationid="Merdan NURIYEV" creationdate="20191031T170755Z">
+        <seg>Hadysa: programma ýapyldy</seg>
       </tuv>
     </tu>
     <tu>
