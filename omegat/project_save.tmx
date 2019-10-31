@@ -3783,6 +3783,16 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T170034Z" creationid="Merdan NURIYEV" creationdate="20191031T170034Z">
+        <seg>Konfigurasiýa bukjasynyň içinde
+skript bukjasy döredilip bolmady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T050251Z" creationid="Merdan NURYÝEW " creationdate="20190930T050251Z">
@@ -6492,6 +6502,16 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T170153Z" creationid="Merdan NURIYEV" creationdate="20191031T170153Z">
+        <seg>Bunuň ýerine häzirki
+bukja ulanylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -6555,8 +6575,8 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T163906Z" creationid="Merdan NURIYEV" creationdate="20191031T163906Z">
-        <seg>Şonuň üçin, OmegaT'niň konfigurasýa bukjasynyň
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165945Z" creationid="Merdan NURIYEV" creationdate="20191031T163906Z">
+        <seg>Şonuň üçin, OmegaT'niň konfigurasiýa bukjasynyň
 ýeri ynamly şekilde seljerilmedi.</seg>
       </tuv>
     </tu>
