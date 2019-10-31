@@ -1835,6 +1835,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100912Z" creationid="Merdan NURIYEV" creationdate="20191031T100912Z">
+        <seg>Teswirler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063135Z" creationid="Merdan NURYÝEW " creationdate="20190921T063135Z">
@@ -3557,6 +3565,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101020Z" creationid="Merdan NURIYEV" creationdate="20191031T101020Z">
+        <seg>Maglumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T072201Z" creationid="Merdan NURYÝEW " creationdate="20190919T072201Z">
@@ -3769,6 +3785,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085726Z" creationid="Merdan NURIYEV" creationdate="20191016T085726Z">
         <seg>Java(TM) Resurs Desseleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101037Z" creationid="Merdan NURIYEV" creationdate="20191031T101037Z">
+        <seg>Java: {0} wersiýa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4421,6 +4445,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T095258Z" creationid="Merdan NURIYEV" creationdate="20191031T095258Z">
         <seg>Dilimde Tehniki Sözlük ýazgylary bilen gabatlaşma bar bolsa muny maňa bildir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100907Z" creationid="Merdan NURIYEV" creationdate="20191031T100907Z">
+        <seg>Dilimiň Bellikleri Bar Bolsa Muny Maňa Bildir</seg>
       </tuv>
     </tu>
     <tu>
