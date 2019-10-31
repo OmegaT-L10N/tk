@@ -1249,6 +1249,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100753Z" creationid="Merdan NURIYEV" creationdate="20191031T100753Z">
+        <seg>Bellik - gözbaş tekste ýada häzirki dilime degişli bolan sada bir teswirdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T080736Z" creationid="Merdan NURYÝEW " creationdate="20190919T080736Z">
@@ -1381,6 +1389,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080439Z" creationid="Merdan NURIYEV" creationdate="20191016T080439Z">
         <seg>&amp;Boş gözbaş dilimleriniň terjime edilmesine rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100403Z" creationid="Merdan NURIYEV" creationdate="20191031T100403Z">
+        <seg>Aktiw dilimse bellikleriň görkezilmegine, goşylmasyna ýada aýyrylasyna rugsat ber.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4005,6 +4021,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100154Z" creationid="Merdan NURIYEV" creationdate="20191031T100154Z">
+        <seg>Kompýuter Terjimesi Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051838Z" creationid="Merdan NURIYEV" creationdate="20191017T051838Z">
@@ -4357,6 +4381,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201329Z" creationid="Merdan NURIYEV" creationdate="20191025T201329Z">
         <seg>Bellik: käbir süzgüçler kodlaşdyrma saýlama mümkinçiligini bermeýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100203Z" creationid="Merdan NURIYEV" creationdate="20191031T100203Z">
+        <seg>Bellikler</seg>
       </tuv>
     </tu>
     <tu>
