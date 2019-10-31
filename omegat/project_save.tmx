@@ -4021,6 +4021,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T092200Z" creationid="Merdan NURIYEV" creationdate="20191031T092200Z">
+        <seg>Gabat gelmeler, häzirki terjimeleriňiziň içinde ýada /tm/ bukjasyna ýerleşdiren TMX faýllarynyň içinde bolup biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximize</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103704Z" creationid="Merdan NURIYEV" creationdate="20191018T103704Z">
