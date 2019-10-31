@@ -961,6 +961,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'{0}' menu selected</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101204Z" creationid="Merdan NURIYEV" creationdate="20191031T101204Z">
+        <seg>'{0}'  menýusy saýlandy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -1401,6 +1409,16 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101449Z" creationid="Merdan NURIYEV" creationdate="20191031T101449Z">
+        <seg>Proýekt üýtgeşikligi hadysasy işlenende ýalňyşlyk boldy:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082942Z" creationid="Merdan NURIYEV" creationdate="20191011T082942Z">
@@ -1769,6 +1787,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170202Z" creationid="Merdan NURIYEV" creationdate="20191008T170202Z">
         <seg>MED proýektini seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101134Z" creationid="Merdan NURIYEV" creationdate="20191031T101134Z">
+        <seg>'{0}' menýu elementine basyldy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2731,6 +2757,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163040Z" creationid="Merdan NURIYEV" creationdate="20191014T163040Z">
         <seg>Sypalga edilen ikilik harpyň maglumaty bozuk ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101247Z" creationid="Merdan NURIYEV" creationdate="20191031T101247Z">
+        <seg>Hadysa: proýekt üýtgeşikligi - "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7567,6 +7601,14 @@ Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? gold
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092626Z" creationid="Merdan NURIYEV" creationdate="20191014T092626Z">
         <seg>{0} +{1} ýene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101107Z" creationid="Merdan NURIYEV" creationdate="20191031T101107Z">
+        <seg>{1}, işledilen ýeri '{2}'</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
