@@ -2199,6 +2199,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T095526Z" creationid="Merdan NURIYEV" creationdate="20191031T095526Z">
+        <seg>/dictionary/ bukjasynda ýerleşen we gözbaş dilimde gabat gelen sözlük ýazgylaryny görkezer. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T093010Z" creationid="Merdan NURIYEV" creationdate="20191031T093010Z">
@@ -4591,6 +4599,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081805Z" creationid="Merdan NURYÝEW " creationdate="20190930T081805Z">
         <seg>Niýet Edilen Faýlyň Ýerleşýän Ýerini Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T095335Z" creationid="Merdan NURIYEV" creationdate="20191031T095335Z">
+        <seg>Üýtgetme Girizilip Bolýan Tehniki Sözlük faýlyny aç</seg>
       </tuv>
     </tu>
     <tu>
