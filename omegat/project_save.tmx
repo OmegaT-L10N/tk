@@ -1469,6 +1469,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091150Z" creationid="Merdan NURIYEV" creationdate="20191031T091129Z">
+        <seg>Täzelikleri awtomatiki barla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105402Z" creationid="Merdan NURYÝEW " creationdate="20191005T105402Z">
@@ -1697,6 +1705,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T063232Z" creationid="Merdan NURYÝEW " creationdate="20190924T063232Z">
         <seg>&amp;Häzirki Dokument üçin Neşirlerde Barla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091155Z" creationid="Merdan NURIYEV" creationdate="20191031T091145Z">
+        <seg>Häzir barla</seg>
       </tuv>
     </tu>
     <tu>
@@ -3785,6 +3801,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075102Z" creationid="Merdan NURYÝEW " creationdate="20190930T075102Z">
         <seg>Iň soň {0} tarapyndan üýtgedildi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091040Z" creationid="Merdan NURIYEV" creationdate="20191031T091040Z">
+        <seg>Iň sonky</seg>
       </tuv>
     </tu>
     <tu>
@@ -6622,6 +6646,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075325Z" creationid="Merdan NURIYEV" creationdate="20191016T075325Z">
         <seg>Süzgüçleriň konfigurasýa  faýlyny ýatda saklap bolanok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091406Z" creationid="Merdan NURIYEV" creationdate="20191031T091406Z">
+        <seg>Aýyr</seg>
       </tuv>
     </tu>
     <tu>
