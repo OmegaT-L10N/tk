@@ -3515,6 +3515,18 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165500Z" creationid="Merdan NURIYEV" creationdate="20191031T165500Z">
+        <seg>Eger soňradan islenen ýere ygtyýarlylyk berilse
+şol ýer ulanyljakdyr we bu özgertme sebäpli
+hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202653Z" creationid="Merdan NURIYEV" creationdate="20191025T202653Z">
@@ -6476,6 +6488,16 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083002Z" creationid="Merdan NURIYEV" creationdate="20191015T083002Z">
         <seg>TMX gözbaş dili ({0}) proýekt gözbaş dilinden ({1}) başga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165029Z" creationid="Merdan NURIYEV" creationdate="20191031T165029Z">
+        <seg>Bunuň ýerine häzirki
+bukja ulanylar.</seg>
       </tuv>
     </tu>
     <tu>
