@@ -6400,6 +6400,16 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T164138Z" creationid="Merdan NURIYEV" creationdate="20191031T164138Z">
+        <seg>Munuň ýerine
+häzirki bukja ulanylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T045726Z" creationid="Merdan NURIYEV" creationdate="20191017T045726Z">
