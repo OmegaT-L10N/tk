@@ -7191,6 +7191,14 @@ Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? gold
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T094924Z" creationid="Merdan NURIYEV" creationdate="20191031T094924Z">
+        <seg>"Redaktirle" menýusyndaky "Tehniki Sözlük Ýazgysyny Döret" komandasy bilen tehniki sözlük ýazgysyny döredip bilersiňisiz..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
