@@ -7479,6 +7479,16 @@ Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? gold
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T164959Z" creationid="Merdan NURIYEV" creationdate="20191031T164959Z">
+        <seg>Operasiýa ulgamy OmegaT'niň özüne
+konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T054639Z" creationid="Merdan NURYÝEW " creationdate="20190921T054639Z">
