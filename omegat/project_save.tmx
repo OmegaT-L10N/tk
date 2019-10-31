@@ -4599,8 +4599,10 @@ Kerep ýüpjagazy bilen baglandyňyz
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T162748Z" creationid="Merdan NURIYEV" creationdate="20191031T162748Z">
-        <seg>OmegaT sistem häsiýetlerinden Operasýa sistemaňyzyň nämedigini ýada başlangyç (home) bukjaňyzyň ýerleşýän ýerini kesgitläp bilmedi.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T163437Z" creationid="Merdan NURIYEV" creationdate="20191031T162748Z">
+        <seg>OmegaT'niň sistem häsiýetlerinden Operasýa sistemaňyzyň ad maglumatyny
+ýada başlangyç (home) bukjaňyzyň ýerleşýän ýeri maglumatyny
+almasyna rugsat berilmedi.</seg>
       </tuv>
     </tu>
     <tu>
