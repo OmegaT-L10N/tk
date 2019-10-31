@@ -2191,6 +2191,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T093010Z" creationid="Merdan NURIYEV" creationdate="20191031T093010Z">
+        <seg>/glossayr/ bukjasynda ýerleşen we gözbaş dilimde gabat gelen tehniki sözlük ýazgylaryny görkezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091930Z" creationid="Merdan NURIYEV" creationdate="20191031T091930Z">
