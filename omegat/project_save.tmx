@@ -1313,6 +1313,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091429Z" creationid="Merdan NURIYEV" creationdate="20191031T091429Z">
+        <seg>Amllar &amp; Sazlamalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T173345Z" creationid="Merdan NURIYEV" creationdate="20191008T173345Z">
@@ -3561,6 +3569,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T084057Z" creationid="Merdan NURYÝEW " creationdate="20190919T083812Z">
         <seg>OmegaT'ni gurnama we işe goýbermek" Ulanyjy Gollanmasy içinde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091504Z" creationid="Merdan NURIYEV" creationdate="20191031T091504Z">
+        <seg>Gyssagly Başlat</seg>
       </tuv>
     </tu>
     <tu>
