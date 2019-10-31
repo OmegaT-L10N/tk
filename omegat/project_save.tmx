@@ -4595,6 +4595,16 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T162748Z" creationid="Merdan NURIYEV" creationdate="20191031T162748Z">
+        <seg>OmegaT sistem häsiýetlerinden Operasýa sistemaňyzyň nämedigini ýada başlangyç (home) bukjaňyzyň ýerleşýän ýerini kesgitläp bilmedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073719Z" creationid="Merdan NURIYEV" creationdate="20191023T073719Z">
