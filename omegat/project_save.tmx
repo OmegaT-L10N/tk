@@ -2175,6 +2175,22 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T060347Z" creationid="Merdan NURIYEV" creationdate="20191031T060347Z">
+        <seg>Alamat açar-many jübütleriniň(otyr bilen aýyrylan) yzyndan gelen meta-taglaryň mazmunynyň alamatlaryny terjime etme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T060112Z" creationid="Merdan NURIYEV" creationdate="20191031T060112Z">
+        <seg>Alamat açar-many jübütleriniň(otyr bilen aýyrylan) yzyndan gelen taglaryň mazmunyny terjime etme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053259Z" creationid="Merdan NURYÝEW " creationdate="20190930T053259Z">
@@ -3429,6 +3445,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T065233Z" creationid="Merdan NURIYEV" creationdate="20191031T065233Z">
+        <seg>Gaýtalanmaýan dilimleri teýdar edende ilk gaýtalanmaýan dilimi goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090408Z" creationid="Merdan NURYÝEW " creationdate="20191005T090408Z">
@@ -4181,6 +4205,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T140134Z" creationid="Merdan NURIYEV" creationdate="20191014T140134Z">
         <seg>Dogry bolmadyk XML faýly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T061013Z" creationid="Merdan NURIYEV" creationdate="20191031T061013Z">
+        <seg>Bellik: Gabat gelen Dil Şablony dilimleme kadalarynyň hemmesi şu berilen yzygiderlikde ele alynar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,6 +6234,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082358Z" creationid="Merdan NURIYEV" creationdate="20191011T082358Z">
         <seg>Üýtgedilip bolýan tehniki sözlük faýllary tehniki sözlük bukjasynyň içinde bolmalydyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T061509Z" creationid="Merdan NURIYEV" creationdate="20191031T061509Z">
+        <seg>Şeýlelikde Kanada Fransuzçasyndan terjime edilende siziň proýektiňiz dogry yzygyderlilikde hemme dil zynjyry üçin kesgitlenen hemme düzgünleri ulanar.</seg>
       </tuv>
     </tu>
     <tu>
