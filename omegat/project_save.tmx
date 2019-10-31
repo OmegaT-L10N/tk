@@ -1479,6 +1479,18 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T164819Z" creationid="Merdan NURIYEV" creationdate="20191031T164819Z">
+        <seg>Bunuň netijesinde,
+hemme sazlamalar  öňünden kabul edilen ýagdaýda bolar, bu sebäpli garaşylmadyk
+tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164033Z" creationid="Merdan NURIYEV" creationdate="20191030T164033Z">
