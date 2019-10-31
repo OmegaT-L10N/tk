@@ -2191,6 +2191,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091930Z" creationid="Merdan NURIYEV" creationdate="20191031T091930Z">
+        <seg>Gözbaş dilim bilen gabatlaşan terjime hakydasy dilimlerini görkez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T184125Z" creationid="Merdan NURIYEV" creationdate="20191030T184108Z">
