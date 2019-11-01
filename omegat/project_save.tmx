@@ -7790,6 +7790,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175119Z" creationid="Merdan NURIYEV" creationdate="20191101T175119Z">
+        <seg>Tekstiň göwrümi rugsat berilenden köp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081444Z" creationid="Merdan NURIYEV" creationdate="20191011T081444Z">
@@ -8879,6 +8887,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T174709Z" creationid="Merdan NURIYEV" creationdate="20191101T171834Z">
         <seg>Günlük isleg hetdine bardyňyz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T174924Z" creationid="Merdan NURIYEV" creationdate="20191101T174924Z">
+        <seg>Günlük tekst terjime göwrümüniň hetdine bardyňyz</seg>
       </tuv>
     </tu>
     <tu>
