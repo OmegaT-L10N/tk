@@ -4377,6 +4377,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T171050Z" creationid="Merdan NURIYEV" creationdate="20191101T171050Z">
+        <seg>Nädogry API Açary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095351Z" creationid="Merdan NURIYEV" creationdate="20191027T095351Z">
@@ -7836,6 +7844,14 @@ Sen, ziýan çekenlerden birisiň</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T171349Z" creationid="Merdan NURIYEV" creationdate="20191101T171349Z">
+        <seg>Bu API Açary doňdurylan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084418Z" creationid="Merdan NURIYEV" creationdate="20191101T084418Z">
@@ -8809,6 +8825,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T171027Z" creationid="Merdan NURIYEV" creationdate="20191101T171027Z">
+        <seg>Yandex Translate - API Açary Bildirilmedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163420Z" creationid="Merdan NURIYEV" creationdate="20191012T163420Z">
@@ -8839,6 +8863,14 @@ Sahypaňyz tapylmady</seg>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080737Z" creationid="Merdan NURYÝEW " creationdate="20190930T080737Z">
         <seg>Jikme-jik statistika maglumatlaryny şu faýlda tapyp bilersiňiz:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T171834Z" creationid="Merdan NURIYEV" creationdate="20191101T171834Z">
+        <seg>Günlük isleg mukdar hetdine bardyňyz!</seg>
       </tuv>
     </tu>
     <tu>
