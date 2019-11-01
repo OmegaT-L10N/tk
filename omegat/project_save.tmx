@@ -7790,6 +7790,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175314Z" creationid="Merdan NURIYEV" creationdate="20191101T175314Z">
+        <seg>Tekst terjime edilip bolmaýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175119Z" creationid="Merdan NURIYEV" creationdate="20191101T175119Z">
