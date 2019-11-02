@@ -5139,6 +5139,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175604Z" creationid="Merdan NURIYEV" creationdate="20191101T175604Z">
+        <seg>Moses Serwe URL'si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -7786,6 +7794,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072053Z" creationid="Merdan NURIYEV" creationdate="20191101T072053Z">
         <seg>Berilen sözlük bukjasy ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175536Z" creationid="Merdan NURIYEV" creationdate="20191101T175536Z">
+        <seg>Bellenen terjime ugury goldanmaýar</seg>
       </tuv>
     </tu>
     <tu>
