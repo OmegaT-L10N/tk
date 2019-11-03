@@ -2041,6 +2041,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144458Z" creationid="Merdan NURIYEV" creationdate="20191103T144458Z">
+        <seg>Sýlanan komada-faýlyny okap bolanok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T195927Z" creationid="Merdan NURIYEV" creationdate="20191025T195927Z">
@@ -5463,6 +5471,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144414Z" creationid="Merdan NURIYEV" creationdate="20191103T144414Z">
+        <seg>Komada-faýly seçilmedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tags and no numbers</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171107Z" creationid="Merdan NURIYEV" creationdate="20191030T171107Z">
@@ -6580,6 +6596,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T150739Z" creationid="Merdan NURIYEV" creationdate="20191103T150739Z">
+        <seg>"{0}" komada-faýllary bukjasy täzelenýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073843Z" creationid="Merdan NURYÝEW " creationdate="20190923T073843Z">
@@ -7038,6 +7062,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144536Z" creationid="Merdan NURIYEV" creationdate="20191103T144536Z">
+        <seg>Koamanda-Fýlynyň Netijesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T064555Z" creationid="Merdan NURYÝEW " creationdate="20190924T064555Z">
@@ -7310,10 +7342,26 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144356Z" creationid="Merdan NURIYEV" creationdate="20191103T144356Z">
+        <seg>Komada-Faýlyny Saýla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074133Z" creationid="Merdan NURIYEV" creationdate="20191101T074133Z">
         <seg>languagetool-server.jar faýlyny saýlaň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144511Z" creationid="Merdan NURIYEV" creationdate="20191103T144511Z">
+        <seg>Seçilen Dil: {0}</seg>
       </tuv>
     </tu>
     <tu>
