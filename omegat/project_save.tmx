@@ -2379,6 +2379,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T091421Z" creationid="Merdan NURIYEV" creationdate="20191103T091421Z">
+        <seg>Alternatiw Terjime Döretmek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063346Z" creationid="Merdan NURYÝEW " creationdate="20190921T063346Z">
@@ -6708,6 +6716,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T091522Z" creationid="Merdan NURIYEV" creationdate="20191103T091522Z">
+        <seg>Terjimäni Tekst bilen Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073148Z" creationid="Merdan NURYÝEW " creationdate="20190923T073148Z">
@@ -8631,6 +8647,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082013Z" creationid="Merdan NURYÝEW " creationdate="20190926T064906Z">
         <seg>Tehniki sözlük girişleri üçin köklerine aýyrmany ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T091357Z" creationid="Merdan NURIYEV" creationdate="20191103T091357Z">
+        <seg>Öňünden kabul edilen Terjime Hökminde Ulan</seg>
       </tuv>
     </tu>
     <tu>
