@@ -1633,6 +1633,22 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143724Z" creationid="Merdan NURIYEV" creationdate="20191103T143724Z">
+        <seg>Bir ýalňyşlyk boldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143823Z" creationid="Merdan NURIYEV" creationdate="20191103T143823Z">
+        <seg>Komadna-faýly ýüklenen wagty bir ýalňyşlyk boldy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072322Z" creationid="Merdan NURIYEV" creationdate="20191101T072322Z">
@@ -1825,6 +1841,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085023Z" creationid="Merdan NURIYEV" creationdate="20191101T085023Z">
         <seg>Elýeter sözlükler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143905Z" creationid="Merdan NURIYEV" creationdate="20191103T143905Z">
+        <seg>Elýeterli komanda-faýly dilleri:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2951,6 +2975,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T163226Z" creationid="Merdan NURIYEV" creationdate="20191030T163226Z">
         <seg>Dilimi t&amp;ekst faýlyna goýber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR: (declaring bean)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144107Z" creationid="Merdan NURIYEV" creationdate="20191103T144107Z">
+        <seg>ÝALŇYŞ: (bean bildirmesi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,6 +9241,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T145721Z" creationid="Merdan NURIYEV" creationdate="20191014T145721Z">
         <seg>alamatlar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143711Z" creationid="Merdan NURIYEV" creationdate="20191103T143711Z">
+        <seg>Bes edildi ({0} ms wagt aldy)</seg>
       </tuv>
     </tu>
     <tu>
