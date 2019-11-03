@@ -1845,6 +1845,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172107Z" creationid="Merdan NURIYEV" creationdate="20191103T172107Z">
+        <seg>Alamat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055512Z" creationid="Merdan NURIYEV" creationdate="20191009T055512Z">
@@ -3895,6 +3903,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172238Z" creationid="Merdan NURIYEV" creationdate="20191103T172238Z">
+        <seg>Bitti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finnish</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154719Z" creationid="Merdan NURIYEV" creationdate="20191029T154719Z">
@@ -4445,6 +4461,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T072201Z" creationid="Merdan NURYÝEW " creationdate="20190919T072201Z">
         <seg>Taýarlandy {0}-{1} topar taslamasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172126Z" creationid="Merdan NURIYEV" creationdate="20191103T172126Z">
+        <seg>Ulanyşa taýýarlanýar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7982,6 +8006,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172159Z" creationid="Merdan NURIYEV" creationdate="20191103T172159Z">
+        <seg>Tag barlagy şowsuz boldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051631Z" creationid="Merdan NURYÝEW " creationdate="20190930T051631Z">
@@ -8578,6 +8610,14 @@ Sen, ziýan çekenlerden birisiň</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T082204Z" creationid="Merdan NURYÝEW " creationdate="20190930T082204Z">
         <seg>Terjime edilen unikal dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172230Z" creationid="Merdan NURIYEV" creationdate="20191103T172230Z">
+        <seg>Proýekt Terjime Edilýär</seg>
       </tuv>
     </tu>
     <tu>
