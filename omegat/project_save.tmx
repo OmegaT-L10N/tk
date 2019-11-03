@@ -1561,6 +1561,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T151636Z" creationid="Merdan NURIYEV" creationdate="20191103T151636Z">
+        <seg>Komanda-Faýly Goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T070630Z" creationid="Merdan NURIYEV" creationdate="20191101T070630Z">
