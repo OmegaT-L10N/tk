@@ -3371,6 +3371,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T151149Z" creationid="Merdan NURIYEV" creationdate="20191103T151149Z">
+        <seg>Komadna-faýly ýatda saklanýan wagty ýalňyşlyk boldy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error {0}: {1}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092740Z" creationid="Merdan NURIYEV" creationdate="20191101T092740Z">
@@ -7008,6 +7016,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075443Z" creationid="Merdan NURYÝEW " creationdate="20190930T075443Z">
         <seg>Nusga Tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T150806Z" creationid="Merdan NURIYEV" creationdate="20191103T150806Z">
+        <seg>Komada-Faýlyny Ýatda Sakla</seg>
       </tuv>
     </tu>
     <tu>
