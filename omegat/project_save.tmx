@@ -335,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142448Z" creationid="Merdan NURIYEV" creationdate="20191103T142448Z">
+        <seg>&amp;Faýl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084539Z" creationid="Merdan NURIYEV" creationdate="20191011T084539Z">
@@ -655,6 +663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142501Z" creationid="Merdan NURIYEV" creationdate="20191103T142501Z">
+        <seg>&amp;Komanda Faýlyny Aç...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061504Z" creationid="Merdan NURYÝEW " creationdate="20190921T061504Z">
@@ -819,6 +835,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T065445Z" creationid="Merdan NURYÝEW " creationdate="20190921T065445Z">
         <seg>&amp;Kök</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142531Z" creationid="Merdan NURIYEV" creationdate="20191103T142531Z">
+        <seg>Işe goýbe&amp;r</seg>
       </tuv>
     </tu>
     <tu>
@@ -1941,6 +1965,22 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050225Z" creationid="Merdan NURIYEV" creationdate="20191017T050225Z">
         <seg>Windows üçin Camtasia faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142550Z" creationid="Merdan NURIYEV" creationdate="20191103T142550Z">
+        <seg>Bes et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143020Z" creationid="Merdan NURIYEV" creationdate="20191103T143020Z">
+        <seg>Bes et komandasy diňe bu komandalara goldaw berýän komanda-faýllarynda işlär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6946,6 +6986,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050619Z" creationid="Merdan NURIYEV" creationdate="20191017T050619Z">
         <seg>Scribus faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script &amp;Language</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142519Z" creationid="Merdan NURIYEV" creationdate="20191103T142519Z">
+        <seg>Komanda Di&amp;li</seg>
       </tuv>
     </tu>
     <tu>
