@@ -7534,6 +7534,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154819Z" creationid="Merdan NURIYEV" creationdate="20191103T154819Z">
+        <seg>Ýygymlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075416Z" creationid="Merdan NURIYEV" creationdate="20191030T055113Z">
@@ -7562,6 +7570,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154410Z" creationid="Merdan NURIYEV" creationdate="20191103T154410Z">
         <seg>Tap Gözleg Zolagyny Görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154459Z" creationid="Merdan NURIYEV" creationdate="20191103T154459Z">
+        <seg>Gözleg Çalşyr Zolagyny Görkez</seg>
       </tuv>
     </tu>
     <tu>
