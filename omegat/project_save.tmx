@@ -5141,8 +5141,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Moses Server URL:</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175604Z" creationid="Merdan NURIYEV" creationdate="20191101T175604Z">
-        <seg>Moses Serwe URL'si:</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T084803Z" creationid="Merdan NURIYEV" creationdate="20191101T175604Z">
+        <seg>Moses Serwer URL'si:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,6 +5511,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202745Z" creationid="Merdan NURIYEV" creationdate="20191025T202745Z">
         <seg>O&amp;psiýalarş...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T084931Z" creationid="Merdan NURIYEV" creationdate="20191103T084931Z">
+        <seg>Bolýar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7150,6 +7158,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T085129Z" creationid="Merdan NURIYEV" creationdate="20191103T085129Z">
+        <seg>Serwer "translate" metodyna düşünmedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074729Z" creationid="Merdan NURIYEV" creationdate="20191101T074729Z">
@@ -7598,6 +7614,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T084901Z" creationid="Merdan NURIYEV" creationdate="20191103T084901Z">
+        <seg>Barlag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T084908Z" creationid="Merdan NURIYEV" creationdate="20191103T084908Z">
+        <seg>Barlanýar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084021Z" creationid="Merdan NURIYEV" creationdate="20191016T084021Z">
@@ -7670,6 +7702,14 @@ häzirki bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082638Z" creationid="Merdan NURIYEV" creationdate="20191016T082638Z">
         <seg>Moodle PHP  süzgüji bir ýalňyşlyk döretdi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T084850Z" creationid="Merdan NURIYEV" creationdate="20191103T084850Z">
+        <seg>Moses serwer URL'si bildirilmedik.</seg>
       </tuv>
     </tu>
     <tu>
