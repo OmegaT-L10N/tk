@@ -7108,6 +7108,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154948Z" creationid="Merdan NURIYEV" creationdate="20191103T154948Z">
+        <seg>Häzirki Ýygymy Ýatda sakla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T150806Z" creationid="Merdan NURIYEV" creationdate="20191103T150806Z">
