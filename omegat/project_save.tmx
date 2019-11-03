@@ -5507,6 +5507,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142042Z" creationid="Merdan NURIYEV" creationdate="20191103T142042Z">
+        <seg>Dilimde birnäçe terjime bar bolsa muny maňa bildir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100907Z" creationid="Merdan NURIYEV" creationdate="20191031T100907Z">
@@ -6946,6 +6954,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T064555Z" creationid="Merdan NURYÝEW " creationdate="20190924T064555Z">
         <seg>Skript &amp;Taýarla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T142441Z" creationid="Merdan NURIYEV" creationdate="20191103T142441Z">
+        <seg>Komanda Faýllary</seg>
       </tuv>
     </tu>
     <tu>
