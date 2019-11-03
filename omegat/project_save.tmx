@@ -7054,6 +7054,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144142Z" creationid="Merdan NURIYEV" creationdate="20191103T144142Z">
+        <seg>Komanda-faýllary Bukjasy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T080024Z" creationid="Merdan NURIYEV" creationdate="20191101T080024Z">
@@ -7290,6 +7298,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T075241Z" creationid="Merdan NURYÝEW " creationdate="20190923T075241Z">
         <seg>Gabat Geleni Seç #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144337Z" creationid="Merdan NURIYEV" creationdate="20191103T144337Z">
+        <seg>Komada-Faýllary Bukjasyny Saýla</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9411,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092626Z" creationid="Merdan NURIYEV" creationdate="20191014T092626Z">
         <seg>{0} +{1} ýene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} loaded.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144117Z" creationid="Merdan NURIYEV" creationdate="20191103T144117Z">
+        <seg>{0} ýüklendi.</seg>
       </tuv>
     </tu>
     <tu>
