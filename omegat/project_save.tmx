@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152722Z" creationid="Merdan NURIYEV" creationdate="20191103T152722Z">
+        <seg>&amp;Täze Komanda-Faýly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061257Z" creationid="Merdan NURYÝEW " creationdate="20190921T061257Z">
@@ -1421,6 +1429,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T104509Z" creationid="Merdan NURYÝEW " creationdate="20191005T104509Z">
         <seg>&lt;html&gt;Proýekt-Başyna ektern komanda işledilmeýän edilen şonyň üçin ýerine ýetirilmez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152649Z" creationid="Merdan NURIYEV" creationdate="20191103T152649Z">
+        <seg>&lt;boş&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7112,8 +7128,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152512Z" creationid="Merdan NURIYEV" creationdate="20191103T152512Z">
-        <seg>"{0}" komada-faýly öýjük #{1} baglandy.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152547Z" creationid="Merdan NURIYEV" creationdate="20191103T152512Z">
+        <seg>"{0}" komada-faýly öýjük #{1}'e baglandy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7128,8 +7144,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152541Z" creationid="Merdan NURIYEV" creationdate="20191103T152541Z">
-        <seg>"{0}" komada-faýlyny unbound from slot #{1}.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152634Z" creationid="Merdan NURIYEV" creationdate="20191103T152541Z">
+        <seg>"{0}" komada-faýly öýjük #{1}'den boşaldyldy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7466,6 +7482,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074729Z" creationid="Merdan NURIYEV" creationdate="20191101T074729Z">
         <seg>Hyzmat tipi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154055Z" creationid="Merdan NURIYEV" creationdate="20191103T154055Z">
+        <seg>Komada-Faýllarynyň Bukjasyny Görkeziň...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9401,6 +9425,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143653Z" creationid="Merdan NURIYEV" creationdate="20191103T143653Z">
         <seg>gutardy ({0} ms wagt aldy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152659Z" creationid="Merdan NURIYEV" creationdate="20191103T152659Z">
+        <seg>giňeltme:</seg>
       </tuv>
     </tu>
     <tu>
