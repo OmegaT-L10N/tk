@@ -5479,10 +5479,26 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T151620Z" creationid="Merdan NURIYEV" creationdate="20191103T151620Z">
+        <seg>#{0} belgili öýjüge bagly komada-faýly ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script selected.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144414Z" creationid="Merdan NURIYEV" creationdate="20191103T144414Z">
         <seg>Komada-faýly seçilmedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T151522Z" creationid="Merdan NURIYEV" creationdate="20191103T151522Z">
+        <seg>Komada-faýly sazlanmady.</seg>
       </tuv>
     </tu>
     <tu>
