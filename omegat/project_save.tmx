@@ -3671,6 +3671,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155824Z" creationid="Merdan NURIYEV" creationdate="20191103T155824Z">
+        <seg>Alynan teswirler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163914Z" creationid="Merdan NURIYEV" creationdate="20191014T163914Z">
@@ -6680,6 +6688,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084656Z" creationid="Merdan NURIYEV" creationdate="20191011T084656Z">
         <seg>Gaýtalanýan gö&amp;zleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155835Z" creationid="Merdan NURIYEV" creationdate="20191103T155835Z">
+        <seg>Salgylanmalar:</seg>
       </tuv>
     </tu>
     <tu>
