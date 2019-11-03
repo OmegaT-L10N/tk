@@ -6764,6 +6764,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152410Z" creationid="Merdan NURIYEV" creationdate="20191103T152410Z">
+        <seg>Komada-Faýlyny Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T104029Z" creationid="Merdan NURYÝEW " creationdate="20191005T104029Z">
@@ -7102,10 +7110,26 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152512Z" creationid="Merdan NURIYEV" creationdate="20191103T152512Z">
+        <seg>"{0}" komada-faýly öýjük #{1} baglandy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" saved.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T151206Z" creationid="Merdan NURIYEV" creationdate="20191103T151206Z">
         <seg> "{0}" komadna-faýly ýatda saklandy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152541Z" creationid="Merdan NURIYEV" creationdate="20191103T152541Z">
+        <seg>"{0}" komada-faýlyny unbound from slot #{1}.</seg>
       </tuv>
     </tu>
     <tu>
