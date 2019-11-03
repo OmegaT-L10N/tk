@@ -6844,6 +6844,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Result:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143036Z" creationid="Merdan NURIYEV" creationdate="20191103T143036Z">
+        <seg>Netije:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T102944Z" creationid="Merdan NURYÝEW " creationdate="20190923T102944Z">
@@ -7914,6 +7922,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081348Z" creationid="Merdan NURIYEV" creationdate="20191011T081348Z">
         <seg>Dil kody xx-YY, xxx-YY, xx_YY or xxx_YY formadynda bolmalydyr,
 bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär (opsiýa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143528Z" creationid="Merdan NURIYEV" creationdate="20191103T143528Z">
+        <seg>"{0}" komanda faýly işledilýär...</seg>
       </tuv>
     </tu>
     <tu>
