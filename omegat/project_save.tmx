@@ -503,6 +503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T085358Z" creationid="Merdan NURIYEV" creationdate="20191103T085358Z">
+        <seg>Di&amp;l Grammatiki derňewi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074825Z" creationid="Merdan NURYÝEW " creationdate="20190926T074825Z">
@@ -963,6 +971,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T063423Z" creationid="Merdan NURYÝEW " creationdate="20190924T063423Z">
         <seg>&amp;Statistikalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T085200Z" creationid="Merdan NURIYEV" creationdate="20191103T085200Z">
+        <seg>Diňe şu &amp;sessiýa üçin sakla</seg>
       </tuv>
     </tu>
     <tu>
