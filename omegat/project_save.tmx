@@ -6232,6 +6232,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155211Z" creationid="Merdan NURIYEV" creationdate="20191103T155211Z">
+        <seg>Bu ýygymyň adyny giriziň:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072409Z" creationid="Merdan NURIYEV" creationdate="20191030T072409Z">
@@ -8610,6 +8618,14 @@ Sen, ziýan çekenlerden birisiň</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103515Z" creationid="Merdan NURIYEV" creationdate="20191018T103515Z">
         <seg>Terjime:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155342Z" creationid="Merdan NURIYEV" creationdate="20191103T155342Z">
+        <seg>Terjimeçi teswirleri:</seg>
       </tuv>
     </tu>
     <tu>
