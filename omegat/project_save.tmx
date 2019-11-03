@@ -9213,6 +9213,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143653Z" creationid="Merdan NURIYEV" creationdate="20191103T143653Z">
+        <seg>gutardy ({0} ms wagt aldy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084442Z" creationid="Merdan NURIYEV" creationdate="20191011T084442Z">
