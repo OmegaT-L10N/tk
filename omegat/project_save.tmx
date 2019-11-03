@@ -5247,6 +5247,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T090359Z" creationid="Merdan NURIYEV" creationdate="20191103T090359Z">
+        <seg>Terjime Wariantlary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MyMemory (human)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092316Z" creationid="Merdan NURIYEV" creationdate="20191101T092316Z">
