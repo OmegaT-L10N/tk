@@ -1459,6 +1459,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081229Z" creationid="Merdan NURIYEV" creationdate="20191104T081229Z">
+        <seg>&lt;html&gt;Repositoriý URL'si:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152649Z" creationid="Merdan NURIYEV" creationdate="20191103T152649Z">
@@ -1907,6 +1915,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T055512Z" creationid="Merdan NURIYEV" creationdate="20191009T055512Z">
         <seg>Aw&amp;tor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081002Z" creationid="Merdan NURIYEV" creationdate="20191104T081002Z">
+        <seg>Hakykylyk Barlagy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,6 +3085,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062547Z" creationid="Merdan NURYÝEW " creationdate="20190921T062547Z">
         <seg>MediaWiki Sahypasyny Göçürip al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081256Z" creationid="Merdan NURIYEV" creationdate="20191104T081256Z">
+        <seg>Topar Proýektini Göçürip Al</seg>
       </tuv>
     </tu>
     <tu>
@@ -6482,6 +6506,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter username/password</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081030Z" creationid="Merdan NURIYEV" creationdate="20191104T081030Z">
+        <seg>Ulanyjynyň ady/parolyny giriziň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072409Z" creationid="Merdan NURIYEV" creationdate="20191030T072409Z">
@@ -9785,10 +9817,26 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wrong authentication</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081157Z" creationid="Merdan NURIYEV" creationdate="20191104T081157Z">
+        <seg>Hakykylyk barlagy şowsyz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong response from engine</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T094246Z" creationid="Merdan NURIYEV" creationdate="20191101T094246Z">
         <seg>Terjime kompýuterinden nädogry jogap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong username/password</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081053Z" creationid="Merdan NURIYEV" creationdate="20191104T081053Z">
+        <seg>Ýalňyş ulanyjy ady/parol</seg>
       </tuv>
     </tu>
     <tu>
