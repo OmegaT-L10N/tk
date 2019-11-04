@@ -6570,6 +6570,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095727Z" creationid="Merdan NURIYEV" creationdate="20191104T095727Z">
+        <seg>Ýene bir gezek barlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155211Z" creationid="Merdan NURIYEV" creationdate="20191103T155211Z">
@@ -8318,6 +8326,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095912Z" creationid="Merdan NURIYEV" creationdate="20191104T095912Z">
+        <seg>Täzeden esaslandyrmany başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091149Z" creationid="Merdan NURYÝEW " creationdate="20191005T091149Z">
@@ -8932,6 +8948,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084418Z" creationid="Merdan NURIYEV" creationdate="20191101T084418Z">
         <seg>Bu düzgün ID'si öňden ulanylýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095656Z" creationid="Merdan NURIYEV" creationdate="20191104T095656Z">
+        <seg>Bu URL nädogry görünýär.</seg>
       </tuv>
     </tu>
     <tu>
