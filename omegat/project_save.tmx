@@ -8952,6 +8952,30 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095411Z" creationid="Merdan NURIYEV" creationdate="20191104T095411Z">
+        <seg>Bu bir Git repositoriýsidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095530Z" creationid="Merdan NURIYEV" creationdate="20191104T095530Z">
+        <seg>Bu bir Subversion repositoriýsidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095629Z" creationid="Merdan NURIYEV" creationdate="20191104T095629Z">
+        <seg>Bu bir proýektiň faýly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075419Z" creationid="Merdan NURYÝEW " creationdate="20190930T075419Z">
