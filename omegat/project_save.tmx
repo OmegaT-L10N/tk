@@ -3619,6 +3619,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100936Z" creationid="Merdan NURIYEV" creationdate="20191104T100936Z">
+        <seg>Repositoriý täzelenende ýalňyşlyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092448Z" creationid="Merdan NURIYEV" creationdate="20191101T092448Z">
@@ -3647,6 +3655,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092740Z" creationid="Merdan NURIYEV" creationdate="20191101T092740Z">
         <seg>Ýalňyşlyk {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101017Z" creationid="Merdan NURIYEV" creationdate="20191104T101017Z">
+        <seg>Säwlik: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,6 +7682,22 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101201Z" creationid="Merdan NURIYEV" creationdate="20191104T101201Z">
+        <seg>Ýatda saklama we Öndürijilik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101101Z" creationid="Merdan NURIYEV" creationdate="20191104T101101Z">
+        <seg>Ýatda saklama we Öndürüjilik Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T052541Z" creationid="Merdan NURYÝEW " creationdate="20190930T052541Z">
@@ -8152,6 +8184,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075129Z" creationid="Merdan NURIYEV" creationdate="20191016T075129Z">
         <seg>'{0}' klasyndan öň ýüklenen seplenýän-modula degilmän geçilýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101012Z" creationid="Merdan NURIYEV" creationdate="20191104T101012Z">
+        <seg>Repositoriý ätlenýär.</seg>
       </tuv>
     </tu>
     <tu>
