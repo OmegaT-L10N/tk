@@ -8470,6 +8470,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082525Z" creationid="Merdan NURIYEV" creationdate="20191104T082525Z">
+        <seg>Topar proýekti sinhronlaşdyrmasy: Terjime {0} s içinde ýatda saklanýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082340Z" creationid="Merdan NURIYEV" creationdate="20191104T082340Z">
+        <seg>Topar proýekti sinhronlaşdyrmasy: Bu dilimi bitirmäňize garaşylýar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T172337Z" creationid="Merdan NURIYEV" creationdate="20191030T170619Z">
