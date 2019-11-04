@@ -8548,10 +8548,26 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170703Z" creationid="Merdan NURIYEV" creationdate="20191104T170703Z">
+        <seg>Gözbaş terminlere göra elipbiý boýunça ýerleşdir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T170836Z" creationid="Merdan NURIYEV" creationdate="20191030T170836Z">
         <seg>Kesgitli bolmaýan gabat gelmeleri şuňa götä tertiple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170738Z" creationid="Merdan NURIYEV" creationdate="20191104T170738Z">
+        <seg>Niýet edilen terminleri &amp;elipbiý boýunça ýerleşdir</seg>
       </tuv>
     </tu>
     <tu>
