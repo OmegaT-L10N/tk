@@ -1195,6 +1195,16 @@ Proýekte faýllary goşmak üçin "Proýekt Faýllary" penjeresinde "Faýllary 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T080520Z" creationid="Merdan NURIYEV" creationdate="20191104T080520Z">
+        <seg>(Bu proýekti topar proýekti funksiýasy bilen işlemek üçin
+OmegaT 3.6'ny ýenede ulanyp bilersiňiz.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T145646Z" creationid="Merdan NURIYEV" creationdate="20191014T145646Z">
@@ -6446,6 +6456,16 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T080809Z" creationid="Merdan NURIYEV" creationdate="20191104T080809Z">
+        <seg>Goşmaça edilmeli işleriň baryny ýoguny bilmek üçin
+proýekt dolandyryjysy bilen habarlaşyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051217Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
@@ -6586,6 +6606,16 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191026T154811Z" creationid="Merdan NURIYEV" creationdate="20191026T154811Z">
         <seg>Hemme taglar üçin boşluklary gora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T080307Z" creationid="Merdan NURIYEV" creationdate="20191104T080307Z">
+        <seg>Proýekti boluşy ýaly goýmak we topar proýekti funksiýasyz ýerli proýekt
+rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8548,6 +8578,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060319Z" creationid="Merdan NURIYEV" creationdate="20191104T060319Z">
         <seg>Proýektde barlag geçirip bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T080552Z" creationid="Merdan NURIYEV" creationdate="20191104T080552Z">
+        <seg>Proýekt başarnykly şekilde öwrüldi.</seg>
       </tuv>
     </tu>
     <tu>
