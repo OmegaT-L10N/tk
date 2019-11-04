@@ -4739,6 +4739,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170548Z" creationid="Merdan NURIYEV" creationdate="20191104T170548Z">
+        <seg>Eger bu baýrakjagaz bellenen bolsa, uzyn terminler birinji görkeziler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
@@ -8424,6 +8432,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075950Z" creationid="Merdan NURIYEV" creationdate="20191101T075950Z">
         <seg>Ýarlyk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170333Z" creationid="Merdan NURIYEV" creationdate="20191104T170333Z">
+        <seg>Niýet edilen termin&amp;leriň uzyn bolanyny birinji görkez</seg>
       </tuv>
     </tu>
     <tu>
