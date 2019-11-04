@@ -9272,6 +9272,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160133Z" creationid="Merdan NURIYEV" creationdate="20191104T160133Z">
+        <seg>Bu komanda terjime edilen dokumentleriň döredilme işinden soňra işe koýuljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095411Z" creationid="Merdan NURIYEV" creationdate="20191104T095411Z">
