@@ -3391,6 +3391,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095945Z" creationid="Merdan NURIYEV" creationdate="20191104T095945Z">
+        <seg>Täzeden esaslandyrma soňy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154611Z" creationid="Merdan NURIYEV" creationdate="20191029T154611Z">
@@ -3559,6 +3567,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T084731Z" creationid="Merdan NURIYEV" creationdate="20191015T084731Z">
         <seg>Setir {0} sütün {1}'da TMX level2 faýlynyň okalmasynda ýalňyşlyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100106Z" creationid="Merdan NURIYEV" creationdate="20191104T100106Z">
+        <seg>{0} uzak proýekt faýly hökmünde alynýan wagty bir ýalňyşlyk boldy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6698,6 +6714,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100020Z" creationid="Merdan NURIYEV" creationdate="20191104T100020Z">
+        <seg>Öňden berilen şahsyýet maglumatlary barlagy geçmedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163325Z" creationid="Merdan NURIYEV" creationdate="20191014T163325Z">
@@ -7382,6 +7406,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T054446Z" creationid="Merdan NURIYEV" creationdate="20191011T054446Z">
         <seg>Repositori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100133Z" creationid="Merdan NURIYEV" creationdate="20191104T100133Z">
+        <seg>Repositoryiý Şahsyýet Maglumatlary</seg>
       </tuv>
     </tu>
     <tu>
@@ -8402,6 +8434,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T073012Z" creationid="Merdan NURIYEV" creationdate="20191101T073012Z">
         <seg>Içinde ýerleşik wersiýasyna geçilýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100300Z" creationid="Merdan NURIYEV" creationdate="20191104T100300Z">
+        <seg>Repositoriýalaryň sinhronlaşdyrylmasy</seg>
       </tuv>
     </tu>
     <tu>
