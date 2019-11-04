@@ -1665,6 +1665,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T073629Z" creationid="Merdan NURIYEV" creationdate="20191104T073629Z">
+        <seg>Parollaryň ýönekeý tekst şeklinde saklanmasyna rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065826Z" creationid="Merdan NURIYEV" creationdate="20191104T065826Z">
@@ -5669,6 +5677,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T073842Z" creationid="Merdan NURIYEV" creationdate="20191104T073842Z">
+        <seg>Aragatnaşyk elýeterli däl, proýekt awtonom ýagdaýda işlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091702Z" creationid="Merdan NURYÝEW " creationdate="20191005T091702Z">
@@ -6838,6 +6854,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073319Z" creationid="Merdan NURYÝEW " creationdate="20190923T073319Z">
         <seg>Göz&amp;baş bilen Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T073538Z" creationid="Merdan NURIYEV" creationdate="20191104T073538Z">
+        <seg>Diňe okalýan</seg>
       </tuv>
     </tu>
     <tu>
