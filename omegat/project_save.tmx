@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173506Z" creationid="Merdan NURIYEV" creationdate="20191104T173506Z">
+        <seg>Ýük&amp;le...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085204Z" creationid="Merdan NURIYEV" creationdate="20191101T085204Z">
@@ -1999,6 +2007,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173431Z" creationid="Merdan NURIYEV" creationdate="20191104T173431Z">
+        <seg>Automatiki-tekst konfigurasiýasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091150Z" creationid="Merdan NURIYEV" creationdate="20191031T091129Z">
@@ -2985,6 +3001,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173445Z" creationid="Merdan NURIYEV" creationdate="20191104T173445Z">
+        <seg>Ekrana çykar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T090356Z" creationid="Merdan NURIYEV" creationdate="20191101T090356Z">
@@ -3579,6 +3603,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051819Z" creationid="Merdan NURYÝEW " creationdate="20190930T051819Z">
         <seg>Dilim nomerini giriziň:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173456Z" creationid="Merdan NURIYEV" creationdate="20191104T173456Z">
+        <seg>Ýazgylar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8620,10 +8652,26 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173214Z" creationid="Merdan NURIYEV" creationdate="20191104T173214Z">
+        <seg>Elipbiý boýunça ýerleşdir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173407Z" creationid="Merdan NURIYEV" creationdate="20191104T173407Z">
+        <seg>Gysgaltmalara görä däl eýsem, &amp;doly tekste görä ýerleşdir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173201Z" creationid="Merdan NURIYEV" creationdate="20191104T173201Z">
-        <seg>Uzynlygyna &amp;göra tertiple</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173220Z" creationid="Merdan NURIYEV" creationdate="20191104T173201Z">
+        <seg>Uzynlygyna &amp;göra ýerleşdir</seg>
       </tuv>
     </tu>
     <tu>
