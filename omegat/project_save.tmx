@@ -2609,6 +2609,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082929Z" creationid="Merdan NURIYEV" creationdate="20191104T082929Z">
+        <seg>Şahsyýet maglumatlary tekst faýlyna ýazyp bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T184313Z" creationid="Merdan NURIYEV" creationdate="20191030T184313Z">
@@ -2781,6 +2789,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075905Z" creationid="Merdan NURIYEV" creationdate="20191101T075905Z">
         <seg>Bölüji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T083003Z" creationid="Merdan NURIYEV" creationdate="20191104T083003Z">
+        <seg>Ýüze çykarylýar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,6 +6856,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T070417Z" creationid="Merdan NURIYEV" creationdate="20191101T070417Z">
         <seg>Proýekt döredilmesi başlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T085036Z" creationid="Merdan NURIYEV" creationdate="20191104T085036Z">
+        <seg>Proýekt faýly http protokoly bilen sazlaşykly bolmalydyr.</seg>
       </tuv>
     </tu>
     <tu>
