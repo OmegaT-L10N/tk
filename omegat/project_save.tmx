@@ -1451,6 +1451,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162316Z" creationid="Merdan NURIYEV" creationdate="20191104T162316Z">
+        <seg>&lt;teklip ýok&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083448Z" creationid="Merdan NURYÝEW " creationdate="20190926T083448Z">
@@ -3591,6 +3599,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092659Z" creationid="Merdan NURIYEV" creationdate="20191101T092659Z">
         <seg>MyMemory'den Kompýuter Terjimesi netijeleri saýhallanýan wagty bir ýalňyşlyk boldy, jogap şeýle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162153Z" creationid="Merdan NURIYEV" creationdate="20191104T162153Z">
+        <seg>Taglaryň düzeldilmesinde ýalňyşlyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -6818,6 +6834,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162247Z" creationid="Merdan NURIYEV" creationdate="20191104T162247Z">
+        <seg>Tag barlagyny gaýtadan ediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082853Z" creationid="Merdan NURIYEV" creationdate="20191011T082646Z">
@@ -6968,6 +6992,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T075629Z" creationid="Merdan NURIYEV" creationdate="20191104T075629Z">
         <seg>Proýekti 4.x fason topar proýektine öwürmek üçin "Howwa" düwmesine basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162430Z" creationid="Merdan NURIYEV" creationdate="20191104T162430Z">
+        <seg> &lt;b&gt;{1}&lt;/b&gt; teklip edilýäne dönmek üçin &lt;u&gt;{0}&lt;/u&gt; düwmesine basyň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9226,6 +9258,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081444Z" creationid="Merdan NURIYEV" creationdate="20191011T081444Z">
         <seg>Terjime edilen faýlyň dili ýalňyş girizilen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162217Z" creationid="Merdan NURIYEV" creationdate="20191104T162217Z">
+        <seg>Terjime üýtgedildi.</seg>
       </tuv>
     </tu>
     <tu>
