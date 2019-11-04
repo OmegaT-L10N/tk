@@ -1545,6 +1545,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T055926Z" creationid="Merdan NURIYEV" creationdate="20191104T055926Z">
+        <seg>Togtadyldy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T204321Z" creationid="Merdan NURIYEV" creationdate="20191018T204321Z">
@@ -1641,10 +1649,26 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060224Z" creationid="Merdan NURIYEV" creationdate="20191104T060224Z">
+        <seg>Proýekti {0}'a göra deňle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164114Z" creationid="Merdan NURIYEV" creationdate="20191030T164114Z">
         <seg>Taglary &amp;redaktirlemäge rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065826Z" creationid="Merdan NURIYEV" creationdate="20191104T065826Z">
+        <seg>Parollaryň ýerli ýönekeý tekst şeklinde saklanmasyna rugsat ber</seg>
       </tuv>
     </tu>
     <tu>
@@ -1769,6 +1793,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082942Z" creationid="Merdan NURIYEV" creationdate="20191011T082942Z">
         <seg>Täze bukja döredilen wagty bir ýalňyşlyk boldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060653Z" creationid="Merdan NURIYEV" creationdate="20191104T060653Z">
+        <seg>Konsol protsesi başladylan wagty bir ýalňyşlyk boldy: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,6 +2265,16 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T064947Z" creationid="Merdan NURIYEV" creationdate="20191104T064947Z">
+        <seg>Häzirki açyk OmegaT kopýasyny ýapyň
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174248Z" creationid="Merdan NURIYEV" creationdate="20191017T174248Z">
@@ -2315,6 +2357,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072351Z" creationid="Merdan NURYÝEW " creationdate="20190921T063211Z">
         <seg>Niýet Edilen Faýllary Tabşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit not possible because somebody else changed remote translation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T062314Z" creationid="Merdan NURIYEV" creationdate="20191104T062314Z">
+        <seg>Başga biri terjimäni uzakdan üýtgedenligi sebäpli edilen terjimäniň tabşyrygy mümkin däl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2443,6 +2493,16 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T063142Z" creationid="Merdan NURIYEV" creationdate="20191104T063142Z">
+        <seg>&lt;project&gt;/omegat/project_save.tmx faýlyny ynamly bir ýere kopýalaň
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062450Z" creationid="Merdan NURYÝEW " creationdate="20190921T062450Z">
@@ -2551,6 +2611,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170135Z" creationid="Merdan NURIYEV" creationdate="20191008T170135Z">
         <seg>Täze Proýekt Döret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060523Z" creationid="Merdan NURIYEV" creationdate="20191104T060108Z">
+        <seg>Emeli-terjime TMX faýly döret</seg>
       </tuv>
     </tu>
     <tu>
@@ -2999,6 +3067,16 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051855Z" creationid="Merdan NURYÝEW " creationdate="20190930T051855Z">
         <seg>Gaýtalanan dilimler: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T062904Z" creationid="Merdan NURIYEV" creationdate="20191104T062904Z">
+        <seg>SVN ýalňyşlygy bolan wagty ({0}),
+project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geçdi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3599,6 +3677,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060755Z" creationid="Merdan NURIYEV" creationdate="20191104T060755Z">
+        <seg>{0}komadna-faýly ({1} hadysasy) ýerine ýetirilýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085722Z" creationid="Merdan NURYÝEW " creationdate="20191005T085722Z">
@@ -4039,6 +4125,22 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065942Z" creationid="Merdan NURIYEV" creationdate="20191104T065942Z">
+        <seg>Git '{0}' ýerine ýetirme şowly bitti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065916Z" creationid="Merdan NURIYEV" creationdate="20191104T065916Z">
+        <seg>Git '{0}' ýerine ýetirilmäge başlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T070129Z" creationid="Merdan NURYÝEW " creationdate="20190926T070129Z">
@@ -4075,6 +4177,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081732Z" creationid="Merdan NURIYEV" creationdate="20191011T081732Z">
         <seg>Girizilen tehniki sözlük faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061005Z" creationid="Merdan NURIYEV" creationdate="20191104T061005Z">
+        <seg>Tehniki sözlük faýllarynyň bukjasy{0} ýok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,6 +5109,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084720Z" creationid="Merdan NURIYEV" creationdate="20191101T084720Z">
         <seg>Proýektiň dil düzgünleriniň konifgurasiýasyny etmek üçin proýekti ýükläň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060240Z" creationid="Merdan NURIYEV" creationdate="20191104T060240Z">
+        <seg>Proýekt Ýüklenýär</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,6 +6331,14 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061555Z" creationid="Merdan NURIYEV" creationdate="20191104T061555Z">
+        <seg>Belki başga bir OmegaT nusgasy bilen açyk bolup biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -6568,6 +6694,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061350Z" creationid="Merdan NURIYEV" creationdate="20191104T061350Z">
+        <seg>Proýekt Gulplanan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T052619Z" creationid="Merdan NURYÝEW " creationdate="20190930T052619Z">
@@ -6892,6 +7026,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065035Z" creationid="Merdan NURIYEV" creationdate="20191104T065035Z">
+        <seg>Proýektiň bukjasyny elde öçüriň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073740Z" creationid="Merdan NURYÝEW " creationdate="20190923T073740Z">
@@ -6944,6 +7086,16 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082306Z" creationid="Merdan NURYÝEW " creationdate="20190926T082306Z">
         <seg>Gözbaş tekstini goşan wagtyň &amp;Tehniki Sözlük girişleri bilen gabat geleni bilen çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065556Z" creationid="Merdan NURIYEV" creationdate="20191104T065556Z">
+        <seg>Ynamly ýere kopýalan faýlyňyzy, ýaňy göçürip alynan proýektdäki &lt;project&gt;/omegat/project_save.tmx faýl bilen çalşyryň.
+6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7136,6 +7288,30 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050508Z" creationid="Merdan NURIYEV" creationdate="20191017T050508Z">
         <seg>SVG Image we Adobe Illustrator faýllary ekspordy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061725Z" creationid="Merdan NURIYEV" creationdate="20191104T061725Z">
+        <seg>SVN '{0}' säwlik: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061710Z" creationid="Merdan NURIYEV" creationdate="20191104T061710Z">
+        <seg>SVN '{0}' ýerine ýetirme şowly bitti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061630Z" creationid="Merdan NURIYEV" creationdate="20191104T061630Z">
+        <seg>SVN '{0}' ýerine ýetirilmäge başlandy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +7958,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060854Z" creationid="Merdan NURIYEV" creationdate="20191104T060854Z">
+        <seg>Gözbaş bukjasy {0} ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164301Z" creationid="Merdan NURIYEV" creationdate="20191014T164301Z">
@@ -7858,6 +8042,24 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081708Z" creationid="Merdan NURIYEV" creationdate="20191016T081708Z">
         <seg>Standart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065306Z" creationid="Merdan NURIYEV" creationdate="20191104T065306Z">
+        <seg>OmegaT'ni gaýtadan başladyň, topar proýektini göçürip alyň, OmegaT'ni ýapyň
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065642Z" creationid="Merdan NURIYEV" creationdate="20191104T065642Z">
+        <seg>OmegaT'ni açyň we terjime etmäge dowam ediň</seg>
       </tuv>
     </tu>
     <tu>
@@ -8018,6 +8220,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051631Z" creationid="Merdan NURYÝEW " creationdate="20190930T051631Z">
         <seg>Niýet edilen faýllar tabşyryldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060939Z" creationid="Merdan NURIYEV" creationdate="20191104T060939Z">
+        <seg>Niýet edilen bukja{0} ýok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,6 +8456,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060319Z" creationid="Merdan NURIYEV" creationdate="20191104T060319Z">
+        <seg>Proýektde barlag geçirip bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143528Z" creationid="Merdan NURIYEV" creationdate="20191103T143528Z">
@@ -8314,6 +8532,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081444Z" creationid="Merdan NURIYEV" creationdate="20191011T081444Z">
         <seg>Terjime edilen faýlyň dili ýalňyş girizilen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061302Z" creationid="Merdan NURIYEV" creationdate="20191104T061302Z">
+        <seg>Üýtetmeler girizilip bolýan tehniki sözlügüň faýly (/glossary/) bukjasynyň içinde däl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8440,6 +8666,16 @@ Sen, ziýan çekenlerden birisiň</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075356Z" creationid="Merdan NURIYEV" creationdate="20191030T022822Z">
         <seg>Şunlukda Kanada Faransuzçasy (FR-CA) üçin düzgün Fransiýa Fransuzçasy (FR.*) üçin düzgünden we beýleki öňünden kabul edilen düzgünlerden (.*) has ýokarda bolmalydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T063100Z" creationid="Merdan NURIYEV" creationdate="20191104T063039Z">
+        <seg>Terjime ýitgisiniň öňüne geçmek üçin, şulary ýerine ýetirmelisiňiz:
+1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8606,6 +8842,14 @@ Sen, ziýan çekenlerden birisiň</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files location not defined</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060149Z" creationid="Merdan NURIYEV" creationdate="20191104T060149Z">
+        <seg>Terjime edilen faýllaryň ýeri bildirilmedik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T082204Z" creationid="Merdan NURYÝEW " creationdate="20190930T082204Z">
@@ -8650,6 +8894,14 @@ Sen, ziýan çekenlerden birisiň</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082435Z" creationid="Merdan NURIYEV" creationdate="20191011T082435Z">
         <seg>Girizilen terjime hakydasy faýllarynyň bukjasy ýok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061049Z" creationid="Merdan NURIYEV" creationdate="20191104T061049Z">
+        <seg>Terjime hakydasynyň bukjasy {0} ýok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9223,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T062643Z" creationid="Merdan NURIYEV" creationdate="20191104T062643Z">
+        <seg>Goldanmaýan SVN ýalňyşlygy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092946Z" creationid="Merdan NURIYEV" creationdate="20191014T092946Z">
@@ -8999,6 +9259,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083316Z" creationid="Merdan NURIYEV" creationdate="20191015T083316Z">
         <seg>Täzelenýär...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload disabled because repository in read-only mode</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T062611Z" creationid="Merdan NURIYEV" creationdate="20191104T062611Z">
+        <seg>Repositoriý diňe okalýan rejede bolanlygy sebäpli ýükleme funksiýasy işlemeýän edilen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9115,6 +9383,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T055753Z" creationid="Merdan NURIYEV" creationdate="20191104T055753Z">
+        <seg>Taglar Tassyklanýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082220Z" creationid="Merdan NURIYEV" creationdate="20191015T082220Z">
@@ -9167,6 +9443,16 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050554Z" creationid="Merdan NURIYEV" creationdate="20191017T050554Z">
         <seg>Visio faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065115Z" creationid="Merdan NURIYEV" creationdate="20191104T065115Z">
+        <seg>DUÝDURYŞ: ýatda saklanmadyk maglumatlaryň hemmesi ýiter
+4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9249,6 +9535,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T175145Z" creationid="Merdan NURIYEV" creationdate="20191012T175145Z">
         <seg>Uniwersal nyşanlar:
 Takyk we açar söz gözlegleriniň ikisi hem uniwersal nyşanlaryna * we ? goldaw berýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T062415Z" creationid="Merdan NURIYEV" creationdate="20191104T062356Z">
+        <seg>Sinhronlaşdyrma indiki gezek ediljekdir.</seg>
       </tuv>
     </tu>
     <tu>
