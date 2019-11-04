@@ -2267,6 +2267,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checking out the project...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081515Z" creationid="Merdan NURIYEV" creationdate="20191104T081515Z">
+        <seg>Proýekt reposotoriýden okalyp ýerli ulanyşa alynýar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155021Z" creationid="Merdan NURIYEV" creationdate="20191029T072837Z">
@@ -3423,6 +3431,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082300Z" creationid="Merdan NURYÝEW " creationdate="20190919T082300Z">
         <seg>Ýalňyşlyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081825Z" creationid="Merdan NURIYEV" creationdate="20191104T081825Z">
+        <seg>Uzak repositoriýden proýekt okalanda ýalňyşlyk boldy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5691,6 +5707,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074322Z" creationid="Merdan NURIYEV" creationdate="20191101T074322Z">
         <seg>Täze LanguageTool düzgüni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081321Z" creationid="Merdan NURIYEV" creationdate="20191104T081321Z">
+        <seg>Täze Ýerli Proýekt Bukjasy:</seg>
       </tuv>
     </tu>
     <tu>
