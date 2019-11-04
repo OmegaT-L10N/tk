@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173748Z" creationid="Merdan NURIYEV" creationdate="20191104T173748Z">
+        <seg>Simwol tablisasyna mümkinçilik b&amp;er</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171749Z" creationid="Merdan NURIYEV" creationdate="20191104T171749Z">
@@ -915,6 +923,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082409Z" creationid="Merdan NURYÝEW " creationdate="20190919T082238Z">
         <seg>Başgaça ýatda &amp;sakla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173518Z" creationid="Merdan NURIYEV" creationdate="20191104T173518Z">
+        <seg>Ýatda &amp;sakla...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2015,10 +2031,26 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173547Z" creationid="Merdan NURIYEV" creationdate="20191104T173547Z">
+        <seg>Awtomatik-tekst faýly (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091150Z" creationid="Merdan NURIYEV" creationdate="20191031T091129Z">
         <seg>Täzelikleri awtomatiki barla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173707Z" creationid="Merdan NURIYEV" creationdate="20191104T173707Z">
+        <seg>Awtomatik-tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -2299,6 +2331,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T174101Z" creationid="Merdan NURIYEV" creationdate="20191104T174101Z">
+        <seg>Simwol tablisasy awtomatiki tamamlama opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090134Z" creationid="Merdan NURYÝEW " creationdate="20191005T090134Z">
@@ -2463,6 +2503,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175516Z" creationid="Merdan NURIYEV" creationdate="20191017T175516Z">
         <seg>Teswi&amp;rler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173655Z" creationid="Merdan NURIYEV" creationdate="20191104T173655Z">
+        <seg>Teswir</seg>
       </tuv>
     </tu>
     <tu>
@@ -2837,6 +2885,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092858Z" creationid="Merdan NURIYEV" creationdate="20191101T092858Z">
         <seg>Hususy serwer belgisi (URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T174208Z" creationid="Merdan NURIYEV" creationdate="20191104T174208Z">
+        <seg>Simwol &amp;tablisasyny özgert</seg>
       </tuv>
     </tu>
     <tu>
@@ -4435,6 +4491,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T182431Z" creationid="Merdan NURIYEV" creationdate="20191030T182431Z">
         <seg>Doly derňew, adaty tekstlerde ýalňyş netijeler berip biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173643Z" creationid="Merdan NURIYEV" creationdate="20191104T173643Z">
+        <seg>Doly tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -8516,6 +8580,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173632Z" creationid="Merdan NURIYEV" creationdate="20191104T173632Z">
+        <seg>Gysgaltma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075950Z" creationid="Merdan NURIYEV" creationdate="20191101T075950Z">
@@ -10098,6 +10170,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170531Z" creationid="Merdan NURIYEV" creationdate="20191008T170531Z">
         <seg>Proýekt faýlyny okap bolanok!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173623Z" creationid="Merdan NURIYEV" creationdate="20191104T173623Z">
+        <seg>Maglumatlary ýatda saklap bolmady.</seg>
       </tuv>
     </tu>
     <tu>
