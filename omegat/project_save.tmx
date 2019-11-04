@@ -3443,6 +3443,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error checking out the project from remote repository: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081920Z" creationid="Merdan NURIYEV" creationdate="20191104T081920Z">
+        <seg>Uzak repositoriýden proýekt okalanda ýalňyşlyk boldy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error creating project!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T085715Z" creationid="Merdan NURYÝEW " creationdate="20190930T085715Z">
@@ -5275,6 +5283,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local translation not synchronized with remote repository.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082027Z" creationid="Merdan NURIYEV" creationdate="20191104T082027Z">
+        <seg>Ýerli terjime uzak repositoriý bilen sinhronlaşdyrylmadyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084453Z" creationid="Merdan NURIYEV" creationdate="20191011T084453Z">
@@ -6892,6 +6908,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project will not be updated.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082122Z" creationid="Merdan NURIYEV" creationdate="20191104T082122Z">
+        <seg>Proýekt täzelenmez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181032Z" creationid="Merdan NURIYEV" creationdate="20191030T181032Z">
@@ -8426,6 +8450,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072314Z" creationid="Merdan NURIYEV" creationdate="20191030T072314Z">
         <seg>Terjimeçi Topar Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082153Z" creationid="Merdan NURIYEV" creationdate="20191104T082153Z">
+        <seg>Topar proýekti sinhronlaşdyrmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082226Z" creationid="Merdan NURIYEV" creationdate="20191104T082226Z">
+        <seg>Topar proýekti sinhronlaşdyrmasy...</seg>
       </tuv>
     </tu>
     <tu>
