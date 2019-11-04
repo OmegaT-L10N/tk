@@ -1675,6 +1675,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102402Z" creationid="Merdan NURIYEV" creationdate="20191104T102402Z">
+        <seg>Hemmesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164114Z" creationid="Merdan NURIYEV" creationdate="20191030T164114Z">
@@ -2801,6 +2809,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102347Z" creationid="Merdan NURIYEV" creationdate="20191104T102347Z">
+        <seg>Wasp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detecting...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T083003Z" creationid="Merdan NURIYEV" creationdate="20191104T083003Z">
@@ -3081,6 +3097,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102301Z" creationid="Merdan NURIYEV" creationdate="20191104T102301Z">
+        <seg>Üstüne ýazylsynmy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doc&amp;ument properties</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T175309Z" creationid="Merdan NURIYEV" creationdate="20191017T175309Z">
@@ -3287,6 +3311,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092043Z" creationid="Merdan NURYÝEW " creationdate="20191005T092043Z">
         <seg>Proýekti Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102329Z" creationid="Merdan NURIYEV" creationdate="20191104T102329Z">
+        <seg>Teksti Redaktirle</seg>
       </tuv>
     </tu>
     <tu>
@@ -4653,6 +4685,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173851Z" creationid="Merdan NURIYEV" creationdate="20191017T173851Z">
         <seg>&lt;&amp;bpt&gt; we &lt;ept&gt;  taglarynyň ýarlyklary döredilende type we ctype alamatlaryna ähmiýet berme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102442Z" creationid="Merdan NURIYEV" creationdate="20191104T102442Z">
+        <seg>Ähmiýet berme: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -7706,6 +7746,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102219Z" creationid="Merdan NURIYEV" creationdate="20191104T102219Z">
+        <seg>Deňleme Netijelerini Ýatda sakla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154948Z" creationid="Merdan NURIYEV" creationdate="20191103T154948Z">
@@ -7944,6 +7992,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="user" changedate="20190916T103906Z" creationid="user" creationdate="20190916T103906Z">
         <seg>Jikme-jik maglumatlary aşakda tapyp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102338Z" creationid="Merdan NURIYEV" creationdate="20191104T102338Z">
+        <seg>Dilim</seg>
       </tuv>
     </tu>
     <tu>
@@ -8618,6 +8674,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T083257Z" creationid="Merdan NURIYEV" creationdate="20191015T083257Z">
         <seg>TMX faýly OmegaT 1.4.x ýada öňki bir wersiýasynda döredilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102507Z" creationid="Merdan NURIYEV" creationdate="20191104T102507Z">
+        <seg>Tag Ýalňyşlyklary</seg>
       </tuv>
     </tu>
     <tu>
