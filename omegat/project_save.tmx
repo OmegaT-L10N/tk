@@ -2259,6 +2259,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162932Z" creationid="Merdan NURIYEV" creationdate="20191104T162932Z">
+        <seg>Simwol tablisasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090134Z" creationid="Merdan NURYÝEW " creationdate="20191005T090134Z">
@@ -3433,8 +3441,8 @@ Siziň kömek sahypaňyz tapylmady</seg>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074143Z" creationid="Merdan NURYÝEW " creationdate="20190926T074143Z">
-        <seg>&amp;Çak etmeleriň geçmişini tut</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T163139Z" creationid="Merdan NURYÝEW " creationdate="20190926T074143Z">
+        <seg>Geçmişe görä &amp;çak etmeleri aç</seg>
       </tuv>
     </tu>
     <tu>
