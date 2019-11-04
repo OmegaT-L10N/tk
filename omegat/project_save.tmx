@@ -4455,6 +4455,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170913Z" creationid="Merdan NURIYEV" creationdate="20191104T170913Z">
+        <seg>Tehniki sözlük awtomatiki-tamamlama opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162557Z" creationid="Merdan NURIYEV" creationdate="20191104T162557Z">
@@ -4735,6 +4743,14 @@ Onuň gyşy geldi öýdýän</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153258Z" creationid="Merdan NURIYEV" creationdate="20191029T153258Z">
         <seg>HHC ýada HHK faýllarynyň kodlaşdyrma beýany bar bolsa bu ekranda bildirilen sazlamalara garamazdan beýanda bildirilen kodlaşdyrma ulanyljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170827Z" creationid="Merdan NURIYEV" creationdate="20191104T170827Z">
+        <seg>Eger bu baýrakjagaz bellenen bolsa, ýazgylar elipbiý boýunça ýerleşdiriler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8440,6 +8456,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170333Z" creationid="Merdan NURIYEV" creationdate="20191104T170333Z">
         <seg>Niýet edilen termin&amp;leriň uzyn bolanyny birinji görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171348Z" creationid="Merdan NURIYEV" creationdate="20191104T171348Z">
+        <seg>Niýet edilen &amp;terminleri birinji görkez</seg>
       </tuv>
     </tu>
     <tu>
