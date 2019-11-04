@@ -6545,6 +6545,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162009Z" creationid="Merdan NURIYEV" creationdate="20191104T162009Z">
+        <seg>Eýesiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203422Z" creationid="Merdan NURIYEV" creationdate="20191018T203422Z">
@@ -9965,6 +9973,14 @@ on line {1}, column {2}.</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T081317Z" creationid="Merdan NURIYEV" creationdate="20191015T081317Z">
         <seg>TMX faýly {0} seljerilen wagty
 setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162124Z" creationid="Merdan NURIYEV" creationdate="20191104T162124Z">
+        <seg>Bildirilmedik</seg>
       </tuv>
     </tu>
     <tu>
