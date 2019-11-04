@@ -1747,6 +1747,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095336Z" creationid="Merdan NURIYEV" creationdate="20191104T095336Z">
+        <seg>Proýekt faýly gözlenýän wagty bir ýalňyşlyk boldy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072322Z" creationid="Merdan NURIYEV" creationdate="20191101T072322Z">
