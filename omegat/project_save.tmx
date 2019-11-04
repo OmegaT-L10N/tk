@@ -3855,6 +3855,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101612Z" creationid="Merdan NURIYEV" creationdate="20191104T101612Z">
+        <seg>Iş-soňy Ekstern Komanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T104216Z" creationid="Merdan NURYÝEW " creationdate="20191005T104216Z">
@@ -5611,6 +5619,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101409Z" creationid="Merdan NURIYEV" creationdate="20191104T101354Z">
+        <seg>Minut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085802Z" creationid="Merdan NURIYEV" creationdate="20191101T075729Z">
@@ -6678,6 +6694,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084905Z" creationid="Merdan NURIYEV" creationdate="20191101T084905Z">
         <seg>Gurnamak isleýän sözlükleri saýlaň we "Gurna" düwmesine basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101346Z" creationid="Merdan NURIYEV" creationdate="20191104T101346Z">
+        <seg>Proýekti awtomatiki ýatda saklama aralygyny minut we sekund görnüşinde giriziň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,6 +7864,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191013T111951Z" creationid="Merdan NURIYEV" creationdate="20191013T111951Z">
         <seg>Gözleg protsesi garaşylmadyk bir şekilde ýatdy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101404Z" creationid="Merdan NURIYEV" creationdate="20191104T101404Z">
+        <seg>Sekund:</seg>
       </tuv>
     </tu>
     <tu>
