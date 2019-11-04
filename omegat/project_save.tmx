@@ -2031,6 +2031,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160803Z" creationid="Merdan NURIYEV" creationdate="20191104T160803Z">
+        <seg>Ýalňyş içine goýma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T145840Z" creationid="Merdan NURIYEV" creationdate="20191027T145840Z">
@@ -3197,6 +3205,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T203342Z" creationid="Merdan NURIYEV" creationdate="20191018T203342Z">
         <seg>Çyzu&amp;wlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160503Z" creationid="Merdan NURIYEV" creationdate="20191104T160503Z">
+        <seg>Gaýtalanan</seg>
       </tuv>
     </tu>
     <tu>
@@ -6015,6 +6031,14 @@ Lost to paradise</seg>
         <seg>GUI-syz reje opsiýalary :
 	--quiet
 		maglumatlar kommada setirine (stdout) beriler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160321Z" creationid="Merdan NURIYEV" creationdate="20191104T160321Z">
+        <seg>Bitewi boşluk</seg>
       </tuv>
     </tu>
     <tu>
@@ -8908,6 +8932,14 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T155113Z" creationid="Merdan NURIYEV" creationdate="20191029T155113Z">
         <seg>Teks faýllarynyň dilimlenmesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160403Z" creationid="Merdan NURIYEV" creationdate="20191104T160403Z">
+        <seg>Aýyryljak tekst</seg>
       </tuv>
     </tu>
     <tu>
