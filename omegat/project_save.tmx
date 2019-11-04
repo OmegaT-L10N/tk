@@ -319,6 +319,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173133Z" creationid="Merdan NURIYEV" creationdate="20191104T173133Z">
+        <seg>Awtomatik-t&amp;ekste mümkinçilik ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171749Z" creationid="Merdan NURIYEV" creationdate="20191104T171749Z">
+        <seg>Tehniki sözlükd&amp;en teklipleri görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T165238Z" creationid="Merdan NURYÝEW " creationdate="20190926T074118Z">
@@ -3073,6 +3089,22 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171706Z" creationid="Merdan NURIYEV" creationdate="20191104T171706Z">
+        <seg>Ýazgylar "&lt;gözbaş&gt; → &lt;niýet edilen&gt;" şekilinde görkeziler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171612Z" creationid="Merdan NURIYEV" creationdate="20191104T171517Z">
+        <seg>Ýazgylar "&lt;niýet edilen&gt; → &lt;gözbaş&gt;" şekilinde görkeziler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T093010Z" creationid="Merdan NURIYEV" creationdate="20191031T093010Z">
@@ -4315,6 +4347,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T083827Z" creationid="Merdan NURYÝEW " creationdate="20191005T083827Z">
         <seg>Topar proýekti rejesi üçin {0} bukjasy awtomatiki döredildi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173039Z" creationid="Merdan NURIYEV" creationdate="20191104T173039Z">
+        <seg>Ýaylan tekstiň uly/kiçi harp düzgünlerini dowam etdir</seg>
       </tuv>
     </tu>
     <tu>
@@ -8460,6 +8500,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171556Z" creationid="Merdan NURIYEV" creationdate="20191104T171556Z">
+        <seg>Gözbaş t&amp;erminleri birinji görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171348Z" creationid="Merdan NURIYEV" creationdate="20191104T171348Z">
@@ -8568,6 +8616,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T111005Z" creationid="Merdan NURYÝEW " creationdate="20191005T111005Z">
         <seg>Proýektiň käbir bukjalarynyň ýeri üýtgäne meňzeýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173201Z" creationid="Merdan NURIYEV" creationdate="20191104T173201Z">
+        <seg>Uzynlygyna &amp;göra tertiple</seg>
       </tuv>
     </tu>
     <tu>
@@ -9050,6 +9106,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T172337Z" creationid="Merdan NURIYEV" creationdate="20191030T170619Z">
         <seg>Galypyň üýtgeýän ululyklary:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171824Z" creationid="Merdan NURIYEV" creationdate="20191104T171824Z">
+        <seg>Birnäçe terjimesi bolan terminler</seg>
       </tuv>
     </tu>
     <tu>
