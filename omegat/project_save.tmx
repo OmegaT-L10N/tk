@@ -3999,6 +3999,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T161532Z" creationid="Merdan NURIYEV" creationdate="20191104T161532Z">
+        <seg>Artykmaç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163914Z" creationid="Merdan NURIYEV" creationdate="20191014T163914Z">
@@ -5715,6 +5723,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160958Z" creationid="Merdan NURIYEV" creationdate="20191104T160958Z">
+        <seg>Gaaýyp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085802Z" creationid="Merdan NURIYEV" creationdate="20191101T075729Z">
@@ -6541,6 +6557,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074013Z" creationid="Merdan NURIYEV" creationdate="20191023T074013Z">
         <seg>Beýleki goşant berenler readme.txt  faýlynda jikme-jik agzalmakdadyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T161630Z" creationid="Merdan NURIYEV" creationdate="20191104T161630Z">
+        <seg>Tertip bozulan</seg>
       </tuv>
     </tu>
     <tu>
@@ -10247,6 +10271,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T144433Z" creationid="Merdan NURIYEV" creationdate="20191014T144433Z">
         <seg>Kadaly jümle ulanylan wagtynda, çalşyrljak tekst, gözleg tekstindäki toparlara salgylanmany goldar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T161917Z" creationid="Merdan NURIYEV" creationdate="20191104T161917Z">
+        <seg>Boşluk</seg>
       </tuv>
     </tu>
     <tu>
