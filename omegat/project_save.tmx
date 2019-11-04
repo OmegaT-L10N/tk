@@ -5059,6 +5059,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100559Z" creationid="Merdan NURIYEV" creationdate="20191104T100559Z">
+        <seg>LaTeX Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153826Z" creationid="Merdan NURIYEV" creationdate="20191029T153826Z">
@@ -6433,6 +6441,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100551Z" creationid="Merdan NURIYEV" creationdate="20191104T100551Z">
+        <seg>PO Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T080235Z" creationid="Merdan NURIYEV" creationdate="20191016T080235Z">
@@ -7244,6 +7260,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163147Z" creationid="Merdan NURIYEV" creationdate="20191012T163147Z">
         <seg>Uzakdaky Repositoriý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T100900Z" creationid="Merdan NURIYEV" creationdate="20191104T100809Z">
+        <seg>Uzak repositoriý'a ýüz tutulanda tor aragatnaşyk säwligi: {0}</seg>
       </tuv>
     </tu>
     <tu>
