@@ -2449,6 +2449,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T073938Z" creationid="Merdan NURIYEV" creationdate="20191104T073938Z">
+        <seg>Aragatnaşyk elýeterli, topar proýekti rejesinde işlenýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -4763,6 +4771,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072515Z" creationid="Merdan NURIYEV" creationdate="20191030T072515Z">
         <seg>Bular ýerine ýetiren terjimeleri bildirmek üçin ulanylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074541Z" creationid="Merdan NURIYEV" creationdate="20191104T074541Z">
+        <seg>Bunuň, täze topar proýektine öwrülmesi gerek, ýöne bu işi konsol rejesinde ýerine ýetirmek mümkin däl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8512,6 +8528,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074649Z" creationid="Merdan NURIYEV" creationdate="20191104T074649Z">
+        <seg>Proýekt topar proýekt funksiýasy bolmadan ýerli bir proýekt hökmünde ýüklener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143528Z" creationid="Merdan NURIYEV" creationdate="20191103T143528Z">
@@ -8548,6 +8572,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072053Z" creationid="Merdan NURIYEV" creationdate="20191101T072053Z">
         <seg>Berilen sözlük bukjasy ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074359Z" creationid="Merdan NURIYEV" creationdate="20191104T074359Z">
+        <seg>Görkezilen proýekt, bir OmegaT 3.6 fason topar proýekti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8724,6 +8756,14 @@ Sen, ziýan çekenlerden birisiň</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T063100Z" creationid="Merdan NURIYEV" creationdate="20191104T063039Z">
         <seg>Terjime ýitgisiniň öňüne geçmek üçin, şulary ýerine ýetirmelisiňiz:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074818Z" creationid="Merdan NURIYEV" creationdate="20191104T074818Z">
+        <seg>Täze topar proýektine öwürmek üçin ony OmegaT GUI bilen açyň.</seg>
       </tuv>
     </tu>
     <tu>
