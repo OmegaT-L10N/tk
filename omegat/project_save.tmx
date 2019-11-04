@@ -2131,6 +2131,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082610Z" creationid="Merdan NURIYEV" creationdate="20191104T082610Z">
+        <seg>Täze topar proýekti döredilmesi bes edildi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085019Z" creationid="Merdan NURYÝEW " creationdate="20191005T085019Z">
@@ -8350,6 +8358,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronization error</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082545Z" creationid="Merdan NURIYEV" creationdate="20191104T082545Z">
+        <seg>Sinhronlaşdyrma ýalňyşlygy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083953Z" creationid="Merdan NURYÝEW " creationdate="20190923T072034Z">
@@ -8690,6 +8706,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060319Z" creationid="Merdan NURIYEV" creationdate="20191104T060319Z">
         <seg>Proýektde barlag geçirip bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082845Z" creationid="Merdan NURIYEV" creationdate="20191104T082845Z">
+        <seg>Proýekt bukjasy {0} ýok we döredip bolmady.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9629,6 +9653,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081534Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
         <seg>Gözbaş tekstde aýry görünen terminleri ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082742Z" creationid="Merdan NURIYEV" creationdate="20191104T082742Z">
+        <seg>Ulanyjy şahsyýet maglumatlary kabul edilmedi</seg>
       </tuv>
     </tu>
     <tu>
