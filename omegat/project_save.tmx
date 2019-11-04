@@ -10379,6 +10379,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170235Z" creationid="Merdan NURIYEV" creationdate="20191104T170235Z">
+        <seg>Eger bu baýrakjagaz bellenen bolsa ýüze çykan awotomatiki tamamlama ekranyna, tehniki sözluk ýazgylary bilen birlikde gözbaş tekstler hem goşular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T171801Z" creationid="Merdan NURIYEV" creationdate="20191017T171801Z">
