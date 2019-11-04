@@ -2493,6 +2493,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074911Z" creationid="Merdan NURIYEV" creationdate="20191104T074911Z">
+        <seg>Köne Topar Proýektini Özgert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T062414Z" creationid="Merdan NURYÝEW " creationdate="20190921T062414Z">
@@ -5985,6 +5993,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T075035Z" creationid="Merdan NURIYEV" creationdate="20191104T075035Z">
+        <seg>OmegaT, 3.6 fason topar proýekti ýüze çykardy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073632Z" creationid="Merdan NURIYEV" creationdate="20191023T073632Z">
@@ -6570,6 +6586,14 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191026T154811Z" creationid="Merdan NURIYEV" creationdate="20191026T154811Z">
         <seg>Hemme taglar üçin boşluklary gora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T075629Z" creationid="Merdan NURIYEV" creationdate="20191104T075629Z">
+        <seg>Proýekti 4.x fason topar proýektine öwürmek üçin "Howwa" düwmesine basyň.</seg>
       </tuv>
     </tu>
     <tu>
