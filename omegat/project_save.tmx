@@ -2961,6 +2961,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T165638Z" creationid="Merdan NURIYEV" creationdate="20191104T165638Z">
+        <seg>Gözbaş &amp;terminleri görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T090356Z" creationid="Merdan NURIYEV" creationdate="20191101T090356Z">
@@ -4643,9 +4651,25 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T165339Z" creationid="Merdan NURIYEV" creationdate="20191104T165339Z">
+        <seg>Geçmişe Görä Tamamlamalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T163233Z" creationid="Merdan NURYÝEW " creationdate="20190926T074001Z">
+        <seg>Geçmişe Görä Çak Etmeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T165403Z" creationid="Merdan NURIYEV" creationdate="20191104T165403Z">
         <seg>Geçmişe Görä Çak Etmeler</seg>
       </tuv>
     </tu>
