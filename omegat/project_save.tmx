@@ -3929,6 +3929,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174042Z" creationid="Merdan NURIYEV" creationdate="20191105T174042Z">
+        <seg>Hatalary kontrol etmezden sorag sorama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T064941Z" creationid="Merdan NURIYEV" creationdate="20191105T064941Z">
@@ -10504,6 +10512,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T071006Z" creationid="Merdan NURIYEV" creationdate="20191101T071006Z">
         <seg>Orfografiki Barlag Konfigurasiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174058Z" creationid="Merdan NURIYEV" creationdate="20191105T174058Z">
+        <seg>Orfografiýa Hatalary</seg>
       </tuv>
     </tu>
     <tu>
