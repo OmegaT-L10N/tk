@@ -6371,6 +6371,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T183058Z" creationid="Merdan NURIYEV" creationdate="20191105T183058Z">
+        <seg>Elementde URL ýada komanda ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T183020Z" creationid="Merdan NURIYEV" creationdate="20191105T183020Z">
@@ -7459,6 +7467,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075912Z" creationid="Merdan NURIYEV" creationdate="20191101T075912Z">
         <seg>At:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T183105Z" creationid="Merdan NURIYEV" creationdate="20191105T183105Z">
+        <seg>At: {0}</seg>
       </tuv>
     </tu>
     <tu>
