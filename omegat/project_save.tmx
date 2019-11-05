@@ -4407,6 +4407,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180041Z" creationid="Merdan NURIYEV" creationdate="20191105T180041Z">
+        <seg>Esasy parolyňyzy giriziň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173456Z" creationid="Merdan NURIYEV" creationdate="20191104T173456Z">
@@ -7759,6 +7767,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181857Z" creationid="Merdan NURIYEV" creationdate="20191030T181857Z">
         <seg>OmegaT şol bir wagtyň özünde '%s'  ýaly programmirleme üýtegeýän ululyklaryny hem derňäp bilýär (printif funksiýasynyň üýtgeýän ululyklary).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180243Z" creationid="Merdan NURIYEV" creationdate="20191105T180243Z">
+        <seg>OmegaT siziň üçin esasy paroly döredip biler hemde ony ýatda saklap biler, ýöne bu gorag gaty ýönekeý bolar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11270,6 +11286,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180058Z" creationid="Merdan NURIYEV" creationdate="20191105T180058Z">
+        <seg>Girizilen parollar baplaşmaýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The passwords don't match.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102644Z" creationid="Merdan NURIYEV" creationdate="20191104T102644Z">
@@ -12919,6 +12943,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191008T074435Z" creationid="Merdan NURYÝEW " creationdate="20191008T074435Z">
         <seg>Olaryň täze ýerini görkeziň ýada olary gaýtadan dörediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180017Z" creationid="Merdan NURIYEV" creationdate="20191105T180017Z">
+        <seg>OmegaT'ni her açanyňyzda bu parol soraljakdyr.</seg>
       </tuv>
     </tu>
     <tu>
