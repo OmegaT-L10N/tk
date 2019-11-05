@@ -5631,6 +5631,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182945Z" creationid="Merdan NURIYEV" creationdate="20191105T182945Z">
+        <seg>Bulary işleýän etmek üçin Häsiýetler-&gt; Daşarky Gözleg menýsuna gidiň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T071550Z" creationid="Merdan NURIYEV" creationdate="20191101T093756Z">
@@ -6359,6 +6367,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154743Z" creationid="Merdan NURIYEV" creationdate="20191029T154743Z">
         <seg>Italýança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T183020Z" creationid="Merdan NURIYEV" creationdate="20191105T183020Z">
+        <seg>Element ady boş ýada kem</seg>
       </tuv>
     </tu>
     <tu>
