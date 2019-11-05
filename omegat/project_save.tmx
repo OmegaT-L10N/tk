@@ -2291,6 +2291,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181354Z" creationid="Merdan NURIYEV" creationdate="20191105T181354Z">
+        <seg>Görnüş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendices</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T072843Z" creationid="Merdan NURIYEV" creationdate="20191105T072843Z">
@@ -5419,6 +5427,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T184346Z" creationid="Merdan NURIYEV" creationdate="20191030T184346Z">
         <seg>Kesgitli Bolmaýan Gabat Gelmeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181332Z" creationid="Merdan NURIYEV" creationdate="20191105T181332Z">
+        <seg>Umumy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8908,6 +8924,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181217Z" creationid="Merdan NURIYEV" creationdate="20191105T181217Z">
+        <seg>Üpjün ediji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181032Z" creationid="Merdan NURIYEV" creationdate="20191030T181032Z">
@@ -9912,6 +9936,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101404Z" creationid="Merdan NURIYEV" creationdate="20191104T101404Z">
         <seg>Sekund:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181457Z" creationid="Merdan NURIYEV" creationdate="20191105T181457Z">
+        <seg>Goragly Saklawhana</seg>
       </tuv>
     </tu>
     <tu>
@@ -12411,8 +12443,8 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       <tuv lang="EN">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181206Z" creationid="Merdan NURIYEV" creationdate="20191105T181206Z">
-        <seg>Diňe terjime edilmedik dilimleri</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181221Z" creationid="Merdan NURIYEV" creationdate="20191105T181206Z">
+        <seg>&amp;Diňe terjime edilmedik dilimleri</seg>
       </tuv>
     </tu>
     <tu>
