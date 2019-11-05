@@ -1867,6 +1867,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152517Z" creationid="Merdan NURIYEV" creationdate="20191105T152517Z">
+        <seg>Algoritm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152512Z" creationid="Merdan NURIYEV" creationdate="20191105T152512Z">
@@ -2327,6 +2335,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152752Z" creationid="Merdan NURIYEV" creationdate="20191105T152737Z">
+        <seg>Ortaça Hasap: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105402Z" creationid="Merdan NURYÝEW " creationdate="20191005T105402Z">
@@ -2495,6 +2511,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072425Z" creationid="Merdan NURYÝEW " creationdate="20190923T072425Z">
         <seg>Hä&amp;zirki Niýet Edilen Faýllar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152523Z" creationid="Merdan NURIYEV" creationdate="20191105T152523Z">
+        <seg>Kalkulýator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2931,6 +2955,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152556Z" creationid="Merdan NURIYEV" creationdate="20191105T152556Z">
+        <seg>Garşylaşdyrma Rejesi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T151155Z" creationid="Merdan NURIYEV" creationdate="20191029T151155Z">
@@ -3141,6 +3173,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T184313Z" creationid="Merdan NURIYEV" creationdate="20191030T184313Z">
         <seg>Statistikada &amp;goralan tekst we ulanyjy taglarynyň sanawy sanalsyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152531Z" creationid="Merdan NURIYEV" creationdate="20191105T152531Z">
+        <seg>Sanaýjy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9102,6 +9142,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075021Z" creationid="Merdan NURIYEV" creationdate="20191101T075021Z">
         <seg>Düzgünler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T153059Z" creationid="Merdan NURIYEV" creationdate="20191105T153059Z">
+        <seg>Düzgünler...</seg>
       </tuv>
     </tu>
     <tu>
