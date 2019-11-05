@@ -1611,6 +1611,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T173011Z" creationid="Merdan NURIYEV" creationdate="20191105T173011Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ýüklenýär...&lt;br&gt;&lt;br&gt;Gönükdirme: Opsiýalar menýusyndan barlaglary islendik wagty Işlemeýän/Işlemeýän edip bilersiňiz.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T085026Z" creationid="Merdan NURIYEV" creationdate="20191105T085026Z">
@@ -6077,6 +6085,38 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172535Z" creationid="Merdan NURIYEV" creationdate="20191105T172535Z">
         <seg>Hatalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172615Z" creationid="Merdan NURIYEV" creationdate="20191105T172615Z">
+        <seg>Hatalar ({0} / {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172539Z" creationid="Merdan NURIYEV" creationdate="20191105T172539Z">
+        <seg>Hatalar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172638Z" creationid="Merdan NURIYEV" creationdate="20191105T172638Z">
+        <seg>{0} üçin hatalar ({1} / {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172607Z" creationid="Merdan NURIYEV" creationdate="20191105T172607Z">
+        <seg> {0}  üçin hatalar ({1})</seg>
       </tuv>
     </tu>
     <tu>
