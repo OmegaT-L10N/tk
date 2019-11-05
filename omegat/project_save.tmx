@@ -1373,6 +1373,14 @@ OmegaT 3.6'ny ýenede ulanyp bilersiňiz.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174613Z" creationid="Merdan NURIYEV" creationdate="20191105T174613Z">
+        <seg> ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T083949Z" creationid="Merdan NURIYEV" creationdate="20191016T083949Z">
@@ -1655,6 +1663,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081229Z" creationid="Merdan NURIYEV" creationdate="20191104T081229Z">
         <seg>&lt;html&gt;Repositoriý URL'si:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174648Z" creationid="Merdan NURIYEV" creationdate="20191105T174648Z">
+        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Tehniki Sözlükler:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9972,6 +9988,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174710Z" creationid="Merdan NURIYEV" creationdate="20191105T174710Z">
+        <seg>Hata Tipini Saýlaň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T074102Z" creationid="Merdan NURYÝEW " creationdate="20190923T074102Z">
@@ -12913,6 +12937,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T163109Z" creationid="Merdan NURIYEV" creationdate="20191030T163109Z">
         <seg>[kesgitli bolmaýan gabat gelme]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174601Z" creationid="Merdan NURIYEV" creationdate="20191105T174601Z">
+        <seg>[{0}] gözbaşda “{1}”; garaşylan terjimede {2}'niň biri</seg>
       </tuv>
     </tu>
     <tu>
