@@ -3087,6 +3087,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T153146Z" creationid="Merdan NURIYEV" creationdate="20191105T153146Z">
+        <seg>Dowam et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074911Z" creationid="Merdan NURIYEV" creationdate="20191104T074911Z">
@@ -10338,6 +10346,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171038Z" creationid="Merdan NURIYEV" creationdate="20191030T171038Z">
         <seg>Söz kökleri, tagsiz we sansys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T153506Z" creationid="Merdan NURIYEV" creationdate="20191105T153506Z">
+        <seg>1. Ädim: Deňleme parametrlerini korrektirläň</seg>
       </tuv>
     </tu>
     <tu>
