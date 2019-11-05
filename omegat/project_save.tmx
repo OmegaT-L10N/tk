@@ -1867,6 +1867,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174122Z" creationid="Merdan NURIYEV" creationdate="20191105T174122Z">
+        <seg>Sözlüge Goş: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T071854Z" creationid="Merdan NURIYEV" creationdate="20191105T071854Z">
@@ -2239,6 +2247,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T072843Z" creationid="Merdan NURIYEV" creationdate="20191105T072843Z">
         <seg>Goşundylar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174228Z" creationid="Merdan NURIYEV" creationdate="20191105T174228Z">
+        <seg>Düzeltmeleri &amp;Ulan</seg>
       </tuv>
     </tu>
     <tu>
@@ -3653,6 +3669,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074655Z" creationid="Merdan NURIYEV" creationdate="20191023T074655Z">
         <seg>Diff (Ygtyýarnama GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174254Z" creationid="Merdan NURIYEV" creationdate="20191105T174254Z">
+        <seg>Düzgünleri Işlemeýän Et “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -6415,6 +6439,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072825Z" creationid="Merdan NURIYEV" creationdate="20191101T072825Z">
         <seg>LanguageTool API wersiýasy gabat gelmeýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174236Z" creationid="Merdan NURIYEV" creationdate="20191105T174236Z">
+        <seg>LanguageTool Hatalary</seg>
       </tuv>
     </tu>
     <tu>
@@ -10516,6 +10548,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174104Z" creationid="Merdan NURIYEV" creationdate="20191105T174104Z">
+        <seg>Orfografiýa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling Issues</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174058Z" creationid="Merdan NURIYEV" creationdate="20191105T174058Z">
@@ -10922,6 +10962,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T082651Z" creationid="Merdan NURIYEV" creationdate="20191105T082651Z">
         <seg>Terminologiýa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174310Z" creationid="Merdan NURIYEV" creationdate="20191105T174310Z">
+        <seg>Terminologiýa Hatalary</seg>
       </tuv>
     </tu>
     <tu>
@@ -12869,6 +12917,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174444Z" creationid="Merdan NURIYEV" creationdate="20191105T174444Z">
+        <seg>[{0}] gözbaşda “{1}” ; garaşylan terjimede “{2}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084434Z" creationid="Merdan NURIYEV" creationdate="20191011T084434Z">
@@ -13075,6 +13131,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T085346Z" creationid="Merdan NURIYEV" creationdate="20191105T085346Z">
         <seg>{0} ulanylýan dile görä tekstiň, çepden saga (LTR) ýada sagdan çepe (RTL) uguruny çalyşyrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174137Z" creationid="Merdan NURIYEV" creationdate="20191105T174137Z">
+        <seg>{0} x {1}</seg>
       </tuv>
     </tu>
     <tu>
