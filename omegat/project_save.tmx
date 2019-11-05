@@ -2595,6 +2595,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182532Z" creationid="Merdan NURIYEV" creationdate="20191105T182532Z">
+        <seg>Ikisi Hem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154114Z" creationid="Merdan NURIYEV" creationdate="20191029T154114Z">
@@ -8896,6 +8904,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T070158Z" creationid="Merdan NURIYEV" creationdate="20191101T070158Z">
         <seg>Proýekt ýapyldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182716Z" creationid="Merdan NURIYEV" creationdate="20191105T182716Z">
+        <seg>Howpsuzlyk sebäpli proýekt komandalary işlemeýän edilen.</seg>
       </tuv>
     </tu>
     <tu>
