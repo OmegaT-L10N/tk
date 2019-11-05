@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181137Z" creationid="Merdan NURIYEV" creationdate="20191105T181137Z">
+        <seg>Terjimeleri &amp;awtomatiki getir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T070903Z" creationid="Merdan NURYÝEW " creationdate="20190926T070903Z">
@@ -3103,6 +3111,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T151155Z" creationid="Merdan NURIYEV" creationdate="20191029T151155Z">
         <seg>Terjime edilen doumentlerde boşlyk harplaryny gys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181107Z" creationid="Merdan NURIYEV" creationdate="20191105T181107Z">
+        <seg>Kon&amp;figurirle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11566,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180944Z" creationid="Merdan NURIYEV" creationdate="20191105T180944Z">
+        <seg>Internetde OmegaT üçin has köp seplenýän-modul tapyp bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084547Z" creationid="Merdan NURIYEV" creationdate="20191101T084547Z">
@@ -12381,6 +12405,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T081731Z" creationid="Merdan NURIYEV" creationdate="20191105T081731Z">
         <seg>Terjime edilmedik dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181206Z" creationid="Merdan NURIYEV" creationdate="20191105T181206Z">
+        <seg>Diňe terjime edilmedik dilimleri</seg>
       </tuv>
     </tu>
     <tu>
