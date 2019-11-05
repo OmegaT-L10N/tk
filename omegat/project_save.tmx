@@ -1795,6 +1795,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182350Z" creationid="Merdan NURIYEV" creationdate="20191105T182350Z">
+        <seg>Diňe ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T073147Z" creationid="Merdan NURIYEV" creationdate="20191023T073809Z">
@@ -2959,6 +2967,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092446Z" creationid="Merdan NURIYEV" creationdate="20191105T092446Z">
         <seg>Niýet/Terjime Edilen Faýly Saýlaň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182158Z" creationid="Merdan NURIYEV" creationdate="20191105T182158Z">
+        <seg>Arassala</seg>
       </tuv>
     </tu>
     <tu>
@@ -4735,6 +4751,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101017Z" creationid="Merdan NURIYEV" creationdate="20191104T101017Z">
         <seg>Säwlik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182329Z" creationid="Merdan NURIYEV" creationdate="20191105T182329Z">
+        <seg>Sypalga Kod</seg>
       </tuv>
     </tu>
     <tu>
@@ -7583,6 +7607,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182432Z" creationid="Merdan NURIYEV" creationdate="20191105T182432Z">
+        <seg>ASCII Bolmadyklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -7631,6 +7663,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174211Z" creationid="Merdan NURIYEV" creationdate="20191017T174211Z">
         <seg>&amp;Görünmeýän Instruksiýa Teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182342Z" creationid="Merdan NURIYEV" creationdate="20191105T182342Z">
+        <seg>Ýok</seg>
       </tuv>
     </tu>
     <tu>
