@@ -2539,6 +2539,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T154926Z" creationid="Merdan NURIYEV" creationdate="20191105T154926Z">
+        <seg>Teýdar Deňlemäni Bes Et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143020Z" creationid="Merdan NURIYEV" creationdate="20191103T143020Z">
@@ -4175,6 +4183,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T154901Z" creationid="Merdan NURIYEV" creationdate="20191105T154901Z">
+        <seg>Teýdar Deňlemäni Bitir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T145926Z" creationid="Merdan NURIYEV" creationdate="20191014T145926Z">
@@ -5739,8 +5755,8 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T065233Z" creationid="Merdan NURIYEV" creationdate="20191031T065233Z">
-        <seg>Gaýtalanmaýan dilimleri teýdar edende ilk gaýtalanmaýan dilimi goş</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T154738Z" creationid="Merdan NURIYEV" creationdate="20191031T065233Z">
+        <seg>Gaýtalanmaýan dilimleri bellik edende ilk gaýtalanmaýan dilimi goş</seg>
       </tuv>
     </tu>
     <tu>
@@ -7985,6 +8001,14 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061555Z" creationid="Merdan NURIYEV" creationdate="20191104T061555Z">
         <seg>Belki başga bir OmegaT nusgasy bilen açyk bolup biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155051Z" creationid="Merdan NURIYEV" creationdate="20191105T155051Z">
+        <seg>Teýdar Deňleme: Gerekli öýjügi seçiň</seg>
       </tuv>
     </tu>
     <tu>
@@ -10306,6 +10330,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065642Z" creationid="Merdan NURIYEV" creationdate="20191104T065642Z">
         <seg>OmegaT'ni açyň we terjime etmäge dowam ediň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T154838Z" creationid="Merdan NURIYEV" creationdate="20191105T154838Z">
+        <seg>Teýdar Deňlemäni Başlat</seg>
       </tuv>
     </tu>
     <tu>
