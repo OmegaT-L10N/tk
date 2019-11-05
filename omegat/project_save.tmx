@@ -2027,6 +2027,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155736Z" creationid="Merdan NURIYEV" creationdate="20191105T155736Z">
+        <seg>TMX ýatda saklanýan wagty bir ýalňyşlyk boldy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095336Z" creationid="Merdan NURIYEV" creationdate="20191104T095336Z">
@@ -3111,6 +3119,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155854Z" creationid="Merdan NURIYEV" creationdate="20191105T155854Z">
+        <seg>Dowam etmelimi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T074911Z" creationid="Merdan NURIYEV" creationdate="20191104T074911Z">
@@ -4063,6 +4079,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202726Z" creationid="Merdan NURIYEV" creationdate="20191025T202726Z">
         <seg>Süzgüç Şablonlaryny Redaktirleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155926Z" creationid="Merdan NURIYEV" creationdate="20191105T155926Z">
+        <seg>Tapawutlandyrma Şablonyny Redaktirle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11244,6 +11268,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T091534Z" creationid="Merdan NURIYEV" creationdate="20191101T091534Z">
         <seg>Bu proýekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155837Z" creationid="Merdan NURIYEV" creationdate="20191105T155837Z">
+        <seg>Şu wagta çenli eden hemme özgertmeleriňiz ret ediler.</seg>
       </tuv>
     </tu>
     <tu>
