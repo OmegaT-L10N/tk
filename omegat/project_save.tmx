@@ -1611,6 +1611,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T160215Z" creationid="Merdan NURIYEV" creationdate="20191105T160215Z">
+        <seg>&lt;html&gt;Kursory bölmek isleýän tekstiň bölünjek ýerine ýerleşdiriň.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081229Z" creationid="Merdan NURIYEV" creationdate="20191104T081229Z">
@@ -9378,6 +9386,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T160416Z" creationid="Merdan NURIYEV" creationdate="20191105T160416Z">
+        <seg>Dilimleme düzgünlerindäki özgertmeler ýatda saklansynmy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101201Z" creationid="Merdan NURIYEV" creationdate="20191104T101201Z">
@@ -10336,6 +10352,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092913Z" creationid="Merdan NURIYEV" creationdate="20191105T092913Z">
         <seg>Böl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155938Z" creationid="Merdan NURIYEV" creationdate="20191105T155938Z">
+        <seg>Teksti Böl</seg>
       </tuv>
     </tu>
     <tu>
