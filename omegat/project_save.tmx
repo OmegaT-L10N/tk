@@ -1867,6 +1867,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152512Z" creationid="Merdan NURIYEV" creationdate="20191105T152512Z">
+        <seg>Deňle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092148Z" creationid="Merdan NURIYEV" creationdate="20191105T092148Z">
@@ -4831,6 +4839,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152458Z" creationid="Merdan NURIYEV" creationdate="20191105T152458Z">
+        <seg>Faýl Süzgüçleri...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Format</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T075652Z" creationid="Merdan NURIYEV" creationdate="20191016T075652Z">
@@ -5407,6 +5423,14 @@ Onuň gyşy geldi öýdýän</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T093720Z" creationid="Merdan NURIYEV" creationdate="20191105T093720Z">
         <seg>Tapawutlandyrmalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152412Z" creationid="Merdan NURIYEV" creationdate="20191105T152412Z">
+        <seg>Tapawutlandyrma Şablony...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8760,6 +8784,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152422Z" creationid="Merdan NURIYEV" creationdate="20191105T152422Z">
+        <seg>Taglary Aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191026T154702Z" creationid="Merdan NURIYEV" creationdate="20191026T154702Z">
@@ -9512,6 +9544,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T052103Z" creationid="Merdan NURYÝEW " creationdate="20190930T052103Z">
         <seg>Dilim {0,nomer,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152447Z" creationid="Merdan NURIYEV" creationdate="20191105T152447Z">
+        <seg>Dilimleme Düzgünleri...</seg>
       </tuv>
     </tu>
     <tu>
