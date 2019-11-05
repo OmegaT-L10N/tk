@@ -1215,6 +1215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180507Z" creationid="Merdan NURIYEV" creationdate="20191105T180507Z">
+        <seg>Özgertmeleri &amp;Yzyna Al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072715Z" creationid="Merdan NURYÝEW " creationdate="20190923T072715Z">
@@ -5731,6 +5739,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180351Z" creationid="Merdan NURIYEV" creationdate="20191105T180351Z">
+        <seg>Düşündim; şondada dowam etDo It Anyway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073212Z" creationid="Merdan NURYÝEW " creationdate="20190923T073212Z">
@@ -8538,6 +8554,22 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180358Z" creationid="Merdan NURIYEV" creationdate="20191105T180358Z">
+        <seg>Häsiýetler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180406Z" creationid="Merdan NURIYEV" creationdate="20191105T180406Z">
+        <seg>Häsiýetler - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T163325Z" creationid="Merdan NURIYEV" creationdate="20191014T163325Z">
@@ -9402,6 +9434,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180538Z" creationid="Merdan NURIYEV" creationdate="20191105T180538Z">
+        <seg>Öňünden Kabul Edilenleri &amp;Ddikelt </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081810Z" creationid="Merdan NURYÝEW " creationdate="20190919T081206Z">
@@ -9764,6 +9804,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180413Z" creationid="Merdan NURIYEV" creationdate="20191105T180413Z">
+        <seg>Gözleg ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T070942Z" creationid="Merdan NURYÝEW " creationdate="20190926T070942Z">
@@ -10108,6 +10156,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180444Z" creationid="Merdan NURIYEV" creationdate="20191105T180444Z">
+        <seg>Bir Kategoriýa Saýla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144356Z" creationid="Merdan NURIYEV" creationdate="20191103T144356Z">
@@ -10176,6 +10232,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074729Z" creationid="Merdan NURIYEV" creationdate="20191101T074729Z">
         <seg>Hyzmat tipi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180322Z" creationid="Merdan NURIYEV" creationdate="20191105T180322Z">
+        <seg>Öz husuy parolymy giriz</seg>
       </tuv>
     </tu>
     <tu>
