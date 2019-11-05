@@ -4983,6 +4983,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T153108Z" creationid="Merdan NURIYEV" creationdate="20191105T153108Z">
+        <seg>Süzgüçler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172238Z" creationid="Merdan NURIYEV" creationdate="20191103T172238Z">
@@ -7945,6 +7953,14 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154234Z" creationid="Merdan NURIYEV" creationdate="20191029T154134Z">
         <seg>Şablon Öň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T153116Z" creationid="Merdan NURIYEV" creationdate="20191105T153116Z">
+        <seg>Şablon...</seg>
       </tuv>
     </tu>
     <tu>
