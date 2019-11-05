@@ -2051,6 +2051,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181941Z" creationid="Merdan NURIYEV" creationdate="20191105T181941Z">
+        <seg>Esasy parol bilen goragda duran ähli häsiýetler nol ediljekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164114Z" creationid="Merdan NURIYEV" creationdate="20191030T164114Z">
@@ -8720,6 +8728,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162430Z" creationid="Merdan NURIYEV" creationdate="20191104T162430Z">
         <seg> &lt;b&gt;{1}&lt;/b&gt; teklip edilýäne dönmek üçin &lt;u&gt;{0}&lt;/u&gt; düwmesine basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182153Z" creationid="Merdan NURIYEV" creationdate="20191105T182153Z">
+        <seg>Birikdirmek isleýän klawiatura ýarlygyna basyň we Howwa düwmesine basyň.</seg>
       </tuv>
     </tu>
     <tu>
