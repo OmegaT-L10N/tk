@@ -6907,6 +6907,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T175038Z" creationid="Merdan NURIYEV" creationdate="20191105T175038Z">
+        <seg>Esasy Parol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091223Z" creationid="Merdan NURYÝEW " creationdate="20191005T091223Z">
@@ -10160,6 +10168,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154055Z" creationid="Merdan NURIYEV" creationdate="20191103T154055Z">
         <seg>Komada-Faýllarynyň Bukjasyny Görkeziň...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T175933Z" creationid="Merdan NURIYEV" creationdate="20191105T175933Z">
+        <seg>Hususy maglumatlaryňyzy goramak üçin esasy parol goragyny gurnaň.</seg>
       </tuv>
     </tu>
     <tu>
