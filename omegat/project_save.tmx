@@ -951,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181644Z" creationid="Merdan NURIYEV" creationdate="20191105T181644Z">
+        <seg>Esasy Paroly Nol Et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092812Z" creationid="Merdan NURIYEV" creationdate="20191014T092812Z">
@@ -2327,6 +2335,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T084525Z" creationid="Merdan NURIYEV" creationdate="20191105T084525Z">
         <seg>Hemme reňkleriň nollanmasyny tassyklaň?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181827Z" creationid="Merdan NURIYEV" creationdate="20191105T181827Z">
+        <seg>Esasy paroly nol etmäni tassyklaýarsyňyzmy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6987,6 +7003,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181617Z" creationid="Merdan NURIYEV" creationdate="20191105T181617Z">
+        <seg>Esasy Parol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T091223Z" creationid="Merdan NURYÝEW " creationdate="20191005T091223Z">
@@ -7611,6 +7635,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181737Z" creationid="Merdan NURIYEV" creationdate="20191105T181737Z">
+        <seg>Gurulmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T140134Z" creationid="Merdan NURIYEV" creationdate="20191014T140134Z">
@@ -7847,6 +7879,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082835Z" creationid="Merdan NURIYEV" creationdate="20191011T082826Z">
         <seg>Bu bukjada OmegaT'niň okama ýazma rugsaty ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181608Z" creationid="Merdan NURIYEV" creationdate="20191105T181608Z">
+        <seg>OmegaT gizlin parollaryňyzy we API Açarlaryňyzy esasy parol bilen kodlaşdyrar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +9514,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181749Z" creationid="Merdan NURIYEV" creationdate="20191105T181749Z">
+        <seg>Esasy Paroly Nol Et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T090116Z" creationid="Merdan NURIYEV" creationdate="20191105T090116Z">
@@ -10304,6 +10352,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074729Z" creationid="Merdan NURIYEV" creationdate="20191101T074729Z">
         <seg>Hyzmat tipi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181731Z" creationid="Merdan NURIYEV" creationdate="20191105T181722Z">
+        <seg>Guruldy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181714Z" creationid="Merdan NURIYEV" creationdate="20191105T181714Z">
+        <seg>Guruldy we saklandy</seg>
       </tuv>
     </tu>
     <tu>
