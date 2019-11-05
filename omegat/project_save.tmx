@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180847Z" creationid="Merdan NURIYEV" creationdate="20191105T180847Z">
+        <seg>Onlaýn &amp;Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T065925Z" creationid="Merdan NURIYEV" creationdate="20191105T065925Z">
@@ -1711,6 +1719,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100753Z" creationid="Merdan NURIYEV" creationdate="20191031T100753Z">
         <seg>Bellik - gözbaş tekste ýada häzirki dilime degişli bolan sada bir teswirdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180611Z" creationid="Merdan NURIYEV" creationdate="20191105T180611Z">
+        <seg>Bu özgertmeleriň kabul görmesi üçin gaýtadan başlatmak gerekli</seg>
       </tuv>
     </tu>
     <tu>
@@ -8514,6 +8530,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180819Z" creationid="Merdan NURIYEV" creationdate="20191105T180819Z">
+        <seg>Seplenýän-Moduller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172315Z" creationid="Merdan NURIYEV" creationdate="20191105T172315Z">
@@ -11292,6 +11316,14 @@ instead.</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165029Z" creationid="Merdan NURIYEV" creationdate="20191031T165029Z">
         <seg>Bunuň ýerine häzirki
 bukja ulanylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180757Z" creationid="Merdan NURIYEV" creationdate="20191105T180757Z">
+        <seg>Bu özgertmeleriň bu proýekte ýaýradylmasy üçin proýektiň gaýtadan ýüklenmesi gerek</seg>
       </tuv>
     </tu>
     <tu>
