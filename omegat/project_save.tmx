@@ -3977,6 +3977,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T175029Z" creationid="Merdan NURIYEV" creationdate="20191105T175029Z">
+        <seg>Hatalary derňemezden sorag sorama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T064941Z" creationid="Merdan NURIYEV" creationdate="20191105T064941Z">
@@ -5801,6 +5809,14 @@ Onuň gyşy geldi öýdýän</seg>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T081318Z" creationid="Merdan NURYÝEW " creationdate="20190919T071729Z">
         <seg>Gger git-iş-agajyndan ýada svn-barlag-ýerinden çagrylan bolsa, netijeler
 		tapgyrlanjakdyr/goşuljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174924Z" creationid="Merdan NURIYEV" creationdate="20191105T174924Z">
+        <seg>Hata derňewi köp wagt alýan bolsa, käbir opsiýalary işlemeýän edip deňäp görüň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10072,6 +10088,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144356Z" creationid="Merdan NURIYEV" creationdate="20191103T144356Z">
         <seg>Komada-Faýlyny Saýla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174736Z" creationid="Merdan NURIYEV" creationdate="20191105T174736Z">
+        <seg>Derňeljek hata tipini saýlaň.</seg>
       </tuv>
     </tu>
     <tu>
