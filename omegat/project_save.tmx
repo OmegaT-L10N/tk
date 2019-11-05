@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172421Z" creationid="Merdan NURIYEV" creationdate="20191105T172421Z">
+        <seg>Dilime &amp;Göni Geç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054522Z" creationid="Merdan NURIYEV" creationdate="20191009T054403Z">
@@ -855,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172445Z" creationid="Merdan NURIYEV" creationdate="20191105T172445Z">
+        <seg>Täzelendi&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T145354Z" creationid="Merdan NURIYEV" creationdate="20191011T083026Z">
@@ -1043,6 +1059,14 @@
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T091733Z" creationid="Merdan NURIYEV" creationdate="20191017T052427Z">
         <seg>Sahypa Adlary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172433Z" creationid="Merdan NURIYEV" creationdate="20191105T172433Z">
+        <seg>Hemme&amp;sini Görkez</seg>
       </tuv>
     </tu>
     <tu>
@@ -2687,6 +2711,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T065538Z" creationid="Merdan NURIYEV" creationdate="20191105T065538Z">
         <seg>Üýtgeden kişi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172350Z" creationid="Merdan NURIYEV" creationdate="20191105T172350Z">
+        <seg>Simwol</seg>
       </tuv>
     </tu>
     <tu>
@@ -6037,6 +6069,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T091947Z" creationid="Merdan NURIYEV" creationdate="20191105T091947Z">
         <seg>Gaýtalanýan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172535Z" creationid="Merdan NURIYEV" creationdate="20191105T172535Z">
+        <seg>Hatalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12453,6 +12493,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082348Z" creationid="Merdan NURIYEV" creationdate="20191016T082348Z">
         <seg>Windows Resurs Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172332Z" creationid="Merdan NURIYEV" creationdate="20191105T172332Z">
+        <seg>Söz</seg>
       </tuv>
     </tu>
     <tu>
