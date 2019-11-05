@@ -5159,6 +5159,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T171420Z" creationid="Merdan NURIYEV" creationdate="20191105T171420Z">
+        <seg>Öňe-Yza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T091519Z" creationid="Merdan NURIYEV" creationdate="20191101T091519Z">
@@ -7343,6 +7351,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T174211Z" creationid="Merdan NURIYEV" creationdate="20191017T174211Z">
         <seg>&amp;Görünmeýän Instruksiýa Teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172043Z" creationid="Merdan NURIYEV" creationdate="20191105T172043Z">
+        <seg>Adaty</seg>
       </tuv>
     </tu>
     <tu>
@@ -12261,6 +12277,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050554Z" creationid="Merdan NURIYEV" creationdate="20191017T050554Z">
         <seg>Visio faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T171408Z" creationid="Merdan NURIYEV" creationdate="20191105T171408Z">
+        <seg>Viterbi Algoritmasy</seg>
       </tuv>
     </tu>
     <tu>
