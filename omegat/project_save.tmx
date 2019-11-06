@@ -8954,6 +8954,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093858Z" creationid="Merdan NURIYEV" creationdate="20191106T093858Z">
+        <seg>Bu köplük sandakyny #{0} köplük sanda terjime ediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072423Z" creationid="Merdan NURIYEV" creationdate="20191101T072423Z">
@@ -9862,6 +9870,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T075601Z" creationid="Merdan NURIYEV" creationdate="20191023T075601Z">
         <seg>Repositori Baglanmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093726Z" creationid="Merdan NURIYEV" creationdate="20191106T093726Z">
+        <seg>Repositoriý Ýapyşmasy...</seg>
       </tuv>
     </tu>
     <tu>
