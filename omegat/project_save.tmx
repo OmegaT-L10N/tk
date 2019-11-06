@@ -1651,6 +1651,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T143942Z" creationid="Merdan NURIYEV" creationdate="20191106T143942Z">
+        <seg>Proýekt açylanda &lt;a1&gt;OmegaT&lt;/a1&gt;  bu bukjadaky tehniki sözlük faýllaryny awtomatiki usulda tanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083448Z" creationid="Merdan NURYÝEW " creationdate="20190926T083448Z">
