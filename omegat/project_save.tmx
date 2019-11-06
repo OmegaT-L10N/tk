@@ -11774,6 +11774,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144358Z" creationid="Merdan NURIYEV" creationdate="20191106T144358Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt;'niň üstünde durulan dilimdäki terminler bilen baplaşan tehniki sözlük ýazgylary Tehniki Sözlük Panelinde görkeziler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T171824Z" creationid="Merdan NURIYEV" creationdate="20191104T171824Z">
