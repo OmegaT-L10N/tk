@@ -3359,6 +3359,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085537Z" creationid="Merdan NURIYEV" creationdate="20191106T085537Z">
+        <seg>Kontekst Menýu Ähmiýeti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T153146Z" creationid="Merdan NURIYEV" creationdate="20191105T153146Z">
@@ -4491,6 +4499,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T163139Z" creationid="Merdan NURYÝEW " creationdate="20190926T074143Z">
         <seg>Geçmişe görä &amp;çak etmeleri aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085448Z" creationid="Merdan NURIYEV" creationdate="20191106T085448Z">
+        <seg>Proýekte degişli komandalara mümkinçilik ber</seg>
       </tuv>
     </tu>
     <tu>
@@ -6145,6 +6161,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085422Z" creationid="Merdan NURIYEV" creationdate="20191106T085422Z">
+        <seg>Redaktorda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054629Z" creationid="Merdan NURIYEV" creationdate="20191009T054629Z">
@@ -6527,6 +6551,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T084348Z" creationid="Merdan NURIYEV" creationdate="20191105T084348Z">
         <seg>Element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085406Z" creationid="Merdan NURIYEV" creationdate="20191106T085406Z">
+        <seg>Ýazgy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9060,6 +9092,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085346Z" creationid="Merdan NURIYEV" creationdate="20191106T085346Z">
+        <seg>Proýekte Degişli Ekstern Gözleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific File Filters</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201614Z" creationid="Merdan NURIYEV" creationdate="20191025T201614Z">
@@ -9070,8 +9110,8 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       <tuv lang="EN">
         <seg>Project Specific Segmentation Setup</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T160059Z" creationid="Merdan NURIYEV" creationdate="20191029T160059Z">
-        <seg>Proýekte Has Dilimleme Sazlamalary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085317Z" creationid="Merdan NURIYEV" creationdate="20191029T160059Z">
+        <seg>Proýekte Degişli Dilimleme Sazlamalary</seg>
       </tuv>
     </tu>
     <tu>
@@ -11250,6 +11290,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T080808Z" creationid="Merdan NURIYEV" creationdate="20191011T080808Z">
         <seg>Alt wersiýa/Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085413Z" creationid="Merdan NURIYEV" creationdate="20191106T085413Z">
+        <seg>Gysgaça mazmun</seg>
       </tuv>
     </tu>
     <tu>
