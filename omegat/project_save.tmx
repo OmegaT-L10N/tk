@@ -2019,6 +2019,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T151758Z" creationid="Merdan NURIYEV" creationdate="20191106T151758Z">
+        <seg>Aleks Buloiçik (Alex Buloichik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Algorithm:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152517Z" creationid="Merdan NURIYEV" creationdate="20191105T152517Z">
@@ -6545,6 +6553,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T151956Z" creationid="Merdan NURIYEV" creationdate="20191106T151956Z">
+        <seg>Bütewileşdirme dolandyryjysy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid API key</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T171050Z" creationid="Merdan NURIYEV" creationdate="20191101T171050Z">
@@ -7319,6 +7335,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T090639Z" creationid="Merdan NURIYEV" creationdate="20191101T090639Z">
         <seg>Boşlu&amp;klary Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152028Z" creationid="Merdan NURIYEV" creationdate="20191106T152028Z">
+        <seg>Mark Paýor (Marc Prior)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13615,6 +13639,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T145848Z" creationid="Merdan NURIYEV" creationdate="20191106T145848Z">
         <seg>Web sahypasynyň dizaýneri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152010Z" creationid="Merdan NURIYEV" creationdate="20191106T152010Z">
+        <seg>Web sahyba dolandyryjysy</seg>
       </tuv>
     </tu>
     <tu>
