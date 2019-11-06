@@ -11938,6 +11938,14 @@ häzirki bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T150613Z" creationid="Merdan NURIYEV" creationdate="20191106T150613Z">
+        <seg>OmegaT proýekti milletlerarasy resmi bolmaýan meýletinçi topar tarapyndan dolandyrylýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081904Z" creationid="Merdan NURIYEV" creationdate="20191016T081904Z">
