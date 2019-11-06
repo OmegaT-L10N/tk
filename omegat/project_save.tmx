@@ -6451,6 +6451,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084802Z" creationid="Merdan NURIYEV" creationdate="20191106T084802Z">
+        <seg>Elementiň elýeterli hereket gory ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T183020Z" creationid="Merdan NURIYEV" creationdate="20191105T183020Z">
@@ -12450,6 +12458,38 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053117Z" creationid="Merdan NURYÝEW " creationdate="20190930T053117Z">
         <seg>AÇK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084851Z" creationid="Merdan NURIYEV" creationdate="20191106T084851Z">
+        <seg>URL'de "{0}" ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084832Z" creationid="Merdan NURIYEV" creationdate="20191106T084832Z">
+        <seg>URL'de tekst ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084933Z" creationid="Merdan NURIYEV" creationdate="20191106T084933Z">
+        <seg>URL'nyň kodlaşdyrmasy ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084915Z" creationid="Merdan NURIYEV" creationdate="20191106T084915Z">
+        <seg>URL'de belgi ýok</seg>
       </tuv>
     </tu>
     <tu>
