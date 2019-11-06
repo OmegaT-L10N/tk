@@ -12006,6 +12006,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T132939Z" creationid="Merdan NURIYEV" creationdate="20191106T132939Z">
+        <seg>Faýlyň ýeri &lt;f2&gt;/glossary&lt;/f2&gt; bukjasynyň içinde bolmalydyr, şeýlede has içerdäki bukjalarda hem ýerleşip biler (meselem; &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T084545Z" creationid="Merdan NURIYEV" creationdate="20191105T084545Z">
