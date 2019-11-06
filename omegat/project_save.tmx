@@ -2923,10 +2923,26 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084228Z" creationid="Merdan NURIYEV" creationdate="20191106T084228Z">
+        <seg>&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Proýekt&lt;/g5&gt; &lt;g6&gt;Häsiýetler&lt;/g6&gt; &lt;/m0&gt; barlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T182953Z" creationid="Merdan NURIYEV" creationdate="20191030T182953Z">
         <seg>Ýönekeý &amp;java MessageFormat şablonlaryny derňe (meselem. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084132Z" creationid="Merdan NURIYEV" creationdate="20191106T084132Z">
+        <seg>Ýüklän dict faýllarynyň dogry bukjada (ýada oňa degişli alt bukjalarda) ýerleşýändigine göz ýetiriň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,10 +3729,26 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T081505Z" creationid="Merdan NURIYEV" creationdate="20191106T081505Z">
+        <seg>Sözlükler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T071231Z" creationid="Merdan NURIYEV" creationdate="20191101T071231Z">
         <seg>Gurnalan sözlükler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T081648Z" creationid="Merdan NURIYEV" creationdate="20191106T081648Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 'de ulanylan sözlükler StarDict ýada Lingvo DSL format esaslydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4049,6 +4081,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084356Z" creationid="Merdan NURIYEV" creationdate="20191106T084356Z">
+        <seg>Bu bukjada ýokarda agzalan giňeltmeli üç faýl barmy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051751Z" creationid="Merdan NURIYEV" creationdate="20191017T051751Z">
@@ -4125,6 +4165,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T070610Z" creationid="Merdan NURIYEV" creationdate="20191105T070610Z">
         <seg>Ýygyndylary göçürip al {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T082241Z" creationid="Merdan NURIYEV" creationdate="20191106T082241Z">
+        <seg>Faýllary göçürip alyň, olar &lt;f0&gt;tarball&lt;/f0&gt; arhiw şeklindedir (giňelmesi &lt;e1&gt;tar.bz&lt;/e1&gt; ýada &lt;e2&gt;tar.bz2&lt;/e2&gt; şeklindedir).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5843,6 +5891,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T081534Z" creationid="Merdan NURIYEV" creationdate="20191106T081534Z">
+        <seg>Sözlükleri göçürip almak we gurnamak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T083254Z" creationid="Merdan NURIYEV" creationdate="20191105T083254Z">
@@ -5957,6 +6013,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084518Z" creationid="Merdan NURIYEV" creationdate="20191106T084518Z">
+        <seg>Eger giňelme &lt;e0&gt;tar.bz&lt;/e0&gt; bolsa, diýmek arhiwden çykarmany unutduňuz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -5965,6 +6029,14 @@ their defaults as a result of the location change.</seg>
         <seg>Eger soňradan islenen ýere ygtyýarlylyk berilse
 şol ýer ulanyljakdyr we bu özgertme sebäpli
 hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084429Z" creationid="Merdan NURIYEV" creationdate="20191106T084429Z">
+        <seg>Diňe bir faýl bar bolsa giňelmesine üns beriň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7211,6 +7283,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083742Z" creationid="Merdan NURIYEV" creationdate="20191106T083742Z">
+        <seg>Merriam Webster dictionary - ulanylşy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T173924Z" creationid="Merdan NURIYEV" creationdate="20191017T173924Z">
@@ -7751,6 +7831,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T065630Z" creationid="Merdan NURIYEV" creationdate="20191105T065630Z">
         <seg>Bellik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083008Z" creationid="Merdan NURIYEV" creationdate="20191106T083008Z">
+        <seg>"Gözbaş-Niýet edilen/Terjime" görnüşindäki sözlükleriň ýanynda, aşakdaky maglumatlarada, Sözlük aýratynlyklary arkaly el ýetirip bilersiňiz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8856,6 +8944,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T084821Z" creationid="Merdan NURYÝEW " creationdate="20191005T084821Z">
         <seg>Proýekt faýly ýüklenende problema ýüze çykdy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083759Z" creationid="Merdan NURIYEV" creationdate="20191106T083759Z">
+        <seg>Sözlüklere degişli soraglar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10060,6 +10156,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T082108Z" creationid="Merdan NURIYEV" creationdate="20191106T082108Z">
+        <seg>Arzuw eden dil jübüti üçin sözlük barmy ýokmy gözläň, meselem &lt;u0&gt;OmegaT Wiki tarapyndan berilen sözlük baglary&lt;/u0&gt;'na serediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054231Z" creationid="Merdan NURIYEV" creationdate="20191009T054231Z">
@@ -10672,6 +10776,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T170735Z" creationid="Merdan NURIYEV" creationdate="20191105T170735Z">
         <seg>Käbir deňleşdirmeleriň gözden geçirilmesi gerekli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083355Z" creationid="Merdan NURIYEV" creationdate="20191106T083355Z">
+        <seg>Käbir sözlükleriň ygtyýarnamasy hakynda hiç söz edilmeýar (ýagy "Ulanmaga rugsat"), käbiri (ýokarda agzalanlar) GPL ygtyýarnamasy esasynda ulanmaga rugsatly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11552,6 +11664,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083720Z" creationid="Merdan NURIYEV" creationdate="20191106T083720Z">
+        <seg>Aşakda Merriam Webster 10th dictionary sözlügüniň ulanylşy görkezlmekde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T172116Z" creationid="Merdan NURIYEV" creationdate="20191017T172116Z">
@@ -11774,6 +11894,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T082612Z" creationid="Merdan NURIYEV" creationdate="20191106T082612Z">
+        <seg>Giňeltmeleri &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt; bolan üç faýl bolmalydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084547Z" creationid="Merdan NURIYEV" creationdate="20191101T084547Z">
@@ -11966,6 +12094,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202444Z" creationid="Merdan NURIYEV" creationdate="20191025T202444Z">
         <seg>Süzgüjiň haýsy faýly haýsy kodlaşdyrmada prosese goýjagyny saýlamak üçin tablissadan süzgüji saýlaň we "Redaktirle" knopkasyna basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T081803Z" creationid="Merdan NURIYEV" creationdate="20191106T081803Z">
+        <seg>StarDict formadyndaky sözlük faýllaryny gurnamak üçin şu aşakdaky ýoly yzarlaň:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12761,6 +12897,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T082516Z" creationid="Merdan NURIYEV" creationdate="20191106T082516Z">
+        <seg>Arhiw faýlynyň içindäkileri untar kömegi bilen (ýada windowsda, meselem&lt;f0&gt; winrar&lt;/f0&gt; arkaly) proýektiň "Dictionary" bukjasyna çykaryň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082742Z" creationid="Merdan NURIYEV" creationdate="20191104T082742Z">
@@ -13385,6 +13529,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143653Z" creationid="Merdan NURIYEV" creationdate="20191103T143653Z">
         <seg>gutardy ({0} ms wagt aldy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083031Z" creationid="Merdan NURIYEV" creationdate="20191106T083031Z">
+        <seg>we beýlekiler...</seg>
       </tuv>
     </tu>
     <tu>
