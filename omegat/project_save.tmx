@@ -11952,6 +11952,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T132538Z" creationid="Merdan NURIYEV" creationdate="20191106T132538Z">
+        <seg>Giňeltme &lt;f0&gt;.txt&lt;/f0&gt; ýada &lt;f1&gt;.utf8&lt;/f1&gt;  şekilinde bolmalydyr(eger giňeltmesi ýok bolsa awtomatiki goşular).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092248Z" creationid="Merdan NURIYEV" creationdate="20191105T092248Z">
