@@ -5863,6 +5863,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144416Z" creationid="Merdan NURIYEV" creationdate="20191106T144416Z">
+        <seg>Tehniki Sözlük Paneli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051830Z" creationid="Merdan NURYÝEW " creationdate="20190930T051830Z">
@@ -12210,6 +12218,22 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162217Z" creationid="Merdan NURIYEV" creationdate="20191104T162217Z">
         <seg>Terjime üýtgedildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144723Z" creationid="Merdan NURIYEV" creationdate="20191106T144723Z">
+        <seg>Tehniki Sözlük ýazgysyna teswir hem goşyp bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144547Z" creationid="Merdan NURIYEV" creationdate="20191106T144547Z">
+        <seg>= yşaratyndan öň gelen termin gözbaş, =  yşaradyndan soňky bolsa terjimesidir.</seg>
       </tuv>
     </tu>
     <tu>
