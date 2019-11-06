@@ -11968,6 +11968,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T134526Z" creationid="Merdan NURIYEV" creationdate="20191106T134526Z">
+        <seg>Ýeri we ady bildirilen faýlyň hökman bolmasy zerurlulygy ýokdur, tehniki sözlüge ýazgy girizilen wagty gerek bolsa bu faýl dörediler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083720Z" creationid="Merdan NURIYEV" creationdate="20191106T083720Z">
