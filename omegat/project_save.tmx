@@ -4225,6 +4225,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152211Z" creationid="Merdan NURIYEV" creationdate="20191106T152211Z">
+        <seg>Resminamalaşdyrma dolandyryjysy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084356Z" creationid="Merdan NURIYEV" creationdate="20191106T084356Z">
@@ -7259,6 +7267,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152404Z" creationid="Merdan NURIYEV" creationdate="20191106T152404Z">
+        <seg>Ýerlileşdirme dolandyryjysy, ulanyjy topar eýesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084453Z" creationid="Merdan NURIYEV" creationdate="20191011T084453Z">
@@ -7341,8 +7357,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Marc Prior</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152028Z" creationid="Merdan NURIYEV" creationdate="20191106T152028Z">
-        <seg>Mark Paýor (Marc Prior)</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152053Z" creationid="Merdan NURIYEV" creationdate="20191106T152028Z">
+        <seg>Mark Praýor (Marc Prior)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13541,6 +13557,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201947Z" creationid="Merdan NURIYEV" creationdate="20191025T201947Z">
         <seg>Faýl süzgüçlerini görkeziň ýada redaktirläň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152230Z" creationid="Merdan NURIYEV" creationdate="20191106T152230Z">
+        <seg>Winsent Bidau (Vincent Bidaux)</seg>
       </tuv>
     </tu>
     <tu>
