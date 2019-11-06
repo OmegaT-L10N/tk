@@ -13507,6 +13507,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T145535Z" creationid="Merdan NURIYEV" creationdate="20191106T145535Z">
+        <seg>Gözlän sahypaňyzy tapyp bilmedik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051628Z" creationid="Merdan NURIYEV" creationdate="20191017T051628Z">
@@ -13807,6 +13815,14 @@ Sahypaňyz tapylmady</seg>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080737Z" creationid="Merdan NURYÝEW " creationdate="20190930T080737Z">
         <seg>Jikme-jik statistika maglumatlaryny şu faýlda tapyp bilersiňiz:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T145747Z" creationid="Merdan NURIYEV" creationdate="20191106T145747Z">
+        <seg>&lt;a0&gt;Baş Sahypa&lt;/a0&gt;  gidip bilersiňiz, gözleýän maglumatyňyzy şol ýerde tapma mümkinçiligi bolar.</seg>
       </tuv>
     </tu>
     <tu>
