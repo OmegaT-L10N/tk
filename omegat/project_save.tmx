@@ -2909,8 +2909,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091657Z" creationid="Merdan NURYÝEW " creationdate="20190924T063200Z">
-        <seg>&amp;Ýalňyşlyklarda Barla...</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093019Z" creationid="Merdan NURYÝEW " creationdate="20190924T063200Z">
+        <seg>&amp;Meseleleri Barla...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2941,8 +2941,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190924T063232Z" creationid="Merdan NURYÝEW " creationdate="20190924T063232Z">
-        <seg>&amp;Häzirki Dokument üçin Neşirlerde Barla</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093026Z" creationid="Merdan NURYÝEW " creationdate="20190924T063232Z">
+        <seg>&amp;Häzirki Dokument üçin Meselelerde Barla</seg>
       </tuv>
     </tu>
     <tu>
@@ -4107,8 +4107,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T184125Z" creationid="Merdan NURIYEV" creationdate="20191030T184108Z">
-        <seg>Tag ýalňyşlyklary bolan terjime edilen dokumentleriň döredilmesine &amp;rugsat berme</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093133Z" creationid="Merdan NURIYEV" creationdate="20191030T184108Z">
+        <seg>Tag meseleleri bolan terjime edilen dokumentleriň döredilmesine &amp;rugsat berme</seg>
       </tuv>
     </tu>
     <tu>
@@ -4219,16 +4219,16 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174042Z" creationid="Merdan NURIYEV" creationdate="20191105T174042Z">
-        <seg>Hatalary kontrol etmezden sorag sorama</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093325Z" creationid="Merdan NURIYEV" creationdate="20191105T174042Z">
+        <seg>Ýalňyşlyklary kontrol etmezden sorag sorama</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Don't ask before checking issues</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T175029Z" creationid="Merdan NURIYEV" creationdate="20191105T175029Z">
-        <seg>Hatalary derňemezden sorag sorama</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093244Z" creationid="Merdan NURIYEV" creationdate="20191105T175029Z">
+        <seg>Meseleleri derňemezden sorag sorama</seg>
       </tuv>
     </tu>
     <tu>
@@ -6547,32 +6547,32 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172615Z" creationid="Merdan NURIYEV" creationdate="20191105T172615Z">
-        <seg>Hatalar ({0} / {1})</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092823Z" creationid="Merdan NURIYEV" creationdate="20191105T172615Z">
+        <seg>Meseleler ({0} / {1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues ({0})</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172539Z" creationid="Merdan NURIYEV" creationdate="20191105T172539Z">
-        <seg>Hatalar ({0})</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092813Z" creationid="Merdan NURIYEV" creationdate="20191105T172539Z">
+        <seg>Meseleler({0})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172638Z" creationid="Merdan NURIYEV" creationdate="20191105T172638Z">
-        <seg>{0} üçin hatalar ({1} / {2})</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092829Z" creationid="Merdan NURIYEV" creationdate="20191105T172638Z">
+        <seg>{0} üçin Meseleler ({1} / {2})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172607Z" creationid="Merdan NURIYEV" creationdate="20191105T172607Z">
-        <seg> {0}  üçin hatalar ({1})</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092820Z" creationid="Merdan NURIYEV" creationdate="20191105T172607Z">
+        <seg> {0}  üçin meseleler ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -6893,8 +6893,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174236Z" creationid="Merdan NURIYEV" creationdate="20191105T174236Z">
-        <seg>LanguageTool Hatalary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093209Z" creationid="Merdan NURIYEV" creationdate="20191105T174236Z">
+        <seg>LanguageTool Meseleleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -7833,8 +7833,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T173029Z" creationid="Merdan NURIYEV" creationdate="20191105T173029Z">
-        <seg>Hiç hata ýok</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092839Z" creationid="Merdan NURIYEV" creationdate="20191105T173029Z">
+        <seg>Hiç mesele ýok</seg>
       </tuv>
     </tu>
     <tu>
@@ -8820,8 +8820,8 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051217Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
-        <seg>"Terjime Dokumentlerini Döret" funksiýasyny ulanmadan öň tag/bellik problemalaryny düzelt.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093115Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
+        <seg>"Terjime Dokumentlerini Döret" funksiýasyny ulanmadan öň tag/bellik meselelerini düzelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,8 +10622,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174710Z" creationid="Merdan NURIYEV" creationdate="20191105T174710Z">
-        <seg>Hata Tipini Saýlaň</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093338Z" creationid="Merdan NURIYEV" creationdate="20191105T174710Z">
+        <seg>Mesele Tipini Saýlaň</seg>
       </tuv>
     </tu>
     <tu>
@@ -10718,8 +10718,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174736Z" creationid="Merdan NURIYEV" creationdate="20191105T174736Z">
-        <seg>Derňeljek hata tipini saýlaň.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093348Z" creationid="Merdan NURIYEV" creationdate="20191105T174736Z">
+        <seg>Derňeljek mesele tipini saýlaň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11278,8 +11278,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174058Z" creationid="Merdan NURIYEV" creationdate="20191105T174058Z">
-        <seg>Orfografiýa Hatalary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092852Z" creationid="Merdan NURIYEV" creationdate="20191105T174058Z">
+        <seg>Orfografiýa Meseleleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -11544,8 +11544,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102507Z" creationid="Merdan NURIYEV" creationdate="20191104T102507Z">
-        <seg>Tag Ýalňyşlyklary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093200Z" creationid="Merdan NURIYEV" creationdate="20191104T102507Z">
+        <seg>Tag Meseleleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -11704,8 +11704,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174310Z" creationid="Merdan NURIYEV" creationdate="20191105T174310Z">
-        <seg>Terminologiýa Hatalary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093217Z" creationid="Merdan NURIYEV" creationdate="20191105T174310Z">
+        <seg>Terminologiýa Meseleleri</seg>
       </tuv>
     </tu>
     <tu>
