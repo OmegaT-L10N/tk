@@ -3079,6 +3079,54 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085221Z" creationid="Merdan NURIYEV" creationdate="20191106T085221Z">
+        <seg>Komanda bölüjisi boş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085043Z" creationid="Merdan NURIYEV" creationdate="20191106T085043Z">
+        <seg>Komandada "{0}" ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085027Z" creationid="Merdan NURIYEV" creationdate="20191106T085027Z">
+        <seg>Komandanyň teksti görkezilmedik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085200Z" creationid="Merdan NURIYEV" creationdate="20191106T085200Z">
+        <seg>Komandanyň bölüjisi ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085147Z" creationid="Merdan NURIYEV" creationdate="20191106T085147Z">
+        <seg>Komandanyň kodlaşdyrmasy ýok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085122Z" creationid="Merdan NURIYEV" creationdate="20191106T085103Z">
+        <seg>Komandanyň niýet işi bildirilmedik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T080039Z" creationid="Merdan NURIYEV" creationdate="20191101T080039Z">
@@ -5035,6 +5083,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T104116Z" creationid="Merdan NURYÝEW " creationdate="20191005T104116Z">
         <seg>Iş-soňy Ekstern Komanda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085247Z" creationid="Merdan NURIYEV" creationdate="20191106T085247Z">
+        <seg>Ekstern/Daşarky Gözleg</seg>
       </tuv>
     </tu>
     <tu>
