@@ -3079,6 +3079,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085622Z" creationid="Merdan NURIYEV" creationdate="20191106T085622Z">
+        <seg>Komanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085221Z" creationid="Merdan NURIYEV" creationdate="20191106T085221Z">
@@ -4383,6 +4391,22 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092718Z" creationid="Merdan NURIYEV" creationdate="20191014T092718Z">
         <seg>Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085611Z" creationid="Merdan NURIYEV" creationdate="20191106T085611Z">
+        <seg>Ekstern Gözleg Ýazgysyny Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085901Z" creationid="Merdan NURIYEV" creationdate="20191106T085901Z">
+        <seg>Ekstern Gözleg URL'sini Redaktirle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11112,6 +11136,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154703Z" creationid="Merdan NURIYEV" creationdate="20191029T154703Z">
         <seg>Ispança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085828Z" creationid="Merdan NURIYEV" creationdate="20191106T085828Z">
+        <seg>"&amp;" bilen Abbrewiatura belläň: "F&amp;oobar" halynda O ulanylar</seg>
       </tuv>
     </tu>
     <tu>
