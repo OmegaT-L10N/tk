@@ -11812,6 +11812,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T090925Z" creationid="Merdan NURIYEV" creationdate="20191106T090925Z">
+        <seg>URL'de "{nyşana}" bolmalydyr, bu nyşana, gözleg teksti bilen çalşylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
