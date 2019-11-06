@@ -6163,6 +6163,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T094716Z" creationid="Merdan NURIYEV" creationdate="20191106T094716Z">
+        <seg>Eger bir &lt;a0&gt;OmegaT&lt;/a0&gt; proýekti bir ýada birnäçe tehniki sözlüge eýe bolsa işjeň dilimdäki termine gabat gelýän Tehniki sözlük ýazgylary, Tehniki Sözlük görkezijisinde awtomatiki görkeziler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170827Z" creationid="Merdan NURIYEV" creationdate="20191104T170827Z">
