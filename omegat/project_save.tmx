@@ -5759,6 +5759,22 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093952Z" creationid="Merdan NURIYEV" creationdate="20191106T093952Z">
+        <seg>Tehniki Sözlükler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T094103Z" creationid="Merdan NURIYEV" creationdate="20191106T094103Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 'de ulanylýan tehniki sözlükler elde döredilýär we elde täzelenýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T070129Z" creationid="Merdan NURYÝEW " creationdate="20190926T070129Z">
