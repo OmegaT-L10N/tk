@@ -4679,6 +4679,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T145936Z" creationid="Merdan NURIYEV" creationdate="20191106T145936Z">
+        <seg>Iňlisçeden terjimeçiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T093306Z" creationid="Merdan NURIYEV" creationdate="20191101T093306Z">
@@ -11918,6 +11926,14 @@ häzirki bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082739Z" creationid="Merdan NURIYEV" creationdate="20191016T082739Z">
         <seg>Mozilla DTD süzgüji bir ýalňyşlyk döretdi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T150218Z" creationid="Merdan NURIYEV" creationdate="20191106T150218Z">
+        <seg>OmegaT Proýekti</seg>
       </tuv>
     </tu>
     <tu>
