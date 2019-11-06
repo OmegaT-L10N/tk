@@ -3135,6 +3135,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085935Z" creationid="Merdan NURIYEV" creationdate="20191106T085935Z">
+        <seg>Komanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T080039Z" creationid="Merdan NURIYEV" creationdate="20191101T080039Z">
@@ -3741,6 +3749,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075905Z" creationid="Merdan NURIYEV" creationdate="20191101T075905Z">
         <seg>Bölüji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085951Z" creationid="Merdan NURIYEV" creationdate="20191106T085951Z">
+        <seg>Bölüji:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4395,6 +4411,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085931Z" creationid="Merdan NURIYEV" creationdate="20191106T085931Z">
+        <seg>Ekstern Gözleg Komandasyny Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085611Z" creationid="Merdan NURIYEV" creationdate="20191106T085611Z">
@@ -4555,6 +4579,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080447Z" creationid="Merdan NURYÝEW " creationdate="20190930T080447Z">
         <seg>Kodlaşdyrma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085943Z" creationid="Merdan NURIYEV" creationdate="20191106T085943Z">
+        <seg>Kodlaşdyrma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11538,6 +11570,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T172613Z" creationid="Merdan NURIYEV" creationdate="20191030T172613Z">
         <seg>Terjime termin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085940Z" creationid="Merdan NURIYEV" creationdate="20191106T085940Z">
+        <seg>Niýet:</seg>
       </tuv>
     </tu>
     <tu>
