@@ -8321,6 +8321,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091207Z" creationid="Merdan NURIYEV" creationdate="20191106T091207Z">
+        <seg>OmegaT {0} wersiýasy ulanylmaga taýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T144530Z" creationid="Merdan NURIYEV" creationdate="20191027T144530Z">
@@ -10090,6 +10098,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091114Z" creationid="Merdan NURIYEV" creationdate="20191106T091114Z">
+        <seg>Nusga Öndürijilik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075443Z" creationid="Merdan NURYÝEW " creationdate="20190930T075443Z">
@@ -11820,6 +11836,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091052Z" creationid="Merdan NURIYEV" creationdate="20191106T091042Z">
+        <seg>Komandada "{nyşana}" bolmalydyr, bu nyşana, gözleg teksti bilen çalşylarl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -13545,6 +13569,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091141Z" creationid="Merdan NURIYEV" creationdate="20191106T091141Z">
+        <seg>Iň täze wersiýa ulanýarsyňyz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T163420Z" creationid="Merdan NURIYEV" creationdate="20191012T163420Z">
@@ -13583,6 +13615,14 @@ Sahypaňyz tapylmady</seg>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080737Z" creationid="Merdan NURYÝEW " creationdate="20190930T080737Z">
         <seg>Jikme-jik statistika maglumatlaryny şu faýlda tapyp bilersiňiz:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091232Z" creationid="Merdan NURIYEV" creationdate="20191106T091232Z">
+        <seg>Şu wagt siziň ulanýan wersiýaňyz {1}.</seg>
       </tuv>
     </tu>
     <tu>
