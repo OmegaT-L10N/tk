@@ -9970,8 +9970,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T082842Z" creationid="Merdan NURIYEV" creationdate="20191107T082842Z">
-        <seg>Regex - Greedy Hal/Ýagdaýlary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083446Z" creationid="Merdan NURIYEV" creationdate="20191107T082842Z">
+        <seg>Regex - Açgözlülik (Greedy) sypatlandyrmalary </seg>
       </tuv>
     </tu>
     <tu>
@@ -9988,6 +9988,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072429Z" creationid="Merdan NURIYEV" creationdate="20191107T072253Z">
         <seg>Regex - Sitatalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083603Z" creationid="Merdan NURIYEV" creationdate="20191107T083603Z">
+        <seg>Regex - Höwesli (Reluctant) Sypatlary (açgöz bolmaýan) </seg>
       </tuv>
     </tu>
     <tu>
@@ -14803,6 +14811,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074842Z" creationid="Merdan NURIYEV" creationdate="20191023T074842Z">
         <seg>mALIGNa (MIT  )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083736Z" creationid="Merdan NURIYEV" creationdate="20191107T083736Z">
+        <seg>höwesli (non-greedy) sypatlandyrmalary bolup bildiginden az bap geleni tapjak bolar.</seg>
       </tuv>
     </tu>
     <tu>
