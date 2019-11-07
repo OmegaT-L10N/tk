@@ -5807,6 +5807,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083837Z" creationid="Merdan NURIYEV" creationdate="20191107T083837Z">
+        <seg>Meselem, &lt;e0&gt;a+?&lt;/e0&gt; sypaty birinji &lt;e1&gt;a&lt;/e1&gt; 'ny &lt;e2&gt;aaabbb&lt;/e2&gt; içinde tapar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073053Z" creationid="Merdan NURIYEV" creationdate="20191107T073053Z">
