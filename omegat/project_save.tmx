@@ -8291,6 +8291,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072551Z" creationid="Merdan NURIYEV" creationdate="20191107T072551Z">
+        <seg>Hiçzat, ýöne aşakdaky simwoly sitirlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T083834Z" creationid="Merdan NURIYEV" creationdate="20191105T083834Z">
@@ -9794,8 +9802,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072253Z" creationid="Merdan NURIYEV" creationdate="20191107T072253Z">
-        <seg>Regex - Goşadyrnaklar</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072429Z" creationid="Merdan NURIYEV" creationdate="20191107T072253Z">
+        <seg>Regex - Sitatalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12804,6 +12812,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095629Z" creationid="Merdan NURIYEV" creationdate="20191104T095629Z">
         <seg>Bu bir proýektiň faýly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072934Z" creationid="Merdan NURIYEV" creationdate="20191107T072934Z">
+        <seg>Bu gerekli bolar, eger siz şu özünden düşnükli !$()*+.&lt;&gt;?[\]^{|} meta-simwollaryny  gabatlajak bolýan bolsaňyz</seg>
       </tuv>
     </tu>
     <tu>
