@@ -1565,6 +1565,14 @@ OmegaT 3.6'ny ýenede ulanyp bilersiňiz.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072330Z" creationid="Merdan NURIYEV" creationdate="20191107T072330Z">
+        <seg>...aşakdakylara bap geler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T064724Z" creationid="Merdan NURIYEV" creationdate="20191105T064724Z">
@@ -9780,6 +9788,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T053721Z" creationid="Merdan NURIYEV" creationdate="20191107T053721Z">
         <seg>Regex - Baýraklary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072253Z" creationid="Merdan NURIYEV" creationdate="20191107T072253Z">
+        <seg>Regex - Goşadyrnaklar</seg>
       </tuv>
     </tu>
     <tu>
