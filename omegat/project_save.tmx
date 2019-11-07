@@ -2395,10 +2395,26 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074356Z" creationid="Merdan NURIYEV" creationdate="20191107T074356Z">
+        <seg>a, b, ýada c daşynda islendik nyşan (tersleme/ýoklama,ähmiýet bermezlik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073916Z" creationid="Merdan NURIYEV" creationdate="20191107T073916Z">
-        <seg>Grek böleklerindäki bir nyşanyň daşynda Islendik nyşan (aýyrma)</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074116Z" creationid="Merdan NURIYEV" creationdate="20191107T073916Z">
+        <seg>Grek böleklerindäki bir nyşanyň daşynda Islendik nyşan (tersleme/ýoklama)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074122Z" creationid="Merdan NURIYEV" creationdate="20191107T074059Z">
+        <seg>Bir uly harpyň daşyndaky islendik harp(aýyrma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9840,6 +9856,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074140Z" creationid="Merdan NURIYEV" creationdate="20191107T074140Z">
+        <seg>Regex - Nyşan synyplary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073409Z" creationid="Merdan NURIYEV" creationdate="20191107T073409Z">
@@ -14497,6 +14521,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174444Z" creationid="Merdan NURIYEV" creationdate="20191105T174444Z">
         <seg>[{0}] gözbaşda “{1}” ; garaşylan terjimede “{2}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074153Z" creationid="Merdan NURIYEV" creationdate="20191107T074153Z">
+        <seg>a, b, or c (ýönekeý synyp)</seg>
       </tuv>
     </tu>
     <tu>
