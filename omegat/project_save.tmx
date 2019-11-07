@@ -4001,6 +4001,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152436Z" creationid="Merdan NURIYEV" creationdate="20191106T152436Z">
+        <seg>Programjylar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074834Z" creationid="Merdan NURIYEV" creationdate="20191023T074834Z">
@@ -7111,6 +7119,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191012T170826Z" creationid="Merdan NURIYEV" creationdate="20191012T170826Z">
         <seg>Açar söz gözlegi boşlyk-bilen aýrylan açar sözleriň hemmesini ýerleşim orunlaryna garamazdan hemme tekstiň içinde gözlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152422Z" creationid="Merdan NURIYEV" creationdate="20191106T152422Z">
+        <seg>Kos Iwantsow (Kos Ivantsov)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11436,6 +11452,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T164122Z" creationid="Merdan NURIYEV" creationdate="20191107T164122Z">
+        <seg>Proýekt goýberilişinden Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075157Z" creationid="Merdan NURYÝEW " creationdate="20190930T075157Z">
@@ -12682,6 +12706,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102644Z" creationid="Merdan NURIYEV" creationdate="20191104T102644Z">
         <seg>Parollar gabat gelmeýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T152557Z" creationid="Merdan NURIYEV" creationdate="20191106T152557Z">
+        <seg>Proýektiň filosofiýasy şu &lt;a0&gt;ýerde&lt;/a0&gt; beýan edilmekdedirl.</seg>
       </tuv>
     </tu>
     <tu>
