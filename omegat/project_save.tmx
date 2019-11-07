@@ -2405,8 +2405,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074116Z" creationid="Merdan NURIYEV" creationdate="20191107T073916Z">
-        <seg>Grek böleklerindäki bir nyşanyň daşynda Islendik nyşan (tersleme/ýoklama)</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074401Z" creationid="Merdan NURIYEV" creationdate="20191107T073916Z">
+        <seg>Grek böleklerindäki bir nyşanyň daşynda Islendik nyşan (tersleme/ýoklama,ähmiýet bermezlik)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14521,6 +14521,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174444Z" creationid="Merdan NURIYEV" creationdate="20191105T174444Z">
         <seg>[{0}] gözbaşda “{1}” ; garaşylan terjimede “{2}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074758Z" creationid="Merdan NURIYEV" creationdate="20191107T074758Z">
+        <seg>a'dan z'ýe ýada A'dan Z'ýe çenli goşma (aralyk)</seg>
       </tuv>
     </tu>
     <tu>
