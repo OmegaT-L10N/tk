@@ -14369,6 +14369,30 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T082922Z" creationid="Merdan NURIYEV" creationdate="20191107T082922Z">
+        <seg>Bir gezek ýada hiç X tapar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083029Z" creationid="Merdan NURIYEV" creationdate="20191107T083029Z">
+        <seg>Bir ýada köp gezek X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083004Z" creationid="Merdan NURIYEV" creationdate="20191107T083004Z">
+        <seg>Nol ýada köp gezek X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T153317Z" creationid="Merdan NURIYEV" creationdate="20191029T153317Z">
@@ -14705,6 +14729,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084442Z" creationid="Merdan NURIYEV" creationdate="20191011T084442Z">
         <seg>faýl adlary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083114Z" creationid="Merdan NURIYEV" creationdate="20191107T083114Z">
+        <seg>greedy sypatlandyrmalary bolup bildiginden köp bap geleni tapjak bolar.</seg>
       </tuv>
     </tu>
     <tu>
