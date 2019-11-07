@@ -2371,6 +2371,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073649Z" creationid="Merdan NURIYEV" creationdate="20191107T073640Z">
+        <seg>Uly harp nyşany (ýönekeý&lt;u0&gt; kategoriýa&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T084105Z" creationid="Merdan NURYÝEW " creationdate="20190930T084105Z">
@@ -2383,6 +2391,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051640Z" creationid="Merdan NURIYEV" creationdate="20191017T051640Z">
         <seg>Android Resurslary faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073916Z" creationid="Merdan NURIYEV" creationdate="20191107T073916Z">
+        <seg>Grek böleklerindäki bir nyşanyň daşynda Islendik nyşan (aýyrma)</seg>
       </tuv>
     </tu>
     <tu>
