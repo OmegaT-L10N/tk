@@ -1851,6 +1851,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A word boundary</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075741Z" creationid="Merdan NURIYEV" creationdate="20191107T075741Z">
+        <seg>Söz araçäleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A word character: [a-zA-Z_0-9]</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075410Z" creationid="Merdan NURIYEV" creationdate="20191107T075410Z">
@@ -9904,6 +9912,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075713Z" creationid="Merdan NURIYEV" creationdate="20191107T075511Z">
+        <seg>Regex - Araçäk tapyjylar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T054052Z" creationid="Merdan NURIYEV" creationdate="20191107T054052Z">
@@ -12380,6 +12396,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The beginning of a line</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075549Z" creationid="Merdan NURIYEV" creationdate="20191107T075549Z">
+        <seg>Setiriň başy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T062933Z" creationid="Merdan NURIYEV" creationdate="20191107T062933Z">
@@ -12484,6 +12508,14 @@ bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180757Z" creationid="Merdan NURIYEV" creationdate="20191105T180757Z">
         <seg>Bu özgertmeleriň bu proýekte ýaýradylmasy üçin proýektiň gaýtadan ýüklenmesi gerek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The end of a line</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075645Z" creationid="Merdan NURIYEV" creationdate="20191107T075645Z">
+        <seg>Setir soňy</seg>
       </tuv>
     </tu>
     <tu>
