@@ -5687,6 +5687,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073053Z" creationid="Merdan NURIYEV" creationdate="20191107T073053Z">
+        <seg>Mysal üçin bu bir çepe ýapgyt çyzyk nyşany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forward-Backward</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T171420Z" creationid="Merdan NURIYEV" creationdate="20191105T171420Z">
@@ -8291,6 +8299,22 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073233Z" creationid="Merdan NURIYEV" creationdate="20191107T073233Z">
+        <seg>Hiçzat, ýöne \Q bilen başlaýanlary sitirläp durar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073144Z" creationid="Merdan NURIYEV" creationdate="20191107T073144Z">
+        <seg>Hiçzat, ýöne until \E çenli hemme nyşanlary sitirlär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T072551Z" creationid="Merdan NURIYEV" creationdate="20191107T072551Z">
@@ -9788,6 +9812,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T054052Z" creationid="Merdan NURIYEV" creationdate="20191107T054052Z">
         <seg>Regex - Nyşan/Simwoly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073409Z" creationid="Merdan NURIYEV" creationdate="20191107T073409Z">
+        <seg>Unikod bölekleri we kategoriýalary üçin Regex Synyplary </seg>
       </tuv>
     </tu>
     <tu>
