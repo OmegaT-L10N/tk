@@ -1779,6 +1779,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073557Z" creationid="Merdan NURIYEV" creationdate="20191107T073557Z">
+        <seg>Grek böleklerindäki nyşan (ýönekeý &lt;u0&gt; bölek&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A currency symbol</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T054632Z" creationid="Merdan NURIYEV" creationdate="20191107T054632Z">
@@ -14473,14 +14481,6 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174444Z" creationid="Merdan NURIYEV" creationdate="20191105T174444Z">
         <seg>[{0}] gözbaşda “{1}” ; garaşylan terjimede “{2}”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>\P{InGreek}</seg>
-      </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T054651Z" creationid="Merdan NURIYEV" creationdate="20191107T054651Z">
-        <seg>\P{Grekçe}</seg>
       </tuv>
     </tu>
     <tu>
