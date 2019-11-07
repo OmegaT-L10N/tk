@@ -1795,6 +1795,22 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A digit: [0-9]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075057Z" creationid="Merdan NURIYEV" creationdate="20191107T075057Z">
+        <seg>Sanlar: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075111Z" creationid="Merdan NURIYEV" creationdate="20191107T075111Z">
+        <seg>San bolmaýan: [^0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100753Z" creationid="Merdan NURIYEV" creationdate="20191031T100753Z">
@@ -2391,6 +2407,14 @@ TMX faýly ýüklenmez.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051640Z" creationid="Merdan NURIYEV" creationdate="20191017T051640Z">
         <seg>Android Resurslary faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075038Z" creationid="Merdan NURIYEV" creationdate="20191107T075038Z">
+        <seg>Islendik nyşan (setir soňlandyrma nyşanlaryndan başga)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9876,6 +9900,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T053721Z" creationid="Merdan NURIYEV" creationdate="20191107T053721Z">
         <seg>Regex - Baýraklary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074843Z" creationid="Merdan NURIYEV" creationdate="20191107T074843Z">
+        <seg>Regex - Öňden Tanadylan nyşan synyplary</seg>
       </tuv>
     </tu>
     <tu>
