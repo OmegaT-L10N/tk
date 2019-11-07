@@ -1811,6 +1811,22 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075357Z" creationid="Merdan NURIYEV" creationdate="20191107T075357Z">
+        <seg>Boşluk bolmaýan nyşan: [^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075428Z" creationid="Merdan NURIYEV" creationdate="20191107T075428Z">
+        <seg>Söz däl nyşany: [^\w]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100753Z" creationid="Merdan NURIYEV" creationdate="20191031T100753Z">
@@ -1823,6 +1839,22 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180611Z" creationid="Merdan NURIYEV" creationdate="20191105T180611Z">
         <seg>Bu özgertmeleriň kabul görmesi üçin gaýtadan başlatmak gerekli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075339Z" creationid="Merdan NURIYEV" creationdate="20191107T075339Z">
+        <seg>Boşluk nyşany: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075410Z" creationid="Merdan NURIYEV" creationdate="20191107T075410Z">
+        <seg>Bir söz nyşany: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
