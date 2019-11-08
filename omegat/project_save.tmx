@@ -12996,6 +12996,14 @@ Sen, ziýan çekenlerden birisiň</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T171151Z" creationid="Merdan NURIYEV" creationdate="20191108T171151Z">
+        <seg>Bu gurallaryň işleýişi köplenç bir birine meňzeşdir (fmysal üçin aşakda Kadaly Jümle Synagçysy - Regular Expression Tester serediň): ýokardaky kadaly jümle (ýokardaky giriş) ortadaky gözleg tekstini (Ortadaky tekst guty) derňär, netijeleri bolsa netije tekst gutusynda görkezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
