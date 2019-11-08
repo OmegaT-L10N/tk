@@ -8817,6 +8817,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174759Z" creationid="Merdan NURIYEV" creationdate="20191108T174759Z">
+        <seg> &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; faýlynda özgertme girizilenden soňra täze gysga-ýollaryň işe girizilmesi üçin, &lt;a1&gt;OmegaT&lt;/a1&gt; 'niň gaýtadan başladylmasy gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T144530Z" creationid="Merdan NURIYEV" creationdate="20191027T144530Z">
@@ -12906,6 +12914,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T070027Z" creationid="Merdan NURIYEV" creationdate="20191107T070027Z">
         <seg>Gysga-ýollaryň kesgitlenýän faýlynyň ady &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; bolmalydyr we bir setirde bir gysga-ýol kesgitlenmelidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T175316Z" creationid="Merdan NURIYEV" creationdate="20191108T175316Z">
+        <seg>Gysga-ýol kesgitleme sintaksisi şu şekildedir: &lt;c0&gt;&lt;menýu element kody&gt;=&lt;gysga-ýol&gt;&lt;/c0&gt;, bu ýerde &lt;e1&gt;&lt;menýu element kody&gt;&lt;/e1&gt; aşakdaky tablisadan alynýar we &lt;e2&gt;&lt;gysga-ýol&gt;&lt;/e2&gt; bolsa ulanyjynyň basan düwme utgaşmasydyr.</seg>
       </tuv>
     </tu>
     <tu>
