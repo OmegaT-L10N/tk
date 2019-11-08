@@ -5735,6 +5735,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finds the following:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173018Z" creationid="Merdan NURIYEV" creationdate="20191108T173018Z">
+        <seg>Aşakdakylary tapar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172238Z" creationid="Merdan NURIYEV" creationdate="20191103T172238Z">
@@ -10008,6 +10016,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T172953Z" creationid="Merdan NURIYEV" creationdate="20191108T172953Z">
+        <seg>Regex - Terjimeleriň içindäki Jümle mysallary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T053721Z" creationid="Merdan NURIYEV" creationdate="20191107T053721Z">
@@ -10076,6 +10092,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073843Z" creationid="Merdan NURYÝEW " creationdate="20190923T073843Z">
         <seg>Meňzeş Terjimäni Registerle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173004Z" creationid="Merdan NURIYEV" creationdate="20191108T173004Z">
+        <seg>Kadaly Jümle</seg>
       </tuv>
     </tu>
     <tu>
@@ -12668,6 +12692,14 @@ bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083720Z" creationid="Merdan NURIYEV" creationdate="20191106T083720Z">
         <seg>Aşakda Merriam Webster 10th dictionary sözlügüniň ulanylşy görkezlmekde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T172910Z" creationid="Merdan NURIYEV" creationdate="20191108T172910Z">
+        <seg>Aşakdaky tablissada, terjime hakydasynyň içinde gözleg geçireniňizde işiňize ýarajak jümleler tapyp bilersiňiz:</seg>
       </tuv>
     </tu>
     <tu>
