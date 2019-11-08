@@ -2507,6 +2507,14 @@ TMX faýly ýüklenmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174551Z" creationid="Merdan NURIYEV" creationdate="20191108T174551Z">
+        <seg>"//' nyşanyndan soňraky hemme maglymata ähmiýet berilmeýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074713Z" creationid="Merdan NURIYEV" creationdate="20191023T074713Z">
@@ -4787,6 +4795,14 @@ Your help page not found</seg>
         <seg>Ýüregimde tap takyr boşluk
 Soňsuz garaňkylyk içimi agyrdýar
 Siziň kömek sahypaňyz tapylmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174454Z" creationid="Merdan NURIYEV" creationdate="20191108T174454Z">
+        <seg>Teswirler "//" bilen başlamalydyr we boş setirlere rugsat berilmekdedir.</seg>
       </tuv>
     </tu>
     <tu>
