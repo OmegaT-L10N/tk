@@ -4903,6 +4903,22 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173652Z" creationid="Merdan NURIYEV" creationdate="20191108T173652Z">
+        <seg>Iňlizçe: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173545Z" creationid="Merdan NURIYEV" creationdate="20191108T173545Z">
+        <seg>Iňlizçede: çekimli bilen başlaýan sözleriň öňünde umuman "an" prefiks bolmalydyr "a" däl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T093306Z" creationid="Merdan NURIYEV" creationdate="20191101T093306Z">
