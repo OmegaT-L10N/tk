@@ -14869,10 +14869,26 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173218Z" creationid="Merdan NURIYEV" creationdate="20191108T173218Z">
+        <seg>otur ýada nokat, yzyndan boşluk we ýene bir otur ýada nokat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143653Z" creationid="Merdan NURIYEV" creationdate="20191103T143653Z">
         <seg>gutardy ({0} ms wagt aldy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double words</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173040Z" creationid="Merdan NURIYEV" creationdate="20191108T173040Z">
+        <seg>jübüt sözler</seg>
       </tuv>
     </tu>
     <tu>
@@ -14889,6 +14905,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152659Z" creationid="Merdan NURIYEV" creationdate="20191103T152659Z">
         <seg>giňeltme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173313Z" creationid="Merdan NURIYEV" creationdate="20191108T173313Z">
+        <seg>setir soňundaky nokatdan soňra gelen artykmaç boşluklar</seg>
       </tuv>
     </tu>
     <tu>
