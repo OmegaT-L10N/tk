@@ -10048,6 +10048,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T171201Z" creationid="Merdan NURIYEV" creationdate="20191108T171201Z">
+        <seg>Regex Synagçysy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T165824Z" creationid="Merdan NURIYEV" creationdate="20191108T165824Z">
@@ -10968,6 +10976,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074113Z" creationid="Merdan NURIYEV" creationdate="20191023T074113Z">
         <seg>Görüň /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T172137Z" creationid="Merdan NURIYEV" creationdate="20191108T172137Z">
+        <seg>Serediň &lt;u0&gt;The Regex Coach&lt;/u0&gt; Windows,Linux, FreeBSD üçin özbaşdak işleýän wersiýalary bar.</seg>
       </tuv>
     </tu>
     <tu>
