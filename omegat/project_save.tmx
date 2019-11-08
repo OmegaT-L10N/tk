@@ -1843,6 +1843,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T165928Z" creationid="Merdan NURIYEV" creationdate="20191108T165928Z">
+        <seg>Kadaly jümleleri döretmek we test etmek üçin birnäçe interaktiw gurallar elýeterlidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180611Z" creationid="Merdan NURIYEV" creationdate="20191105T180611Z">
@@ -4743,6 +4751,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T075304Z" creationid="Merdan NURIYEV" creationdate="20191030T075247Z">
         <seg>Redaktor Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T165412Z" creationid="Merdan NURIYEV" creationdate="20191108T165412Z">
+        <seg>Ikisnden biri X ýada Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -10000,6 +10016,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T164958Z" creationid="Merdan NURIYEV" creationdate="20191108T164958Z">
+        <seg>Regex - Logiki amallary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074843Z" creationid="Merdan NURIYEV" creationdate="20191107T074843Z">
@@ -10020,6 +10044,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083603Z" creationid="Merdan NURIYEV" creationdate="20191107T083603Z">
         <seg>Regex - Höwesli (Reluctant) Sypatlary (açgöz bolmaýan) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T165824Z" creationid="Merdan NURIYEV" creationdate="20191108T165824Z">
+        <seg>Regex gurallary we ulanylyş mysallary</seg>
       </tuv>
     </tu>
     <tu>
@@ -14417,6 +14449,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T165217Z" creationid="Merdan NURIYEV" creationdate="20191108T165217Z">
+        <seg>X yzyndan Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T082922Z" creationid="Merdan NURIYEV" creationdate="20191107T082922Z">
@@ -14477,6 +14517,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T050640Z" creationid="Merdan NURIYEV" creationdate="20191017T050640Z">
         <seg>XML Spreadsheet 2003 elektron tablisa faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T165506Z" creationid="Merdan NURIYEV" creationdate="20191108T165506Z">
+        <seg>XY ýeke bir topar görnüşinde </seg>
       </tuv>
     </tu>
     <tu>
