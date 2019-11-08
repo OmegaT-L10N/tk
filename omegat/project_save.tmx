@@ -4905,16 +4905,16 @@ Siziň kömek sahypaňyz tapylmady</seg>
       <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173652Z" creationid="Merdan NURIYEV" creationdate="20191108T173652Z">
-        <seg>Iňlizçe: the same check as above, but concerning consonants ("a", not "an")</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173906Z" creationid="Merdan NURIYEV" creationdate="20191108T173652Z">
+        <seg>Iňlizçe: ýokardaky barlag bilen meňzeş ýöne çekimsilere degişli derňew (bu gezek pristawka  "a" bolmaly "an" däl)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173545Z" creationid="Merdan NURIYEV" creationdate="20191108T173545Z">
-        <seg>Iňlizçede: çekimli bilen başlaýan sözleriň öňünde umuman "an" prefiks bolmalydyr "a" däl</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173900Z" creationid="Merdan NURIYEV" creationdate="20191108T173545Z">
+        <seg>Iňlizçe: çekimli bilen başlaýan sözleriň öňünde umuman "an" pristawkasy bolmalydyr "a" däl</seg>
       </tuv>
     </tu>
     <tu>
@@ -15003,6 +15003,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074842Z" creationid="Merdan NURIYEV" creationdate="20191023T074842Z">
         <seg>mALIGNa (MIT  )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173921Z" creationid="Merdan NURIYEV" creationdate="20191108T173921Z">
+        <seg>birden köp boşluk</seg>
       </tuv>
     </tu>
     <tu>
