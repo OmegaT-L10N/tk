@@ -9197,6 +9197,14 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174109Z" creationid="Merdan NURIYEV" creationdate="20191108T174109Z">
+        <seg>Nokatdan soňra uly harp başlaýar - täze sözlem bilen nokadyň arasynda boşluk ýatdan çykan bolmaly!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155051Z" creationid="Merdan NURIYEV" creationdate="20191105T155051Z">
@@ -15019,6 +15027,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083736Z" creationid="Merdan NURIYEV" creationdate="20191107T083736Z">
         <seg>höwesli (non-greedy) sypatlandyrmalary bolup bildiginden az bap geleni tapjak bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174340Z" creationid="Merdan NURIYEV" creationdate="20191108T174340Z">
+        <seg>"is" için gözleg et, “this” ýada “isn't” we ş.m üçin gözleg etme.</seg>
       </tuv>
     </tu>
     <tu>
