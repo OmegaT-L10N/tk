@@ -553,8 +553,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082455Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
-        <seg>Örän aýry uly/kiçi harp tapawudy (meselm FOO bln. foo) bolan gabat gelmelere &amp;ähmiýet berme</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175759Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
+        <seg>Örän aýry baş/setir harp tapawudy (meselm FOO bln. foo) bolan gabat gelmelere &amp;ähmiýet berme</seg>
       </tuv>
     </tu>
     <tu>
@@ -2375,6 +2375,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092212Z" creationid="Merdan NURIYEV" creationdate="20191101T092212Z">
         <seg>Alternatiw Dil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175302Z" creationid="Merdan NURIYEV" creationdate="20191110T175302Z">
+        <seg>Çykyşy Hemişe Tassykla</seg>
       </tuv>
     </tu>
     <tu>
@@ -9385,6 +9393,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175217Z" creationid="Merdan NURIYEV" creationdate="20191110T175217Z">
+        <seg>Opsiýalar Menýusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T085439Z" creationid="Merdan NURIYEV" creationdate="20191016T085439Z">
@@ -12696,40 +12712,40 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Switch Case To/Cycle</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171904Z" creationid="Merdan NURIYEV" creationdate="20191110T171904Z">
-        <seg>Geçişi Gaýtala</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175713Z" creationid="Merdan NURIYEV" creationdate="20191110T171904Z">
+        <seg>Geçir/Gaýtala</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171420Z" creationid="Merdan NURIYEV" creationdate="20191110T171341Z">
-        <seg>Setir Harpa Geçir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175610Z" creationid="Merdan NURIYEV" creationdate="20191110T171341Z">
+        <seg>Geçir/Setir Harpa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171827Z" creationid="Merdan NURIYEV" creationdate="20191110T171700Z">
-        <seg>Sözlem Ýagdaýa Geçir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175658Z" creationid="Merdan NURIYEV" creationdate="20191110T171700Z">
+        <seg>Geçir/Sözlem Ýagdaýa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171820Z" creationid="Merdan NURIYEV" creationdate="20191110T171638Z">
-        <seg>Sözbaşy Ýagdaýa Geçir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175649Z" creationid="Merdan NURIYEV" creationdate="20191110T171638Z">
+        <seg>Geçir/Sözbaşy Ýagdaýa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171451Z" creationid="Merdan NURIYEV" creationdate="20191110T171451Z">
-        <seg>Baş Harpa Geçir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175631Z" creationid="Merdan NURIYEV" creationdate="20191110T171451Z">
+        <seg>Geçir/Baş Harpa</seg>
       </tuv>
     </tu>
     <tu>
@@ -14781,6 +14797,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082013Z" creationid="Merdan NURYÝEW " creationdate="20190926T064906Z">
         <seg>Tehniki sözlük girişleri üçin köklerine aýyrmany ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175248Z" creationid="Merdan NURIYEV" creationdate="20191110T175248Z">
+        <seg>Ilerlemek Üçin TAB Ulan</seg>
       </tuv>
     </tu>
     <tu>
