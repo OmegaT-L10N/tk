@@ -2027,6 +2027,70 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170116Z" creationid="Merdan NURIYEV" creationdate="20191110T170116Z">
+        <seg>Proýekt Mazmunlaryny/Işjeň Gözbaş Dokumentini Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170137Z" creationid="Merdan NURIYEV" creationdate="20191110T170137Z">
+        <seg>Proýekt Mazmunlaryny/Işjeň Niýet Edilen Dokumentini Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160734Z" creationid="Merdan NURIYEV" creationdate="20191110T160734Z">
+        <seg>Proýekt Mazmunlaryny/Bukjalaryny Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T165948Z" creationid="Merdan NURIYEV" creationdate="20191110T165948Z">
+        <seg>Proýekt Mazmunlaryny/Tehniki Sözlüklerini Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160640Z" creationid="Merdan NURIYEV" creationdate="20191110T160640Z">
+        <seg>Proýekt Mazmunlaryny/Köküni Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170016Z" creationid="Merdan NURIYEV" creationdate="20191110T170016Z">
+        <seg>Proýekt Mazmunlaryny/Gözbaş Faýllaryny Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170050Z" creationid="Merdan NURIYEV" creationdate="20191110T170050Z">
+        <seg>Proýekt Mazmunlaryny/Niýet Edilen Faýllaryny Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170215Z" creationid="Merdan NURIYEV" creationdate="20191110T170215Z">
+        <seg>Proýekt Mazmunlaryny/Özgerdilip Bolýan Tehniki Sözlügünü Gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Scripts Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T154224Z" creationid="Merdan NURIYEV" creationdate="20191103T154224Z">
@@ -3787,8 +3851,16 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063346Z" creationid="Merdan NURYÝEW " creationdate="20190921T063346Z">
-        <seg>Häzirki Terjime Edilen &amp;Dokumentleri Döret</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160354Z" creationid="Merdan NURYÝEW " creationdate="20190921T063346Z">
+        <seg>Häzirki/Işjeň Terjime Edilen &amp;Dokumentleri Döret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160455Z" creationid="Merdan NURIYEV" creationdate="20191110T160455Z">
+        <seg>Häzirki/Işjeň Terjime Edilen Dokumentleri Döret</seg>
       </tuv>
     </tu>
     <tu>
@@ -3813,6 +3885,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092420Z" creationid="Merdan NURYÝEW " creationdate="20191005T092420Z">
         <seg>Täze Proýekt Döret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160250Z" creationid="Merdan NURIYEV" creationdate="20191110T160250Z">
+        <seg>Terjime Edilen Dokumentleri Döret</seg>
       </tuv>
     </tu>
     <tu>
@@ -4521,6 +4601,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160152Z" creationid="Merdan NURIYEV" creationdate="20191110T160152Z">
+        <seg>MediaWiki Sahypasyny Göçürip Al...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081256Z" creationid="Merdan NURIYEV" creationdate="20191104T081256Z">
@@ -4751,6 +4839,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T155926Z" creationid="Merdan NURIYEV" creationdate="20191105T155926Z">
         <seg>Tapawutlandyrma Şablonyny Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170335Z" creationid="Merdan NURIYEV" creationdate="20191110T170335Z">
+        <seg>Redaktirleme Menýusy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6785,6 +6881,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170517Z" creationid="Merdan NURIYEV" creationdate="20191110T170517Z">
+        <seg>Seçilen ýada Gabat Geleni Giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T091331Z" creationid="Merdan NURIYEV" creationdate="20191101T091331Z">
@@ -6797,6 +6901,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073554Z" creationid="Merdan NURYÝEW " creationdate="20190923T073554Z">
         <seg>Ýetmeýan Gözbaş &amp;Taglary Giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170901Z" creationid="Merdan NURIYEV" creationdate="20191110T170901Z">
+        <seg>Ýetmeýän Gözbaş Taglar Giriz</seg>
       </tuv>
     </tu>
     <tu>
@@ -6821,6 +6933,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T095137Z" creationid="Merdan NURIYEV" creationdate="20191031T095137Z">
         <seg>Saýlanany Giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170839Z" creationid="Merdan NURIYEV" creationdate="20191110T170839Z">
+        <seg>Gözbaşy Giriz</seg>
       </tuv>
     </tu>
     <tu>
@@ -8263,6 +8383,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160012Z" creationid="Merdan NURIYEV" creationdate="20191110T160012Z">
+        <seg>Täze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New Language and Country</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072226Z" creationid="Merdan NURIYEV" creationdate="20191030T072226Z">
@@ -8937,6 +9065,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160024Z" creationid="Merdan NURIYEV" creationdate="20191110T160024Z">
+        <seg>Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T063400Z" creationid="Merdan NURYÝEW " creationdate="20190921T063400Z">
@@ -8957,6 +9093,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083808Z" creationid="Merdan NURYÝEW " creationdate="20190921T061608Z">
         <seg>Soňky Açylan Proýe&amp;kti Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160108Z" creationid="Merdan NURIYEV" creationdate="20191110T160108Z">
+        <seg>Soňky Açylan Proýekti Aç</seg>
       </tuv>
     </tu>
     <tu>
@@ -9780,6 +9924,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160531Z" creationid="Merdan NURIYEV" creationdate="20191110T160531Z">
+        <seg>Proýekt Faýllary...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Menu</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T155905Z" creationid="Merdan NURIYEV" creationdate="20191110T155905Z">
@@ -9972,6 +10124,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160510Z" creationid="Merdan NURIYEV" creationdate="20191110T160510Z">
+        <seg>Häsiýetler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Provider</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181217Z" creationid="Merdan NURIYEV" creationdate="20191105T181217Z">
@@ -10008,6 +10168,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T084010Z" creationid="Merdan NURIYEV" creationdate="20191016T084010Z">
         <seg>QuarkXPress CopyFlow Gold Faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170222Z" creationid="Merdan NURIYEV" creationdate="20191110T170222Z">
+        <seg>Çyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -10116,6 +10284,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084656Z" creationid="Merdan NURIYEV" creationdate="20191011T084656Z">
         <seg>Gaýtalanýan gö&amp;zleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170417Z" creationid="Merdan NURIYEV" creationdate="20191110T170417Z">
+        <seg>Soňky Amaly Gaýtadan et</seg>
       </tuv>
     </tu>
     <tu>
@@ -10546,9 +10722,33 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170448Z" creationid="Merdan NURIYEV" creationdate="20191110T170448Z">
+        <seg>Gabat Gelen ýada Saýlanan Bilen Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170817Z" creationid="Merdan NURIYEV" creationdate="20191110T170624Z">
+        <seg>Gözbaş Bilen Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073148Z" creationid="Merdan NURYÝEW " creationdate="20190923T073148Z">
+        <seg>Kompýuter Terjimesi bilen Çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170535Z" creationid="Merdan NURIYEV" creationdate="20191110T170535Z">
         <seg>Kompýuter Terjimesi bilen Çalşyr</seg>
       </tuv>
     </tu>
@@ -10878,6 +11078,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075443Z" creationid="Merdan NURYÝEW " creationdate="20190930T075443Z">
         <seg>Nusga Tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160217Z" creationid="Merdan NURIYEV" creationdate="20191110T160217Z">
+        <seg>Ýatda Sakla</seg>
       </tuv>
     </tu>
     <tu>
@@ -13954,6 +14162,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T070944Z" creationid="Merdan NURIYEV" creationdate="20191105T070944Z">
         <seg>TaaS hyzmatyna ygtyýar berilmedik isleg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170359Z" creationid="Merdan NURIYEV" creationdate="20191110T170359Z">
+        <seg>Soňky Amaly Yzyna Gaýtar</seg>
       </tuv>
     </tu>
     <tu>
