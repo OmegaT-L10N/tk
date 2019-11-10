@@ -6335,6 +6335,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T172211Z" creationid="Merdan NURIYEV" creationdate="20191110T172211Z">
+        <seg>Git Menýusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T071550Z" creationid="Merdan NURIYEV" creationdate="20191101T093756Z">
@@ -11652,6 +11660,62 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T172018Z" creationid="Merdan NURIYEV" creationdate="20191110T172018Z">
+        <seg>Gabat Geleni Seç #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T172026Z" creationid="Merdan NURIYEV" creationdate="20191110T172026Z">
+        <seg>Gabat Geleni Seç #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T172033Z" creationid="Merdan NURIYEV" creationdate="20191110T172033Z">
+        <seg>Gabat Geleni Seç #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T172043Z" creationid="Merdan NURIYEV" creationdate="20191110T172043Z">
+        <seg>Gabat Geleni Seç #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T172053Z" creationid="Merdan NURIYEV" creationdate="20191110T172053Z">
+        <seg>Gabat Geleni Seç #5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171943Z" creationid="Merdan NURIYEV" creationdate="20191110T171943Z">
+        <seg>Nobatdaky Gabat Geleni Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171924Z" creationid="Merdan NURIYEV" creationdate="20191110T171924Z">
+        <seg>Öňki Gabat Geleni Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Scripts Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T144337Z" creationid="Merdan NURIYEV" creationdate="20191103T144337Z">
@@ -12442,6 +12506,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154955Z" creationid="Merdan NURIYEV" creationdate="20191029T154955Z">
         <seg>Şwesçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171904Z" creationid="Merdan NURIYEV" creationdate="20191110T171904Z">
+        <seg>Geçişi Gaýtala</seg>
       </tuv>
     </tu>
     <tu>
