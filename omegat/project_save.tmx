@@ -2973,8 +2973,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T083701Z" creationid="Merdan NURIYEV" creationdate="20191011T083701Z">
-        <seg>Uly/Kiçi h&amp;arpa duýgurlyk</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175827Z" creationid="Merdan NURIYEV" creationdate="20191011T083701Z">
+        <seg>Baş/Setir h&amp;arpa duýgurlyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -6001,8 +6001,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173039Z" creationid="Merdan NURIYEV" creationdate="20191104T173039Z">
-        <seg>Ýaylan tekstiň uly/kiçi harp düzgünlerini dowam etdir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180019Z" creationid="Merdan NURIYEV" creationdate="20191104T173039Z">
+        <seg>Ýaylan tekstiň baş/setir harp düzgünlerini dowam etdir</seg>
       </tuv>
     </tu>
     <tu>
@@ -11212,8 +11212,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085141Z" creationid="Merdan NURIYEV" creationdate="20191101T085141Z">
-        <seg>Uly/Kiçi Çalşyr</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175923Z" creationid="Merdan NURIYEV" creationdate="20191101T085141Z">
+        <seg>Baş/Setir Çalşyr</seg>
       </tuv>
     </tu>
     <tu>
