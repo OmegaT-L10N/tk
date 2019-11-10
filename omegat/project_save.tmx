@@ -1683,6 +1683,22 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153342Z" creationid="Merdan NURIYEV" creationdate="20191110T153342Z">
+        <seg>&lt;c0&gt;&lt;hadysa&gt;&lt;/c0&gt;  &lt;e1&gt;girizilen&lt;/e1&gt;, &lt;e2&gt;basylan&lt;/e2&gt;, &lt;e3&gt;goýberilen&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153058Z" creationid="Merdan NURIYEV" creationdate="20191110T153058Z">
+        <seg>&lt;c0&gt;&lt;modfisirleme düwmesi&gt;&lt;/c0&gt;  &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt; bolyp biler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T173011Z" creationid="Merdan NURIYEV" creationdate="20191105T173011Z">
@@ -1759,6 +1775,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152649Z" creationid="Merdan NURIYEV" creationdate="20191103T152649Z">
         <seg>&lt;boş&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T152843Z" creationid="Merdan NURIYEV" creationdate="20191110T152843Z">
+        <seg>&lt;shortcut&gt; şu aşakdakylardan biri bolmalydyr: 0 ýada has köp &lt;c0&gt;&lt;modifisirleme düwmesi&gt;&lt;/c0&gt; yzy bilen 0 ýada 1 &lt;c1&gt;&lt;hadysa&gt;&lt;/c1&gt; ysyndan 1 &lt;c2&gt;&lt;düwme&gt;&lt;/c2&gt;, bu ýerde:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5887,6 +5911,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153919Z" creationid="Merdan NURIYEV" creationdate="20191110T153919Z">
+        <seg>Mysal üçin, OmegaT'niň öňünden kabul edilen gysga-ýollary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073053Z" creationid="Merdan NURIYEV" creationdate="20191107T073053Z">
@@ -8813,6 +8845,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T091207Z" creationid="Merdan NURIYEV" creationdate="20191106T091207Z">
         <seg>OmegaT {0} wersiýasy ulanylmaga taýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153246Z" creationid="Merdan NURIYEV" creationdate="20191110T153246Z">
+        <seg>Mac sistemlerinde, modifisirleme düwmes &lt;e0&gt;meta&lt;/e0&gt;'sy &lt;e1&gt;command&lt;/e1&gt;  düwmesi bilen berilýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12696,6 +12736,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154155Z" creationid="Merdan NURIYEV" creationdate="20191110T154155Z">
+        <seg>OmegaT'niň öňünden kabul edilen gysga-ýollary Sourceforge'da elýeterli: &lt;u0&gt;OmegaT öňünden kabul edilen gysga-ýollary&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075645Z" creationid="Merdan NURIYEV" creationdate="20191107T075645Z">
@@ -12850,6 +12898,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T164358Z" creationid="Merdan NURIYEV" creationdate="20191106T152557Z">
         <seg>Proýektiň filosofiýasy şu &lt;a0&gt;ýerde&lt;/a0&gt; beýan edilmekdedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153819Z" creationid="Merdan NURIYEV" creationdate="20191110T153819Z">
+        <seg>Mümkin bolan klawiş basma hadysalary (düwme kodlary) Oracle'yň   Java 1.6 gollanmasyndaky &lt;u0&gt;Java 1.6 keyEvents kesgilemelri&lt;/u0&gt; bölüminde görkezilendir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14913,6 +14969,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084434Z" creationid="Merdan NURIYEV" creationdate="20191011T084434Z">
         <seg>tün gabat gelen dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153425Z" creationid="Merdan NURIYEV" creationdate="20191110T153425Z">
+        <seg>we &lt;c0&gt;&lt;düwme&gt;&lt;/c0&gt;  klawiaturadaky islendik düwme bolup biler</seg>
       </tuv>
     </tu>
     <tu>
