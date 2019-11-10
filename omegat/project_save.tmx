@@ -12768,6 +12768,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T152538Z" creationid="Merdan NURIYEV" creationdate="20191110T152538Z">
+        <seg>Düwmeler(gysgaýollar) üçin doly sintaksis maglumatlaryny, Oracle'iň Java 1.6 üçin taýarlan şu &lt;u0&gt;Java 1.7 düwme gysga-ýollary&lt;/u0&gt; resminamasynda tapyp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
