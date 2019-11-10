@@ -1041,8 +1041,8 @@
       <tuv lang="EN">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T072845Z" creationid="Merdan NURYÝEW " creationdate="20190923T072845Z">
-        <seg>Proýekt &amp;Gözleg...</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171155Z" creationid="Merdan NURYÝEW " creationdate="20190923T072845Z">
+        <seg>Proýektde &amp;Gözleg Et...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5563,6 +5563,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085708Z" creationid="Merdan NURYÝEW " creationdate="20191005T085641Z">
         <seg>Çykyş/Ahyr kody: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171057Z" creationid="Merdan NURIYEV" creationdate="20191110T171057Z">
+        <seg>Saýlanany Eksport et</seg>
       </tuv>
     </tu>
     <tu>
@@ -11296,6 +11304,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T083601Z" creationid="Merdan NURIYEV" creationdate="20191105T083458Z">
         <seg>Gözlenýän/Tapylan Tekstiň Reňki/Belgisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171135Z" creationid="Merdan NURIYEV" creationdate="20191110T171135Z">
+        <seg>Proýektde Gözleg Et...</seg>
       </tuv>
     </tu>
     <tu>
