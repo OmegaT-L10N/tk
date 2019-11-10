@@ -7941,8 +7941,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085558Z" creationid="Merdan NURIYEV" creationdate="20191101T085558Z">
-        <seg>Gaýtalanmaýan Dilimleri Bel&amp;gile</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173817Z" creationid="Merdan NURIYEV" creationdate="20191101T085558Z">
+        <seg>Unikal-Bolmaýan Dilimleri Bel&amp;gile</seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,16 +7957,16 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173159Z" creationid="Merdan NURIYEV" creationdate="20191110T173159Z">
-        <seg>Terjime Edilen Dilimleri Belle</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173417Z" creationid="Merdan NURIYEV" creationdate="20191110T173159Z">
+        <seg>Terjime Edilen Dilimleri Belgile</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173215Z" creationid="Merdan NURIYEV" creationdate="20191110T173215Z">
-        <seg>Terjime Edilmedik Dilimleri Belle</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173422Z" creationid="Merdan NURIYEV" creationdate="20191110T173215Z">
+        <seg>Terjime Edilmedik Dilimleri Belgile</seg>
       </tuv>
     </tu>
     <tu>
@@ -8693,16 +8693,16 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Non-unique segments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T081902Z" creationid="Merdan NURIYEV" creationdate="20191105T081902Z">
-        <seg>Unikal bolmaýan dilimler</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173930Z" creationid="Merdan NURIYEV" creationdate="20191105T081902Z">
+        <seg>Unikal-bolmaýan dilimler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Non-unique segments background</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T081918Z" creationid="Merdan NURIYEV" creationdate="20191105T081918Z">
-        <seg>Unikal bolmaýan dilimleriň arka görnüşi</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173939Z" creationid="Merdan NURIYEV" creationdate="20191105T081918Z">
+        <seg>Unikal-bolmaýan dilimleriň arka görnüşi</seg>
       </tuv>
     </tu>
     <tu>
