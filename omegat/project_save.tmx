@@ -7923,6 +7923,22 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174604Z" creationid="Merdan NURIYEV" creationdate="20191110T174604Z">
+        <seg>Awtomatiki Doldurulan Dilimleri Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174210Z" creationid="Merdan NURIYEV" creationdate="20191110T174210Z">
+        <seg>Ikiugurly Algoritm Kontrol Harplaryny Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T082548Z" creationid="Merdan NURIYEV" creationdate="20191101T091158Z">
@@ -7947,9 +7963,33 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174029Z" creationid="Merdan NURIYEV" creationdate="20191110T174029Z">
+        <seg>Unika-Bolmaýan Dilimleri Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174112Z" creationid="Merdan NURIYEV" creationdate="20191110T174112Z">
+        <seg>Bitewi Boşluklary Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T085634Z" creationid="Merdan NURIYEV" creationdate="20191101T085634Z">
+        <seg>Bellikli Dilimleri Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174048Z" creationid="Merdan NURIYEV" creationdate="20191110T174048Z">
         <seg>Bellikli Dilimleri Belgile</seg>
       </tuv>
     </tu>
@@ -7967,6 +8007,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T173422Z" creationid="Merdan NURIYEV" creationdate="20191110T173215Z">
         <seg>Terjime Edilmedik Dilimleri Belgile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174131Z" creationid="Merdan NURIYEV" creationdate="20191110T174131Z">
+        <seg>Boşluklary Belgile</seg>
       </tuv>
     </tu>
     <tu>
