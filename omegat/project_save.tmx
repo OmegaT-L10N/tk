@@ -2557,8 +2557,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073649Z" creationid="Merdan NURIYEV" creationdate="20191107T073640Z">
-        <seg>Uly harp nyşany (ýönekeý&lt;u0&gt; kategoriýa&lt;/u0&gt;)</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180245Z" creationid="Merdan NURIYEV" creationdate="20191107T073640Z">
+        <seg>Baş harp nyşany (ýönekeý&lt;u0&gt; kategoriýa&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2605,8 +2605,8 @@ TMX faýly ýüklenmez.</seg>
       <tuv lang="EN">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T074122Z" creationid="Merdan NURIYEV" creationdate="20191107T074059Z">
-        <seg>Bir uly harpyň daşyndaky islendik harp(aýyrma)</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180253Z" creationid="Merdan NURIYEV" creationdate="20191107T074059Z">
+        <seg>Bir baş harpyň daşyndaky islendik harp(aýyrma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5009,8 +5009,8 @@ Siziň kömek sahypaňyz tapylmady</seg>
       <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T054035Z" creationid="Merdan NURIYEV" creationdate="20191107T054035Z">
-        <seg>Uly-kiçi harplara garşy duýgurlugy işe giriz(şablon öňünden kabul edilen görnüşde uly-kiçi harpa garşy duýgurdur).</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180212Z" creationid="Merdan NURIYEV" creationdate="20191107T054035Z">
+        <seg>Baş-setir harplara garşy duýgurlugy işe giriz(şablon öňünden kabul edilen görnüşde baş-setir harpa garşy duýgurdur).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9647,8 +9647,8 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
       <tuv lang="EN">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174109Z" creationid="Merdan NURIYEV" creationdate="20191108T174109Z">
-        <seg>Nokatdan soňra uly harp başlaýar - täze sözlem bilen nokadyň arasynda boşluk ýatdan çykan bolmaly!?</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180329Z" creationid="Merdan NURIYEV" creationdate="20191108T174109Z">
+        <seg>Nokatdan soňra baş harp başlaýar - täze sözlem bilen nokadyň arasynda boşluk ýatdan çykan bolmaly!?</seg>
       </tuv>
     </tu>
     <tu>
