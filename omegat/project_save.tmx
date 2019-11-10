@@ -7869,8 +7869,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T090915Z" creationid="Merdan NURIYEV" creationdate="20191101T090915Z">
-        <seg>&amp;Awtomatiki Doldurylan Dilimleri Belgile</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174614Z" creationid="Merdan NURIYEV" creationdate="20191101T090915Z">
+        <seg>&amp;Awtomatiki Doldurulan Dilimleri Belgile</seg>
       </tuv>
     </tu>
     <tu>
@@ -7965,8 +7965,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174029Z" creationid="Merdan NURIYEV" creationdate="20191110T174029Z">
-        <seg>Unika-Bolmaýan Dilimleri Belgile</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T174658Z" creationid="Merdan NURIYEV" creationdate="20191110T174029Z">
+        <seg>Unikal-Bolmaýan Dilimleri Belgile</seg>
       </tuv>
     </tu>
     <tu>
@@ -8255,6 +8255,30 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162721Z" creationid="Merdan NURIYEV" creationdate="20191104T162721Z">
         <seg>Gaaýyp taglar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175040Z" creationid="Merdan NURIYEV" creationdate="20191110T175040Z">
+        <seg>Özgertmeler Maglumaty/Hemmesini Görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175016Z" creationid="Merdan NURIYEV" creationdate="20191110T174916Z">
+        <seg>Özgertmeler Maglumaty/Hiçbirini Görkezme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175003Z" creationid="Merdan NURIYEV" creationdate="20191110T175003Z">
+        <seg>Özgertmeler Maglumaty/Saýlanany Görkez</seg>
       </tuv>
     </tu>
     <tu>
@@ -13970,6 +13994,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175050Z" creationid="Merdan NURIYEV" creationdate="20191110T175050Z">
+        <seg>Gurallar Menýusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090920Z" creationid="Merdan NURYÝEW " creationdate="20191005T090920Z">
@@ -14837,6 +14869,22 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074436Z" creationid="Merdan NURIYEV" creationdate="20191023T074436Z">
         <seg>VLDocking Düzümi(Framework) (LGPL Ygtyýarnamasy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175118Z" creationid="Merdan NURIYEV" creationdate="20191110T175118Z">
+        <seg>Taglary Tassyklaýyş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175158Z" creationid="Merdan NURIYEV" creationdate="20191110T175158Z">
+        <seg>Işjeň Dokument üçin Taglary Tassykla</seg>
       </tuv>
     </tu>
     <tu>
