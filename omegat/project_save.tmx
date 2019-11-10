@@ -12446,6 +12446,38 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171420Z" creationid="Merdan NURIYEV" creationdate="20191110T171341Z">
+        <seg>Setir Harpa Geçir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171827Z" creationid="Merdan NURIYEV" creationdate="20191110T171700Z">
+        <seg>Sözlem Ýagdaýa Geçir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171820Z" creationid="Merdan NURIYEV" creationdate="20191110T171638Z">
+        <seg>Sözbaşy Ýagdaýa Geçir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171451Z" creationid="Merdan NURIYEV" creationdate="20191110T171451Z">
+        <seg>Baş Harpa Geçir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T073457Z" creationid="Merdan NURYÝEW " creationdate="20190926T073457Z">
