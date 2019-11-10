@@ -12744,6 +12744,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154451Z" creationid="Merdan NURIYEV" creationdate="20191110T154451Z">
+        <seg>Şeýle hem Sourceforge'da, Mac sistemalary üçin OmegaT'niň öňünden kabul edilen gysga-ýollary hem elýeterli: bular "meta" ýerine "ctrl" ulanýar: &lt;u0&gt;Mac üçin OmegaT'niň öňünden kabul edilen gysga-ýollary&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075645Z" creationid="Merdan NURIYEV" creationdate="20191107T075645Z">
