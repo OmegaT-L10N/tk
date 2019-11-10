@@ -1421,6 +1421,14 @@ OmegaT 3.6'ny ýenede ulanyp bilersiňiz.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154545Z" creationid="Merdan NURIYEV" creationdate="20191110T154545Z">
+        <seg>, ynha birnäçesi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T083949Z" creationid="Merdan NURIYEV" creationdate="20191016T083949Z">
@@ -6593,10 +6601,26 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T155508Z" creationid="Merdan NURIYEV" creationdate="20191110T155508Z">
+        <seg>Egerde siz Mac ulanýan bolsaňyz we &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; gysga-ýoluny &lt;m4&gt; &lt;g5&gt;Esbaplar&lt;/g5&gt; &lt;g6&gt;Statistikalar&lt;/g6&gt; &lt;/m4&gt; komandasyna baglamak isleýän bolsaňyz, aşakdaky setiri &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; faýlyna giriziň:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181243Z" creationid="Merdan NURIYEV" creationdate="20191030T181243Z">
         <seg>Eger ulanylýan wekil serwer barlag geçirýän bolsa bu ýere ulanyjy we parol maglumatlaryny giriziň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154941Z" creationid="Merdan NURIYEV" creationdate="20191110T154941Z">
+        <seg>Egerde siz &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;  gysga-ýolyny proýekt açmak üçin ulanmak isleseňiz, &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; faýlyny aşakdaky ýaly özgerdiň:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12788,6 +12812,14 @@ bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T134526Z" creationid="Merdan NURIYEV" creationdate="20191106T134526Z">
         <seg>Ýeri we ady bildirilen faýlyň hökman bolmasy zerurlulygy ýokdur, tehniki sözlüge ýazgy girizilen wagty gerek bolsa bu faýl dörediler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154742Z" creationid="Merdan NURIYEV" creationdate="20191110T154742Z">
+        <seg>Birinji gysga-ýol  &lt;g0&gt;Proýekt Aç&lt;/g0&gt;, ikinji gysga-ýol &lt;g1&gt;Tehniki Sözlükde Ýazgy Döretmek&lt;/g1&gt; komandalaryna gabat gelýär.</seg>
       </tuv>
     </tu>
     <tu>
