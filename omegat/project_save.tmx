@@ -2019,6 +2019,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T150551Z" creationid="Merdan NURIYEV" creationdate="20191111T150551Z">
+        <seg>Hakynda...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T074536Z" creationid="Merdan NURYÝEW " creationdate="20190926T074536Z">
