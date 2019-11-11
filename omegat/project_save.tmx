@@ -2907,6 +2907,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T073051Z" creationid="Merdan NURIYEV" creationdate="20191111T073051Z">
+        <seg>Barlag funksiýasy ulanylmazdan öň, degişli sözlük ýada sözlükleriň (ýagy niýet edilen dil üçin) gurnalmasy gerekmekdedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T082128Z" creationid="Merdan NURIYEV" creationdate="20191105T082128Z">
@@ -6825,6 +6833,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T074729Z" creationid="Merdan NURIYEV" creationdate="20191111T074158Z">
+        <seg>OmegaT içinde &lt;g0&gt;Opsiýalar &gt; Orfografiýa Barlagy&lt;/g0&gt; bölümini açyň we sözlük faýlynyň Bukjasy gutujugynyň ýanynda &lt;g1&gt;Saýla &lt;/g1&gt; komandasyna basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054629Z" creationid="Merdan NURIYEV" creationdate="20191009T054629Z">
@@ -6853,6 +6869,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084302Z" creationid="Merdan NURIYEV" creationdate="20191011T084302Z">
         <seg>&amp;Gözbaşda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T073634Z" creationid="Merdan NURIYEV" creationdate="20191111T073634Z">
+        <seg>Barlag sözlük faýllarynyň ýeri üçin, faýl dolandyryjysynda degişli bukja dörediň (aşakdaky mysalda bu D:\Translations\spellcheckers bukjasy).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7041,6 +7065,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T072446Z" creationid="Merdan NURIYEV" creationdate="20191111T072446Z">
+        <seg>Orfografiýa barlag sözlüklerini gurnama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091504Z" creationid="Merdan NURIYEV" creationdate="20191031T091504Z">
@@ -7165,6 +7197,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092820Z" creationid="Merdan NURIYEV" creationdate="20191105T172607Z">
         <seg> {0}  üçin meseleler ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T072425Z" creationid="Merdan NURIYEV" creationdate="20191111T072425Z">
+        <seg>Netijede, giň bir erkin orfografiki barlag sözlükleri bu programmalar üçin elýeterlidir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8511,6 +8551,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T074811Z" creationid="Merdan NURIYEV" creationdate="20191111T074811Z">
+        <seg>Sözlükler üçin döreden bukjaňyzy saýlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Neural machine translation</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T174637Z" creationid="Merdan NURIYEV" creationdate="20191101T174637Z">
@@ -9099,6 +9147,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T072235Z" creationid="Merdan NURIYEV" creationdate="20191111T072012Z">
+        <seg>OmegaT'niň içindäki ýerleşik orfografiki barlag funksiýasy öz esaslaryny şu programma üpjünçiliklerinde ulanylýan, ýagny Apache OpenOffice, LibreOffice, Firefox we Thunderbird ýaly programmalarda ulanylýan barlag sistemalaryndan alýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190921T061236Z" creationid="Merdan NURYÝEW " creationdate="20190921T061236Z">
@@ -9668,6 +9724,14 @@ everything.</seg>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T073136Z" creationid="Merdan NURYÝEW " creationdate="20190919T073136Z">
         <seg>Gözbaş faýllary ./source  bukjasyna ýerleşdiriň we goşmaça materiallary bolsa
  ./tm, ./glossary, we ./dictionary bukjalaryna gerekli boluşy ýaly ýerleşdiriň, soňra hemmesini tabşyryk [commit] ediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T074855Z" creationid="Merdan NURIYEV" creationdate="20191111T074855Z">
+        <seg>Ulanmaga niýetlenen sözlük faýllaryny bu bukja ýerleşdiriň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12508,6 +12572,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T070157Z" creationid="Merdan NURIYEV" creationdate="20191111T070157Z">
+        <seg>Orfografiýa barlagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T082635Z" creationid="Merdan NURIYEV" creationdate="20191105T082635Z">
@@ -13734,6 +13806,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T074938Z" creationid="Merdan NURIYEV" creationdate="20191111T074938Z">
+        <seg>Muny ýerine ýetirmek üçin iki esasy ýol bardyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180944Z" creationid="Merdan NURIYEV" creationdate="20191105T180944Z">
@@ -13974,6 +14054,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202444Z" creationid="Merdan NURIYEV" creationdate="20191025T202444Z">
         <seg>Süzgüjiň haýsy faýly haýsy kodlaşdyrmada prosese goýjagyny saýlamak üçin tablissadan süzgüji saýlaň we "Redaktirle" knopkasyna basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T073128Z" creationid="Merdan NURIYEV" creationdate="20191111T073128Z">
+        <seg>Barlag sözlüklerini gurnamak üçin aşakdaky prosedurany yzarlaň:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15437,6 +15525,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T094924Z" creationid="Merdan NURIYEV" creationdate="20191031T094924Z">
         <seg>"Redaktirle" menýusyndaky "Tehniki Sözlük Ýazgysyny Döret" komandasy bilen tehniki sözlük ýazgysyny döredip bilersiňisiz..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075356Z" creationid="Merdan NURIYEV" creationdate="20191111T075356Z">
+        <seg>Muny, ulgamyňyzyň başga ýerinde duran faýllary faýl dolandyryjysyny ulanmak bilen elde kopýalarsyňyz ýada OmegaT'niň &lt;e0&gt;"Täze sözlük gurnama" &lt;/e0&gt; funksiýasyndan elýeterli sözlükleri saýlamak ýoly bilen ýerine ýetirersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
