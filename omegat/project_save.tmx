@@ -12846,6 +12846,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T174352Z" creationid="Merdan NURIYEV" creationdate="20191111T174212Z">
+        <seg>Mazmunlary dyrnak ('') içine alyp bolar, şeýlelik bilen tekst içinde otur goýmak mümkin bolar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SubRip Subtitles</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T051556Z" creationid="Merdan NURIYEV" creationdate="20191017T051509Z">
