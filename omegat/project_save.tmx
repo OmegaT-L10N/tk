@@ -2379,6 +2379,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173625Z" creationid="Merdan NURIYEV" creationdate="20191111T173625Z">
+        <seg>Şeýle hem CSV formatyna da goldaw berilýär..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T092212Z" creationid="Merdan NURIYEV" creationdate="20191101T092212Z">
@@ -3527,6 +3535,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173655Z" creationid="Merdan NURIYEV" creationdate="20191104T173655Z">
         <seg>Teswir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T174106Z" creationid="Merdan NURIYEV" creationdate="20191111T174106Z">
+        <seg>Düşündiriş meýdany otur bilen ',' bölünýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9179,6 +9195,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173528Z" creationid="Merdan NURIYEV" creationdate="20191111T173528Z">
+        <seg>Ebetde, ulanylýan kodlaşdyrma iki dil bilen hem sazlaşyjkly bolmalydyr. Bu sebäpli Ýunikod kodlaşdyrmasy ulanylmasy maslahat berilýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170503Z" creationid="Merdan NURIYEV" creationdate="20191008T170503Z">
@@ -13520,6 +13544,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173241Z" creationid="Merdan NURIYEV" creationdate="20191111T173241Z">
+        <seg>Tehniki sözlügiň kodlaşdyrmasy awtomatiki bellenmekdedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T075645Z" creationid="Merdan NURIYEV" creationdate="20191107T075645Z">
@@ -14068,6 +14100,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160133Z" creationid="Merdan NURIYEV" creationdate="20191104T160133Z">
         <seg>Bu komanda terjime edilen dokumentleriň döredilme işinden soňra işe koýuljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173944Z" creationid="Merdan NURIYEV" creationdate="20191111T173944Z">
+        <seg>Bu format tab bilen bölünen format bilen meňzeşdir: gözbaş termin, niýet edilen termin.</seg>
       </tuv>
     </tu>
     <tu>
