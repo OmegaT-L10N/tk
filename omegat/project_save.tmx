@@ -6351,6 +6351,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075740Z" creationid="Merdan NURIYEV" creationdate="20191111T075740Z">
+        <seg>Tehniki Sözlük/TBX Tehniki Sözlükleri üçin Kontekst Wasplaryny Görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051830Z" creationid="Merdan NURYÝEW " creationdate="20190930T051830Z">
@@ -8895,6 +8903,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083008Z" creationid="Merdan NURIYEV" creationdate="20191106T083008Z">
         <seg>"Gözbaş-Niýet edilen/Terjime" görnüşindäki sözlükleriň ýanynda, aşakdaky maglumatlarada, Sözlük aýratynlyklary arkaly el ýetirip bilersiňiz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075529Z" creationid="Merdan NURIYEV" creationdate="20191111T075529Z">
+        <seg>"Gurna" funksiýasyny ulanmak üçin internet aragatnaşygynyň gereklidini ýatda saklaň.</seg>
       </tuv>
     </tu>
     <tu>
