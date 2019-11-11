@@ -6367,6 +6367,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T154102Z" creationid="Merdan NURIYEV" creationdate="20191111T154102Z">
+        <seg>Thniki Sözlük/Tehniki Sözlük Girişleri üçin Köklerine Aýyrmany Ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051830Z" creationid="Merdan NURYÝEW " creationdate="20190930T051830Z">
@@ -6559,6 +6567,14 @@ Onuň gyşy geldi öýdýän</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T152412Z" creationid="Merdan NURIYEV" creationdate="20191105T152412Z">
         <seg>Tapawutlandyrma Şablony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T171256Z" creationid="Merdan NURIYEV" creationdate="20191111T171256Z">
+        <seg>Ony tehniki sözlük panelinden saýlandan soňra, syçanjygyň saň düwmesine basmak bilen işjeň dilme kursoryň duran ýerine goşup bolar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8615,10 +8631,26 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T154817Z" creationid="Merdan NURIYEV" creationdate="20191111T154817Z">
+        <seg>Terjime işi dowam edende, täze terminler tehniki sözlük faýlyna goşulup bolar, meselem tekst redaktor içerisinde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T064439Z" creationid="Merdan NURIYEV" creationdate="20191107T064439Z">
         <seg>Täze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T155524Z" creationid="Merdan NURIYEV" creationdate="20191111T155524Z">
+        <seg>Täze goşulan terminler, tekst faýlyndaky özgertmeler ýatda saklanandan soňra işe goşuljakdyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13536,6 +13568,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T154620Z" creationid="Merdan NURIYEV" creationdate="20191111T154620Z">
+        <seg>Tehniki sözlük funksiýasy sözlük içinden diňe takyk gabat gelenleri tapar(ýagny düşüm goşulmasy we ş.m tapmaz).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -13710,6 +13750,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T155736Z" creationid="Merdan NURIYEV" creationdate="20191111T155736Z">
+        <seg>Aşakdaky mysalda da görüşüňiz ýaly gözbaş terminleriň ýeke söz bolmak mejburlugu ýokdur:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T071958Z" creationid="Merdan NURIYEV" creationdate="20191101T071958Z">
@@ -13786,6 +13834,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162217Z" creationid="Merdan NURIYEV" creationdate="20191104T162217Z">
         <seg>Terjime üýtgedildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T170855Z" creationid="Merdan NURIYEV" creationdate="20191111T170855Z">
+        <seg>Aşagy çyzyk bolan "pop-up menu" sözü, tehniki sözlük panelinde "pojavni menu" şekilinde tapylar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15923,6 +15979,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T173921Z" creationid="Merdan NURIYEV" creationdate="20191108T173921Z">
         <seg>birden köp boşluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>multiple words entries in glossaries - example</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T155826Z" creationid="Merdan NURIYEV" creationdate="20191111T155826Z">
+        <seg>tehniki sözlüklerde birden köp söz girişleri - mysal</seg>
       </tuv>
     </tu>
     <tu>
