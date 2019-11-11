@@ -6345,8 +6345,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172832Z" creationid="Merdan NURIYEV" creationdate="20191111T172832Z">
-        <seg>Tehniki sözlük faýllary tab bilen bölünen üç kolonnadan, bularyň biriji we ikinji kolonnalary öz gezeginde gözbaş we garşylyk terminlerine gabat gelmekdedir.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173023Z" creationid="Merdan NURIYEV" creationdate="20191111T172832Z">
+        <seg>Tehniki sözlük faýllary tab bilen bölünen üç kolonnadan, bularyň biriji we ikinji kolonnalary öz gezeginde gözbaş we garşylyk/niýet edilen terminlerine gabat gelmekdedir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13864,8 +13864,8 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       <tuv lang="EN">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172919Z" creationid="Merdan NURIYEV" creationdate="20191111T172919Z">
-        <seg>Üçünji kolonna bolsa goşmaça maglumat üçin ulanylyp bolar.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173028Z" creationid="Merdan NURIYEV" creationdate="20191111T172919Z">
+        <seg>Üçünji kolonnany bolsa goşmaça maglumat üçin ulanylyp bolar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15687,6 +15687,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T145747Z" creationid="Merdan NURIYEV" creationdate="20191106T145747Z">
         <seg>&lt;a0&gt;Baş Sahypa&lt;/a0&gt;  gidip bilersiňiz, gözleýän maglumatyňyzy şol ýerde tapma mümkinçiligi bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173200Z" creationid="Merdan NURIYEV" creationdate="20191111T173200Z">
+        <seg>Niýet edilen kolonnasynda hiç maglumat bolmaýan ýazgylaryňyz hem bolup biler, ýagny diňe gözbaş termin we termin maglumatly ýazgy.</seg>
       </tuv>
     </tu>
     <tu>
