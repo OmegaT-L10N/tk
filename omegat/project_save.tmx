@@ -5863,6 +5863,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172437Z" creationid="Merdan NURIYEV" creationdate="20191111T172437Z">
+        <seg>Faýl formaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092211Z" creationid="Merdan NURYÝEW " creationdate="20191005T092211Z">
@@ -6331,6 +6339,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T172635Z" creationid="Merdan NURIYEV" creationdate="20191030T172635Z">
         <seg>Tehniki sözlük faýly: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172832Z" creationid="Merdan NURIYEV" creationdate="20191111T172832Z">
+        <seg>Tehniki sözlük faýllary tab bilen bölünen üç kolonnadan, bularyň biriji we ikinji kolonnalary öz gezeginde gözbaş we garşylyk terminlerine gabat gelmekdedir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12364,6 +12380,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172426Z" creationid="Merdan NURIYEV" creationdate="20191111T172426Z">
+        <seg>Şonuň üçin hem tehniki sözlük we gysga ýollary bilen köp wagt ýitirmän gönüden termini dilimde ýazmak has az wagt talap etmekdedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172207Z" creationid="Merdan NURIYEV" creationdate="20191111T172207Z">
+        <seg>Şunlukda goşulan "pojavni meni" sözü ýekelik formada munuň köplük formasy bolan "pojavnem meniju" termininiň tapylmasy üçin aýratyn girizilmesi gerek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T170735Z" creationid="Merdan NURIYEV" creationdate="20191105T170735Z">
@@ -13826,6 +13858,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175119Z" creationid="Merdan NURIYEV" creationdate="20191101T175119Z">
         <seg>Tekstiň göwrümi rugsat berilenden köp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T172919Z" creationid="Merdan NURIYEV" creationdate="20191111T172919Z">
+        <seg>Üçünji kolonna bolsa goşmaça maglumat üçin ulanylyp bolar.</seg>
       </tuv>
     </tu>
     <tu>
