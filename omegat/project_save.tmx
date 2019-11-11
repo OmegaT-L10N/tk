@@ -553,8 +553,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175759Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
-        <seg>Örän aýry baş/setir harp tapawudy (meselm FOO bln. foo) bolan gabat gelmelere &amp;ähmiýet berme</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075953Z" creationid="Merdan NURYÝEW " creationdate="20190926T070118Z">
+        <seg>Örän aýry baş/set&amp;ir harp tapawudy (meselm FOO blen. foo) bolan gabat gelmelere ähmiýet berme</seg>
       </tuv>
     </tu>
     <tu>
@@ -10970,8 +10970,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082306Z" creationid="Merdan NURYÝEW " creationdate="20190926T082306Z">
-        <seg>Gözbaş tekstini goşan wagtyň &amp;Tehniki Sözlük girişleri bilen gabat geleni bilen çalşyr</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075920Z" creationid="Merdan NURYÝEW " creationdate="20190926T082306Z">
+        <seg>&amp;Gözbaş tekstini goşan wagtyň Tehniki Sözlük girişleri bilen gabat geleni bilen çalşyr</seg>
       </tuv>
     </tu>
     <tu>
@@ -14899,8 +14899,8 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T082013Z" creationid="Merdan NURYÝEW " creationdate="20190926T064906Z">
-        <seg>Tehniki sözlük girişleri üçin köklerine aýyrmany ulan</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075900Z" creationid="Merdan NURYÝEW " creationdate="20190926T064906Z">
+        <seg>Tehniki &amp;sözlük girişleri üçin köklerine aýyrmany ulan</seg>
       </tuv>
     </tu>
     <tu>
@@ -14909,6 +14909,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175248Z" creationid="Merdan NURIYEV" creationdate="20191110T175248Z">
         <seg>Ilerlemek Üçin TAB Ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T080056Z" creationid="Merdan NURIYEV" creationdate="20191111T080056Z">
+        <seg>Gözbaş Tekstde Aýry Görünen Terminleri Ulan</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,8 +14963,8 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T081534Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
-        <seg>Gözbaş tekstde aýry görünen terminleri ulan</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075852Z" creationid="Merdan NURYÝEW " creationdate="20190926T064734Z">
+        <seg>Gözbaş tekstde &amp;aýry görünen terminleri ulan</seg>
       </tuv>
     </tu>
     <tu>
