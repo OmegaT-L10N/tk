@@ -13006,6 +13006,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T074551Z" creationid="Merdan NURIYEV" creationdate="20191117T074551Z">
+        <seg>TBX - Term Base eXchange - açyk we XML-esasly, ISO hemde LISA tarapyndan tassyklanan termin alyş-çalyşygy üçin düzgünleşdirilen bir halkara standartdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TM Matches</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T171410Z" creationid="Merdan NURIYEV" creationdate="20191030T171410Z">
