@@ -1819,6 +1819,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T075037Z" creationid="Merdan NURIYEV" creationdate="20191117T075037Z">
+        <seg>&lt;u0&gt;Microsoft Terminologiýa Ýygyndylary&lt;/u0&gt;  100'e ýakyn dilde we göçürip alnyp bolýar hemde IT tehniki sözlükleriniň esaslaryndan biri bolup durýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073557Z" creationid="Merdan NURIYEV" creationdate="20191107T073557Z">
