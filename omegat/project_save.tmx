@@ -6913,6 +6913,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T072459Z" creationid="Merdan NURIYEV" creationdate="20191117T072459Z">
+        <seg>Açyk tekst format goldawyna goşmaça, TBX formaty hem diňe okalýan tehniki sözlük formady şekilinde goldaw görýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T054629Z" creationid="Merdan NURIYEV" creationdate="20191009T054629Z">
@@ -13682,6 +13690,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T081348Z" creationid="Merdan NURIYEV" creationdate="20191011T081348Z">
         <seg>Dil kody xx-YY, xxx-YY, xx_YY or xxx_YY formadynda bolmalydyr,
 bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär (opsiýa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T072820Z" creationid="Merdan NURIYEV" creationdate="20191117T072820Z">
+        <seg> &lt;f0&gt;.tbx&lt;/f0&gt;  faýlynyň ýeri  &lt;f1&gt;/glossary&lt;/f1&gt; bukjasynyň içinde ýada onuň içindäki(meselem: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;) ýaly başga bukjalarda bolmalydyr.</seg>
       </tuv>
     </tu>
     <tu>
