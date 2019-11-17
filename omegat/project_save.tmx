@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T071548Z" creationid="Merdan NURIYEV" creationdate="20191117T071548Z">
+        <seg>"Bu içinde bir otur bolan gözbaş termin","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090212Z" creationid="Merdan NURYÝEW " creationdate="20191005T090212Z">
@@ -2341,16 +2349,16 @@ Häzirki sazlama {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow to save password as plain text</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T073629Z" creationid="Merdan NURIYEV" creationdate="20191104T073629Z">
-        <seg>Parollaryň ýönekeý tekst şeklinde saklanmasyna rugsat ber</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T072254Z" creationid="Merdan NURIYEV" creationdate="20191104T073629Z">
+        <seg>Parollaryň açyk tekst şeklinde saklanmasyna rugsat ber</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T065826Z" creationid="Merdan NURIYEV" creationdate="20191104T065826Z">
-        <seg>Parollaryň ýerli ýönekeý tekst şeklinde saklanmasyna rugsat ber</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T072231Z" creationid="Merdan NURIYEV" creationdate="20191104T065826Z">
+        <seg>Parollaryň ýerli açyk tekst şeklinde saklanmasyna rugsat ber</seg>
       </tuv>
     </tu>
     <tu>
