@@ -1097,8 +1097,8 @@
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T091733Z" creationid="Merdan NURIYEV" creationdate="20191017T052427Z">
-        <seg>Sahypa Adlary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T181343Z" creationid="Merdan NURIYEV" creationdate="20191017T052427Z">
+        <seg>Sahypa Atlary</seg>
       </tuv>
     </tu>
     <tu>
@@ -5969,8 +5969,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090425Z" creationid="Merdan NURYÝEW " creationdate="20191005T090425Z">
-        <seg>Faýl Adlary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T181443Z" creationid="Merdan NURYÝEW " creationdate="20191005T090425Z">
+        <seg>Faýl Ady</seg>
       </tuv>
     </tu>
     <tu>
@@ -6677,8 +6677,8 @@ Onuň gyşy geldi öýdýän</seg>
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T201121Z" creationid="Merdan NURIYEV" creationdate="20191025T201121Z">
-        <seg>Bu ýerde süzgüçden geçjek gözbaş faýllarynyň faýl adlary üçin şablon taýarlap bilersiňiz, terjime edilen faýllaryň faýl adlaryny özboluşly edip bilersiňiz we ýüklenýän gözbaş we terjime edilen faýllar üçin ulanyljak kodlaşdyrmany saýlap bilersiňiz.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T181343Z" creationid="Merdan NURIYEV" creationdate="20191025T201121Z">
+        <seg>Bu ýerde süzgüçden geçjek gözbaş faýllarynyň faýl Atlary üçin şablon taýarlap bilersiňiz, terjime edilen faýllaryň faýl Atlaryny özboluşly edip bilersiňiz we ýüklenýän gözbaş we terjime edilen faýllar üçin ulanyljak kodlaşdyrmany saýlap bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12726,8 +12726,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T090748Z" creationid="Merdan NURIYEV" creationdate="20191027T090748Z">
-        <seg>Gözbaş Faýl Adlary Şablony:</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T181343Z" creationid="Merdan NURIYEV" creationdate="20191027T090748Z">
+        <seg>Gözbaş Faýl Atlary Şablony:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16287,8 +16287,8 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084442Z" creationid="Merdan NURIYEV" creationdate="20191011T084442Z">
-        <seg>faýl adlary</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T181343Z" creationid="Merdan NURIYEV" creationdate="20191011T084442Z">
+        <seg>faýl Atlary</seg>
       </tuv>
     </tu>
     <tu>
