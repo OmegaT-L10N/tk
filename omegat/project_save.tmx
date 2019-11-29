@@ -3873,6 +3873,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T070450Z" creationid="Merdan NURIYEV" creationdate="20191129T070450Z">
+        <seg>Ulanmaga niýet eden barlag sözlükleriňiz eger ulgamyňyzda bar bolsa meselem Apache OpenOffice, LibreOffice, Firefox ýada Thunderbird gurnamalarynyň bir bölegi, muny elde kopýalamak hasda manydar bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T072709Z" creationid="Merdan NURIYEV" creationdate="20191023T072709Z">
@@ -7381,6 +7389,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T072425Z" creationid="Merdan NURIYEV" creationdate="20191111T072425Z">
         <seg>Netijede, giň bir erkin orfografiki barlag sözlükleri bu programmalar üçin elýeterlidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T071938Z" creationid="Merdan NURIYEV" creationdate="20191129T071938Z">
+        <seg>Bu aňsat, ýöne &lt;e0&gt;Onlaýn sözlükleriň URL&lt;/e0&gt; bilgisini, bu ýerden görüp bilersiňiz</seg>
       </tuv>
     </tu>
     <tu>
@@ -12892,6 +12908,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T072030Z" creationid="Merdan NURIYEV" creationdate="20191129T072021Z">
+        <seg>Orfografiki barlag konfigurasiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174104Z" creationid="Merdan NURIYEV" creationdate="20191105T174104Z">
@@ -13994,6 +14018,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143528Z" creationid="Merdan NURIYEV" creationdate="20191103T143528Z">
         <seg>"{0}" komanda faýly işledilýär...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T064937Z" creationid="Merdan NURIYEV" creationdate="20191129T064937Z">
+        <seg>Soňra saýlanan diller gurnalar we orfografiýa barlag gurnaýjy ekranynda görüner(bu biraz wagt aljakdyr).</seg>
       </tuv>
     </tu>
     <tu>
