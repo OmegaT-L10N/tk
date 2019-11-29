@@ -2051,6 +2051,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T063002Z" creationid="Merdan NURIYEV" creationdate="20191129T063002Z">
+        <seg>Konfigurasýa Bukjasyny Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T170116Z" creationid="Merdan NURIYEV" creationdate="20191110T170116Z">
@@ -6623,6 +6631,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T063019Z" creationid="Merdan NURIYEV" creationdate="20191129T063019Z">
+        <seg>Goldaw Menýusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
@@ -10628,6 +10644,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T062926Z" creationid="Merdan NURIYEV" creationdate="20191129T062926Z">
+        <seg>Wekil Serwer Hasaba Giriş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T180931Z" creationid="Merdan NURIYEV" creationdate="20191030T180931Z">
@@ -11378,6 +11402,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T062940Z" creationid="Merdan NURIYEV" creationdate="20191129T062940Z">
+        <seg>Esasy Penjiräni Dikelt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143036Z" creationid="Merdan NURIYEV" creationdate="20191103T143036Z">
@@ -11646,6 +11678,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101101Z" creationid="Merdan NURIYEV" creationdate="20191104T101101Z">
         <seg>Ýatda saklama we Öndürüjilik Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T062913Z" creationid="Merdan NURIYEV" creationdate="20191129T062913Z">
+        <seg>Ýatda saklama we Öndürijilik</seg>
       </tuv>
     </tu>
     <tu>
