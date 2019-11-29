@@ -3435,6 +3435,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T180927Z" creationid="Merdan NURIYEV" creationdate="20191129T180927Z">
+        <seg>&lt;g0&gt;Täze sözlük gurna&lt;/g0&gt;  düwmemesine basmak bilen Sözlük gurnaýjy penjiresi açylar, bu ýerden bolsa gurnamak islän sözlükleriňizi saýlap bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T081200Z" creationid="Merdan NURYÝEW " creationdate="20190930T081200Z">
