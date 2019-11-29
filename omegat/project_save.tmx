@@ -14578,6 +14578,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T082609Z" creationid="Merdan NURIYEV" creationdate="20191129T082609Z">
+        <seg>TerjimeÜmleýjisi/TerjimeÜmleýjisine Mümkinçilik ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T152224Z" creationid="Merdan NURIYEV" creationdate="20191027T152224Z">
