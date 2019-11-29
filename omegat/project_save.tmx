@@ -13928,8 +13928,8 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T181314Z" creationid="Merdan NURIYEV" creationdate="20191129T181314Z">
-        <seg>Faýl atlary The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T182224Z" creationid="Merdan NURIYEV" creationdate="20191129T181314Z">
+        <seg>Faýl atlary proýekt häsiýetleri penjiresinde  (&lt;g0&gt;Proýekt &gt; Häsiýetler&lt;/g0&gt;) kesgitlenen, niýet edilen (terjime ediljek) dil kody bilen sazlaşykly bolmalydyr.</seg>
       </tuv>
     </tu>
     <tu>
