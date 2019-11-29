@@ -6199,6 +6199,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T182704Z" creationid="Merdan NURIYEV" creationdate="20191129T182704Z">
+        <seg>Mysal üçin, eger niýet edilen dil ES-MX(Meksika Ispançasy) bolsa, sözlük faýllarynyň atlary es_MX.dic we es_MX.aff şekilinde bolmalydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153919Z" creationid="Merdan NURIYEV" creationdate="20191110T153919Z">
