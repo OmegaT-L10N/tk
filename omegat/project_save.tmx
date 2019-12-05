@@ -6929,6 +6929,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T125929Z" creationid="Merdan NURIYEV" creationdate="20191205T125929Z">
+        <seg>Eger gerek bolsa sözlük faýl adlaryny üýtgediň ýada proýektiňiziň dil sazlamalaryny üýtgediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084429Z" creationid="Merdan NURIYEV" creationdate="20191106T084429Z">
@@ -14526,6 +14534,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202444Z" creationid="Merdan NURIYEV" creationdate="20191025T202444Z">
         <seg>Süzgüjiň haýsy faýly haýsy kodlaşdyrmada prosese goýjagyny saýlamak üçin tablissadan süzgüji saýlaň we "Redaktirle" knopkasyna basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T130410Z" creationid="Merdan NURIYEV" creationdate="20191205T130410Z">
+        <seg>Dil barlaýjysyny işjeň etmek üçin  &lt;g0&gt;Opsiýalar &gt; Orfografiýa Barlagy&lt;/g0&gt;  seçiň we &lt;g1&gt; Tekstiň orfografiiki barlagyny awtomatiki ýerine ýetir&lt;/g1&gt;  gutujygyna bellik goýyň (ýokaryda serediň).</seg>
       </tuv>
     </tu>
     <tu>
