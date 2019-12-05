@@ -11498,6 +11498,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T131011Z" creationid="Merdan NURIYEV" creationdate="20191205T131011Z">
+        <seg>Seçilen sözüň üstüne sag-basmak ýoly bilen (ýokardaky şekilde Artund sözü) aşaklygyna düýrlenýän menýuda düzetmeler üçin teklip edilýänler görkeziler(Art und)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T102944Z" creationid="Merdan NURYÝEW " creationdate="20190923T102944Z">
@@ -15485,6 +15493,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T093959Z" creationid="Merdan NURIYEV" creationdate="20191101T093959Z">
         <seg>Ulanyjynyň ady ýada API Açary:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T130440Z" creationid="Merdan NURIYEV" creationdate="20191205T130440Z">
+        <seg>Orfografiýa barlagynyň ulanylmagy</seg>
       </tuv>
     </tu>
     <tu>
