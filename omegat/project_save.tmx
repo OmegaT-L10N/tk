@@ -2403,6 +2403,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T180607Z" creationid="Merdan NURIYEV" creationdate="20191205T180607Z">
+        <seg>Gurnaýjy penjiresinden penjiresinden proýektiňiziň niýet edilen dil kody bilen ulanylmakda bolan barlag sözlükleriniň kodlarynyň gabat gelip gelmeýändigini hem barlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173625Z" creationid="Merdan NURIYEV" creationdate="20191111T173625Z">
