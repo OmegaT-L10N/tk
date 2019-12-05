@@ -16057,6 +16057,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T131325Z" creationid="Merdan NURIYEV" creationdate="20191205T131325Z">
+        <seg>Barlaýja, ýalňyş ýazylan sözleriň hemmesini gözardy etmek ýada bulary sözlüge goşmak instruksiýasy berilip biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T065856Z" creationid="Merdan NURIYEV" creationdate="20191107T065310Z">
