@@ -6977,6 +6977,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T073444Z" creationid="Merdan NURIYEV" creationdate="20191205T073444Z">
+        <seg>Eger de eliňizde standart Ispança sözlükleriniň mysal üçin es_es.dic we es_es.aff faýllary bar bolsa bulary es_MX.dic we es_MX.aff faýllarynyň ýerine kopýalasaňyz hem bolar, şeýlelik bilen orfografik sözlügiňiz işjeň bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154941Z" creationid="Merdan NURIYEV" creationdate="20191110T154941Z">
@@ -9151,6 +9159,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075529Z" creationid="Merdan NURIYEV" creationdate="20191111T075529Z">
         <seg>"Gurna" funksiýasyny ulanmak üçin internet aragatnaşygynyň gereklidini ýatda saklaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T073834Z" creationid="Merdan NURIYEV" creationdate="20191205T073834Z">
+        <seg>Elbette bunuň netijesinde Meksika Ispançasynyň barlagy ýerine standard Ispança (Ispanýa Ispançasynyň) barlagy ýerine ýetiriler. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14254,6 +14270,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T074259Z" creationid="Merdan NURIYEV" creationdate="20191205T074259Z">
+        <seg>OmegaT üçin belli bir sözlügi ulanmasyny aýratyn bildirmek zerurlugy ýok, proýektiňizde ulanan dil kodlaryndan ýola çykmak bilen OmegaT dogry sözlükleri ulanjakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T082612Z" creationid="Merdan NURIYEV" creationdate="20191106T082612Z">
@@ -15437,6 +15461,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T093959Z" creationid="Merdan NURIYEV" creationdate="20191101T093959Z">
         <seg>Ulanyjynyň ady ýada API Açary:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T073920Z" creationid="Merdan NURIYEV" creationdate="20191205T073920Z">
+        <seg>Orfografiýa barlag sözlükleriniň ulanylmagy</seg>
       </tuv>
     </tu>
     <tu>
