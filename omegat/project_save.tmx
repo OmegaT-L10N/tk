@@ -6969,6 +6969,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T132113Z" creationid="Merdan NURIYEV" creationdate="20191205T132113Z">
+        <seg>Eger orfografiýa barlaýjysy işlemeýän bolsa, ilki bilen (&lt;g1&gt;Opsiýalar &gt; Orfografiýa barlagy...)&lt;/g1&gt;  ekranynda  &lt;g0&gt;"Tekstiň orfografiiki barlagyny awtomatiki ýerine ýetir"&lt;/g0&gt; gutujygyna bellik goýulandygyna göz ýetiriň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T155858Z" creationid="Merdan NURIYEV" creationdate="20191110T155858Z">
