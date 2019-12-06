@@ -2405,8 +2405,8 @@ Häzirki sazlama {0}MB;</seg>
       <tuv lang="EN">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T180607Z" creationid="Merdan NURIYEV" creationdate="20191205T180607Z">
-        <seg>Gurnaýjy penjiresinden penjiresinden proýektiňiziň niýet edilen dil kody bilen ulanylmakda bolan barlag sözlükleriniň kodlarynyň gabat gelip gelmeýändigini hem barlaň.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T045758Z" creationid="Merdan NURIYEV" creationdate="20191205T180607Z">
+        <seg>Gurnaýjy penjiresinden, proýektiňiziň niýet edilen dil kody bilen ulanylmakda bolan barlag sözlükleriniň kodlarynyň gabat gelip gelmeýändigini hem barlaň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2859,6 +2859,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091150Z" creationid="Merdan NURIYEV" creationdate="20191031T091129Z">
         <seg>Täzelikleri awtomatiki barla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053842Z" creationid="Merdan NURIYEV" creationdate="20191206T053842Z">
+        <seg>Terjimeleri awtomatiki getir</seg>
       </tuv>
     </tu>
     <tu>
@@ -6199,6 +6207,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T054252Z" creationid="Merdan NURIYEV" creationdate="20191206T054252Z">
+        <seg>Gizlinlik üçin, For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083154Z" creationid="Merdan NURIYEV" creationdate="20191107T083154Z">
@@ -6363,6 +6379,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181332Z" creationid="Merdan NURIYEV" creationdate="20191105T181332Z">
         <seg>Umumy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052736Z" creationid="Merdan NURIYEV" creationdate="20191206T052736Z">
+        <seg>Umumy Häsiýetler</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,6 +7041,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T051824Z" creationid="Merdan NURIYEV" creationdate="20191206T051824Z">
+        <seg>Diýelim siz uly göwre teksti terjime etdiňiz we bir seretdiňiz welin proýektiň niýet edilen dil kody bilen barlaýjynyň ulanjak dliniň kody gabatlaşmaýar ( mysal üçin pt_BR dili kesgitlediňiz, emma pt_BR sözlükleri ýok), bu ýagdaýda diňe gerekli iki faýly kopýalap adyny çalşyrmaňyz ýeterliklidir ((meselem  &lt;e0&gt;pt_PT.aff&lt;/e0&gt; we &lt;e1&gt;pt_PT.dic&lt;/e1&gt; dan &lt;e2&gt;pt_BR.aff&lt;/e2&gt; we &lt;e3&gt;pt_BR.dic&lt;/e3&gt; şekilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T074816Z" creationid="Merdan NURIYEV" creationdate="20191117T074816Z">
@@ -7037,6 +7069,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T154941Z" creationid="Merdan NURIYEV" creationdate="20191110T154941Z">
         <seg>Egerde siz &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;  gysga-ýolyny proýekt açmak üçin ulanmak isleseňiz, &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; faýlyny aşakdaky ýaly özgerdiň:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052232Z" creationid="Merdan NURIYEV" creationdate="20191206T052232Z">
+        <seg>Sebäbiňi näme hem bolsa, wagtal-wagtal bu işleri gaýtalamaly bolarsyňyz, şonyň üçin diňe OmegaT'de ulanyljak şekilde degişli faýllary aýratyn bir bukjada saklamak tüýs ýerinde bolar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7453,6 +7493,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T092820Z" creationid="Merdan NURIYEV" creationdate="20191105T172607Z">
         <seg> {0}  üçin meseleler ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053026Z" creationid="Merdan NURIYEV" creationdate="20191206T053026Z">
+        <seg>Hemme terjime proýektlerinde ulanyljak parametrleri üýtgetmäge mümkinçilik berer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11788,8 +11836,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T101201Z" creationid="Merdan NURIYEV" creationdate="20191104T101201Z">
-        <seg>Ýatda saklama we Öndürijilik</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052615Z" creationid="Merdan NURIYEV" creationdate="20191104T101201Z">
+        <seg>Ýatda Saklama we Öndürijilik</seg>
       </tuv>
     </tu>
     <tu>
@@ -11804,8 +11852,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Saving and Output...</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T062913Z" creationid="Merdan NURIYEV" creationdate="20191129T062913Z">
-        <seg>Ýatda saklama we Öndürijilik</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052630Z" creationid="Merdan NURIYEV" creationdate="20191129T062913Z">
+        <seg>Ýatda Saklama we Öndürijilik</seg>
       </tuv>
     </tu>
     <tu>
@@ -12520,6 +12568,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075416Z" creationid="Merdan NURIYEV" creationdate="20191030T055113Z">
         <seg>Dilimleme düzgünler toplumy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053427Z" creationid="Merdan NURIYEV" creationdate="20191206T053427Z">
+        <seg>Dilim tassyklamak düwmesi üçin öňünden kabul edilen Enter ýerine Tab düwmesini belle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14094,6 +14150,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053823Z" creationid="Merdan NURIYEV" creationdate="20191206T053823Z">
+        <seg>Programma ýapylmazdan öň tassyklama garaşjakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060319Z" creationid="Merdan NURIYEV" creationdate="20191104T060319Z">
@@ -14226,6 +14290,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175536Z" creationid="Merdan NURIYEV" creationdate="20191101T175536Z">
         <seg>Bellenen terjime ugury goldanmaýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T050933Z" creationid="Merdan NURIYEV" creationdate="20191206T050933Z">
+        <seg>Orfografiýa barlaýjysy ulanyljak dil maglumatyny niýet edilen diliň kod maglumatyndan kesgitleýär: eger niýet edilen dil Brazilýa Porutalçasy (PT_BR) bolsa, içinde sözlükler bolan alt-bukjada &lt;e0&gt;pt_br.aff&lt;/e0&gt; we &lt;e1&gt;pt_br.dic&lt;/e1&gt;  atly iki sözlük faýly bolmalydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14472,6 +14544,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052919Z" creationid="Merdan NURIYEV" creationdate="20191206T052843Z">
+        <seg>Bu diýalog penjiresi &lt;m0&gt; &lt;g1&gt;Opsiýalar&lt;/g1&gt; &lt;g2&gt;Häsiýetler...&lt;/g2&gt; &lt;/m0&gt;  saýlamak bilen açylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173944Z" creationid="Merdan NURIYEV" creationdate="20191111T173944Z">
@@ -14524,6 +14604,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075419Z" creationid="Merdan NURYÝEW " creationdate="20190930T075419Z">
         <seg>Tekst görkezilende şu şekilde görüner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053629Z" creationid="Merdan NURIYEV" creationdate="20191206T053629Z">
+        <seg>Bu opsiýa nyşan girizilýän Hytaý, Ýapon ýada Koreý dillerinde ulanyşlydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15445,6 +15533,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175248Z" creationid="Merdan NURIYEV" creationdate="20191110T175248Z">
         <seg>Ilerlemek Üçin TAB Ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053049Z" creationid="Merdan NURIYEV" creationdate="20191206T053049Z">
+        <seg>Ilerlemek üçin TAB Ulan</seg>
       </tuv>
     </tu>
     <tu>
