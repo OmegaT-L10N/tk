@@ -2871,6 +2871,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T054538Z" creationid="Merdan NURIYEV" creationdate="20191206T054538Z">
+        <seg>Dilimdäki teksti sözlük içinde awtomatiki gözle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173707Z" creationid="Merdan NURIYEV" creationdate="20191104T173707Z">
@@ -15589,6 +15597,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T090019Z" creationid="Merdan NURIYEV" creationdate="20191101T090019Z">
         <seg>Özgertmeler maglumaty üç&amp;in aýratyn galyp ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T054605Z" creationid="Merdan NURIYEV" creationdate="20191206T054605Z">
+        <seg>Sözlük girişleri üçin kesgitlenmedik gabat getirme ulan</seg>
       </tuv>
     </tu>
     <tu>
