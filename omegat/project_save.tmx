@@ -6217,8 +6217,8 @@ Kerep ýüpjagazy bilen baglandyňyz
       <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T054252Z" creationid="Merdan NURIYEV" creationdate="20191206T054252Z">
-        <seg>Gizlinlik üçin, For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T055005Z" creationid="Merdan NURIYEV" creationdate="20191206T054252Z">
+        <seg>Gizlinlik üçin, Kompýuter Terjime motoryna hemme dilimleri goýbermek islemän bilersiňiz..</seg>
       </tuv>
     </tu>
     <tu>
@@ -15421,6 +15421,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181221Z" creationid="Merdan NURIYEV" creationdate="20191105T181206Z">
         <seg>&amp;Diňe terjime edilmedik dilimleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T054729Z" creationid="Merdan NURIYEV" creationdate="20191206T054729Z">
+        <seg>Diňe terjime edilmedik dilimler üçin</seg>
       </tuv>
     </tu>
     <tu>
