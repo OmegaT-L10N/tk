@@ -6985,6 +6985,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T044930Z" creationid="Merdan NURIYEV" creationdate="20191206T044930Z">
+        <seg>Egerde bu sözlükler ulgamyňyzda başga bir programma tarapyndan ulanylýan bolsa, şol programmalardan hem aýyryljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T155858Z" creationid="Merdan NURIYEV" creationdate="20191110T155858Z">
@@ -9179,6 +9187,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T044656Z" creationid="Merdan NURIYEV" creationdate="20191206T044528Z">
+        <seg>&lt;f0&gt;Aýyr &lt;/f0&gt;  saýlanan sözlükleri fiziki taýdan aýyryljakdygyny ýatdan çykarmaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083008Z" creationid="Merdan NURIYEV" creationdate="20191106T083008Z">
@@ -9407,6 +9423,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T053148Z" creationid="Merdan NURYÝEW " creationdate="20190930T053148Z">
         <seg>ÜÝZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T044417Z" creationid="Merdan NURIYEV" creationdate="20191206T044417Z">
+        <seg>Elbetde birazajyk wagt sarp edip, dogry orfografiki barlag sözlügini internetden göçürip almak has mynasyp hereket bolar.</seg>
       </tuv>
     </tu>
     <tu>
