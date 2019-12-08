@@ -14182,6 +14182,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191208T033408Z" creationid="Merdan NURIYEV" creationdate="20191208T033408Z">
+        <seg>Microsoft Terjimeçi we  Google Terjime hyzmatlaryny ulanmak üçin konfigurirleme proseduralary  &lt;u0&gt;şu taýda&lt;/u0&gt; beýan edilendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053823Z" creationid="Merdan NURIYEV" creationdate="20191206T053823Z">
