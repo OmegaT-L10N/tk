@@ -4513,6 +4513,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191208T033429Z" creationid="Merdan NURIYEV" creationdate="20191208T033429Z">
+        <seg>TBX tehniki sözlükleri üçin kontekst wasplaryny görkez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T090513Z" creationid="Merdan NURIYEV" creationdate="20191101T090502Z">
