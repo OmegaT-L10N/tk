@@ -3395,6 +3395,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191208T031237Z" creationid="Merdan NURIYEV" creationdate="20191208T031237Z">
+        <seg>Diňe terjime edilmedik dilimleri kompýuter terjime hyzmatlaryna goýbermek üçin bu gutujyga bellik goýuň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T173933Z" creationid="Merdan NURIYEV" creationdate="20191105T173933Z">
