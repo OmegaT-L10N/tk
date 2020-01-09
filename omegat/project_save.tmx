@@ -3083,6 +3083,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200109T163554Z" creationid="Merdan NURIYEV" creationdate="20200109T163554Z">
+        <seg>Briak Pilpre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T105416Z" creationid="Merdan NURYÝEW " creationdate="20191005T105416Z">
@@ -8363,6 +8371,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200109T170431Z" creationid="Merdan NURIYEV" creationdate="20200109T170431Z">
+        <seg>Elektronik poçta paýlaşymy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T074223Z" creationid="Merdan NURIYEV" creationdate="20191101T074223Z">
@@ -9751,6 +9767,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T072235Z" creationid="Merdan NURIYEV" creationdate="20191111T072012Z">
         <seg>OmegaT'niň içindäki ýerleşik orfografiki barlag funksiýasy öz esaslaryny şu programma üpjünçiliklerinde ulanylýan, ýagny Apache OpenOffice, LibreOffice, Firefox we Thunderbird ýaly programmalarda ulanylýan barlag sistemalaryndan alýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200109T165928Z" creationid="Merdan NURIYEV" creationdate="20200109T165928Z">
+        <seg>OmegaT has işjeň, goldaw bermäge höwesli we köp-dilli ulanyjy topara eýedir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12892,6 +12916,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200109T164104Z" creationid="Merdan NURIYEV" creationdate="20200109T164104Z">
+        <seg>Proýekt döredilenden soň, oňa gaty köp kişi zähmet siňdirdi, olary bu ýerde ýeke ýekeden agzamak mümkin bolmasada biz olara gaty minnetdarys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075157Z" creationid="Merdan NURYÝEW " creationdate="20190930T075157Z">
@@ -14856,6 +14888,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200109T170408Z" creationid="Merdan NURIYEV" creationdate="20200109T170408Z">
+        <seg>Bu gatylmaga köp isleg bildirilýän we &lt;a0&gt;maslahat berilýän goldaw kanalydyr &lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075419Z" creationid="Merdan NURYÝEW " creationdate="20190930T075419Z">
@@ -15909,6 +15949,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T082742Z" creationid="Merdan NURIYEV" creationdate="20191104T082742Z">
         <seg>Ulanyjy şahsyýet maglumatlary kabul edilmedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200109T164128Z" creationid="Merdan NURIYEV" creationdate="20200109T164128Z">
+        <seg>Ulanyjy topary</seg>
       </tuv>
     </tu>
     <tu>
