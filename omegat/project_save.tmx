@@ -2275,6 +2275,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193355Z" creationid="Merdan NURIYEV" creationdate="20200111T193355Z">
+        <seg>Dolandyryş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T091100Z" creationid="Merdan NURIYEV" creationdate="20191101T091100Z">
@@ -3119,6 +3127,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092230Z" creationid="Merdan NURIYEV" creationdate="20191105T092230Z">
         <seg>Gör...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T194259Z" creationid="Merdan NURIYEV" creationdate="20200111T194259Z">
+        <seg>Näsazlyklar, täze aýratynlyk islegleri we gollanmalara degişli soraglar Sourceforge'da aşakdaky yzarlama ulgamlary arkaly ele alynýar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5923,6 +5939,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T161532Z" creationid="Merdan NURIYEV" creationdate="20191104T161532Z">
         <seg>Artykmaç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193339Z" creationid="Merdan NURIYEV" creationdate="20200111T193339Z">
+        <seg>Facebook topary</seg>
       </tuv>
     </tu>
     <tu>
@@ -9699,6 +9723,22 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193059Z" creationid="Merdan NURIYEV" creationdate="20200111T193059Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T190305Z" creationid="Merdan NURIYEV" creationdate="20200111T190305Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191212T181522Z" creationid="Merdan NURIYEV" creationdate="20191212T181522Z">
@@ -9727,6 +9767,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082538Z" creationid="Merdan NURIYEV" creationdate="20191011T082538Z">
         <seg>OmegaT Proýek Bukjasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T190259Z" creationid="Merdan NURIYEV" creationdate="20200111T190259Z">
+        <seg>Omega'niň Sourceforge'de host edilýän poçta paýlaşym hyzmaty hem bardyr:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13004,6 +13052,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193411Z" creationid="Merdan NURIYEV" creationdate="20200111T193411Z">
+        <seg>Sosial torlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T170735Z" creationid="Merdan NURIYEV" creationdate="20191105T170735Z">
@@ -13854,6 +13910,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193329Z" creationid="Merdan NURIYEV" creationdate="20200111T193329Z">
+        <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T172337Z" creationid="Merdan NURIYEV" creationdate="20191030T170619Z">
@@ -14014,6 +14078,14 @@ häzirki bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082739Z" creationid="Merdan NURIYEV" creationdate="20191016T082739Z">
         <seg>Mozilla DTD süzgüji bir ýalňyşlyk döretdi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T192331Z" creationid="Merdan NURIYEV" creationdate="20200111T192331Z">
+        <seg>Tehnologiýa işläp taýarlanlar üçin OmegaT paýlaşym listi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14904,6 +14976,22 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193051Z" creationid="Merdan NURIYEV" creationdate="20200111T193051Z">
+        <seg>Bu list esasan hem OmegaT'niň aýratynlyklary we täze ösüşleri hakyndaky tehniki meseleleriň ara alynyp maslahatlaşyldygy poçta dagytym listidir, şonuň üçin hem bu list OmegaT'niň tehnologiýa işläp taýarlaýan toparyna we bu tema bilen gyzyklanýan beýleki partnerlerine has köp dogry gelýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193205Z" creationid="Merdan NURIYEV" creationdate="20200111T193205Z">
+        <seg>Bu poçta dagytym listi OmegaT'ni ýerlileşdirýän terjimeçiler üçin niýetlenendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053629Z" creationid="Merdan NURIYEV" creationdate="20191206T053629Z">
@@ -15078,6 +15166,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T085940Z" creationid="Merdan NURYÝEW " creationdate="20191005T085940Z">
         <seg>Jemi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193219Z" creationid="Merdan NURIYEV" creationdate="20200111T193219Z">
+        <seg>Yzarlama ulgamy</seg>
       </tuv>
     </tu>
     <tu>
@@ -15312,6 +15408,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155342Z" creationid="Merdan NURIYEV" creationdate="20191103T155342Z">
         <seg>Terjimeçi teswirleri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193324Z" creationid="Merdan NURIYEV" creationdate="20200111T193324Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
