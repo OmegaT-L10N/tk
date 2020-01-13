@@ -1,3 +1,4 @@
 license	ygtyýarnama
 variable	üýtgeýän ululyk
 Regular expression	Kadaly jümle
+IDE	Integrirlenen Işläp-taýarlaýjy Gurşawy
