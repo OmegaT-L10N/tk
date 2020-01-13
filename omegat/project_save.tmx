@@ -3147,10 +3147,18 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171242Z" creationid="Merdan NURIYEV" creationdate="20200113T171242Z">
+        <seg>Taýarlan: Sheila Gomes (Brazilýa Portugalçada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T170916Z" creationid="Merdan NURIYEV" creationdate="20200113T170807Z">
-        <seg>Taýarlan Susan Welsh (Open Document formadynda, Iňlis dilinde).</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171114Z" creationid="Merdan NURIYEV" creationdate="20200113T170807Z">
+        <seg>Taýarlan: Susan Welsh (Open Document formadynda, Iňlis dilinde).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5967,6 +5975,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171332Z" creationid="Merdan NURIYEV" creationdate="20200113T171332Z">
+        <seg>Beýleki gollanmalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155824Z" creationid="Merdan NURIYEV" creationdate="20191103T155824Z">
@@ -7461,6 +7477,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T101020Z" creationid="Merdan NURIYEV" creationdate="20191031T101020Z">
         <seg>Maglumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171625Z" creationid="Merdan NURIYEV" creationdate="20200113T171625Z">
+        <seg>Tejribeli ulanyjylar üçin OmegaT'niň beýleki prosedura we aýratynlyklary hakynda maglumatlary beýleki web saýtlaryndan tapyp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11356,6 +11380,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084656Z" creationid="Merdan NURIYEV" creationdate="20191011T084656Z">
         <seg>Gaýtalanýan gö&amp;zleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171206Z" creationid="Merdan NURIYEV" creationdate="20200113T171206Z">
+        <seg>OmagaT'niň mümkinçilikleri: ilkinji ädimler</seg>
       </tuv>
     </tu>
     <tu>
