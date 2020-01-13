@@ -7059,6 +7059,22 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T172805Z" creationid="Merdan NURIYEV" creationdate="20200113T172805Z">
+        <seg>Magneto'ny nähili ýerlileşdirmeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T172937Z" creationid="Merdan NURIYEV" creationdate="20200113T172937Z">
+        <seg>Wordpress XLIFF faýllarynyň terjimesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T083254Z" creationid="Merdan NURIYEV" creationdate="20191105T083254Z">
@@ -10960,6 +10976,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083759Z" creationid="Merdan NURIYEV" creationdate="20191106T083759Z">
         <seg>Sözlüklere degişli soraglar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T172914Z" creationid="Merdan NURIYEV" creationdate="20200113T172914Z">
+        <seg>Magneto'ny ýerlileşdirmek üçin OmegaT ulanylyş gollanmasy.</seg>
       </tuv>
     </tu>
     <tu>
