@@ -3149,8 +3149,24 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T170807Z" creationid="Merdan NURIYEV" creationdate="20200113T170807Z">
-        <seg>Taýarlan Susan Welsh (Open Document formadynda, iňlis dilinde).</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T170916Z" creationid="Merdan NURIYEV" creationdate="20200113T170807Z">
+        <seg>Taýarlan Susan Welsh (Open Document formadynda, Iňlis dilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171107Z" creationid="Merdan NURIYEV" creationdate="20200113T170835Z">
+        <seg>Taýarlan: Susan Welsh (PDF formadynda, Iňlis dilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171100Z" creationid="Merdan NURIYEV" creationdate="20200113T171100Z">
+        <seg>Taýarlan: Vladimir Zhdanov (Rus dilinde).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17475,6 +17491,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191212T182104Z" creationid="Merdan NURIYEV" creationdate="20191212T182104Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171030Z" creationid="Merdan NURIYEV" creationdate="20200113T171030Z">
+        <seg>Terjimeçä kömek: OmegaT hakynda 10 maslahat</seg>
       </tuv>
     </tu>
     <tu>
