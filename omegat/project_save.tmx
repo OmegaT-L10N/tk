@@ -10988,6 +10988,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T173053Z" creationid="Merdan NURIYEV" creationdate="20200113T173053Z">
+        <seg>Wordpress'den eksport edilen XLIFF faýllarynyň terjimesinde OmegaT'niň ulanylyşy (Iňlis dilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T172733Z" creationid="Merdan NURIYEV" creationdate="20200113T172733Z">
@@ -15552,6 +15560,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172230Z" creationid="Merdan NURIYEV" creationdate="20191103T172230Z">
         <seg>Proýekt Terjime Edilýär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T173331Z" creationid="Merdan NURIYEV" creationdate="20200113T173331Z">
+        <seg>OmegaT we Rainbow arkaly terjime</seg>
       </tuv>
     </tu>
     <tu>
