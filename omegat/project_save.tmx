@@ -1941,8 +1941,8 @@ Häzirki sazlama {0}MB;</seg>
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T173824Z" creationid="Merdan NURIYEV" creationdate="20200113T173824Z">
-        <seg>Rainbow'yň tekst çykarma we tekst birleşdirme A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T211808Z" creationid="Merdan NURIYEV" creationdate="20200113T173824Z">
+        <seg>OmegaT bilen faýlary terjime işine taýar etmegiň öňi we soňy üçin Rainbow'dan tekst çykarma we tekst birleşdirme guralynyň adym adym ulanylyşy.</seg>
       </tuv>
     </tu>
     <tu>
