@@ -10964,6 +10964,14 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T172733Z" creationid="Merdan NURIYEV" creationdate="20200113T172733Z">
+        <seg>NetBeans Integrirlenen Işläp taýarlaýjy Gurşawynyň terjimesi için OmegaT'niň ulanylyşy (Iňlis dilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T071647Z" creationid="Merdan NURIYEV" creationdate="20191101T071647Z">
@@ -15504,6 +15512,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T082204Z" creationid="Merdan NURYÝEW " creationdate="20190930T082204Z">
         <seg>Terjime edilen unikal dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T172556Z" creationid="Merdan NURIYEV" creationdate="20200113T172556Z">
+        <seg>NetBeans Integrirlenen Işläp taýarlaýjy Gurşawynyň (NetBeans IDE) terjimesi</seg>
       </tuv>
     </tu>
     <tu>
