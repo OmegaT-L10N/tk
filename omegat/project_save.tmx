@@ -2467,6 +2467,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165314Z" creationid="Merdan NURIYEV" creationdate="20200113T165314Z">
+        <seg>OmegaT ilk açylanda programmanyň esasy proseduralaryny we funksiýalaryny öwredýän "Çalt başlama gollanmasy" öňünden kabul edilen görnüşde(default) görkezilýändir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143724Z" creationid="Merdan NURIYEV" creationdate="20191103T143724Z">
@@ -4785,6 +4793,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T163619Z" creationid="Merdan NURIYEV" creationdate="20200113T163619Z">
+        <seg>Gollanmalar yzarlama ulgamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084356Z" creationid="Merdan NURIYEV" creationdate="20191106T084356Z">
@@ -6039,6 +6055,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T163607Z" creationid="Merdan NURIYEV" creationdate="20200113T163607Z">
+        <seg>Täze aýratynlyk islegi yzarlama ulgamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T092515Z" creationid="Merdan NURIYEV" creationdate="20191014T092515Z">
@@ -6355,6 +6379,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T073053Z" creationid="Merdan NURIYEV" creationdate="20191107T073053Z">
         <seg>Mysal üçin bu bir çepe ýapgyt çyzyk nyşany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164129Z" creationid="Merdan NURIYEV" creationdate="20200113T164129Z">
+        <seg>Goldaw talabyňyz üçin,  &lt;a1&gt;maslahat edilen kanaly &lt;/a1&gt;. ulanyň&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6779,6 +6811,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095406Z" creationid="Merdan NURIYEV" creationdate="20191027T095406Z">
         <seg>HTML we XHTML faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165853Z" creationid="Merdan NURIYEV" creationdate="20200113T165853Z">
+        <seg>Onlaýn ulanyjy gollanmasy HTML formadynda</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,10 +7713,26 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T163543Z" creationid="Merdan NURIYEV" creationdate="20200113T163543Z">
+        <seg>Soraglar/ýalňyşkyk yzarlama ulgamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It allows parameters to be set for all translation projects.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053026Z" creationid="Merdan NURIYEV" creationdate="20191206T053026Z">
         <seg>Hemme terjime proýektlerinde ulanyljak parametrleri üýtgetmäge mümkinçilik berer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165708Z" creationid="Merdan NURIYEV" creationdate="20200113T165708Z">
+        <seg>Ony OmegaT'niň programma bukjasynyň içindäki "docs" bukjasaynda tapyp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9811,10 +9867,26 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T170439Z" creationid="Merdan NURIYEV" creationdate="20200113T170439Z">
+        <seg>OmegaT başlangyç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T072235Z" creationid="Merdan NURIYEV" creationdate="20191111T072012Z">
         <seg>OmegaT'niň içindäki ýerleşik orfografiki barlag funksiýasy öz esaslaryny şu programma üpjünçiliklerinde ulanylýan, ýagny Apache OpenOffice, LibreOffice, Firefox we Thunderbird ýaly programmalarda ulanylýan barlag sistemalaryndan alýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T163737Z" creationid="Merdan NURIYEV" creationdate="20200113T163737Z">
+        <seg>OmegaT dürli sosial torlarda öz barlygyny görkezýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9859,6 +9931,14 @@ your home folder.</seg>
         <seg>OmegaT'niň sistem häsiýetlerinden Operasýa sistemaňyzyň ad maglumatyny
 ýada başlangyç (home) bukjaňyzyň ýerleşýän ýeri maglumatyny
 almasyna rugsat berilmedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164436Z" creationid="Merdan NURIYEV" creationdate="20200113T164436Z">
+        <seg>OmegaT giň ulanyjy gollanmasy bilen birlikde hödürlenýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10440,6 +10520,22 @@ günlük faýlyny seljeriň we gaýtadan synanşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164017Z" creationid="Merdan NURIYEV" creationdate="20200113T164017Z">
+        <seg>Ýokarda agzalmadyk üçin &lt;a0&gt;OmegaT proýekt dolandyrysyna&lt;/a0&gt;  ýüz tutuň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164253Z" creationid="Merdan NURIYEV" creationdate="20200113T164253Z">
+        <seg>Web sahypsayna degişli her dürli soraglaryňyz üçin &lt;a3&gt;webmaster&lt;/a3&gt;'a ýüz tutuň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -10454,6 +10550,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T093115Z" creationid="Merdan NURYÝEW " creationdate="20190930T051217Z">
         <seg>"Terjime Dokumentlerini Döret" funksiýasyny ulanmadan öň tag/bellik meselelerini düzelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T163511Z" creationid="Merdan NURIYEV" creationdate="20200113T163511Z">
+        <seg>Bu yzarlama ulgamlaryny bir näsazlyk ýada bir sorag döremedik bolsa ulanmak maslahat berilmeýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14050,6 +14154,14 @@ häzirki bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165955Z" creationid="Merdan NURIYEV" creationdate="20200113T165955Z">
+        <seg>OmegaT'niň standart wersiýasy üçin ulanyjy gollanmasy HTML formadynda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T045726Z" creationid="Merdan NURIYEV" creationdate="20191017T045726Z">
@@ -14364,6 +14476,14 @@ bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T172116Z" creationid="Merdan NURIYEV" creationdate="20191017T172116Z">
         <seg>"OmegaT 2.6 bilen ylalaşykly" opsiýasy seçilen bolsa aşakdaky opsiýalar ulanylmaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T170413Z" creationid="Merdan NURIYEV" creationdate="20200113T170413Z">
+        <seg>Aşakdaky golanmalar hem onlaýn hem göçürip almak üçin elýeterlidir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,6 +14838,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165826Z" creationid="Merdan NURIYEV" creationdate="20200113T165826Z">
+        <seg>OmegaT üçin ulanyjy gollanmasy PDF formadynda ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144723Z" creationid="Merdan NURIYEV" creationdate="20191106T144723Z">
@@ -15046,6 +15174,14 @@ göçürip aljakdyr.</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T063100Z" creationid="Merdan NURIYEV" creationdate="20191104T063039Z">
         <seg>Terjime ýitgisiniň öňüne geçmek üçin, şulary ýerine ýetirmelisiňiz:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164745Z" creationid="Merdan NURIYEV" creationdate="20200113T164745Z">
+        <seg>OmageT içinden gollanmany açmak üçin Kömek&gt;Ulanyjylaryň Gollanmasy menýusunu ýada gysgaça F1 basyň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,6 +15544,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T155342Z" creationid="Merdan NURIYEV" creationdate="20191103T155342Z">
         <seg>Terjimeçi teswirleri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T170250Z" creationid="Merdan NURIYEV" creationdate="20200113T170250Z">
+        <seg>Öwreniş gollanmalary</seg>
       </tuv>
     </tu>
     <tu>
@@ -16065,6 +16209,22 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165733Z" creationid="Merdan NURIYEV" creationdate="20200113T165733Z">
+        <seg>Onlaýn ulanyjy gollanmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164357Z" creationid="Merdan NURIYEV" creationdate="20200113T164357Z">
+        <seg>Ulanyjy gollanmalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T181423Z" creationid="Merdan NURIYEV" creationdate="20191030T181423Z">
@@ -16645,6 +16805,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T071629Z" creationid="Merdan NURIYEV" creationdate="20191101T071629Z">
         <seg>Proýektiňizde ulanylmakda bolan orfografiki barlag sözlügini aýyrýarsyňyz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165446Z" creationid="Merdan NURIYEV" creationdate="20200113T165446Z">
+        <seg>Ulanyjy gollanmalaryny OmegaT'niň özüni işletmezden hem açyp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
