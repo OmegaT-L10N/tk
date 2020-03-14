@@ -7539,6 +7539,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T170128Z" creationid="Merdan NURIYEV" creationdate="20200314T170128Z">
+        <seg>Nädip etmeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200106T162833Z" creationid="Merdan NURIYEV" creationdate="20200106T162833Z">
@@ -9407,6 +9415,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T155957Z" creationid="Merdan NURIYEV" creationdate="20191110T155957Z">
         <seg>Menýu Element Kody</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T170111Z" creationid="Merdan NURIYEV" creationdate="20200314T170111Z">
+        <seg>Menüler</seg>
       </tuv>
     </tu>
     <tu>
