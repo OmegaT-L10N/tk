@@ -1819,10 +1819,90 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T120056Z" creationid="Merdan NURIYEV" creationdate="20200715T120056Z">
+        <seg>&lt;e0&gt;Taglary üýşir/topla&lt;/e0&gt;:  eger saýlanan bolsa, terjime edilip bolmaýan ýada terjime edilmeli däl tekstleriniň aralygyndaky taglar bir tagda toplanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200711T174919Z" creationid="Merdan NURIYEV" creationdate="20200711T173008Z">
         <seg>Niýet edilen faýllarda boş terjimelere rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T112337Z" creationid="Merdan NURIYEV" creationdate="20200715T112337Z">
+        <seg>&lt;e0&gt;Alamat açar-many jübütleriniň(otyr bilen aýyrylan) yzyndan gelen meta-taglaryň mazmunynyň alamatlaryny terjime etme:&lt;/e0&gt; Gugutjuklardaky meta-taglar terjime ediljek däldir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T112859Z" creationid="Merdan NURIYEV" creationdate="20200715T112859Z">
+        <seg>&lt;e0&gt;Alamat açar-many jübütleriniň(otyr bilen aýyrylan) yzyndan gelen taglaryň mazmunyny terjime etme&lt;/e0&gt;: eger bir tag açar-many jübütleriniň listinden bir gabat geleni bolsa, onuň mazmuny terjime ediljek däldir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115522Z" creationid="Merdan NURIYEV" creationdate="20200715T115522Z">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;teswirler, sahypa atlary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115701Z" creationid="Merdan NURIYEV" creationdate="20200715T115701Z">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; grafikler, diagrammalar, çyzgylar we WordArt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115608Z" creationid="Merdan NURIYEV" creationdate="20200715T115608Z">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slaýd teswirler, slaýd nusgalyklary, slaýd ýerleşiş shemasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T103904Z" creationid="Merdan NURIYEV" creationdate="20200715T091114Z">
+        <seg>&lt;e0&gt;Tekst gabat getirme kadaly jümlesine degmän geç&lt;/e0&gt;: hiç bir tekst-gabat-getirme-kadaly-jümlesi ulanylmaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T090857Z" creationid="Merdan NURIYEV" creationdate="20200715T090857Z">
+        <seg>&lt;e0&gt;Täze abzas başlangyç ýeri&lt;/e0&gt;: &lt;br&gt; HTML tagi dilimleme işleri dowam eden wagty paragraf başlangyç ýerine ulanylýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T085208Z" creationid="Merdan NURIYEV" creationdate="20200715T085208Z">
+        <seg>&lt;e0&gt;Aşakdaky alamatlary terjime et&lt;/e0&gt;: seçilen alamatlar Editor penjiresinde dilim şekilinde görüner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115456Z" creationid="Merdan NURIYEV" creationdate="20200715T115456Z">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; görünmeýän instruksiýa teksti, teswirler, sahypa soňyndaky bellikler/çykgytlar, bellikler/soňky söz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2968,6 +3048,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060145Z" creationid="Merdan NURIYEV" creationdate="20200713T060145Z">
+        <seg>We bu ýagdaý PO faýllary üçin öňünden kabul edilen görnüşde standart ýagdaýdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164033Z" creationid="Merdan NURIYEV" creationdate="20191030T164033Z">
@@ -3003,6 +3091,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081540Z" creationid="Merdan NURIYEV" creationdate="20191016T081540Z">
+        <seg>Sözbaşyndaky 'nplurals=INTEGER; &amp;plural=EXPRESSION;' y awtomatiki çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060832Z" creationid="Merdan NURIYEV" creationdate="20200713T060832Z">
         <seg>Sözbaşyndaky 'nplurals=INTEGER; &amp;plural=EXPRESSION;' y awtomatiki çalşyr</seg>
       </tuv>
     </tu>
@@ -6960,6 +7056,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T114420Z" creationid="Merdan NURIYEV" creationdate="20200715T114358Z">
+        <seg>Mysal üçin, &lt;l0&gt;&lt;div class="gizle"&gt; &lt;span translate="ýok"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T182704Z" creationid="Merdan NURIYEV" creationdate="20191129T182704Z">
@@ -6988,6 +7092,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164129Z" creationid="Merdan NURIYEV" creationdate="20200113T164129Z">
         <seg>Goldaw talabyňyz üçin,  &lt;a1&gt;maslahat edilen kanaly &lt;/a1&gt;. ulanyň&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T114931Z" creationid="Merdan NURIYEV" creationdate="20200715T114931Z">
+        <seg>Ýokaraky mysala göra terjime edilmeden geçiljek bölümde : &lt;l1&gt;class=gizle, translate=ýok &lt;/l1&gt; ýazgylary bolar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,6 +7986,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T055635Z" creationid="Merdan NURIYEV" creationdate="20200713T055635Z">
+        <seg>Haçanda bu opsiýa saýlanan bolsa, PO faýlynyň içindäki bir dilim (belkide abzasyň hemmesi) terjime edilmedik bolsa, niýet edilen faýldaki muňa degişli dilim boş bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T143318Z" creationid="Merdan NURIYEV" creationdate="20191106T135125Z">
@@ -7894,6 +8014,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200711T115513Z" creationid="Merdan NURIYEV" creationdate="20200711T115513Z">
         <seg>Egerde bu opsiýa saýlanan bolsa, alternatiw terjime kesgitlenişinde gözbaş (terjimesi ediljek) faýlyň ady ulanylmaz we kesgitleme işi beýleki mazmunlaryna(faýlyň formatyna bagly bolmakla birlikde öňki/soňky dilimler ýada dilim tanaýjylarynda) gabat gelen islendik faýl içerisinden gözlener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060455Z" creationid="Merdan NURIYEV" creationdate="20200713T060455Z">
+        <seg>Eger bu opsiýa saýlanmadyk bolsa, gözbaş dilim niýet edilen (terjimesi ediljek bolan) dilime göçüriljekdir/kopýalanjakdyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8522,10 +8650,26 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T103948Z" creationid="Merdan NURIYEV" creationdate="20200715T103948Z">
+        <seg>Tag tassyklaýjysy içinde gyzyl reňkde görkeziler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T071938Z" creationid="Merdan NURIYEV" creationdate="20191129T071938Z">
         <seg>Bu aňsat, ýöne &lt;e0&gt;Onlaýn sözlükleriň URL&lt;/e0&gt; bilgisini, bu ýerden görüp bilersiňiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T113230Z" creationid="Merdan NURIYEV" creationdate="20200715T113230Z">
+        <seg>Bu ýagdaý käbir ýagny, alamatlarynyň manylaryna görä terjime edilmeli däl taglar gabat gelen wagty has ulanyşly bolmakdadyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9642,6 +9786,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T083742Z" creationid="Merdan NURIYEV" creationdate="20191106T083742Z">
         <seg>Merriam Webster dictionary - ulanylşy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T114939Z" creationid="Merdan NURIYEV" creationdate="20200715T114939Z">
+        <seg>Microsoft Office Open XML faýllary</seg>
       </tuv>
     </tu>
     <tu>
@@ -11256,6 +11408,14 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T165539Z" creationid="Merdan NURIYEV" creationdate="20191030T165539Z">
         <seg>Abzas çäklendirme formady:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T040548Z" creationid="Merdan NURIYEV" creationdate="20200713T040548Z">
+        <seg>Abzas dilimlenmesi setirden setire geçişlerde, boş setirlerde ýada hiç wagt :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14188,6 +14348,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060645Z" creationid="Merdan NURIYEV" creationdate="20200713T060645Z">
+        <seg>PO sözbaşyna degmän geç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T145710Z" creationid="Merdan NURIYEV" creationdate="20191027T144713Z">
@@ -15134,6 +15302,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T055919Z" creationid="Merdan NURIYEV" creationdate="20200713T055919Z">
+        <seg>Tehniki dilde düşündürsek, niýet edilen (terjime ediljek) PO faýly eger döredilse onuň içindäki &lt;c0&gt;msgstr&lt;/c0&gt;  dilim boş goýular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Telegram</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193329Z" creationid="Merdan NURIYEV" creationdate="20200111T193329Z">
@@ -15256,6 +15432,14 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T111927Z" creationid="Merdan NURIYEV" creationdate="20200715T111927Z">
+        <seg>Gözbaş dilimleriniň içinde gabat gelen tekstler Ýapgyt şriftte görüner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160403Z" creationid="Merdan NURIYEV" creationdate="20191104T160403Z">
@@ -15350,6 +15534,14 @@ häzirki bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081904Z" creationid="Merdan NURIYEV" creationdate="20191016T081904Z">
         <seg>PO süzgüji ulanylanda ýalňyşlyk boldy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060747Z" creationid="Merdan NURIYEV" creationdate="20200713T060747Z">
+        <seg>Eger bu opsiýa saýlanan bolsa PO faýlynyň sözbaşyna degilmän geçiler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16148,6 +16340,14 @@ Sen, ziýan çekenlerden birisiň</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115051Z" creationid="Merdan NURIYEV" creationdate="20200715T115051Z">
+        <seg>Bular terjime işinde aýry bir dilim şekilinde görüner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -16316,6 +16516,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193205Z" creationid="Merdan NURIYEV" creationdate="20200111T193205Z">
         <seg>Bu poçta dagytym listi OmegaT'ni ýerlileşdirýän terjimeçiler üçin niýetlenendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T085002Z" creationid="Merdan NURIYEV" creationdate="20200715T085002Z">
+        <seg>Bu opsiýa bilen OmegaT PO faýlynyň başlygyndaky spesifikasýany görmezden geler we niýet edilen dil üçin öňünden kabul edilen opsiýalary ulanar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18169,6 +18377,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T085012Z" creationid="Merdan NURIYEV" creationdate="20200715T085012Z">
+        <seg>XHTML faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T073056Z" creationid="Merdan NURIYEV" creationdate="20191029T073056Z">
@@ -18305,6 +18521,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T114655Z" creationid="Merdan NURIYEV" creationdate="20200715T114655Z">
+        <seg>Taglary terjime edilmeden goýup geçmek üçin aça-many jübütlerini döredip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075356Z" creationid="Merdan NURIYEV" creationdate="20191111T075356Z">
@@ -18335,6 +18559,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173200Z" creationid="Merdan NURIYEV" creationdate="20191111T173200Z">
         <seg>Niýet edilen kolonnasynda hiç maglumat bolmaýan ýazgylaryňyz hem bolup biler, ýagny diňe gözbaş termin we termin maglumatly ýazgy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115017Z" creationid="Merdan NURIYEV" creationdate="20200715T115017Z">
+        <seg>Haýsy elementleriň terjime ediljegini saýlap bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19409,6 +19641,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200413T062952Z" creationid="Merdan NURIYEV" creationdate="20200413T062952Z">
         <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T041625Z" creationid="Merdan NURIYEV" creationdate="20200713T041625Z">
+        <seg>Egerde sözlem dilimlenme kadalary işjeň edilen bolsa, degişli tekst mundan beýläk bu ýerde saýlanan opsiýalara görä dilimlenjekdir.</seg>
       </tuv>
     </tu>
     <tu>
