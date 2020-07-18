@@ -1819,6 +1819,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200717T064840Z" creationid="Merdan NURIYEV" creationdate="20200717T064840Z">
+        <seg>&lt;e0&gt;HTML we XHTML faýllarynyň kodlaşdyrma beýanyny goş ýada täzeden ýaz&lt;/e0&gt;: käbir ýagdaýlarda niýet edilen faýlyň kodlaşdyrmasay gözbaş faýlynyň kodlaşdyrmasyndan tapawutly bolýar(aýratyn beýan edilen ýada meňzeş diýilip hasaplanan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T120056Z" creationid="Merdan NURIYEV" creationdate="20200715T120056Z">
@@ -1871,6 +1879,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115608Z" creationid="Merdan NURIYEV" creationdate="20200715T115608Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slaýd teswirler, slaýd nusgalyklary, slaýd ýerleşiş shemasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200717T063457Z" creationid="Merdan NURIYEV" creationdate="20200717T063457Z">
+        <seg>&lt;e0&gt;Hemme taglar üçin boşluklary sakla &lt;/e0&gt;: eger saýlanan bolsa, dokument içinde bu opsiýanyň saýlanyp saýlanmadygyna garamazdan "görünmeýan harplar" (white space) (şunuň bilen birlikde boşluklar we setir başlary) saklanar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7088,6 +7104,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T124938Z" creationid="Merdan NURIYEV" creationdate="20200718T124938Z">
+        <seg>Mysal üçin, eger faýl süzgüji niýet edilen faýllar üçin kodlaşdyrmany UTF8 şeklinde kesgitleýän bolsa, 'Elmydama' opsiýasynyň saýlamasy bu kesgitlemeleriň terjime edilen faýllarda hem bolmasyny üpjünlär/üpjün eder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T164129Z" creationid="Merdan NURIYEV" creationdate="20200113T164129Z">
@@ -7547,6 +7571,14 @@ Kerep ýüpjagazy bilen baglandyňyz
         <seg>HTML and XHTML</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095406Z" creationid="Merdan NURIYEV" creationdate="20191027T095406Z">
+        <seg>HTML we XHTML faýllary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200717T063530Z" creationid="Merdan NURIYEV" creationdate="20200717T063530Z">
         <seg>HTML we XHTML faýllary</seg>
       </tuv>
     </tu>
@@ -15434,8 +15466,8 @@ Tekst çalşyrmanyň çäkleri proýektiň terjimä niýetlenen dilimleridir, o 
       <tuv lang="EN">
         <seg>Text in source segments that matches is shown in italics.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T111927Z" creationid="Merdan NURIYEV" creationdate="20200715T111927Z">
-        <seg>Gözbaş dilimleriniň içinde gabat gelen tekstler Ýapgyt şriftte görüner.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T125233Z" creationid="Merdan NURIYEV" creationdate="20200715T111927Z">
+        <seg>Gözbaş dilimleriniň içinde gabat gelen tekstler ýapgyt şriftte görüner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17785,6 +17817,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T124149Z" creationid="Merdan NURIYEV" creationdate="20200717T065324Z">
+        <seg>Terjimeçi bu opsiýa arkaly, niýet edilen faýllarda haýsy kodlaşdyrma beýanynyň ulanylmalydygyny kesgitläp bilýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074436Z" creationid="Merdan NURIYEV" creationdate="20191023T074436Z">
@@ -18523,8 +18563,8 @@ Sahypaňyz tapylmady</seg>
       <tuv lang="EN">
         <seg>You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T114655Z" creationid="Merdan NURIYEV" creationdate="20200715T114655Z">
-        <seg>Taglary terjime edilmeden goýup geçmek üçin aça-many jübütlerini döredip bilersiňiz.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T125350Z" creationid="Merdan NURIYEV" creationdate="20200715T114655Z">
+        <seg>Taglary terjime edilmeden goýup geçmek üçin açar-many jübütlerini döredip bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
