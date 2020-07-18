@@ -2532,6 +2532,14 @@ Merdan NURIYEV © 2018–2019</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T153033Z" creationid="Merdan NURIYEV" creationdate="20200718T153033Z">
+        <seg>Soňundan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T091100Z" creationid="Merdan NURIYEV" creationdate="20191101T091100Z">
@@ -2648,6 +2656,14 @@ Merdan NURIYEV © 2018–2019</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164114Z" creationid="Merdan NURIYEV" creationdate="20191030T164114Z">
         <seg>Taglary &amp;redaktirlemäge rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T153133Z" creationid="Merdan NURIYEV" creationdate="20200718T153133Z">
+        <seg>Taglary redaktirlemäge rugsat ber</seg>
       </tuv>
     </tu>
     <tu>
@@ -5824,6 +5840,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102329Z" creationid="Merdan NURIYEV" creationdate="20191104T102329Z">
         <seg>Teksti Redaktirle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T152901Z" creationid="Merdan NURIYEV" creationdate="20200718T152901Z">
+        <seg>Filtre düzenle diyalog kutucuğu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11116,6 +11140,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T160024Z" creationid="Merdan NURIYEV" creationdate="20191110T160024Z">
         <seg>Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T152832Z" creationid="Merdan NURIYEV" creationdate="20200718T152832Z">
+        <seg>Open Document Format (ODF) faýllary</seg>
       </tuv>
     </tu>
     <tu>
