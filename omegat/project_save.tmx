@@ -1763,6 +1763,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T042515Z" creationid="Merdan NURIYEV" creationdate="20200722T042515Z">
+        <seg>&lt;/e2&gt;'de ulanylýar ýagny '*' nyşany ýa hiç ýada birnäçe nyşana gabat geler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T060510Z" creationid="Merdan NURYÝEW " creationdate="20190930T060510Z">
@@ -1791,6 +1799,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T083448Z" creationid="Merdan NURYÝEW " creationdate="20190926T083448Z">
         <seg>&lt;awtomatiki&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083737Z" creationid="Merdan NURIYEV" creationdate="20200722T083737Z">
+        <seg>&lt;auto&gt; kodlaşdyrmalaryň saýlawyny &lt;a1&gt;OmegaT&lt;/a1&gt; alyp barar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,6 +1867,14 @@ Häzirki sazlama {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200720T100923Z" creationid="Merdan NURIYEV" creationdate="20200720T100923Z">
+        <seg>&lt;e0&gt;Terjime edilen dokumentlerde boşluk nyşanlaryny gys&lt;/e0&gt;: yzly-yzyna ýazylan boşluk nyşanlary terjime edilen dokumentlerde bir boşluk nyşany edilip ýazylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T112337Z" creationid="Merdan NURIYEV" creationdate="20200715T112337Z">
@@ -1895,6 +1919,14 @@ Häzirki sazlama {0}MB;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200717T063457Z" creationid="Merdan NURIYEV" creationdate="20200717T063457Z">
         <seg>&lt;e0&gt;Hemme taglar üçin boşluklary sakla &lt;/e0&gt;: eger saýlanan bolsa, dokument içinde bu opsiýanyň saýlanyp saýlanmadygyna garamazdan "görünmeýan harplar" (white space) (şunuň bilen birlikde boşluklar we setir başlary) saklanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T044136Z" creationid="Merdan NURIYEV" creationdate="20200721T044136Z">
+        <seg>&lt;e0&gt;Terjime edilen dokumentlerden HTML teswirlerini aýyr&lt;/e0&gt;: teswirlenen bölekler (&lt;!-- we--&gt; aralygyndaky) terjime edilen dokumentlere kopýalanmaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2648,6 +2680,14 @@ Merdan NURIYEV © 2018–2019</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T070415Z" creationid="Merdan NURIYEV" creationdate="20191105T070415Z">
         <seg>Hemme Pudaklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other characters represent themselves.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T042709Z" creationid="Merdan NURIYEV" creationdate="20200722T042709Z">
+        <seg>Galan nyşanlar/harplar diňe öz manylarynda ulanylýar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,6 +3560,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T171100Z" creationid="Merdan NURIYEV" creationdate="20200113T171100Z">
         <seg>Taýarlan: Vladimir Zhdanov (Rus dilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083415Z" creationid="Merdan NURIYEV" creationdate="20200722T083415Z">
+        <seg>Terjime/niýet edilen faýllaryň kodlaşdyrmasy öňünden kabul edilen görnüşde gözbaş faýlyň kodlaşdyrmasy bilen meňzeşdir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5854,8 +5902,8 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
       <tuv lang="EN">
         <seg>Edit filter dialog</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T152901Z" creationid="Merdan NURIYEV" creationdate="20200718T152901Z">
-        <seg>Filtre düzenle diyalog kutucuğu</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T105009Z" creationid="Merdan NURIYEV" creationdate="20200718T152901Z">
+        <seg>Süzgüç redaktirleme diýalog penjiresi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6872,6 +6920,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T044149Z" creationid="Merdan NURIYEV" creationdate="20200722T044149Z">
+        <seg>Öz kodlaşdyrmasy takyklanmadyk faýllarynyň kodlaşdyrmasy üçin, giňeltmesine görä gabat gelen faýl-atlary üçin sazlan kodlaşdyrmaňyz ulanyljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092211Z" creationid="Merdan NURYÝEW " creationdate="20191005T092211Z">
@@ -7112,6 +7168,22 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T082927Z" creationid="Merdan NURIYEV" creationdate="20200722T082927Z">
+        <seg>Mysal üçin, &lt;l0&gt;.txt&lt;/l0&gt; faýllary üçin kodlaşdyrma öňünden kabul edilen görnüşde operasiýa ulgamynyň öňünden kabul edilen kodlaşdyrmasy ýüklener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T041051Z" creationid="Merdan NURIYEV" creationdate="20200722T041051Z">
+        <seg>Mysal üçin, öňünden kabul edilşi ýaly XHTML süzgüji .xhtml  giňeltmesine eýe bolan faýllary işlemek üçin ulanylýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T182704Z" creationid="Merdan NURIYEV" creationdate="20191129T182704Z">
@@ -7120,10 +7192,26 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T043224Z" creationid="Merdan NURIYEV" creationdate="20200722T043224Z">
+        <seg>Mysal üçin, tekst süzgüjiniň oka-meni faýllaryny (&lt;l3&gt;oka-meni, oka.meni&lt;/l3&gt;, we &lt;l4&gt;okameni.txt&lt;/l4&gt;) ele almasyny isleseňiz &lt;l5&gt;oka*&lt;/l5&gt; galybyny ulanmaly bolarsyňyz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153919Z" creationid="Merdan NURIYEV" creationdate="20191110T153919Z">
         <seg>Mysal üçin, OmegaT'niň öňünden kabul edilen gysga-ýollary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T035556Z" creationid="Merdan NURIYEV" creationdate="20200722T035556Z">
+        <seg>Mysal üçin, &lt;l0&gt;*.xhtml &lt;/l0&gt; galyby/şablony &lt;l1&gt;.xhtml&lt;/l1&gt; giňeltmä eýe bolan hemme faýl üçin gabat gelýär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8054,6 +8142,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T055635Z" creationid="Merdan NURIYEV" creationdate="20200713T055635Z">
         <seg>Haçanda bu opsiýa saýlanan bolsa, PO faýlynyň içindäki bir dilim (belkide abzasyň hemmesi) terjime edilmedik bolsa, niýet edilen faýldaki muňa degişli dilim boş bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T035752Z" creationid="Merdan NURIYEV" creationdate="20200722T035752Z">
+        <seg>Eger laýyk bir süzgüç gabat gelýän bolsa onda şol faýl o süzgüje görä işe goýular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10022,6 +10118,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T035415Z" creationid="Merdan NURIYEV" creationdate="20200722T035415Z">
+        <seg>Has takyk aýtjak bolsak, OmegaT gözbaş faýlynyň adyna gabat gelen süzgüji saýlajak bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191212T181944Z" creationid="Merdan NURIYEV" creationdate="20191212T181944Z">
@@ -10966,6 +11070,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T092932Z" creationid="Merdan NURIYEV" creationdate="20200722T092932Z">
+        <seg>OmegaT gözbaş faýllaryň kodlaşdyrmasyny, eger bar bolsa bu faýlllaryň (HTML faýllary, XML esasly faýllar) kodlaşdyrma deklarasýasyna seretmek bilen kesgitlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200313T144237Z" creationid="Merdan NURIYEV" creationdate="20200313T144237Z">
@@ -10998,6 +11110,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200514T050523Z" creationid="Merdan NURIYEV" creationdate="20200514T050523Z">
         <seg>OmegaT распространяется в соответствии с условиями лицензии GNU General Public License, опубликованной Free Software Foundation; вы можете использовать версию 3 этой лицензии или любую более позднюю версию (по вашему выбору).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T093626Z" creationid="Merdan NURIYEV" creationdate="20200722T093626Z">
+        <seg>OmegaT'niň instruksiýalaryndan biri hem käbir faýl formatlary (Java häsiýet faýllary we ş.m) üçin mejbury kodlaşdyrmanyň ulanylmagydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11042,6 +11162,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082549Z" creationid="Merdan NURYÝEW " creationdate="20190919T082549Z">
         <seg>OmegaT ýady dolup barýar we HOWWA bassaňyz program soňlanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T152852Z" creationid="Merdan NURIYEV" creationdate="20200722T152852Z">
+        <seg>OmegaT, metin dosyaları için işletim sisteminin varsayılan kodlamasını kullanacaktır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11124,6 +11252,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T174759Z" creationid="Merdan NURIYEV" creationdate="20191108T174759Z">
         <seg> &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; faýlynda özgertme girizilenden soňra täze gysga-ýollaryň işe girizilmesi üçin, &lt;a1&gt;OmegaT&lt;/a1&gt; 'niň gaýtadan başladylmasy gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T043602Z" creationid="Merdan NURIYEV" creationdate="20200722T043602Z">
+        <seg>Diňe belli sandaky faýl formatlary üçin kodlaşdyrma bellenmesi hökmanydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14644,6 +14780,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T043311Z" creationid="Merdan NURIYEV" creationdate="20200722T043311Z">
+        <seg>Gözbaş we Terjime Edilen faýl kodlaşdyrmasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T070318Z" creationid="Merdan NURIYEV" creationdate="20191105T070318Z">
@@ -14656,6 +14800,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T083922Z" creationid="Merdan NURYÝEW " creationdate="20191005T083922Z">
         <seg>Gözbaş faýly ýüklenmesi tamamlandy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file type, filename pattern</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T110429Z" creationid="Merdan NURIYEV" creationdate="20200721T110429Z">
+        <seg>Gözbaş faýl tipi, faýl ady galyby/şablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T042407Z" creationid="Merdan NURIYEV" creationdate="20200722T042407Z">
+        <seg>Gözbaş faýl-ady galyplarynda jemleýji nyşanlar ulanylýar, bular şeýle hem &lt;e2&gt;Gözlegler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15286,6 +15446,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083303Z" creationid="Merdan NURIYEV" creationdate="20200722T083303Z">
+        <seg>Niýetlenen faýllar hem islendik kodlaşdyrmada ýazylyp biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051631Z" creationid="Merdan NURYÝEW " creationdate="20190930T051631Z">
@@ -15526,6 +15694,14 @@ current folder will be used instead.</seg>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T164138Z" creationid="Merdan NURIYEV" creationdate="20191031T164138Z">
         <seg>Munuň ýerine
 häzirki bukja ulanylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T042609Z" creationid="Merdan NURIYEV" creationdate="20200722T042609Z">
+        <seg>'?' nyşany diňe bir harpa/nyşana gabat geler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15824,6 +16000,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T110339Z" creationid="Merdan NURIYEV" creationdate="20200721T110339Z">
+        <seg>Bu diýalog penjiresiniň içinde, çykyş faýllarynyň atlaryny özgertmek üçin ýörite niýet edilen faýl atlary üçin galyp/şablon Redaktory bardyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T173241Z" creationid="Merdan NURIYEV" creationdate="20191111T173241Z">
@@ -16110,6 +16294,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T105929Z" creationid="Merdan NURIYEV" creationdate="20200721T105648Z">
+        <seg>Şol bir diýalog penjiresini hem galyp goşmak üçin hemde belli bir galyby redaktirlemek üçin ulanyp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T143528Z" creationid="Merdan NURIYEV" creationdate="20191103T143528Z">
@@ -16146,6 +16338,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191108T175316Z" creationid="Merdan NURIYEV" creationdate="20191108T175316Z">
         <seg>Gysga-ýol kesgitleme sintaksisi şu şekildedir: &lt;c0&gt;&lt;menýu element kody&gt;=&lt;gysga-ýol&gt;&lt;/c0&gt;, bu ýerde &lt;e1&gt;&lt;menýu element kody&gt;&lt;/e1&gt; aşakdaky tablisadan alynýar we &lt;e2&gt;&lt;gysga-ýol&gt;&lt;/e2&gt; bolsa ulanyjynyň basan düwme utgaşmasydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083610Z" creationid="Merdan NURIYEV" creationdate="20200722T083610Z">
+        <seg>Gözbaş we terjime/niýet edilen gutularynda goldaw berilen hemme kodlaşdyrmalary görüp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16496,6 +16696,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T104333Z" creationid="Merdan NURIYEV" creationdate="20200721T104325Z">
+        <seg>Bu ýerde süzgüçden geçjek gözbaş faýllarynyň atlary üçin şablon taýarlap bilersiňiz, terjime ediljek faýllaryň atlaryny özboluşly etmek bilen gözbaş faýllary ýüklenende we terjime edilen faýllar ýatda saklananda ulanyljak kodlaşdyrma opsiýalaryny saýlap bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052919Z" creationid="Merdan NURIYEV" creationdate="20191206T052843Z">
@@ -16540,6 +16748,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T095629Z" creationid="Merdan NURIYEV" creationdate="20191104T095629Z">
         <seg>Bu bir proýektiň faýly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083754Z" creationid="Merdan NURIYEV" creationdate="20200722T083754Z">
+        <seg>Bu nähili bolar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16656,6 +16872,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T105525Z" creationid="Merdan NURIYEV" creationdate="20200721T105525Z">
+        <seg>Täze bir faýl süzgüjini goşmak üçin &lt;e1&gt;Goş&lt;/e1&gt; düwmesine basyň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -16718,6 +16942,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T081803Z" creationid="Merdan NURIYEV" creationdate="20191106T081803Z">
         <seg>StarDict formadyndaky sözlük faýllaryny gurnamak üçin şu aşakdaky ýoly yzarlaň:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T105654Z" creationid="Merdan NURIYEV" creationdate="20200721T105419Z">
+        <seg>&lt;e0&gt;Redaktirle&lt;/e0&gt; düwmesine basmak bilen ýada setirlerdäki ýazgylary üýtgetmek ýoly bilen faýl süzgüç galypyny/şablonuny üýtgedip bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18155,6 +18387,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T034756Z" creationid="Merdan NURIYEV" creationdate="20200722T034756Z">
+        <seg>OmegaT gözbaş bukjasyndaky fir faýly işlände o faýlyň giňeltmesine esaslanyp faýl süzgüjini saýlajak bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T165359Z" creationid="Merdan NURIYEV" creationdate="20191030T165359Z">
@@ -18585,10 +18825,26 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T041715Z" creationid="Merdan NURIYEV" creationdate="20200722T041715Z">
+        <seg>Her süzgüjiň ele alýan faýllary üçin faýl ady galybyny üýtgedip ýada goşup bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T065856Z" creationid="Merdan NURIYEV" creationdate="20191107T065310Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; häsiýetler bukjasynda ýerleşen (&lt;m1&gt; &lt;g2&gt;Opsiýalar&lt;/g2&gt; &lt;g3&gt;Konfigurasiýa Bukjasyny Aç&lt;/g3&gt; &lt;/m1&gt; menýusundan baryp bolar) gysga-ýol kesgitleme faýlynda öňden baglanan gysga-ýolllary üýtgedip bilersiňiz we täzelerini bu faýlda döredip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083137Z" creationid="Merdan NURIYEV" creationdate="20200722T083137Z">
+        <seg>Her gözbaş faýl-ady galyby üçin gözbaş kodlaşdyrmasyny saýlap bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,6 +18903,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115017Z" creationid="Merdan NURIYEV" creationdate="20200715T115017Z">
         <seg>Haýsy elementleriň terjime ediljegini saýlap bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T044252Z" creationid="Merdan NURIYEV" creationdate="20200721T044252Z">
+        <seg>Aşakdaky elementlerden haýsylarynyň terjime ediljegini saýlap bilersiňiz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19729,6 +19993,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T041625Z" creationid="Merdan NURIYEV" creationdate="20200713T041625Z">
         <seg>Egerde sözlem dilimlenme kadalary işjeň edilen bolsa, degişli tekst mundan beýläk bu ýerde saýlanan opsiýalara görä dilimlenjekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200721T044535Z" creationid="Merdan NURIYEV" creationdate="20200721T044535Z">
+        <seg>Indeksiň elementleri/ýazgylary, ýer bellik salgylanmalary, bellikler, teswirler, prezentasiýa bellikleri, linkler (URL), sahypa atlary</seg>
       </tuv>
     </tu>
     <tu>
