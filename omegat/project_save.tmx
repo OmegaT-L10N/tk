@@ -10262,6 +10262,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T175922Z" creationid="Merdan NURIYEV" creationdate="20200801T175922Z">
+        <seg>Iň pes kesgitli bolmaýan gabat getirme derejesi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191018T103700Z" creationid="Merdan NURIYEV" creationdate="20191018T103700Z">
@@ -10510,6 +10518,22 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082651Z" creationid="Merdan NURIYEV" creationdate="20191016T082651Z">
         <seg>Mozilla DTD Süzgüç Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T175705Z" creationid="Merdan NURIYEV" creationdate="20200801T175705Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T175749Z" creationid="Merdan NURIYEV" creationdate="20200801T175749Z">
+        <seg>Mozilla FTL Süzgüç Opsiýalary</seg>
       </tuv>
     </tu>
     <tu>
@@ -16093,6 +16117,14 @@ häzirki bukja ulanylar.</seg>
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T082739Z" creationid="Merdan NURIYEV" creationdate="20191016T082739Z">
+        <seg>Mozilla DTD süzgüji bir ýalňyşlyk döretdi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T175759Z" creationid="Merdan NURIYEV" creationdate="20200801T175759Z">
         <seg>Mozilla DTD süzgüji bir ýalňyşlyk döretdi:</seg>
       </tuv>
     </tu>
