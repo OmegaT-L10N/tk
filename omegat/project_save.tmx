@@ -8898,6 +8898,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180508Z" creationid="Merdan NURIYEV" creationdate="20200801T180508Z">
+        <seg>Gurnalan seplenýän modullar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200413T063249Z" creationid="Merdan NURIYEV" creationdate="20200413T063249Z">
@@ -17942,10 +17950,34 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180245Z" creationid="Merdan NURIYEV" creationdate="20200801T180245Z">
+        <seg>IAM hyzmat ulgamynyň jogaby belli däl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T165744Z" creationid="Merdan NURIYEV" creationdate="20191016T075240Z">
         <seg>Süzgüçleriň konfigurasiýa  faýlyny seljerip bolanok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180438Z" creationid="Merdan NURIYEV" creationdate="20200801T180438Z">
+        <seg>Hyzmat ulgamynyň jogap formaty işlenip bolmady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180329Z" creationid="Merdan NURIYEV" creationdate="20200801T180329Z">
+        <seg>IAM terjime hyzmat ulgamynyň jogabynyň formady belli däl</seg>
       </tuv>
     </tu>
     <tu>
