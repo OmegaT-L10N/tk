@@ -3376,6 +3376,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180525Z" creationid="Merdan NURIYEV" creationdate="20200801T180525Z">
+        <seg>Awtor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191016T081540Z" creationid="Merdan NURIYEV" creationdate="20191016T081540Z">
@@ -4068,6 +4076,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180533Z" creationid="Merdan NURIYEV" creationdate="20200801T180533Z">
+        <seg>Kontrol Kuralları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191205T125808Z" creationid="Merdan NURIYEV" creationdate="20191205T125808Z">
@@ -4152,6 +4168,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092446Z" creationid="Merdan NURIYEV" creationdate="20191105T092446Z">
         <seg>Niýet/Terjime Edilen Faýly Saýlaň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180515Z" creationid="Merdan NURIYEV" creationdate="20200801T180515Z">
+        <seg>Klas</seg>
       </tuv>
     </tu>
     <tu>
@@ -12329,6 +12353,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180622Z" creationid="Merdan NURIYEV" creationdate="20200801T180622Z">
+        <seg>Lütfen bir proje açtıktan sonra tekrar deneyin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T072423Z" creationid="Merdan NURIYEV" creationdate="20191101T072423Z">
@@ -12917,8 +12949,8 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       <tuv lang="EN">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T174325Z" creationid="Merdan NURIYEV" creationdate="20200801T174325Z">
-        <seg>SY - Kontrol Kuralları</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180611Z" creationid="Merdan NURIYEV" creationdate="20200801T174325Z">
+        <seg>SJ - Barlag Düzgünleri</seg>
       </tuv>
     </tu>
     <tu>
