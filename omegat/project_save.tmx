@@ -6660,6 +6660,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T181355Z" creationid="Merdan NURIYEV" creationdate="20200801T181355Z">
+        <seg>Bulunan hatalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escape</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182329Z" creationid="Merdan NURIYEV" creationdate="20191105T182329Z">
