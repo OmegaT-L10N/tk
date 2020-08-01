@@ -7288,6 +7288,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180022Z" creationid="Merdan NURIYEV" creationdate="20200801T180022Z">
+        <seg>Katalog ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T082608Z" creationid="Merdan NURIYEV" creationdate="20191011T082608Z">
@@ -10762,6 +10770,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180144Z" creationid="Merdan NURIYEV" creationdate="20200801T180144Z">
+        <seg>OAuth-token bildirilmedik/saýlanmadyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T070535Z" creationid="Merdan NURIYEV" creationdate="20191101T070535Z">
@@ -10774,6 +10790,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T073842Z" creationid="Merdan NURIYEV" creationdate="20191104T073842Z">
         <seg>Aragatnaşyk elýeterli däl, proýekt awtonom ýagdaýda işlär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180205Z" creationid="Merdan NURIYEV" creationdate="20200801T180205Z">
+        <seg>Katalog ID bildirilmedik</seg>
       </tuv>
     </tu>
     <tu>
@@ -11178,6 +11202,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191025T202745Z" creationid="Merdan NURIYEV" creationdate="20191025T202745Z">
         <seg>O&amp;psiýalarş...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180036Z" creationid="Merdan NURIYEV" creationdate="20200801T180036Z">
+        <seg>OAuth-token</seg>
       </tuv>
     </tu>
     <tu>
@@ -18369,6 +18401,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180055Z" creationid="Merdan NURIYEV" creationdate="20200801T180055Z">
+        <seg>Tehniki sözlügi ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200409T154240Z" creationid="Merdan NURIYEV" creationdate="20200409T154240Z">
@@ -19173,6 +19213,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T171027Z" creationid="Merdan NURIYEV" creationdate="20191101T171027Z">
         <seg>Yandex Translate - API Açary Bildirilmedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T175955Z" creationid="Merdan NURIYEV" creationdate="20200801T175955Z">
+        <seg>Ýandeks.Bulut</seg>
       </tuv>
     </tu>
     <tu>
