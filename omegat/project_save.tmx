@@ -30,10 +30,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100724Z" creationid="Merdan NURIYEV" creationdate="20200805T100724Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100713Z" creationid="Merdan NURIYEV" creationdate="20200805T100713Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${id}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200718T153501Z" creationid="Merdan NURIYEV" creationdate="20200718T153501Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100728Z" creationid="Merdan NURIYEV" creationdate="20200805T100728Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100733Z" creationid="Merdan NURIYEV" creationdate="20200805T100733Z">
+        <seg>${score}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2780,6 +2812,14 @@ Merdan NURIYEV © 2018–2019</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100125Z" creationid="Merdan NURIYEV" creationdate="20200805T100125Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; gözbaş faýlyny struktura-derejesinde dilimländen soňra bloklary sözlemlere görä dilimlemäge dowam eder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T091100Z" creationid="Merdan NURIYEV" creationdate="20191101T091100Z">
@@ -2896,6 +2936,14 @@ Merdan NURIYEV © 2018–2019</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181941Z" creationid="Merdan NURIYEV" creationdate="20191105T181941Z">
         <seg>Esasy parol bilen goragda duran ähli häsiýetler nol ediljekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T060926Z" creationid="Merdan NURIYEV" creationdate="20200807T060926Z">
+        <seg>Dilimleme kadalary üstünde işlenýän dile gabat gelýän işjeň şablona we berilen tertipde ele alynmakdadyr, ýagny belli bir dil üçin bellenen kada öňünden kabul edilen kadadan öň ele alynar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,6 +3720,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T182532Z" creationid="Merdan NURIYEV" creationdate="20191105T182532Z">
         <seg>Ikisi Hem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T111552Z" creationid="Merdan NURIYEV" creationdate="20200805T111552Z">
+        <seg>Kesme kadasy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,6 +4922,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new rule</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T161129Z" creationid="Merdan NURIYEV" creationdate="20200807T161129Z">
+        <seg>Täze kada döretmek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T084058Z" creationid="Merdan NURYÝEW " creationdate="20191005T084058Z">
@@ -5996,6 +6060,14 @@ project_save.tmx garşy tarapa doly ýüklenmedi we SVN durnuksyz ýagdaýa geç
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200803T055919Z" creationid="Merdan NURIYEV" creationdate="20200803T055919Z">
+        <seg>Dilimler döredilende diňe gözbaş faýlynyň gurluşy esas alynar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T154857Z" creationid="Merdan NURIYEV" creationdate="20191029T154857Z">
@@ -6772,6 +6844,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T112543Z" creationid="Merdan NURIYEV" creationdate="20200805T112543Z">
+        <seg>Adatdan-daşary kadasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191029T152444Z" creationid="Merdan NURIYEV" creationdate="20191029T152444Z">
@@ -7240,6 +7320,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200803T061236Z" creationid="Merdan NURIYEV" creationdate="20200803T061236Z">
+        <seg>Içinde biçimlendirmesi bolan (ODF dokumentleri, HTML dokumentleri, we ş.m.) faýllar blok-derejesinde taglara (abzas) görä dilimlener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080429Z" creationid="Merdan NURYÝEW " creationdate="20190930T080429Z">
@@ -7408,6 +7496,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T111847Z" creationid="Merdan NURIYEV" creationdate="20200805T111847Z">
+        <seg>Mysal üçin, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T083154Z" creationid="Merdan NURIYEV" creationdate="20191107T083154Z">
@@ -7472,6 +7568,22 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T075051Z" creationid="Merdan NURIYEV" creationdate="20200807T075051Z">
+        <seg>Mysal üçin Kanada Faransuzçasy (FR-CA) üçin düzgün Fransiýa Fransuzçasy (FR.*) üçin düzgünden we beýleki Öňünden kabul edilen düzgünlerden (.*) has has öň ele alynmalydyr..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200803T060227Z" creationid="Merdan NURIYEV" creationdate="20200803T060227Z">
+        <seg>Mysal üçin tekst faýllary dilimlenen wagty, setirden setire geçişlere, boş setirlere görä dilimlenener ýada düýbinden dilimlenmez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T035556Z" creationid="Merdan NURIYEV" creationdate="20200722T035556Z">
@@ -7508,6 +7620,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T114931Z" creationid="Merdan NURIYEV" creationdate="20200715T114931Z">
         <seg>Ýokaraky mysala göra terjime edilmeden geçiljek bölümde : &lt;l1&gt;class=gizle, translate=ýok &lt;/l1&gt; ýazgylary bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T112343Z" creationid="Merdan NURIYEV" creationdate="20200805T112343Z">
+        <seg>Munyň bolmasy üçin, "?" nyşanyny yzarlaýan boşlyk ýada baş harp bilen başlaýan söz bolan ýagdaýy üçin kesme kadasy bolmaly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8220,6 +8340,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T111909Z" creationid="Merdan NURIYEV" creationdate="20200805T111909Z">
+        <seg>I was not sure&lt;/e0&gt;." iki dilime bölünmeli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T073212Z" creationid="Merdan NURYÝEW " creationdate="20190923T073212Z">
@@ -8462,6 +8590,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060455Z" creationid="Merdan NURIYEV" creationdate="20200713T060455Z">
         <seg>Eger bu opsiýa saýlanmadyk bolsa, gözbaş dilim niýet edilen (terjimesi ediljek bolan) dilime göçüriljekdir/kopýalanjakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T111415Z" creationid="Merdan NURIYEV" creationdate="20200805T111415Z">
+        <seg>Egerde düzgün/kada şertleri gabat gelýän bolsa, ýa, kursoruň duran ýerine dilim oruny girizilmeden (meselem adatdan daşary düzgüni üçin) ýada bolsa, kursoruň duran ýerine täze dilim oruny girizilmek (meselem kesme kadasy üçin) bilen ilerlär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8726,6 +8862,22 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191011T084302Z" creationid="Merdan NURIYEV" creationdate="20191011T084302Z">
         <seg>&amp;Gözbaşda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T115232Z" creationid="Merdan NURIYEV" creationdate="20200805T115232Z">
+        <seg>Nokadyň barlygyna garamazdan, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; sözi iki dilime bölünmeli däl, şeýlelikde yzyndan nokad gelýän Mrs (we Mr, Dr, prof we ş.meňzeşler) üçin adatdan-daşary kadasy döredilmeli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T051208Z" creationid="Merdan NURIYEV" creationdate="20200807T051208Z">
+        <seg>Islegiňize görä, saýlanan gözbaş dili üçin has manyly we sazlaşykly dilimler döredilmesi üçin birnäçe adatdan-daşary kada kesgitläp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10248,8 +10400,8 @@ skript bukjasy döredilip bolmady.</seg>
       <tuv lang="EN">
         <seg>Menus</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T170111Z" creationid="Merdan NURIYEV" creationdate="20200314T170111Z">
-        <seg>Menüler</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T101027Z" creationid="Merdan NURIYEV" creationdate="20200314T170111Z">
+        <seg>Menýular</seg>
       </tuv>
     </tu>
     <tu>
@@ -11974,8 +12126,8 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
       <tuv lang="EN">
         <seg>Panes</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200413T063308Z" creationid="Merdan NURIYEV" creationdate="20200413T063308Z">
-        <seg>Bölmeler</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100948Z" creationid="Merdan NURIYEV" creationdate="20200413T063308Z">
+        <seg>Bölümler</seg>
       </tuv>
     </tu>
     <tu>
@@ -13809,6 +13961,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule priority</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T051241Z" creationid="Merdan NURIYEV" creationdate="20200807T051241Z">
+        <seg>Kada tertibi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rules</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T075021Z" creationid="Merdan NURIYEV" creationdate="20191101T075021Z">
@@ -14720,6 +14880,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T141237Z" creationid="Merdan NURIYEV" creationdate="20200801T141237Z">
         <seg>Sözlem derejesinde dilimleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T111621Z" creationid="Merdan NURIYEV" creationdate="20200805T111621Z">
+        <seg>Gözbaş tekstini dilimlere böler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16686,6 +16854,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T044358Z" creationid="Merdan NURIYEV" creationdate="20200807T044358Z">
+        <seg>Eýýämden taýar bolan kesme kadaslary Ýewropa dilleriniň ençemesi we Ýapon dili üçin ýeterliklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T151119Z" creationid="Merdan NURIYEV" creationdate="20191106T151119Z">
@@ -16698,6 +16874,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191208T033408Z" creationid="Merdan NURIYEV" creationdate="20191208T033408Z">
         <seg>Microsoft Terjimeçi we  Google Terjime hyzmatlaryny ulanmak üçin konfigurirleme proseduralary  &lt;u0&gt;şu taýda&lt;/u0&gt; beýan edilendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T100431Z" creationid="Merdan NURIYEV" creationdate="20200805T100431Z">
+        <seg>Dilimleme protsesi şekillendilrilişi şu şekildedir: kursor tekst boýunça her gezeginde bir nyşan ilerlerlär.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16922,6 +17106,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T162217Z" creationid="Merdan NURIYEV" creationdate="20191104T162217Z">
         <seg>Terjime üýtgedildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T111544Z" creationid="Merdan NURIYEV" creationdate="20200805T111544Z">
+        <seg>Iki kada şu aşadaky şekilde täsir eder:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17370,6 +17562,22 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T112527Z" creationid="Merdan NURIYEV" creationdate="20200805T112527Z">
+        <seg>Bir kadany kesme kadasy şekilinde kesgitlemek üçin Kes/Adatdan-daşary belleme blogyna bellik goýuň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T115413Z" creationid="Merdan NURIYEV" creationdate="20200805T115413Z">
+        <seg>Bir kadany adatdan-daşary kadasy şekilinde kesgitlemek üçin Kes/Adatdan-daşary belleme blogynyň belligini aýyryň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200709T055613Z" creationid="Merdan NURIYEV" creationdate="20200709T055613Z">
@@ -17558,6 +17766,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T082609Z" creationid="Merdan NURIYEV" creationdate="20191129T082609Z">
         <seg>TerjimeÜmleýjisi/TerjimeÜmleýjisine Mümkinçilik ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T094917Z" creationid="Merdan NURIYEV" creationdate="20200805T094917Z">
+        <seg>XHTML ýada HTML faýllarynyň içindäki terjime edilip bolýan obýektleriň alamatlary aýry bir dilim şekilinde köwlenip aýryljakdyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21027,6 +21243,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074751Z" creationid="Merdan NURIYEV" creationdate="20191023T074751Z">
         <seg>slf4j (MIT Ygtyýarnamasy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200805T112832Z" creationid="Merdan NURIYEV" creationdate="20200805T112817Z">
+        <seg>tekstiň haýsy bölümleriniň BÖLEKLENMELI DÄLDIGINI takykla.</seg>
       </tuv>
     </tu>
     <tu>
