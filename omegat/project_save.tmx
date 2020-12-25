@@ -19971,6 +19971,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can have the source text inserted automatically into the editing field.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T150740Z" creationid="Merdan NURIYEV" creationdate="20201225T150740Z">
+        <seg>Gözbaşy teksti redaktirleme meýdanjygyna awtomatiki girizip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200715T115017Z" creationid="Merdan NURIYEV" creationdate="20200715T115017Z">
