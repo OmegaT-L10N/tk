@@ -3900,6 +3900,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T075403Z" creationid="Merdan NURIYEV" creationdate="20201225T075403Z">
+        <seg>Öňünden kabul edilen görnüşde, OmegaT proýekt-degişli sazlamardaky ( &lt;f1&gt;omegat&lt;/f1&gt; bukjasyndaky &lt;f0&gt;finder.xml&lt;/f0&gt; faýly)  komandalary işe girizmez, sebäbi bu hereket kompýuteriň goragyna howp abanmasyna sebäp bolup biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T083415Z" creationid="Merdan NURIYEV" creationdate="20200722T083415Z">
@@ -4762,8 +4770,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085537Z" creationid="Merdan NURIYEV" creationdate="20191106T085537Z">
-        <seg>Kontekst Menýu Ähmiýeti:</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080006Z" creationid="Merdan NURIYEV" creationdate="20191106T085537Z">
+        <seg>Kontekst Menýudäki Tertip:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6442,8 +6450,8 @@ Siziň kömek sahypaňyz tapylmady</seg>
       <tuv lang="EN">
         <seg>Enable project-specific commands</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T085448Z" creationid="Merdan NURIYEV" creationdate="20191106T085448Z">
-        <seg>Proýekte degişli komandalara mümkinçilik ber</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T073521Z" creationid="Merdan NURIYEV" creationdate="20191106T085448Z">
+        <seg>Proýekt-degişli komandalara mümkinçilik ber</seg>
       </tuv>
     </tu>
     <tu>
@@ -6468,6 +6476,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180212Z" creationid="Merdan NURIYEV" creationdate="20191107T054035Z">
         <seg>Baş-setir harplara garşy duýgurlugy işe giriz(şablon öňünden kabul edilen görnüşde baş-setir harpa garşy duýgurdur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080230Z" creationid="Merdan NURIYEV" creationdate="20201225T080230Z">
+        <seg>Kontekst menýudäki komandalaryň tertibini üýtgetmäge mümkinçilik berer (sag-klik menýu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9222,6 +9238,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T150153Z" creationid="Merdan NURIYEV" creationdate="20191030T150153Z">
         <seg>Gözbaş tek&amp;st giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080819Z" creationid="Merdan NURIYEV" creationdate="20201225T080819Z">
+        <seg>Gözbaş tekst giriz</seg>
       </tuv>
     </tu>
     <tu>
@@ -12004,6 +12028,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T043602Z" creationid="Merdan NURIYEV" creationdate="20200722T043602Z">
         <seg>Diňe belli sandaky faýl formatlary üçin kodlaşdyrma bellenmesi hökmanydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T075622Z" creationid="Merdan NURIYEV" creationdate="20201225T075622Z">
+        <seg>Bu opsiýany diňe näme edýäniňizi bilýän ýagdaýyňyzda we ynamdar gorlardan gelen proýektlerde işjeňlendiriň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19161,6 +19193,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080643Z" creationid="Merdan NURIYEV" creationdate="20201225T080643Z">
+        <seg>100 we mukdaryndaky mukdarlar komandalaryň yokarda görünmesine, 900 töweregindäki mukdarlar olaryň aşakda görünmesini ýola goýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T082220Z" creationid="Merdan NURIYEV" creationdate="20191015T082220Z">
@@ -20039,6 +20079,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180017Z" creationid="Merdan NURIYEV" creationdate="20191105T180017Z">
         <seg>OmegaT'ni her açanyňyzda bu parol soraljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080802Z" creationid="Merdan NURIYEV" creationdate="20201225T080802Z">
+        <seg>Bu üýtgetmeleriň öz efektini görkezmesi üçin OmegaT'ni gaýtadan başlatmalydyr.</seg>
       </tuv>
     </tu>
     <tu>
