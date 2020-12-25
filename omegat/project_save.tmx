@@ -17752,6 +17752,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T164040Z" creationid="Merdan NURIYEV" creationdate="20201225T164040Z">
+        <seg>Terjime edýän tekstiňizde terjime edilmeden goýmaly köp söwda marka atlary ýada şahsy atlar köp bolan halatlarynda hasda hem ulanyşlydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200111T193051Z" creationid="Merdan NURIYEV" creationdate="20200111T193051Z">
@@ -19973,8 +19981,8 @@ Sahypaňyz tapylmady</seg>
       <tuv lang="EN">
         <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T150740Z" creationid="Merdan NURIYEV" creationdate="20201225T150740Z">
-        <seg>Gözbaşy teksti redaktirleme meýdanjygyna awtomatiki girizip bilersiňiz.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T163612Z" creationid="Merdan NURIYEV" creationdate="20201225T150740Z">
+        <seg>Gözbaş teksti redaktirleme meýdanjygyna awtomatiki girizip bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
