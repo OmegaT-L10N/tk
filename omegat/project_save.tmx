@@ -10020,6 +10020,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T164054Z" creationid="Merdan NURIYEV" creationdate="20201225T164043Z">
+        <seg>Dilimi boş goý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190923T081911Z" creationid="Merdan NURYÝEW " creationdate="20190923T081911Z">
@@ -11906,6 +11914,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T073719Z" creationid="Merdan NURIYEV" creationdate="20191023T073719Z">
         <seg>OmegaT Keith Godfrey tarapyndan döredilendir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT leaves the editing field blank.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T164157Z" creationid="Merdan NURIYEV" creationdate="20201225T164157Z">
+        <seg>OmegaT redaktirlenýän gözenegi boş goýar.</seg>
       </tuv>
     </tu>
     <tu>
