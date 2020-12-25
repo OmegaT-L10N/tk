@@ -17800,6 +17800,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T164543Z" creationid="Merdan NURIYEV" creationdate="20201225T164543Z">
+        <seg>Bu opsiýa gözbaş teksini öçürmezden terjime tekstini girizmäge mümkinçilik berer we size iki düwme az basmagyňyza kömek eder (&lt;e0&gt;Ctrl+A &lt;/e0&gt;we &lt;e1&gt;Del).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T053629Z" creationid="Merdan NURIYEV" creationdate="20191206T053629Z">
