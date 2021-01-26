@@ -9250,6 +9250,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the best fuzzy match</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210126T165736Z" creationid="Merdan NURIYEV" creationdate="20210126T165656Z">
+        <seg>Iň gowy kesgitli &amp;bolmaýan gabat geleni giriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the source text</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080819Z" creationid="Merdan NURIYEV" creationdate="20201225T080819Z">
@@ -16952,6 +16960,14 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210126T165411Z" creationid="Merdan NURIYEV" creationdate="20210126T165411Z">
+        <seg>Ýüzüne çykýan menýudäki &lt;e3&gt;Terjime çykar&lt;/e3&gt;  ýazgysy işjeň dilimdäki terjimäni öçürer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T063110Z" creationid="Merdan NURIYEV" creationdate="20191107T063110Z">
@@ -19901,6 +19917,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T175955Z" creationid="Merdan NURIYEV" creationdate="20200801T175955Z">
         <seg>Ýandeks.Bulut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210126T165644Z" creationid="Merdan NURIYEV" creationdate="20210126T165644Z">
+        <seg>Işjeň dilimi arassalap  &lt;g4&gt;Enter&lt;/g4&gt; düwmesine bassaňyz hem şol bir işi ýerine ýetirer.</seg>
       </tuv>
     </tu>
     <tu>
