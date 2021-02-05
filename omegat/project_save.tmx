@@ -8802,6 +8802,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210205T174731Z" creationid="Merdan NURIYEV" creationdate="20210205T174731Z">
+        <seg>Egerde siz bir pristawka goşsaňyz (mysal üçin[fuzzy]) , ol terjimeleriň dogrylygyny yzarlamak aňsat bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T053423Z" creationid="Merdan NURIYEV" creationdate="20200314T053423Z">
