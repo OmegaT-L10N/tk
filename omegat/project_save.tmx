@@ -11862,6 +11862,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210205T172219Z" creationid="Merdan NURIYEV" creationdate="20210205T172219Z">
+        <seg>Eger tekstiň terjimesi işjeň gözbaşdaky tekste meňzeşlik derejesi bu diýalog penjeresinde saýlan bosagaňyzdan ýokarda bolsa OmegaT terjimäni awtomatiki şekilde girizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200313T144237Z" creationid="Merdan NURIYEV" creationdate="20200313T144237Z">
