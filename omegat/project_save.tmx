@@ -17190,6 +17190,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210205T173544Z" creationid="Merdan NURIYEV" creationdate="20210205T173544Z">
+        <seg>Tag terjimesi üçin pristawkalar (öňünden kabul edileni boş) kesgitli bolmaýan gabat gelmeler arkaly ulanylyp bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T151119Z" creationid="Merdan NURIYEV" creationdate="20191106T151119Z">
