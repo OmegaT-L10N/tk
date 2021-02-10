@@ -3044,6 +3044,14 @@ Merdan NURIYEV © 2018–2019</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T061852Z" creationid="Merdan NURIYEV" creationdate="20210206T061852Z">
+        <seg>Terjimäniň gözbaş bilen meňzeş bolmasyna rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100403Z" creationid="Merdan NURIYEV" creationdate="20191031T100403Z">
@@ -3452,6 +3460,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T164033Z" creationid="Merdan NURIYEV" creationdate="20191030T164033Z">
         <seg>Kesgitli bolmaýa&amp;n gabat geleni girizende sanlary özgertmäni deňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T051251Z" creationid="Merdan NURIYEV" creationdate="20210206T051251Z">
+        <seg>Kesgitli bolmaýan gabat geleni girizende sanlary özgertmäni deňe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6002,6 +6018,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T081153Z" creationid="Merdan NURIYEV" creationdate="20210206T081153Z">
+        <seg>Käbir halatlarda terjime edilýän dokumetnlerde ýüze çykan täjirçilik markalary, atlar ýada familýalar üýtgetme girizilmeden terjime edilen dokumetlerde ýer alyp biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084356Z" creationid="Merdan NURIYEV" creationdate="20191106T084356Z">
@@ -7100,6 +7124,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T171057Z" creationid="Merdan NURIYEV" creationdate="20191110T171057Z">
         <seg>Saýlanany Eksport et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T082545Z" creationid="Merdan NURIYEV" creationdate="20210206T082545Z">
+        <seg>Dilimi tekst faýlyna goýber</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,6 +8822,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200613T091049Z" creationid="Merdan NURIYEV" creationdate="20200613T091049Z">
         <seg>Egerde bu opsiýa seçilen bolsa, şol bir sözüň beýleki biçimlerine garamazdan(baş harp ýada setir harp bolmagy) onda tehniki sözlük diňe bir ýazgy görekezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T053208Z" creationid="Merdan NURIYEV" creationdate="20210206T053208Z">
+        <seg>Eger bu opsiýa saýlanan bolsa, kesgitli bolmaýan gabat gelen awtomatiki ýada el bilen girizlende, OmegaT gözbaş mazmunyna garaşly sanlary özgertmäge synanşar. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11904,6 +11944,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T082407Z" creationid="Merdan NURIYEV" creationdate="20210206T082407Z">
+        <seg>OmegaT bu işi edeniňizi bilmäge ukyplydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -12032,6 +12080,14 @@ almasyna rugsat berilmedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T081716Z" creationid="Merdan NURIYEV" creationdate="20210206T081716Z">
+        <seg>OmegaT bu dilimleri terjime edilmedikler diýip raport etjekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191015T084535Z" creationid="Merdan NURIYEV" creationdate="20191015T084535Z">
@@ -12100,6 +12156,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T054755Z" creationid="Merdan NURIYEV" creationdate="20191027T152113Z">
         <seg>Diňe, &amp;Eger (X)HTML faýlynyň bir kodlaşdyrma beýany bar bolsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T061711Z" creationid="Merdan NURIYEV" creationdate="20210206T061711Z">
+        <seg>Diňe bütin sanlar we ýönekeý drop sanlar (onluk nyşan üçin nokat ulanmaly m.ü.5.4, emma 5,4 ýada 54E-01 ulanylmaz) ele alynmakdadyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16796,6 +16860,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to enter a translation that is identical to the source text.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T082111Z" creationid="Merdan NURIYEV" creationdate="20210206T082111Z">
+        <seg>Alternatiw strategiýa bolsa gözbaş tekstine meňzeş terjime girizmekdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The available options are:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200711T120144Z" creationid="Merdan NURIYEV" creationdate="20200711T120144Z">
@@ -16868,6 +16940,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T051207Z" creationid="Merdan NURIYEV" creationdate="20210206T051207Z">
+        <seg>Bu dialog penjiresiniň aşak ortasyndaky belleme bloklary şu aşakdaky işlere niýetlenendir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200701T091844Z" creationid="Merdan NURIYEV" creationdate="20200701T091844Z">
@@ -16924,6 +17004,14 @@ bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180757Z" creationid="Merdan NURIYEV" creationdate="20191105T180757Z">
         <seg>Bu özgertmeleriň bu proýekte ýaýradylmasy üçin proýektiň gaýtadan ýüklenmesi gerek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data are exported when the segment is opened.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T083011Z" creationid="Merdan NURIYEV" creationdate="20210206T083011Z">
+        <seg>Dilim açylanda maglumat eksport ediler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17150,6 +17238,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The numbers must be exactly the same between the source and the target matches.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T060929Z" creationid="Merdan NURIYEV" creationdate="20210206T060929Z">
+        <seg>Gözbaş we terjimesi niýet edilen tekstdäki sanlar gyradeň meňzeş bolmalydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102541Z" creationid="Merdan NURIYEV" creationdate="20191104T102541Z">
@@ -17350,6 +17446,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T054758Z" creationid="Merdan NURIYEV" creationdate="20210206T054758Z">
+        <seg>Gözbaş dilim we kesgitli bolmaýan gabat getirilen mazmunda şol bir sanlar bolmalydyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T155736Z" creationid="Merdan NURIYEV" creationdate="20191111T155736Z">
@@ -17434,6 +17538,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175314Z" creationid="Merdan NURIYEV" creationdate="20191101T175314Z">
         <seg>Tekst terjime edilip bolmaýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T082856Z" creationid="Merdan NURIYEV" creationdate="20210206T082856Z">
+        <seg>Tekst eksport et funksiýasy işjeň  &lt;a0&gt;OmegaT&lt;/a0&gt;  proýektindäki maglumatlary açyk tekst faýlyna goýberer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17542,6 +17654,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are a number of restrictions:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T053511Z" creationid="Merdan NURIYEV" creationdate="20210206T053511Z">
+        <seg>Belli bir çäklendirmeler bardyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are essentially two ways in which you can do this.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T074938Z" creationid="Merdan NURIYEV" creationdate="20191111T074938Z">
@@ -17554,6 +17674,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T180944Z" creationid="Merdan NURIYEV" creationdate="20191105T180944Z">
         <seg>Internetde OmegaT üçin has köp seplenýän-modul tapyp bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T081407Z" creationid="Merdan NURIYEV" creationdate="20210206T081407Z">
+        <seg>Şunuň ýaly üýtgeşme bolmadyk dilimlerde ýerine ýetiriljek işlerde iki strategiýa bardyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17816,6 +17944,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the default.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T081733Z" creationid="Merdan NURIYEV" creationdate="20210206T081733Z">
+        <seg>Bu öňünden kabul edilen bir strategiýadyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T075419Z" creationid="Merdan NURYÝEW " creationdate="20190930T075419Z">
@@ -18030,6 +18166,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T081803Z" creationid="Merdan NURIYEV" creationdate="20191106T081803Z">
         <seg>StarDict formadyndaky sözlük faýllaryny gurnamak üçin şu aşakdaky ýoly yzarlaň:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T082443Z" creationid="Merdan NURIYEV" creationdate="20210206T082443Z">
+        <seg>Munuň mümkin bolmasy üçin bu opsiýany saýlaň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20029,6 +20173,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T094924Z" creationid="Merdan NURIYEV" creationdate="20191031T094924Z">
         <seg>"Redaktirle" menýusyndaky "Tehniki Sözlük Ýazgysyny Döret" komandasy bilen tehniki sözlük ýazgysyny döredip bilersiňisiz..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210206T081529Z" creationid="Merdan NURIYEV" creationdate="20210206T081529Z">
+        <seg>Munuň ýaly dilimleri düýbinden terjime etmezligi saýlap bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
