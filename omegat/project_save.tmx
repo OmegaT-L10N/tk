@@ -16982,6 +16982,30 @@ bukja ulanylar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T120809Z" creationid="Merdan NURIYEV" creationdate="20210212T120809Z">
+        <seg>Täze dilim açylanda (source.txt and target.txt) ýada täze saýlanan eksport edilende (selection.txt) faýllaryň mazmunlary üstüne ýazylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T103051Z" creationid="Merdan NURIYEV" creationdate="20210212T103051Z">
+        <seg>Dilimiň gözbaş tekstiniň mazmuny (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T103157Z" creationid="Merdan NURIYEV" creationdate="20210212T103157Z">
+        <seg>Dilimiň terjime tekstiniň mazmuny (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191107T063151Z" creationid="Merdan NURIYEV" creationdate="20191107T063151Z">
@@ -17100,6 +17124,22 @@ bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T134526Z" creationid="Merdan NURIYEV" creationdate="20191106T134526Z">
         <seg>Ýeri we ady bildirilen faýlyň hökman bolmasy zerurlulygy ýokdur, tehniki sözlüge ýazgy girizilen wagty gerek bolsa bu faýl dörediler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T102925Z" creationid="Merdan NURIYEV" creationdate="20210212T102925Z">
+        <seg>Faýllar OmegaT ulanyjy faýl bukjasyndaky /script atly alt-bukjasynda peýda bolar, şu maglumatlar bardyr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T121424Z" creationid="Merdan NURIYEV" creationdate="20210212T121424Z">
+        <seg>Faýlar formatlanmadyk açyk tekst faýllarydyr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17550,6 +17590,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T104356Z" creationid="Merdan NURIYEV" creationdate="20210212T104356Z">
+        <seg>Ulanyjy tarapyndan seçilen tekstler , &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; basylsa ýada &lt;g1&gt;Redaktirleme &gt; Saýlanany Eksport et&lt;/g1&gt; saýlanan ýagdaýynda (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T175119Z" creationid="Merdan NURIYEV" creationdate="20191101T175119Z">
@@ -17618,6 +17666,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144723Z" creationid="Merdan NURIYEV" creationdate="20191106T144723Z">
         <seg>Tehniki Sözlük ýazgysyna teswir hem goşyp bolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T121650Z" creationid="Merdan NURIYEV" creationdate="20210212T121650Z">
+        <seg>Bütin proses Tck/Tcl-esasly skriptler bilen üýtgedilip hemde kontrol edilip bolar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21289,6 +21345,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191212T182142Z" creationid="Merdan NURIYEV" creationdate="20191212T182142Z">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210212T104420Z" creationid="Merdan NURIYEV" creationdate="20210212T104420Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
