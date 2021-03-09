@@ -8160,6 +8160,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210216T081527Z" creationid="Merdan NURIYEV" creationdate="20210216T081527Z">
+        <seg>Nobatdaky Terjime Edilmedik Dilime Git terjime edilmedik dilimde durar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T051830Z" creationid="Merdan NURYÝEW " creationdate="20190930T051830Z">
@@ -8838,6 +8846,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200701T091310Z" creationid="Merdan NURIYEV" creationdate="20200701T091310Z">
         <seg>Egerde bu opsiýa seçilen bolsa OmegaT seanslar arasynda geçiş edilende ruhsat açaryňyzy ýatda saklamaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210216T091132Z" creationid="Merdan NURIYEV" creationdate="20210216T091132Z">
+        <seg>Egerde birnäçe mazmunda/faýlda terjime edilmedik dilim bardygyny ýokdugyny barlamak islesek  &lt;e0&gt;Nobatdaky Terjime Edilmedik Dilime Git&lt;/e0&gt; belleme blogyny saýlaň, netijede bir dilimiň başga ýerde terjime edilen bolmasyna garamazdan terjime edilmedik dilimde durar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14803,6 +14819,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210216T080918Z" creationid="Merdan NURIYEV" creationdate="20210216T080918Z">
+        <seg>Has aýratynlyklary, mysallary we başga mümkinçilikleri görmek üçin &lt;u0&gt;OmegaT'niň tekst eksport et funksiýasyny ulanmak&lt;/u0&gt; serediň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T070440Z" creationid="Merdan NURYÝEW " creationdate="20190919T070440Z">
@@ -18914,6 +18938,14 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200409T154219Z" creationid="Merdan NURIYEV" creationdate="20200409T154219Z">
         <seg>Eger tehniki sözlükde köp nädogry netije görkezilýän bolsa bu opsiýany ulanmaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210216T091422Z" creationid="Merdan NURIYEV" creationdate="20210216T091408Z">
+        <seg>Redaktirleme ýagdaýynda bu tagyň bozulmasynyň (m.ü bölekleýin öçürülmek) öňüne geçmik üçin bu opsiýany saýlaň.</seg>
       </tuv>
     </tu>
     <tu>
