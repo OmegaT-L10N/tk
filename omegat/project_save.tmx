@@ -13991,6 +13991,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T142456Z" creationid="Merdan NURIYEV" creationdate="20210309T142016Z">
+        <seg>Bitin tagy öçürmek üçin bolsa Ctrl+Backspace/Delete basyp ýada bitin tagy (Ctrl+Shift+Left/Right) saýlandan soňra (Delete ýada Ctrl+X) mümkindir. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190926T084542Z" creationid="Merdan NURYÝEW " creationdate="20190926T084542Z">
@@ -19501,6 +19509,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T175158Z" creationid="Merdan NURIYEV" creationdate="20191110T175158Z">
         <seg>Işjeň Dokument üçin Taglary Tassykla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T142019Z" creationid="Merdan NURIYEV" creationdate="20210309T142019Z">
+        <seg>Dilimden çykylanda taglary tassykla</seg>
       </tuv>
     </tu>
     <tu>
