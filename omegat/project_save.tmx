@@ -4292,6 +4292,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T142852Z" creationid="Merdan NURIYEV" creationdate="20210309T142852Z">
+        <seg>Bir dilimden çykylanda gözbaş ýada terjime edilen dilimiň taglarynyň arasyndaky tapawudy duýduryş höküminde görmek üçin bu opsiýany saýlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check {0}</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T173933Z" creationid="Merdan NURIYEV" creationdate="20191105T173933Z">
