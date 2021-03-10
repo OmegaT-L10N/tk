@@ -3924,6 +3924,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T165346Z" creationid="Merdan NURIYEV" creationdate="20210309T165346Z">
+        <seg>Başlangyçda redaktor öňünden kabul edilen görnüşde 2000 dilim görkezer, we siz ekrany aşak ýada ýokary düýrledigfňiz mukdarda progressiw şekilde ýüklemäge dowam eder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T075403Z" creationid="Merdan NURIYEV" creationdate="20201225T075403Z">
@@ -4296,6 +4304,14 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T142852Z" creationid="Merdan NURIYEV" creationdate="20210309T142852Z">
         <seg>Bir dilimden çykylanda gözbaş ýada terjime edilen dilimiň taglarynyň arasyndaky tapawudy duýduryş höküminde görmek üçin bu opsiýany saýlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T164406Z" creationid="Merdan NURIYEV" creationdate="20210309T164406Z">
+        <seg>Awtomatiki-doldurylan dilim maglumatlarynyň &lt;f0&gt;project_save.tmx&lt;/f0&gt;  faýlyna ýazylmasyny we Redaktorda başka reňkde görünmesini isleseňiz bu opsiýany saýlaň (bu opsiýanyň işe girizilmesi üçin "Awtomatiki-doldurylan Dilimleri Belli Et" opsiýasy saýlanan bolmaly). </seg>
       </tuv>
     </tu>
     <tu>
@@ -8906,6 +8922,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T165928Z" creationid="Merdan NURIYEV" creationdate="20210309T165928Z">
+        <seg>Egerde güýçli kompýuteriňiz bar bolsa we progressiw ýükleme sebäpli düýrleme funksiýasyndaky özgermäni halamasaňyz bu sany köpeldip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T051824Z" creationid="Merdan NURIYEV" creationdate="20191206T051824Z">
@@ -9214,6 +9238,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T172126Z" creationid="Merdan NURIYEV" creationdate="20191103T172126Z">
         <seg>Ulanyşa taýýarlanýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T164536Z" creationid="Merdan NURIYEV" creationdate="20210309T164536Z">
+        <seg>Başlangyçda ýüklenjek segmentleriň sany</seg>
       </tuv>
     </tu>
     <tu>
@@ -14545,6 +14577,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T142926Z" creationid="Merdan NURIYEV" creationdate="20210309T142926Z">
+        <seg>Awtomatiki-doldurma ýagdaýyny ýatda sakla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save changes to filter settings?</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T170652Z" creationid="Merdan NURIYEV" creationdate="20191105T170652Z">
@@ -14790,6 +14830,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T181457Z" creationid="Merdan NURIYEV" creationdate="20191105T181457Z">
+        <seg>Goragly Saklawhana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210310T164903Z" creationid="Merdan NURIYEV" creationdate="20210310T164903Z">
         <seg>Goragly Saklawhana</seg>
       </tuv>
     </tu>
@@ -16830,6 +16878,14 @@ häzirki bukja ulanylar.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T150613Z" creationid="Merdan NURIYEV" creationdate="20191106T150613Z">
         <seg>OmegaT proýekti milletlerarasy resmi bolmaýan meýletinçi topar tarapyndan dolandyrylýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210310T082135Z" creationid="Merdan NURIYEV" creationdate="20210310T082135Z">
+        <seg>PO süzgüji şulary elden geçirdi %..</seg>
       </tuv>
     </tu>
     <tu>
@@ -19835,6 +19891,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210310T082016Z" creationid="Merdan NURIYEV" creationdate="20210310T082016Z">
+        <seg>Eger programma üpjünçiligine degişli faýllary terjime edýän wagtyňyz, faýl süzgüç funksiýasynyň häsiýetleri ýetmezçilik edýän bolsa, Tag Barlaýjysyny programmirleme üýtgeýän ululyklaryny (%...) ýada ýer dolduryjlaryny ({0}) barlamak üçin konfigurasýa edip bilersiňiz. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T171801Z" creationid="Merdan NURIYEV" creationdate="20191017T171801Z">
@@ -20905,6 +20969,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T153425Z" creationid="Merdan NURIYEV" creationdate="20191110T153425Z">
         <seg>we &lt;c0&gt;&lt;düwme&gt;&lt;/c0&gt;  klawiaturadaky islendik düwme bolup biler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210310T082617Z" creationid="Merdan NURIYEV" creationdate="20210310T082617Z">
+        <seg>we Java™ Resource Bundle süzgüji {#} tag lary elden geçirdi, şeýlelikde bu işi beýleki faýl tipleri üçin konfigurasýa etmäňiz ýeterliklidir.</seg>
       </tuv>
     </tu>
     <tu>
