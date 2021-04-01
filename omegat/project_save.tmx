@@ -6672,6 +6672,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210401T180017Z" creationid="Merdan NURIYEV" creationdate="20210401T180017Z">
+        <seg>Bu ýere adyňyzy ýazyň we bu terjime eden hemme dilimleriňizde görüner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T173456Z" creationid="Merdan NURIYEV" creationdate="20191104T173456Z">
@@ -7748,6 +7756,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200722T041051Z" creationid="Merdan NURIYEV" creationdate="20200722T041051Z">
         <seg>Mysal üçin, öňünden kabul edilşi ýaly XHTML süzgüji .xhtml  giňeltmesine eýe bolan faýllary işlemek üçin ulanylýar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210401T124750Z" creationid="Merdan NURIYEV" creationdate="20210401T124750Z">
+        <seg>Mysal üçin, eger &lt;g1&gt;Ýörite taglar üçin Kadaly jümleler&lt;/g1&gt; gutujygyna  &lt;u0&gt;\d+&lt;/u0&gt; girizseňiz hemme sanlar tag höküminde ele alynar, bu bolsa öz gezeginde terjime esnasynda bu sanlaryň ýalňyşlyk bilen üýtgetdilmeginiň öňüne geçer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10206,6 +10222,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210401T180312Z" creationid="Merdan NURIYEV" creationdate="20210401T180312Z">
+        <seg>OmegaT içinde saklanan ulgama giriş maglumatlary bar bolan Proýektleriň tablissasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T084720Z" creationid="Merdan NURIYEV" creationdate="20191101T084720Z">
@@ -11610,6 +11634,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200106T163152Z" creationid="Merdan NURIYEV" creationdate="20200106T163152Z">
         <seg>Noýabr 2013 den bäri MultiTerm'iň  &lt;f0&gt;.tbx&lt;/f0&gt; öndürüjiligi görünmeýär, munuň ýerine gowusy MultiTerm'iň  &lt;f1&gt;.tab&lt;/f1&gt; çykyşlaryny ulanmakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210401T130242Z" creationid="Merdan NURIYEV" creationdate="20210401T130242Z">
+        <seg>Bellik: bu iki instruksiýany &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt; şekilinde ýazyp birleşdirmek mümkindir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13975,6 +14007,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210401T180424Z" creationid="Merdan NURIYEV" creationdate="20210401T180424Z">
+        <seg>Her girilende giriş maglutlarynyň soralmasyny islän Proýektiňizi bu tablissadan çykaryp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191026T154702Z" creationid="Merdan NURIYEV" creationdate="20191026T154702Z">
@@ -15592,6 +15632,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200701T093208Z" creationid="Merdan NURIYEV" creationdate="20200701T093208Z">
         <seg>Ekranyň şriftlerini üýtgetmek üçin dialog görkezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210401T125310Z" creationid="Merdan NURIYEV" creationdate="20210401T125310Z">
+        <seg>Yene meňzeş ýagdaý, &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; girizseňiz bolsa gözbaş tekst içindäki HTML taglaryň terjime esasynda üýtgedilmän saklanjakdygyna ynanyp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20309,6 +20357,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200113T165446Z" creationid="Merdan NURIYEV" creationdate="20200113T165446Z">
         <seg>Ulanyjy gollanmalaryny OmegaT'niň özüni işletmezden hem açyp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210315T105704Z" creationid="Merdan NURIYEV" creationdate="20210315T105704Z">
+        <seg>Ýörite taglar kesgitläp hemde tag barlag işi üçin dürli opsiýalar saýlap bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
