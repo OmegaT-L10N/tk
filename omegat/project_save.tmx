@@ -3084,6 +3084,14 @@ Merdan NURIYEV © 2018–2019</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T185324Z" creationid="Merdan NURIYEV" creationdate="20210520T185324Z">
+        <seg>Proýektiň izygiderli şekilde awtomatiki ýatda saklanma ýygylygyny - minut we sekund görnüşinde- saýlamaga rugsat berer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T100403Z" creationid="Merdan NURIYEV" creationdate="20191031T100403Z">
