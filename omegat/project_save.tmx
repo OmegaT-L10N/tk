@@ -4864,6 +4864,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184201Z" creationid="Merdan NURIYEV" creationdate="20210520T184201Z">
+        <seg>Tekstleriň görkezilşlerine we üýtgediliş maglumatlaryna degişli dürli opsiýalar bardyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T080006Z" creationid="Merdan NURIYEV" creationdate="20191106T085537Z">
