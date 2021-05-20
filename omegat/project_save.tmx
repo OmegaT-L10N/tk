@@ -14659,8 +14659,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T180741Z" creationid="Merdan NURIYEV" creationdate="20210520T180741Z">
-        <seg>${diff} bilen meňzeşdir, tapawudy tersidir ( ýöne but with the differences (what is to be inserted and deleted) inverted.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181246Z" creationid="Merdan NURIYEV" creationdate="20210520T180741Z">
+        <seg>${diff} bilen meňzeşdir, tapawudy tersidir ( ýöne girizilen we öçürilen bolmaly).</seg>
       </tuv>
     </tu>
     <tu>
