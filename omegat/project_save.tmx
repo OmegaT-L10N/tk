@@ -16252,6 +16252,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T191917Z" creationid="Merdan NURIYEV" creationdate="20210520T191917Z">
+        <seg>&lt;g0&gt;Terjime Edilen Dokumentleri Döret&lt;/g0&gt; komandasyndan soňra işe goýuljak komandalary takykla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T052703Z" creationid="Merdan NURIYEV" creationdate="20191017T052703Z">
