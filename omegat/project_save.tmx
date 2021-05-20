@@ -21887,6 +21887,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T190024Z" creationid="Merdan NURIYEV" creationdate="20210520T190024Z">
+        <seg>Daşky serwerlerde saklanan topar proýektleri üçin uzyn interwallarl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T055953Z" creationid="Merdan NURIYEV" creationdate="20200314T055953Z">
