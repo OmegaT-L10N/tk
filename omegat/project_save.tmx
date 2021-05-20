@@ -9290,6 +9290,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T182124Z" creationid="Merdan NURIYEV" creationdate="20210520T182124Z">
+        <seg>Bu gabat gelmäniň kesigitli bolmadygyny habar berýändir (häzirlikçe diňe PO faýllaryndan gelen we #fuzzy nyşany bilen terjimeler üçindir) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T090408Z" creationid="Merdan NURYÝEW " creationdate="20191005T090408Z">
@@ -12796,6 +12804,14 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181727Z" creationid="Merdan NURIYEV" creationdate="20210520T181727Z">
+        <seg>Göterim hasaplamasy &lt;g0&gt;Doly tekst, şunyň bilen birlikde taglar we sanlar&lt;/g0&gt; opsiýasy bilen hasaplanandyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181613Z" creationid="Merdan NURIYEV" creationdate="20210520T181613Z">
@@ -12806,8 +12822,8 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
       <tuv lang="EN">
         <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181528Z" creationid="Merdan NURIYEV" creationdate="20210520T181528Z">
-        <seg>Göterim hasaplamasy &lt;g0&gt;Söz kökleri, tagsiz we sansys&lt;/g0&gt;.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181629Z" creationid="Merdan NURIYEV" creationdate="20210520T181528Z">
+        <seg>Göterim hasaplamasy &lt;g0&gt;Söz kökleri, tagsiz we sansys&lt;/g0&gt; opsiýasy bilen hasaplanandyr.</seg>
       </tuv>
     </tu>
     <tu>
