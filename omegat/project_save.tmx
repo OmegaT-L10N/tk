@@ -4358,8 +4358,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184612Z" creationid="Merdan NURIYEV" creationdate="20210520T184612Z">
-        <seg>Hemme Unikal-Bolmaýan Dilimleri (gaýtalnýan, ýola) çal reňkde görkezmek üçin bu opsiýany saýlaň.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184626Z" creationid="Merdan NURIYEV" creationdate="20210520T184612Z">
+        <seg>Hemme Unikal-Bolmaýan Dilimleri (gaýtalnýan) çal reňkde görkezmek üçin bu opsiýany saýlaň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20127,6 +20127,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T170235Z" creationid="Merdan NURIYEV" creationdate="20191104T170235Z">
         <seg>Eger bu baýrakjagaz bellenen bolsa ýüze çykan awotomatiki tamamlama ekranyna, tehniki sözluk ýazgylary bilen birlikde gözbaş tekstler hem goşular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184658Z" creationid="Merdan NURIYEV" creationdate="20210520T184658Z">
+        <seg>Bu opsiýa saýlanmadyk bolsa When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
     </tu>
     <tu>
