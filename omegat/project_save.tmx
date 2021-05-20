@@ -8160,6 +8160,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T185707Z" creationid="Merdan NURIYEV" creationdate="20210520T185707Z">
+        <seg>Bar bolan seplenýän modullaryň sanawyny görkezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191212T181655Z" creationid="Merdan NURIYEV" creationdate="20191212T181655Z">
