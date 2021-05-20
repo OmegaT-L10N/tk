@@ -4356,6 +4356,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184612Z" creationid="Merdan NURIYEV" creationdate="20210520T184612Z">
+        <seg>Hemme Unikal-Bolmaýan Dilimleri (gaýtalnýan, ýola) çal reňkde görkezmek üçin bu opsiýany saýlaň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210309T164406Z" creationid="Merdan NURIYEV" creationdate="20210309T164406Z">
@@ -9293,6 +9301,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T154738Z" creationid="Merdan NURIYEV" creationdate="20191031T065233Z">
+        <seg>Gaýtalanmaýan dilimleri bellik edende ilk gaýtalanmaýan dilimi goş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184225Z" creationid="Merdan NURIYEV" creationdate="20210520T184225Z">
         <seg>Gaýtalanmaýan dilimleri bellik edende ilk gaýtalanmaýan dilimi goş</seg>
       </tuv>
     </tu>
