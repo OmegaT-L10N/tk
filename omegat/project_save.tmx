@@ -6592,6 +6592,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T180012Z" creationid="Merdan NURIYEV" creationdate="20210520T180012Z">
+        <seg> &lt;a0&gt;OmegaT&lt;/a0&gt; täzelenme habalaryny awtomatikEnables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191110T180212Z" creationid="Merdan NURIYEV" creationdate="20191107T054035Z">
