@@ -20133,8 +20133,8 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       <tuv lang="EN">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184658Z" creationid="Merdan NURIYEV" creationdate="20210520T184658Z">
-        <seg>Bu opsiýa saýlanmadyk bolsa When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T184919Z" creationid="Merdan NURIYEV" creationdate="20210520T184658Z">
+        <seg>Bu opsiýa saýlanmadyk bolsa, birinjisinden başga hemme unikal-bolmaýan dilimleri çal reňkde görkeziler.</seg>
       </tuv>
     </tu>
     <tu>
