@@ -12796,6 +12796,22 @@ Dumanda gürüm-jürüm bolan ýaly</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181613Z" creationid="Merdan NURIYEV" creationdate="20210520T181613Z">
+        <seg>Göterim hasaplamasy &lt;g0&gt;Tagsiz we sansys&lt;/g0&gt; opsiýasy bolen hasaplanadyr..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T181528Z" creationid="Merdan NURIYEV" creationdate="20210520T181528Z">
+        <seg>Göterim hasaplamasy &lt;g0&gt;Söz kökleri, tagsiz we sansys&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T061555Z" creationid="Merdan NURIYEV" creationdate="20191104T061555Z">
