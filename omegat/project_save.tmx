@@ -18266,8 +18266,8 @@ göçürip aljakdyr.</seg>
       <tuv lang="EN">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T160133Z" creationid="Merdan NURIYEV" creationdate="20191104T160133Z">
-        <seg>Bu komanda terjime edilen dokumentleriň döredilme işinden soňra işe koýuljakdyr.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T191611Z" creationid="Merdan NURIYEV" creationdate="20191104T160133Z">
+        <seg>Bu komanda terjime edilen dokumentleriň döredilme işinden soňra işe goýuljakdyr.</seg>
       </tuv>
     </tu>
     <tu>
