@@ -3100,6 +3100,14 @@ Merdan NURIYEV © 2018–2019</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T095910Z" creationid="Merdan NURIYEV" creationdate="20210521T095910Z">
+        <seg>Şeýle hem her-proýekt üçin ekstern komandalaryň işledilmesine rugsat ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T045758Z" creationid="Merdan NURIYEV" creationdate="20191205T180607Z">
@@ -3276,6 +3284,14 @@ Merdan NURIYEV © 2018–2019</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060653Z" creationid="Merdan NURIYEV" creationdate="20191104T060653Z">
         <seg>Konsol protsesi başladylan wagty bir ýalňyşlyk boldy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T095835Z" creationid="Merdan NURIYEV" creationdate="20210521T095835Z">
+        <seg>Mysal üçin, terjime edilen dokumentleri müşderiniň FTP serweryna ugratmak üçin bu aýratynlygy ulanyp bilersiňiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3484,6 +3500,14 @@ tejribe ýaşap bilersiňiz ýöne programma dogry işlär.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200713T060145Z" creationid="Merdan NURIYEV" creationdate="20200713T060145Z">
         <seg>We bu ýagdaý PO faýllary üçin öňünden kabul edilen görnüşde standart ýagdaýdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T104237Z" creationid="Merdan NURIYEV" creationdate="20210521T104237Z">
+        <seg>Kursoryň her pozitsiýasyndaky düzgün/kada &lt;e0&gt;Öňünde &lt;/e0&gt;we &lt;e1&gt;Soňunda &lt;/e1&gt; ülňisinden ybarat bolup, kursoryň çepinäki tekst üçin &lt;e0&gt;Öňünde &lt;/e0&gt; ülňisine görä sagyndaky tekst üçin &lt;e1&gt;Soňunda &lt;/e1&gt; ülňisine görä bellenen tertipde ýerine ýetiriler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3975,6 +3999,14 @@ Arabaňy başga ýerde sür</seg>
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201225T075403Z" creationid="Merdan NURIYEV" creationdate="20201225T075403Z">
+        <seg>Öňünden kabul edilen görnüşde, OmegaT proýekt-degişli sazlamardaky ( &lt;f1&gt;omegat&lt;/f1&gt; bukjasyndaky &lt;f0&gt;finder.xml&lt;/f0&gt; faýly)  komandalary işe girizmez, sebäbi bu hereket kompýuteriň goragyna howp abanmasyna sebäp bolup biler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T095936Z" creationid="Merdan NURIYEV" creationdate="20210521T095936Z">
         <seg>Öňünden kabul edilen görnüşde, OmegaT proýekt-degişli sazlamardaky ( &lt;f1&gt;omegat&lt;/f1&gt; bukjasyndaky &lt;f0&gt;finder.xml&lt;/f0&gt; faýly)  komandalary işe girizmez, sebäbi bu hereket kompýuteriň goragyna howp abanmasyna sebäp bolup biler.</seg>
       </tuv>
     </tu>
@@ -8524,6 +8556,14 @@ Onuň gyşy geldi öýdýän</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T102500Z" creationid="Merdan NURIYEV" creationdate="20210521T102500Z">
+        <seg>Bu ýerde Kompýuter terjime hyzmat gullugyna giriş parolyny we login maglumatlaryny goramak üçin esasy parol goragy döredip bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191008T170106Z" creationid="Merdan NURIYEV" creationdate="20191008T170106Z">
@@ -8768,6 +8808,14 @@ Onuň gyşy geldi öýdýän</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T143837Z" creationid="Merdan NURIYEV" creationdate="20191027T121714Z">
         <seg>Eger HTML faýlynyň kodlaşdyrma beýany bar bolsa bu ekranda bildirilen sazlamalara garamazdan beýanda bildirilen kodlaşdyrma ulanyljakdyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T101248Z" creationid="Merdan NURIYEV" creationdate="20210521T101248Z">
+        <seg>Eger OmegaT internede baglanmasy üçin wekil/proksi serwer gerekli bolsa, prokis administrator tarapuyndan berilen maglumatlary bu ýerde giriziň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13177,6 +13225,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T103106Z" creationid="Merdan NURIYEV" creationdate="20210521T103106Z">
+        <seg>Seplenýän moduller OmegaT gurnama bukjasynyň içinde &lt;f0&gt;/plugins&lt;/f0&gt; bukjasyna ýada gunalýan ulgamyna bagly sazlamalar bukjasyna gurnalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T172315Z" creationid="Merdan NURIYEV" creationdate="20191105T172315Z">
@@ -13485,8 +13541,8 @@ rejesinde ýüklemek üçin "Bes et" düwmesine basyň.</seg>
       <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200413T063230Z" creationid="Merdan NURIYEV" creationdate="20200413T063230Z">
-        <seg>Proje Özellikleri</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T104409Z" creationid="Merdan NURIYEV" creationdate="20200413T063230Z">
+        <seg>Proýektiň häsiýetleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -16782,6 +16838,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T102715Z" creationid="Merdan NURIYEV" creationdate="20210521T102715Z">
+        <seg>Täze parol goragy döredeniňizde hemme maglumatlary bellik ediň, sebäbi gorag täzelenende öňki maglumatlar öçüriler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102157Z" creationid="Merdan NURIYEV" creationdate="20191104T102157Z">
@@ -18292,6 +18356,14 @@ göçürip aljakdyr.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191206T052919Z" creationid="Merdan NURIYEV" creationdate="20191206T052843Z">
         <seg>Bu diýalog penjiresi &lt;m0&gt; &lt;g1&gt;Opsiýalar&lt;/g1&gt; &lt;g2&gt;Häsiýetler...&lt;/g2&gt; &lt;/m0&gt;  saýlamak bilen açylar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210521T104859Z" creationid="Merdan NURIYEV" creationdate="20210521T104859Z">
+        <seg>Bu diýalog penjiresi &lt;m0&gt; &lt;g1&gt;Proýekt&lt;/g1&gt; &lt;g2&gt;Häsiýetler...&lt;/g2&gt; &lt;/m0&gt;  saýlamak bilen açylar.</seg>
       </tuv>
     </tu>
     <tu>
