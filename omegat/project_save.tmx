@@ -20745,6 +20745,14 @@ Sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210522T173932Z" creationid="Merdan NURIYEV" creationdate="20210522T173932Z">
+        <seg>Gözbaş dili we terjime ediljek dili hem aşak goýberilýän menýuden seçmek ýada elde ýazmak bilen saýlap bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
