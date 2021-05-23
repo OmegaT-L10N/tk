@@ -6624,6 +6624,14 @@ Siziň kömek sahypaňyz tapylmady</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210522T184104Z" creationid="Merdan NURIYEV" creationdate="20210522T184104Z">
+        <seg>Sözlem derejesinde dilimlemäge mümkinçilik ber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T163139Z" creationid="Merdan NURYÝEW " creationdate="20190926T074143Z">
