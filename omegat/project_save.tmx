@@ -17782,6 +17782,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210523T175018Z" creationid="Merdan NURIYEV" creationdate="20210523T175018Z">
+        <seg>Dilimlemede köp duş gelýän usul sözlem-derejesinde dilimlemedir, şonuň üçin hem adaty ýagda bu belleme blogyny bellenen ýagdaýda goýuň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210205T173544Z" creationid="Merdan NURIYEV" creationdate="20210205T173544Z">
