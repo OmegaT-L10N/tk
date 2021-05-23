@@ -3804,6 +3804,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210523T173727Z" creationid="Merdan NURIYEV" creationdate="20210523T173727Z">
+        <seg>Şuny belläň, dili üýtgeden wagtyňyz häzir ulanylýan terjime hakydasyny peýdasyz ýagdaýa getirip biler, sebäbi ulanylan terjime hakydasynyň dil jübitleri täze seçilen dil jübüti bilen gabat gelmeýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200807T163331Z" creationid="Merdan NURIYEV" creationdate="20200807T163331Z">
