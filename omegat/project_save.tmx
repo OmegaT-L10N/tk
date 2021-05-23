@@ -17886,6 +17886,14 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210523T174204Z" creationid="Merdan NURIYEV" creationdate="20210523T174204Z">
+        <seg>Dilimleme sazlamalary diňe &lt;a0&gt;OmegaT&lt;/a0&gt; tarapyndan ele alynan gözbaş faýllaryna degişlidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191129T064937Z" creationid="Merdan NURIYEV" creationdate="20191129T064937Z">
