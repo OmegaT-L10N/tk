@@ -18730,6 +18730,14 @@ göçürip aljakdyr.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210523T173822Z" creationid="Merdan NURIYEV" creationdate="20210523T173822Z">
+        <seg>Seçilen dillere degişli tokenleşdirijiler görkezildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Too big HTML file!</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T095217Z" creationid="Merdan NURIYEV" creationdate="20191027T095217Z">
