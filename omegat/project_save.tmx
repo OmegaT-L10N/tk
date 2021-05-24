@@ -5890,6 +5890,22 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193222Z" creationid="Merdan NURIYEV" creationdate="20210524T193222Z">
+        <seg>Tapawutly punktuatsiýa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193338Z" creationid="Merdan NURIYEV" creationdate="20210524T193338Z">
+        <seg>Tapawutly baş/setir harp bilen başlama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T174254Z" creationid="Merdan NURIYEV" creationdate="20191105T174254Z">
@@ -6262,6 +6278,22 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T064941Z" creationid="Merdan NURIYEV" creationdate="20191105T064941Z">
         <seg>Bitt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193048Z" creationid="Merdan NURIYEV" creationdate="20210524T193048Z">
+        <seg>Jübüt boşluklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193112Z" creationid="Merdan NURIYEV" creationdate="20210524T193112Z">
+        <seg>Jübüt sözler</seg>
       </tuv>
     </tu>
     <tu>
@@ -17242,6 +17274,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T060939Z" creationid="Merdan NURIYEV" creationdate="20191104T060939Z">
         <seg>Niýet edilen bukja{0} ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193242Z" creationid="Merdan NURIYEV" creationdate="20210524T193242Z">
+        <seg>Terjime has uzyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193139Z" creationid="Merdan NURIYEV" creationdate="20210524T193139Z">
+        <seg>Gysga terjime</seg>
       </tuv>
     </tu>
     <tu>
