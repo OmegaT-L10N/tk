@@ -8416,6 +8416,22 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192031Z" creationid="Merdan NURIYEV" creationdate="20210524T192031Z">
+        <seg>Tehniki sözlük orginali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192328Z" creationid="Merdan NURIYEV" creationdate="20210524T192328Z">
+        <seg>Tehniki sözlük terjimesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary/Display Context Description for TBX Glossaries</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191111T075740Z" creationid="Merdan NURIYEV" creationdate="20191111T075740Z">
@@ -13277,6 +13293,14 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081030Z" creationid="Merdan NURIYEV" creationdate="20191104T081030Z">
         <seg>Ulanyjynyň ady/parolyny giriziň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191859Z" creationid="Merdan NURIYEV" creationdate="20210524T191859Z">
+        <seg>{0} ulanyjy üçin at/parol giriziň</seg>
       </tuv>
     </tu>
     <tu>
@@ -20821,6 +20845,14 @@ Sahypaňyz tapylmady</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T081053Z" creationid="Merdan NURIYEV" creationdate="20191104T081053Z">
         <seg>Ýalňyş ulanyjy ady/parol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191959Z" creationid="Merdan NURIYEV" creationdate="20210524T191959Z">
+        <seg>{0} ulanyjy üçin  ulanyjy ady/paroly ýalňyş</seg>
       </tuv>
     </tu>
     <tu>
