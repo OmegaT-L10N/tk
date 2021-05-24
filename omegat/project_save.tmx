@@ -8408,6 +8408,14 @@ Kerep ýüpjagazy bilen baglandyňyz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192353Z" creationid="Merdan NURIYEV" creationdate="20210524T192353Z">
+        <seg>Tehniki sözlük belligi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T144416Z" creationid="Merdan NURIYEV" creationdate="20191106T144416Z">
@@ -14909,6 +14917,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T102118Z" creationid="Merdan NURIYEV" creationdate="20191104T102118Z">
         <seg>Setir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192404Z" creationid="Merdan NURIYEV" creationdate="20210524T192404Z">
+        <seg>Düzgün</seg>
       </tuv>
     </tu>
     <tu>
