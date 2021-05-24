@@ -10172,6 +10172,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191730Z" creationid="Merdan NURIYEV" creationdate="20210524T191730Z">
+        <seg>Tagleri terjime edilen tekstde sakla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keith Godfrey</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T151325Z" creationid="Merdan NURIYEV" creationdate="20191106T151325Z">
