@@ -4396,6 +4396,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191345Z" creationid="Merdan NURIYEV" creationdate="20210524T191345Z">
+        <seg>Ýönekeý &amp;java MessageFormat şablonlaryny derňe (meselem. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191106T084132Z" creationid="Merdan NURIYEV" creationdate="20191106T084132Z">
@@ -8132,6 +8140,14 @@ Kerep ýüpjagazy bilen baglandyňyz
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200313T144617Z" creationid="Merdan NURIYEV" creationdate="20200313T144617Z">
         <seg>Migel Nawarro'nyň OmegaT hakyndaky YouTube'daky wideo seriýalary (Ispan dilinde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191322Z" creationid="Merdan NURIYEV" creationdate="20210524T191322Z">
+        <seg>Doly derňew, adaty tekstlerde ýalňyş netijeler berip biler PO faýl süzgüji bu ýalňyşlary ýüze çykarar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23067,6 +23083,22 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T085346Z" creationid="Merdan NURIYEV" creationdate="20191105T085346Z">
         <seg>{0} ulanylýan dile görä tekstiň, çepden saga (LTR) ýada sagdan çepe (RTL) uguruny çalyşyrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191111Z" creationid="Merdan NURIYEV" creationdate="20210524T191111Z">
+        <seg>{0} wersiýa {1} ({2}) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191131Z" creationid="Merdan NURIYEV" creationdate="20210524T191131Z">
+        <seg>{0} wersiýa {1}, täzelenme {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
