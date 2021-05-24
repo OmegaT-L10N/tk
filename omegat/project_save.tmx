@@ -4212,6 +4212,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T190713Z" creationid="Merdan NURIYEV" creationdate="20210524T190713Z">
+        <seg>Изменять на "needs-review-translation" вместо "translated"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191009T084316Z" creationid="Merdan NURIYEV" creationdate="20191009T084316Z">
@@ -16532,6 +16540,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T190649Z" creationid="Merdan NURIYEV" creationdate="20210524T190649Z">
+        <seg>Taglaryň işleniş usulyny bildiriň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191017T052703Z" creationid="Merdan NURIYEV" creationdate="20191017T052703Z">
@@ -17162,6 +17178,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191030T072320Z" creationid="Merdan NURIYEV" creationdate="20191030T072320Z">
         <seg>Topar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T190458Z" creationid="Merdan NURIYEV" creationdate="20210524T190458Z">
+        <seg>Topar Mdounda repozitori baglanmasy</seg>
       </tuv>
     </tu>
     <tu>
