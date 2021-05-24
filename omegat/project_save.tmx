@@ -10452,6 +10452,14 @@ skript bukjasy döredilip bolmady.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192437Z" creationid="Merdan NURIYEV" creationdate="20210524T192437Z">
+        <seg>LanguageTools Düzgünleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20191005T092134Z" creationid="Merdan NURYÝEW " creationdate="20191005T092134Z">
@@ -20711,6 +20719,22 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191104T161917Z" creationid="Merdan NURIYEV" creationdate="20191104T161917Z">
         <seg>Boşluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192644Z" creationid="Merdan NURIYEV" creationdate="20210524T192455Z">
+        <seg>Boşluk Nyşany - öňde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T192658Z" creationid="Merdan NURIYEV" creationdate="20210524T192458Z">
+        <seg>Boşluk Nyşany - soňda</seg>
       </tuv>
     </tu>
     <tu>
