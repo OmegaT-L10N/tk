@@ -6924,6 +6924,14 @@ Indi sesiňi hiç kim hem eşitmez.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193416Z" creationid="Merdan NURIYEV" creationdate="20210524T193416Z">
+        <seg>Gözbaş we terjime birmeňzeş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082300Z" creationid="Merdan NURYÝEW " creationdate="20190919T082300Z">
@@ -17214,6 +17222,22 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193439Z" creationid="Merdan NURIYEV" creationdate="20210524T193439Z">
+        <seg>Taglar - san </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193455Z" creationid="Merdan NURIYEV" creationdate="20210524T193455Z">
+        <seg>Taglar - boşluklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200701T090846Z" creationid="Merdan NURIYEV" creationdate="20200701T090846Z">
@@ -20005,6 +20029,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191014T164038Z" creationid="Merdan NURIYEV" creationdate="20191014T164038Z">
         <seg>Proýekt faýl wersiýasy goldanmaýar: ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193422Z" creationid="Merdan NURIYEV" creationdate="20210524T193422Z">
+        <seg>Terjime edilmedik dilim</seg>
       </tuv>
     </tu>
     <tu>
