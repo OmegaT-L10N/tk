@@ -2510,8 +2510,8 @@ Merdan NURIYEV © 2018–2019</seg>
       <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T174607Z" creationid="Merdan NURIYEV" creationdate="20200801T174607Z">
-        <seg>Mevcut OmegaT projesi için basit SY kontrolleri kümesi</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074219Z" creationid="Merdan NURIYEV" creationdate="20200801T174607Z">
+        <seg>Mevcut OmegaT projesi için basit SJ kontrolleri kümesi</seg>
       </tuv>
     </tu>
     <tu>
@@ -4348,6 +4348,14 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074813Z" creationid="Merdan NURIYEV" creationdate="20210527T074813Z">
+        <seg>LanguageTools düzgünlerini derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091155Z" creationid="Merdan NURIYEV" creationdate="20191031T091145Z">
@@ -4360,6 +4368,86 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200801T180533Z" creationid="Merdan NURIYEV" creationdate="20200801T180533Z">
         <seg>Kontrol Kuralları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074908Z" creationid="Merdan NURIYEV" creationdate="20210527T074908Z">
+        <seg>Goşa boşluklary derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074930Z" creationid="Merdan NURIYEV" creationdate="20210527T074930Z">
+        <seg>Gaýtalanan sözleri derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075226Z" creationid="Merdan NURIYEV" creationdate="20210527T075226Z">
+        <seg>Gözbaşy we terjimäni derňe derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080100Z" creationid="Merdan NURIYEV" creationdate="20210527T080022Z">
+        <seg>Yzygiderli däl nomerleri derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074748Z" creationid="Merdan NURIYEV" creationdate="20210527T074748Z">
+        <seg>Öňde/setirara boşlyklary derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075029Z" creationid="Merdan NURIYEV" creationdate="20210527T075029Z">
+        <seg>Has uzyn terjimeleri derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080126Z" creationid="Merdan NURIYEV" creationdate="20210527T080030Z">
+        <seg>Orfografiýa ýalňyşlyklary bar bolan dilimleri derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075004Z" creationid="Merdan NURIYEV" creationdate="20210527T075004Z">
+        <seg>Has gysga terjimeleri derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074841Z" creationid="Merdan NURIYEV" creationdate="20210527T074841Z">
+        <seg>Soňda boşluklary derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075254Z" creationid="Merdan NURIYEV" creationdate="20210527T075254Z">
+        <seg>Terjime edilmedik dilimleri derňe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4380,10 +4468,34 @@ Arabaňy başga ýerde sür</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075357Z" creationid="Merdan NURIYEV" creationdate="20210527T075357Z">
+        <seg>Tag sanlaryny kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20201224T083329Z" creationid="Merdan NURIYEV" creationdate="20201224T083329Z">
         <seg>Terjime edýän tekstiňize görä kadalary saýlap ýada aýyryp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075059Z" creationid="Merdan NURIYEV" creationdate="20210527T075059Z">
+        <seg>Dilimiň soňunda punktuasiýalary derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080011Z" creationid="Merdan NURIYEV" creationdate="20210527T080011Z">
+        <seg>Taglaryň tertibini derňe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4400,6 +4512,22 @@ Arabaňy başga ýerde sür</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T191345Z" creationid="Merdan NURIYEV" creationdate="20210524T191345Z">
         <seg>Ýönekeý &amp;java MessageFormat şablonlaryny derňe (meselem. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075945Z" creationid="Merdan NURIYEV" creationdate="20210527T075400Z">
+        <seg>Taglaryň öňündäki soňundaky boşluklary derňe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075142Z" creationid="Merdan NURIYEV" creationdate="20210527T075142Z">
+        <seg>Baş/setir harp bilen başlananlary derňe</seg>
       </tuv>
     </tu>
     <tu>
@@ -9578,6 +9706,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080026Z" creationid="Merdan NURIYEV" creationdate="20210527T074418Z">
+        <seg>Yzygiderli däl nomerler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210520T182124Z" creationid="Merdan NURIYEV" creationdate="20210520T182124Z">
@@ -14231,6 +14367,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080132Z" creationid="Merdan NURIYEV" creationdate="20210527T080132Z">
+        <seg>Täzelendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T150739Z" creationid="Merdan NURIYEV" creationdate="20191103T150739Z">
@@ -14705,10 +14849,10 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Replace escaped sequences with space</seg>
+        <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T095013Z" creationid="Merdan NURIYEV" creationdate="20210524T095013Z">
-        <seg>Kaçış dizilerini boşlukla değiştir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080558Z" creationid="Merdan NURIYEV" creationdate="20210527T080558Z">
+        <seg>Özel etiketleri boşlukla değiştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -16764,6 +16908,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074506Z" creationid="Merdan NURIYEV" creationdate="20210527T074506Z">
+        <seg>Orfografiýa ýalňyşlygy (lary)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191105T092913Z" creationid="Merdan NURIYEV" creationdate="20191105T092913Z">
@@ -17226,6 +17378,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T193439Z" creationid="Merdan NURIYEV" creationdate="20210524T193439Z">
         <seg>Taglar - san </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T074250Z" creationid="Merdan NURIYEV" creationdate="20210527T074250Z">
+        <seg>Taglar - tertip</seg>
       </tuv>
     </tu>
     <tu>
@@ -22393,6 +22553,14 @@ konfigurasiýa bukjasyny döretmesine ruhgsat bermedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200728T105238Z" creationid="Merdan NURIYEV" creationdate="20200728T105238Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080950Z" creationid="Merdan NURIYEV" creationdate="20210527T080950Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
