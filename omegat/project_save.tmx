@@ -9538,6 +9538,14 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210602T184106Z" creationid="Merdan NURIYEV" creationdate="20210602T184106Z">
+        <seg>OmegaT'ni gurnalýan wagtyndaky dilinde ulanmak isleseňiz aşakdaky belleme blogyny dikeldiň/belläň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200908T085639Z" creationid="Merdan NURIYEV" creationdate="20200908T085639Z">
@@ -13212,6 +13220,14 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191023T074013Z" creationid="Merdan NURIYEV" creationdate="20191023T074013Z">
         <seg>Beýleki goşant berenler readme.txt  faýlynda jikme-jik agzalmakdadyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210602T184157Z" creationid="Merdan NURIYEV" creationdate="20210602T184157Z">
+        <seg>Ýogsa, OmegaT operasiýa ulgamynyň dilinde ulanylýar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20581,6 +20597,14 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T165928Z" creationid="Merdan NURIYEV" creationdate="20200314T165928Z">
         <seg>Gözbaş Tekstde Aýry Görünen Terminleri Ulan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210602T184232Z" creationid="Merdan NURIYEV" creationdate="20210602T184232Z">
+        <seg>OmegaT'ni gurnalan wagtyndaky dilde ulan</seg>
       </tuv>
     </tu>
     <tu>
