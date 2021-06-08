@@ -10002,6 +10002,16 @@ hemme sazlamalar öňünden kabul edilen ýagdaýyna geler.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210603T042239Z" creationid="Merdan NURIYEV" creationdate="20210603T042239Z">
+        <seg>OmegaT gurnalmasy (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200413T063249Z" creationid="Merdan NURIYEV" creationdate="20200413T063249Z">
@@ -10784,6 +10794,14 @@ skript bukjasy döredilip bolmady.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191031T091040Z" creationid="Merdan NURIYEV" creationdate="20191031T091040Z">
         <seg>Iň sonky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210603T042321Z" creationid="Merdan NURIYEV" creationdate="20210603T042321Z">
+        <seg>Gurnaýjy programmany işlediň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12764,8 +12782,8 @@ translation leveraging into updated projects.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200514T050523Z" creationid="Merdan NURIYEV" creationdate="20200514T050523Z">
-        <seg>OmegaT распространяется в соответствии с условиями лицензии GNU General Public License, опубликованной Free Software Foundation; вы можете использовать версию 3 этой лицензии или любую более позднюю версию (по вашему выбору).</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210602T184400Z" creationid="Merdan NURIYEV" creationdate="20200514T050523Z">
+        <seg>Bu bir erkin programma üpjünçiligidir; muny Erkin Programma Üpjünçilik Jemgiýetiniň GNU Ähliumumy Komunal Ygtyýarnamasynyň (öz islegiňize görä) 3'inji wersiýasy ýada soňraky wersiýasyna laýyklykda dagydyp ýada üýtgedip bilersiňiz..</seg>
       </tuv>
     </tu>
     <tu>
@@ -12826,6 +12844,23 @@ almasyna rugsat berilmedi.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190919T082549Z" creationid="Merdan NURYÝEW " creationdate="20190919T082549Z">
         <seg>OmegaT ýady dolup barýar we HOWWA bassaňyz program soňlanar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210603T041824Z" creationid="Merdan NURIYEV" creationdate="20210603T041824Z">
+        <seg>OmegaT'ni ulgamyňyza gurnamak üçin Java Runtime Environment (JRE) wersiýa 1.8 ýada ýokarky wersiýalarydan biriniň gurnalan bolmagy gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210602T184519Z" creationid="Merdan NURIYEV" creationdate="20210602T184519Z">
+        <seg>OmegaT aşakdaky kitaplyklary ulanýar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13861,6 +13896,16 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191101T093735Z" creationid="Merdan NURIYEV" creationdate="20191101T093735Z">
         <seg>Ekabyr Goýberliş(Premium Edition)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210603T041554Z" creationid="Merdan NURIYEV" creationdate="20210603T041554Z">
+        <seg>OmegaT gurnamak üçin gerekli öňşertler
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18414,6 +18459,16 @@ bärde xx ýada xxx dil kodyna YY bolsa raýon weýa ülke kodyna gabat gelýär
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210603T041446Z" creationid="Merdan NURIYEV" creationdate="20210603T041446Z">
+        <seg>Her kitaplyga degişli maglumat şu faýlda agzalandyr
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191117T072820Z" creationid="Merdan NURIYEV" creationdate="20191117T072820Z">
@@ -20987,6 +21042,15 @@ setir {1}, sütün {2} düzeldilip bolmaýan ýalňyşlyk.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210603T042429Z" creationid="Merdan NURIYEV" creationdate="20210603T042139Z">
+        <seg>Saýlamak, tapmak we gurnamak üçin wagt sarpetek ýerine aňsat iş bolar ýaly OmegaT'niň JRE paketli gurnaýjylaryny ulanmagy maslahat berilýär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Web Start</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200314T054150Z" creationid="Merdan NURIYEV" creationdate="20200314T054150Z">
@@ -21615,6 +21679,16 @@ Sahypaňyz tapylmady</seg>
       <tuv lang="TK" changeid="Merdan NURYÝEW " changedate="20190930T080737Z" creationid="Merdan NURYÝEW " creationdate="20190930T080737Z">
         <seg>Jikme-jik statistika maglumatlaryny şu faýlda tapyp bilersiňiz:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210602T184453Z" creationid="Merdan NURIYEV" creationdate="20210602T184453Z">
+        <seg>Jikme-jik statistika maglumatlaryny şu faýlda tapyp bilersiňiz
+/docs/OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
