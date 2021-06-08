@@ -20359,6 +20359,15 @@ Takyk gözleg gözlenen tekste doly gabat gelen tekstleri gözlär.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210608T163650Z" creationid="Merdan NURIYEV" creationdate="20210608T163650Z">
+        <seg>OmegaT .zip arhiw faýlyny açan bukjaňyzda OmegaT programmasyny we muňa degişli gollanmalary tapyp bilersiňiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
