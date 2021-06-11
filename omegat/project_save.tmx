@@ -14857,6 +14857,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T152719Z" creationid="Merdan NURIYEV" creationdate="20210611T152719Z">
+        <seg>Öňünde we soňynda &lt;br&gt; setir harpy bolan OmegaT taglaryny çykar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191103T152410Z" creationid="Merdan NURIYEV" creationdate="20191103T152410Z">
@@ -15061,8 +15069,16 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T080558Z" creationid="Merdan NURIYEV" creationdate="20210527T080558Z">
-        <seg>Özel etiketleri boşlukla değiştir</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T152604Z" creationid="Merdan NURIYEV" creationdate="20210527T080558Z">
+        <seg>Ýörite taglary boşluk bilen çalşyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T152529Z" creationid="Merdan NURIYEV" creationdate="20210611T152529Z">
+        <seg>Sypalga nyşanlaryny boşluk bile çalşyr</seg>
       </tuv>
     </tu>
     <tu>
