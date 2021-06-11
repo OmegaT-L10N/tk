@@ -13795,8 +13795,8 @@ proýekt dolandyryjysy bilen habarlaşyň.</seg>
       <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210524T094120Z" creationid="Merdan NURIYEV" creationdate="20200801T180622Z">
-        <seg>Bir proýekt açyp gaýtadan synanşyň.</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T154022Z" creationid="Merdan NURIYEV" creationdate="20200801T180622Z">
+        <seg>Bir proýekti açandan soňra gaýtadan synanşyň.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15493,8 +15493,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>SVN - Cleanup (recursive)</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200701T090847Z" creationid="Merdan NURIYEV" creationdate="20200701T090847Z">
-        <seg>SVN - очистка (рекурсивно)</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T161520Z" creationid="Merdan NURIYEV" creationdate="20200701T090847Z">
+        <seg>SVN - tämizleme (özinden-gaýtalanan)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17316,6 +17316,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153415Z" creationid="Merdan NURIYEV" creationdate="20200701T090817Z">
         <seg>BiDi Nyşanlaryny Gider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153956Z" creationid="Merdan NURIYEV" creationdate="20210611T153956Z">
+        <seg>BiDi nyşanlaryny işjeň dilimden gider</seg>
       </tuv>
     </tu>
     <tu>
