@@ -4414,8 +4414,8 @@ Arabaňy başga ýerde sür</seg>
       <tuv lang="EN">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210527T075226Z" creationid="Merdan NURIYEV" creationdate="20210527T075226Z">
-        <seg>Gözbaşy we terjimäni derňe derňe</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153205Z" creationid="Merdan NURIYEV" creationdate="20210527T075226Z">
+        <seg>Gözbaşy we terjimäe deňligini derňe</seg>
       </tuv>
     </tu>
     <tu>
@@ -16670,6 +16670,14 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153301Z" creationid="Merdan NURIYEV" creationdate="20210611T153301Z">
+        <seg>Gözbaş=terjime bolan dilimleri degmän geç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191027T145710Z" creationid="Merdan NURIYEV" creationdate="20191027T144713Z">
@@ -17298,8 +17306,8 @@ Gözlegiň Öňünden kabul edilen çägi proýektiň içidir we siz çägi gör
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200701T090817Z" creationid="Merdan NURIYEV" creationdate="20200701T090817Z">
-        <seg>BiDi İşaretlerini Gider</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153415Z" creationid="Merdan NURIYEV" creationdate="20200701T090817Z">
+        <seg>BiDi Nyşanlaryny Gider</seg>
       </tuv>
     </tu>
     <tu>
