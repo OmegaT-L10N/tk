@@ -14859,8 +14859,8 @@ Diňe : 'Faýl ýok'</seg>
       <tuv lang="EN">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T152719Z" creationid="Merdan NURIYEV" creationdate="20210611T152719Z">
-        <seg>Öňünde we soňynda &lt;br&gt; setir harpy bolan OmegaT taglaryny çykar</seg>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T152922Z" creationid="Merdan NURIYEV" creationdate="20210611T152719Z">
+        <seg>Öňünde we soňynda &lt;br&gt; setir harpy bolan OmegaT taglaryny aýyr</seg>
       </tuv>
     </tu>
     <tu>
@@ -14897,6 +14897,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153029Z" creationid="Merdan NURIYEV" creationdate="20210611T153029Z">
+        <seg>Kesgitlenen bölekleri aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20191026T154702Z" creationid="Merdan NURIYEV" creationdate="20191026T154702Z">
@@ -14917,6 +14925,14 @@ Diňe : 'Faýl ýok'</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20200711T113440Z" creationid="Merdan NURIYEV" creationdate="20200711T113440Z">
         <seg>Dilimlenmedik proýektlerdäki setirara we dowam eden boşluk harplaryny aýyr: öňünden kabul edilen görnüşde OmegaT setirara we dowam eden boşluklary aýyrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T152929Z" creationid="Merdan NURIYEV" creationdate="20210611T152852Z">
+        <seg>Mnemonikleri aýyr</seg>
       </tuv>
     </tu>
     <tu>
