@@ -14897,6 +14897,14 @@ Diňe : 'Faýl ýok'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153922Z" creationid="Merdan NURIYEV" creationdate="20210611T153922Z">
+        <seg>Iki taraplaýyn kontrol nyşanlaryny işjeň gözbaşyndan aýyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="TK" changeid="Merdan NURIYEV" changedate="20210611T153029Z" creationid="Merdan NURIYEV" creationdate="20210611T153029Z">
